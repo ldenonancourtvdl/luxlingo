@@ -1,5 +1,7 @@
 # LuxLingo 🇱🇺
 
+**▶ Play online: https://ldenonancourtvdl.github.io/luxlingo/**
+
 A Duolingo-style web app for learning Luxembourgish (for French speakers). The content follows the chapters and themes of the textbook **"Schwätzt Dir Lëtzebuergesch? A1"** (INLL).
 
 ## Features
@@ -20,6 +22,8 @@ npm run dev      # http://localhost:5173
 npm test         # unit tests + content validation
 npm run build    # production build in dist/
 ```
+
+Every push to `main` runs the tests, builds the app and deploys it to GitHub Pages (`.github/workflows/deploy.yml`).
 
 ## Content
 
