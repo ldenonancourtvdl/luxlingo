@@ -1,0 +1,1004 @@
+{
+  "id": 1,
+  "title": "Moien!",
+  "titleFr": "Bonjour !",
+  "descriptionFr": "Vous apprenez à saluer, vous présenter, épeler un nom, parler de l'origine, de la nationalité et des langues.",
+  "page": 8,
+  "themes": [
+    {
+      "id": "k1-moien-an-aeddi",
+      "title": "Moien! … an Äddi!",
+      "titleFr": "Bonjour ! … et au revoir !",
+      "vocab": [
+        {
+          "lb": "Moien!",
+          "fr": "bonjour !"
+        },
+        {
+          "lb": "Gudde Moien!",
+          "fr": "bonjour ! (le matin)"
+        },
+        {
+          "lb": "Gudde Mëtteg!",
+          "fr": "bonjour ! (à midi)"
+        },
+        {
+          "lb": "Gudden Owend!",
+          "fr": "bonsoir !"
+        },
+        {
+          "lb": "Gutt Nuecht!",
+          "fr": "bonne nuit !"
+        },
+        {
+          "lb": "Äddi!",
+          "fr": "au revoir !"
+        },
+        {
+          "lb": "Schéine Mëtteg!",
+          "fr": "bon après-midi !"
+        },
+        {
+          "lb": "Schéinen Owend!",
+          "fr": "bonne soirée !"
+        },
+        {
+          "lb": "Merci gläichfalls!",
+          "fr": "merci, pareillement !"
+        },
+        {
+          "lb": "Villmools Merci!",
+          "fr": "merci beaucoup !"
+        },
+        {
+          "lb": "wann ech gelift",
+          "fr": "s'il vous plaît"
+        },
+        {
+          "lb": "Gär geschitt!",
+          "fr": "de rien !"
+        },
+        {
+          "lb": "schlof gutt",
+          "fr": "dors bien"
+        },
+        {
+          "lb": "bis muer",
+          "fr": "à demain"
+        },
+        {
+          "lb": "den Dag",
+          "fr": "la journée"
+        },
+        {
+          "lb": "de Mëtteg",
+          "fr": "le midi"
+        },
+        {
+          "lb": "den Owend",
+          "fr": "le soir"
+        },
+        {
+          "lb": "d'Nuecht",
+          "fr": "la nuit"
+        },
+        {
+          "lb": "d'Invitatioun",
+          "fr": "l'invitation"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Moien, Här Weber!",
+          "fr": "Bonjour, Monsieur Weber !"
+        },
+        {
+          "lb": "Gudde Mëtteg, Madame Ries!",
+          "fr": "Bonjour, Madame Ries !"
+        },
+        {
+          "lb": "Gudden Owend, Här Michels!",
+          "fr": "Bonsoir, Monsieur Michels !"
+        },
+        {
+          "lb": "Äddi an e schéinen Dag!",
+          "fr": "Au revoir et bonne journée !"
+        },
+        {
+          "lb": "Villmools Merci fir d'Invitatioun!",
+          "fr": "Merci beaucoup pour l'invitation !"
+        },
+        {
+          "lb": "Merci gläichfalls, schéinen Owend!",
+          "fr": "Merci, à vous aussi, bonne soirée !"
+        },
+        {
+          "lb": "Gutt Nuecht, schlof gutt!",
+          "fr": "Bonne nuit, dors bien !"
+        },
+        {
+          "lb": "Äddi, bis muer!",
+          "fr": "Au revoir, à demain !"
+        },
+        {
+          "lb": "Gudde Moien, léif Nolauschterer!",
+          "fr": "Bonjour, chers auditeurs !"
+        },
+        {
+          "lb": "Schéine Mëtteg, Madame Wagner!",
+          "fr": "Bon après-midi, Madame Wagner !"
+        }
+      ]
+    },
+    {
+      "id": "k1-wei-geet-et",
+      "title": "Wéi geet et?",
+      "titleFr": "Comment ça va ?",
+      "vocab": [
+        {
+          "lb": "Wéi geet et?",
+          "fr": "comment ça va ?"
+        },
+        {
+          "lb": "Wéi geet et Iech?",
+          "fr": "comment allez-vous ?"
+        },
+        {
+          "lb": "Wéi geet et dir?",
+          "fr": "comment vas-tu ?"
+        },
+        {
+          "lb": "Mir geet et gutt.",
+          "fr": "je vais bien."
+        },
+        {
+          "lb": "ganz gutt",
+          "fr": "très bien"
+        },
+        {
+          "lb": "guer net gutt",
+          "fr": "pas bien du tout"
+        },
+        {
+          "lb": "gutt",
+          "fr": "bien"
+        },
+        {
+          "lb": "schlecht",
+          "fr": "mal"
+        },
+        {
+          "lb": "net gutt",
+          "fr": "pas bien"
+        },
+        {
+          "lb": "et geet",
+          "fr": "ça va"
+        },
+        {
+          "lb": "net immens",
+          "fr": "pas terrible"
+        },
+        {
+          "lb": "tipptopp",
+          "fr": "parfaitement"
+        },
+        {
+          "lb": "krank",
+          "fr": "malade"
+        },
+        {
+          "lb": "midd",
+          "fr": "fatigué"
+        },
+        {
+          "lb": "alt esou",
+          "fr": "comme ci comme ça"
+        },
+        {
+          "lb": "An Iech?",
+          "fr": "et vous ?"
+        },
+        {
+          "lb": "An dir?",
+          "fr": "et toi ?"
+        },
+        {
+          "lb": "och gutt",
+          "fr": "bien aussi"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéi geet et Iech?",
+          "fr": "Comment allez-vous ?"
+        },
+        {
+          "lb": "Mir geet et ganz gutt.",
+          "fr": "Je vais très bien."
+        },
+        {
+          "lb": "An Iech, Madame Reuter?",
+          "fr": "Et vous, Madame Reuter ?"
+        },
+        {
+          "lb": "Mir geet et guer net gutt!",
+          "fr": "Je ne vais pas bien du tout !"
+        },
+        {
+          "lb": "Ech si krank.",
+          "fr": "Je suis malade."
+        },
+        {
+          "lb": "Wéi geet et dir?",
+          "fr": "Comment vas-tu ?"
+        },
+        {
+          "lb": "Ech si ganz midd.",
+          "fr": "Je suis très fatigué."
+        },
+        {
+          "lb": "Mir geet et gutt.",
+          "fr": "Je vais bien."
+        },
+        {
+          "lb": "Mir geet et schlecht.",
+          "fr": "Je vais mal."
+        },
+        {
+          "lb": "Merci, et geet.",
+          "fr": "Merci, ça va."
+        },
+        {
+          "lb": "A wéi geet et dir?",
+          "fr": "Et toi, comment vas-tu ?"
+        },
+        {
+          "lb": "Mir geet et tipptopp.",
+          "fr": "Je vais parfaitement bien."
+        }
+      ]
+    },
+    {
+      "id": "k1-wei-heescht-dir",
+      "title": "Wéi heescht Dir?",
+      "titleFr": "Comment vous appelez-vous ?",
+      "vocab": [
+        {
+          "lb": "den Numm",
+          "fr": "le nom"
+        },
+        {
+          "lb": "de Virnumm",
+          "fr": "le prénom"
+        },
+        {
+          "lb": "de Familljennumm",
+          "fr": "le nom de famille"
+        },
+        {
+          "lb": "d'Alphabet",
+          "fr": "l'alphabet"
+        },
+        {
+          "lb": "de Buschtaf",
+          "fr": "la lettre"
+        },
+        {
+          "lb": "buschtawéieren",
+          "fr": "épeler"
+        },
+        {
+          "lb": "heeschen",
+          "fr": "s'appeler"
+        },
+        {
+          "lb": "schreiwen",
+          "fr": "écrire"
+        },
+        {
+          "lb": "sinn",
+          "fr": "être"
+        },
+        {
+          "lb": "duzen",
+          "fr": "tutoyer"
+        },
+        {
+          "lb": "dierzen",
+          "fr": "vouvoyer"
+        },
+        {
+          "lb": "formell",
+          "fr": "formel"
+        },
+        {
+          "lb": "informell",
+          "fr": "informel"
+        },
+        {
+          "lb": "wann ech gelift",
+          "fr": "s'il vous plaît"
+        },
+        {
+          "lb": "Et freet mech.",
+          "fr": "enchanté."
+        },
+        {
+          "lb": "Mech och.",
+          "fr": "moi aussi."
+        },
+        {
+          "lb": "Wéi schreift een dat?",
+          "fr": "comment cela s'écrit ?"
+        },
+        {
+          "lb": "Kënnt Dir dat buschtawéieren?",
+          "fr": "pouvez-vous l'épeler ?"
+        },
+        {
+          "lb": "Ären Numm",
+          "fr": "votre nom"
+        },
+        {
+          "lb": "däin Numm",
+          "fr": "ton nom"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéi heescht Dir?",
+          "fr": "Comment vous appelez-vous ?"
+        },
+        {
+          "lb": "Wéi heeschs du?",
+          "fr": "Comment t'appelles-tu ?"
+        },
+        {
+          "lb": "Ech heeschen Nora.",
+          "fr": "Je m'appelle Nora."
+        },
+        {
+          "lb": "Mäi Virnumm ass Nora.",
+          "fr": "Mon prénom est Nora."
+        },
+        {
+          "lb": "Mäi Familljennumm ass Klein.",
+          "fr": "Mon nom de famille est Klein."
+        },
+        {
+          "lb": "Wéi ass Ären Numm?",
+          "fr": "Quel est votre nom ?"
+        },
+        {
+          "lb": "Kënnt Dir dat buschtawéieren?",
+          "fr": "Pouvez-vous l'épeler ?"
+        },
+        {
+          "lb": "Wéi schreift een dat?",
+          "fr": "Comment cela s'écrit ?"
+        },
+        {
+          "lb": "Et freet mech.",
+          "fr": "Enchanté."
+        },
+        {
+          "lb": "Mir duzen eis.",
+          "fr": "Nous nous tutoyons."
+        },
+        {
+          "lb": "Mir dierzen eis.",
+          "fr": "Nous nous vouvoyons."
+        },
+        {
+          "lb": "Den Numm ass notéiert.",
+          "fr": "Le nom est noté."
+        },
+        {
+          "lb": "Dir heescht Madame Meyer.",
+          "fr": "Vous vous appelez Madame Meyer."
+        },
+        {
+          "lb": "Du heeschs Dylan.",
+          "fr": "Tu t'appelles Dylan."
+        }
+      ]
+    },
+    {
+      "id": "k1-wien-ass-dat",
+      "title": "Wien ass dat?",
+      "titleFr": "Qui est-ce ?",
+      "vocab": [
+        {
+          "lb": "Wien ass dat?",
+          "fr": "qui est-ce ?"
+        },
+        {
+          "lb": "Dat ass ...",
+          "fr": "c'est ..."
+        },
+        {
+          "lb": "Ech sinn ...",
+          "fr": "je suis ..."
+        },
+        {
+          "lb": "Bass du ...?",
+          "fr": "es-tu ... ?"
+        },
+        {
+          "lb": "Sidd Dir ...?",
+          "fr": "êtes-vous ... ?"
+        },
+        {
+          "lb": "Dir sidd ...",
+          "fr": "vous êtes ..."
+        },
+        {
+          "lb": "den Här",
+          "fr": "monsieur"
+        },
+        {
+          "lb": "d'Madame",
+          "fr": "madame"
+        },
+        {
+          "lb": "d'Leit",
+          "fr": "les gens"
+        },
+        {
+          "lb": "d'Klass",
+          "fr": "la classe"
+        },
+        {
+          "lb": "de Lëtzebuergeschcours",
+          "fr": "le cours de luxembourgeois"
+        },
+        {
+          "lb": "bestëmmt",
+          "fr": "sûrement"
+        },
+        {
+          "lb": "oder?",
+          "fr": "n'est-ce pas ?"
+        },
+        {
+          "lb": "de Mann",
+          "fr": "l'homme"
+        },
+        {
+          "lb": "d'Fra",
+          "fr": "la femme"
+        },
+        {
+          "lb": "d'Persoun",
+          "fr": "la personne"
+        },
+        {
+          "lb": "den Noper",
+          "fr": "le voisin"
+        },
+        {
+          "lb": "den Numm",
+          "fr": "le nom"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wien ass dat?",
+          "fr": "Qui est-ce ?"
+        },
+        {
+          "lb": "Dat ass den Tom.",
+          "fr": "C'est Tom."
+        },
+        {
+          "lb": "Dat ass de Marc.",
+          "fr": "C'est Marc."
+        },
+        {
+          "lb": "Dat ass d'Paula.",
+          "fr": "C'est Paula."
+        },
+        {
+          "lb": "Ech sinn de Pol.",
+          "fr": "Je suis Pol."
+        },
+        {
+          "lb": "Ech sinn d'Almira.",
+          "fr": "Je suis Almira."
+        },
+        {
+          "lb": "Bass du de Ronny?",
+          "fr": "Es-tu Ronny ?"
+        },
+        {
+          "lb": "Sidd Dir den Här Klein?",
+          "fr": "Êtes-vous Monsieur Klein ?"
+        },
+        {
+          "lb": "Dir sidd d'Amélie, oder?",
+          "fr": "Vous êtes Amélie, n'est-ce pas ?"
+        },
+        {
+          "lb": "Dat ass d'Madame Weber.",
+          "fr": "C'est Madame Weber."
+        },
+        {
+          "lb": "Dat ass den Här Losch.",
+          "fr": "C'est Monsieur Losch."
+        }
+      ]
+    },
+    {
+      "id": "k1-vu-wou-kommt-dir",
+      "title": "Vu wou kommt Dir?",
+      "titleFr": "D'où venez-vous ?",
+      "vocab": [
+        {
+          "lb": "Vu wou?",
+          "fr": "d'où ?"
+        },
+        {
+          "lb": "Vu wou kommt Dir?",
+          "fr": "d'où venez-vous ?"
+        },
+        {
+          "lb": "Vu wou kënns du?",
+          "fr": "d'où viens-tu ?"
+        },
+        {
+          "lb": "kommen",
+          "fr": "venir"
+        },
+        {
+          "lb": "d'Faarf",
+          "fr": "la couleur"
+        },
+        {
+          "lb": "de Fändel",
+          "fr": "le drapeau"
+        },
+        {
+          "lb": "d'Land",
+          "fr": "le pays"
+        },
+        {
+          "lb": "d'Stad",
+          "fr": "la ville"
+        },
+        {
+          "lb": "aus Frankräich",
+          "fr": "de France"
+        },
+        {
+          "lb": "aus China",
+          "fr": "de Chine"
+        },
+        {
+          "lb": "aus Amerika",
+          "fr": "des États-Unis"
+        },
+        {
+          "lb": "aus Russland",
+          "fr": "de Russie"
+        },
+        {
+          "lb": "aus der Belsch",
+          "fr": "de Belgique"
+        },
+        {
+          "lb": "aus Däitschland",
+          "fr": "d'Allemagne"
+        },
+        {
+          "lb": "vu Metz",
+          "fr": "de Metz"
+        },
+        {
+          "lb": "vu Bréissel",
+          "fr": "de Bruxelles"
+        },
+        {
+          "lb": "vun Tréier",
+          "fr": "de Trèves"
+        },
+        {
+          "lb": "giel",
+          "fr": "jaune"
+        },
+        {
+          "lb": "rout",
+          "fr": "rouge"
+        },
+        {
+          "lb": "wäiss",
+          "fr": "blanc"
+        },
+        {
+          "lb": "schwaarz",
+          "fr": "noir"
+        },
+        {
+          "lb": "hellblo",
+          "fr": "bleu clair"
+        },
+        {
+          "lb": "donkelblo",
+          "fr": "bleu foncé"
+        },
+        {
+          "lb": "hellgréng",
+          "fr": "vert clair"
+        },
+        {
+          "lb": "donkelgréng",
+          "fr": "vert foncé"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Vu wou kommt Dir?",
+          "fr": "D'où venez-vous ?"
+        },
+        {
+          "lb": "Ech kommen aus Frankräich.",
+          "fr": "Je viens de France."
+        },
+        {
+          "lb": "Ech komme vu Metz.",
+          "fr": "Je viens de Metz."
+        },
+        {
+          "lb": "Kënns du aus Italien?",
+          "fr": "Viens-tu d'Italie ?"
+        },
+        {
+          "lb": "Nee, ech kommen net aus Italien.",
+          "fr": "Non, je ne viens pas d'Italie."
+        },
+        {
+          "lb": "Hatt kënnt aus der Belsch.",
+          "fr": "Elle vient de Belgique."
+        },
+        {
+          "lb": "Hie kënnt aus Frankräich.",
+          "fr": "Il vient de France."
+        },
+        {
+          "lb": "De Fändel ass rout a wäiss.",
+          "fr": "Le drapeau est rouge et blanc."
+        },
+        {
+          "lb": "De Fändel ass rout, wäiss an hellblo.",
+          "fr": "Le drapeau est rouge, blanc et bleu clair."
+        },
+        {
+          "lb": "D'Faarf ass donkelblo.",
+          "fr": "La couleur est bleu foncé."
+        },
+        {
+          "lb": "Ech kommen aus der Stad.",
+          "fr": "Je viens de la ville."
+        }
+      ]
+    },
+    {
+      "id": "k1-lanner-leit-a-sproochen",
+      "title": "Länner, Leit a Sproochen",
+      "titleFr": "Pays, personnes et langues",
+      "vocab": [
+        {
+          "lb": "d'Nationalitéit",
+          "fr": "la nationalité"
+        },
+        {
+          "lb": "d'Sprooch",
+          "fr": "la langue"
+        },
+        {
+          "lb": "d'Sproochen",
+          "fr": "les langues"
+        },
+        {
+          "lb": "schwätzen",
+          "fr": "parler"
+        },
+        {
+          "lb": "léieren",
+          "fr": "apprendre"
+        },
+        {
+          "lb": "kënnen",
+          "fr": "pouvoir"
+        },
+        {
+          "lb": "e bësse",
+          "fr": "un peu"
+        },
+        {
+          "lb": "doheem",
+          "fr": "à la maison"
+        },
+        {
+          "lb": "Lëtzebuergesch",
+          "fr": "le luxembourgeois (langue)"
+        },
+        {
+          "lb": "Däitsch",
+          "fr": "l'allemand"
+        },
+        {
+          "lb": "Franséisch",
+          "fr": "le français (langue)"
+        },
+        {
+          "lb": "Englesch",
+          "fr": "l'anglais"
+        },
+        {
+          "lb": "Spuenesch",
+          "fr": "l'espagnol"
+        },
+        {
+          "lb": "Portugisesch",
+          "fr": "le portugais (langue)"
+        },
+        {
+          "lb": "Russesch",
+          "fr": "le russe"
+        },
+        {
+          "lb": "Polnesch",
+          "fr": "le polonais"
+        },
+        {
+          "lb": "Chinesesch",
+          "fr": "le chinois"
+        },
+        {
+          "lb": "Italienesch",
+          "fr": "l'italien"
+        },
+        {
+          "lb": "Japanesch",
+          "fr": "le japonais"
+        },
+        {
+          "lb": "de Lëtzebuerger",
+          "fr": "le Luxembourgeois"
+        },
+        {
+          "lb": "d'Lëtzebuergerin",
+          "fr": "la Luxembourgeoise"
+        },
+        {
+          "lb": "de Portugis",
+          "fr": "le Portugais"
+        },
+        {
+          "lb": "d'Portugisin",
+          "fr": "la Portugaise"
+        },
+        {
+          "lb": "de Fransous",
+          "fr": "le Français"
+        },
+        {
+          "lb": "d'Franséisin",
+          "fr": "la Française"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wat fir Sprooche schwätzt Dir?",
+          "fr": "Quelles langues parlez-vous ?"
+        },
+        {
+          "lb": "Ech schwätzen Däitsch an Englesch.",
+          "fr": "Je parle allemand et anglais."
+        },
+        {
+          "lb": "Schwätz du Spuenesch?",
+          "fr": "Parles-tu espagnol ?"
+        },
+        {
+          "lb": "Nee, ech schwätze kee Spuenesch.",
+          "fr": "Non, je ne parle pas espagnol."
+        },
+        {
+          "lb": "Jo, ech schwätze Spuenesch.",
+          "fr": "Oui, je parle espagnol."
+        },
+        {
+          "lb": "Ech léiere Lëtzebuergesch.",
+          "fr": "J'apprends le luxembourgeois."
+        },
+        {
+          "lb": "Mir schwätze Lëtzebuergesch doheem.",
+          "fr": "Nous parlons luxembourgeois à la maison."
+        },
+        {
+          "lb": "Meng Fra ass Polin.",
+          "fr": "Ma femme est Polonaise."
+        },
+        {
+          "lb": "Hie schwätzt e bësse Franséisch.",
+          "fr": "Il parle un peu français."
+        },
+        {
+          "lb": "Ech kann e bësse Lëtzebuergesch.",
+          "fr": "Je connais un peu le luxembourgeois."
+        },
+        {
+          "lb": "Si schwätzen Italienesch.",
+          "fr": "Ils parlent italien."
+        },
+        {
+          "lb": "Ech schwätze kee Franséisch.",
+          "fr": "Je ne parle pas français."
+        }
+      ]
+    },
+    {
+      "id": "k1-land-a-leit-dland-letzebuerg",
+      "title": "Land a Leit: D'Land Lëtzebuerg",
+      "titleFr": "Pays et habitants : le Luxembourg",
+      "vocab": [
+        {
+          "lb": "d'Land Lëtzebuerg",
+          "fr": "le Luxembourg"
+        },
+        {
+          "lb": "d'Haaptstad",
+          "fr": "la capitale"
+        },
+        {
+          "lb": "d'Ëmgéigend",
+          "fr": "les environs"
+        },
+        {
+          "lb": "d'Éislek",
+          "fr": "l'Oesling"
+        },
+        {
+          "lb": "d'Guttland",
+          "fr": "le Bon Pays"
+        },
+        {
+          "lb": "d'Ardennen",
+          "fr": "les Ardennes"
+        },
+        {
+          "lb": "de Mëllerdall",
+          "fr": "le Müllerthal"
+        },
+        {
+          "lb": "d'Musel",
+          "fr": "la Moselle"
+        },
+        {
+          "lb": "de Minett",
+          "fr": "les Terres rouges"
+        },
+        {
+          "lb": "den Norden",
+          "fr": "le nord"
+        },
+        {
+          "lb": "de Süden",
+          "fr": "le sud"
+        },
+        {
+          "lb": "den Osten",
+          "fr": "l'est"
+        },
+        {
+          "lb": "de Westen",
+          "fr": "l'ouest"
+        },
+        {
+          "lb": "d'Belsch",
+          "fr": "la Belgique"
+        },
+        {
+          "lb": "Däitschland",
+          "fr": "l'Allemagne"
+        },
+        {
+          "lb": "Frankräich",
+          "fr": "la France"
+        },
+        {
+          "lb": "d'Noperen",
+          "fr": "les voisins"
+        },
+        {
+          "lb": "d'Regioun",
+          "fr": "la région"
+        },
+        {
+          "lb": "d'Uertschaft",
+          "fr": "la localité"
+        },
+        {
+          "lb": "déi offiziell Sprooch",
+          "fr": "la langue officielle"
+        },
+        {
+          "lb": "Clierf",
+          "fr": "Clervaux"
+        },
+        {
+          "lb": "Ettelbréck",
+          "fr": "Ettelbruck"
+        },
+        {
+          "lb": "Veianen",
+          "fr": "Vianden"
+        },
+        {
+          "lb": "Iechternach",
+          "fr": "Echternach"
+        },
+        {
+          "lb": "Esch-Uelzecht",
+          "fr": "Esch-sur-Alzette"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Lëtzebuerg huet dräi Noperen.",
+          "fr": "Le Luxembourg a trois voisins."
+        },
+        {
+          "lb": "Däitschland ass am Osten.",
+          "fr": "L'Allemagne est à l'est."
+        },
+        {
+          "lb": "Frankräich ass am Süden.",
+          "fr": "La France est au sud."
+        },
+        {
+          "lb": "D'Belsch ass am Westen.",
+          "fr": "La Belgique est à l'ouest."
+        },
+        {
+          "lb": "Am Norden ass d'Éislek.",
+          "fr": "Au nord se trouve l'Oesling."
+        },
+        {
+          "lb": "D'Guttland ass am Süden.",
+          "fr": "Le Guttland est au sud."
+        },
+        {
+          "lb": "D'Stad Lëtzebuerg ass d'Haaptstad.",
+          "fr": "La ville de Luxembourg est la capitale."
+        },
+        {
+          "lb": "D'Musel ass am Osten.",
+          "fr": "La Moselle est à l'est."
+        },
+        {
+          "lb": "De Minett ass am Süden.",
+          "fr": "Le Minett est au sud."
+        },
+        {
+          "lb": "Lëtzebuerg huet dräi offiziell Sproochen.",
+          "fr": "Le Luxembourg a trois langues officielles."
+        },
+        {
+          "lb": "Si si Lëtzebuergesch, Däitsch a Franséisch.",
+          "fr": "Ce sont le luxembourgeois, l'allemand et le français."
+        },
+        {
+          "lb": "Clierf ass am Norden.",
+          "fr": "Clervaux est au nord."
+        },
+        {
+          "lb": "Esch-Uelzecht ass am Süden.",
+          "fr": "Esch-sur-Alzette est au sud."
+        }
+      ]
+    }
+  ]
+}

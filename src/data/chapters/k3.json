@@ -1,0 +1,1088 @@
+{
+  "id": 3,
+  "title": "Op der Aarbecht",
+  "titleFr": "Au travail",
+  "descriptionFr": "Apprendre à parler des métiers, des lieux de travail, des transports, des annonces et des horaires.",
+  "page": 36,
+  "themes": [
+    {
+      "id": "k3-op-der-aarbecht",
+      "title": "Op der Aarbecht",
+      "titleFr": "Au travail",
+      "vocab": [
+        {
+          "lb": "d'Aarbecht",
+          "fr": "le travail"
+        },
+        {
+          "lb": "de Beruff",
+          "fr": "le métier"
+        },
+        {
+          "lb": "den Informatiker",
+          "fr": "l'informaticien"
+        },
+        {
+          "lb": "d'Informatikerin",
+          "fr": "l'informaticienne"
+        },
+        {
+          "lb": "den Aarbechter",
+          "fr": "l'ouvrier"
+        },
+        {
+          "lb": "de Mecanicien",
+          "fr": "le mécanicien"
+        },
+        {
+          "lb": "d'Sekretärin",
+          "fr": "la secrétaire"
+        },
+        {
+          "lb": "d'Direktesch",
+          "fr": "la directrice"
+        },
+        {
+          "lb": "den Employé",
+          "fr": "l'employé"
+        },
+        {
+          "lb": "d'Botzfra",
+          "fr": "la femme de ménage"
+        },
+        {
+          "lb": "de Receptionnist",
+          "fr": "le réceptionniste"
+        },
+        {
+          "lb": "d'Visittekaart",
+          "fr": "la carte de visite"
+        },
+        {
+          "lb": "d'Adress",
+          "fr": "l'adresse"
+        },
+        {
+          "lb": "d'Telefonsnummer",
+          "fr": "le numéro de téléphone"
+        },
+        {
+          "lb": "botzen",
+          "fr": "nettoyer"
+        },
+        {
+          "lb": "hëllefen",
+          "fr": "aider"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wat schafft Dir?",
+          "fr": "Vous travaillez comme quoi ?"
+        },
+        {
+          "lb": "Wat schaffs du?",
+          "fr": "Tu travailles comme quoi ?"
+        },
+        {
+          "lb": "Ech si Sekretärin.",
+          "fr": "Je suis secrétaire."
+        },
+        {
+          "lb": "Ech schaffen als Employé.",
+          "fr": "Je travaille comme employé."
+        },
+        {
+          "lb": "Ech schaffen de Moment net.",
+          "fr": "Je ne travaille pas en ce moment.",
+          "alt": [
+            "De Moment schaffen ech net."
+          ]
+        },
+        {
+          "lb": "Hien ass Receptionnist.",
+          "fr": "Il est réceptionniste."
+        },
+        {
+          "lb": "Si ass Botzfra.",
+          "fr": "Elle est femme de ménage."
+        },
+        {
+          "lb": "D'Direktesch ass um Telefon.",
+          "fr": "La directrice est au téléphone."
+        },
+        {
+          "lb": "Den Employé hëlleft direkt.",
+          "fr": "L'employé aide tout de suite."
+        },
+        {
+          "lb": "D'Adress ass op der Visittekaart.",
+          "fr": "L'adresse est sur la carte de visite."
+        }
+      ]
+    },
+    {
+      "id": "k3-wat-schaffe-si",
+      "title": "Wat schaffe si?",
+      "titleFr": "Quel métier font-ils ?",
+      "vocab": [
+        {
+          "lb": "de Verkeefer",
+          "fr": "le vendeur"
+        },
+        {
+          "lb": "d'Verkeeferin",
+          "fr": "la vendeuse"
+        },
+        {
+          "lb": "de Bäcker",
+          "fr": "le boulanger"
+        },
+        {
+          "lb": "d'Bäckesch",
+          "fr": "la boulangère"
+        },
+        {
+          "lb": "de Metzler",
+          "fr": "le boucher"
+        },
+        {
+          "lb": "d'Metzlesch",
+          "fr": "la bouchère"
+        },
+        {
+          "lb": "den Dokter",
+          "fr": "le docteur"
+        },
+        {
+          "lb": "d'Doktesch",
+          "fr": "la docteure"
+        },
+        {
+          "lb": "de Bréifdréier",
+          "fr": "le facteur"
+        },
+        {
+          "lb": "d'Bréifdréiesch",
+          "fr": "la factrice"
+        },
+        {
+          "lb": "de Schoulmeeschter",
+          "fr": "l'instituteur"
+        },
+        {
+          "lb": "d'Léierin",
+          "fr": "l'institutrice"
+        },
+        {
+          "lb": "de Coiffeur",
+          "fr": "le coiffeur"
+        },
+        {
+          "lb": "d'Coiffeuse",
+          "fr": "la coiffeuse"
+        },
+        {
+          "lb": "den Infirmier",
+          "fr": "l'infirmier"
+        },
+        {
+          "lb": "d'Infirmière",
+          "fr": "l'infirmière"
+        },
+        {
+          "lb": "de Caissier",
+          "fr": "le caissier"
+        },
+        {
+          "lb": "d'Caissière",
+          "fr": "la caissière"
+        },
+        {
+          "lb": "de Journalist",
+          "fr": "le journaliste"
+        },
+        {
+          "lb": "d'Journalistin",
+          "fr": "la journaliste"
+        },
+        {
+          "lb": "den Affekot",
+          "fr": "l'avocat"
+        },
+        {
+          "lb": "d'Affekotin",
+          "fr": "l'avocate"
+        },
+        {
+          "lb": "den Usträicher",
+          "fr": "le peintre en bâtiment"
+        },
+        {
+          "lb": "d'Usträicherin",
+          "fr": "la peintre en bâtiment"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Hien ass Verkeefer.",
+          "fr": "Il est vendeur."
+        },
+        {
+          "lb": "Si ass Verkeeferin.",
+          "fr": "Elle est vendeuse."
+        },
+        {
+          "lb": "De Bäcker baakt Brout.",
+          "fr": "Le boulanger cuit du pain."
+        },
+        {
+          "lb": "D'Bäckesch verkeeft Brout.",
+          "fr": "La boulangère vend du pain."
+        },
+        {
+          "lb": "Den Dokter gëtt Medikamenter.",
+          "fr": "Le docteur donne des médicaments."
+        },
+        {
+          "lb": "D'Coiffeuse schneit d'Hoer.",
+          "fr": "La coiffeuse coupe les cheveux."
+        },
+        {
+          "lb": "Den Infirmier hëlleft de Patienten.",
+          "fr": "L'infirmier aide les patients."
+        },
+        {
+          "lb": "D'Journalistin schreift Artikelen.",
+          "fr": "La journaliste écrit des articles."
+        },
+        {
+          "lb": "Den Affekot schafft an der Stad.",
+          "fr": "L'avocat travaille en ville."
+        },
+        {
+          "lb": "De Schoulmeeschter léiert d'Kanner.",
+          "fr": "L'instituteur enseigne aux enfants."
+        }
+      ]
+    },
+    {
+      "id": "k3-wou-schaffe-si",
+      "title": "Wou schaffe si?",
+      "titleFr": "Où travaillent-ils ?",
+      "vocab": [
+        {
+          "lb": "d'Aarbechtsplaz",
+          "fr": "le lieu de travail"
+        },
+        {
+          "lb": "d'Bäckerei",
+          "fr": "la boulangerie"
+        },
+        {
+          "lb": "d'Bank",
+          "fr": "la banque"
+        },
+        {
+          "lb": "de Büro",
+          "fr": "le bureau"
+        },
+        {
+          "lb": "de Buttek",
+          "fr": "le magasin"
+        },
+        {
+          "lb": "d'Klinick",
+          "fr": "la clinique"
+        },
+        {
+          "lb": "de Restaurant",
+          "fr": "le restaurant"
+        },
+        {
+          "lb": "d'Schoul",
+          "fr": "l'école"
+        },
+        {
+          "lb": "d'Garage",
+          "fr": "le garage"
+        },
+        {
+          "lb": "d'Praxis",
+          "fr": "le cabinet (médical)"
+        },
+        {
+          "lb": "d'Librairie",
+          "fr": "la librairie"
+        },
+        {
+          "lb": "de Coiffeurssalon",
+          "fr": "le salon de coiffure"
+        },
+        {
+          "lb": "d'Tankstell",
+          "fr": "la station-service"
+        },
+        {
+          "lb": "de Maart",
+          "fr": "le marché"
+        },
+        {
+          "lb": "d'Post",
+          "fr": "la poste"
+        },
+        {
+          "lb": "d'Gare",
+          "fr": "la gare"
+        },
+        {
+          "lb": "d'Apdikt",
+          "fr": "la pharmacie"
+        },
+        {
+          "lb": "d'Firma",
+          "fr": "l'entreprise"
+        },
+        {
+          "lb": "den Hotel",
+          "fr": "l'hôtel"
+        },
+        {
+          "lb": "de Supermarché",
+          "fr": "le supermarché"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Si schafft an enger Klinick.",
+          "fr": "Elle travaille dans une clinique."
+        },
+        {
+          "lb": "Hie schafft an engem Restaurant.",
+          "fr": "Il travaille dans un restaurant."
+        },
+        {
+          "lb": "Ech schaffen op enger Bank.",
+          "fr": "Je travaille dans une banque."
+        },
+        {
+          "lb": "De Steve schafft an engem Supermarché.",
+          "fr": "Steve travaille dans un supermarché."
+        },
+        {
+          "lb": "D'Marise schafft doheem.",
+          "fr": "Marise travaille à la maison."
+        },
+        {
+          "lb": "De Victor schafft an engem Hotel.",
+          "fr": "Victor travaille dans un hôtel."
+        },
+        {
+          "lb": "Si schafft bei enger Coiffeuse.",
+          "fr": "Elle travaille chez une coiffeuse."
+        },
+        {
+          "lb": "Hie schafft op enger Gare.",
+          "fr": "Il travaille dans une gare."
+        },
+        {
+          "lb": "D'Employée schafft op engem Büro.",
+          "fr": "L'employée travaille dans un bureau."
+        },
+        {
+          "lb": "De Mecanicien schafft an enger Garage.",
+          "fr": "Le mécanicien travaille dans un garage."
+        }
+      ]
+    },
+    {
+      "id": "k3-wei-fuere-si-op-daarbecht",
+      "title": "Wéi fuere si op d'Aarbecht?",
+      "titleFr": "Comment vont-ils au travail ?",
+      "vocab": [
+        {
+          "lb": "den Auto",
+          "fr": "la voiture"
+        },
+        {
+          "lb": "de Bus",
+          "fr": "le bus"
+        },
+        {
+          "lb": "den Zuch",
+          "fr": "le train"
+        },
+        {
+          "lb": "de Vëlo",
+          "fr": "le vélo"
+        },
+        {
+          "lb": "de Moto",
+          "fr": "la moto"
+        },
+        {
+          "lb": "den Taxi",
+          "fr": "le taxi"
+        },
+        {
+          "lb": "de Fliger",
+          "fr": "l'avion"
+        },
+        {
+          "lb": "d'Gare",
+          "fr": "la gare"
+        },
+        {
+          "lb": "de Führerschäin",
+          "fr": "le permis de conduire"
+        },
+        {
+          "lb": "de Stau",
+          "fr": "l'embouteillage"
+        },
+        {
+          "lb": "den Trafic",
+          "fr": "la circulation"
+        },
+        {
+          "lb": "mam Auto",
+          "fr": "en voiture"
+        },
+        {
+          "lb": "mam Bus",
+          "fr": "en bus"
+        },
+        {
+          "lb": "mam Zuch",
+          "fr": "en train"
+        },
+        {
+          "lb": "mam Vëlo",
+          "fr": "à vélo"
+        },
+        {
+          "lb": "mam Moto",
+          "fr": "à moto"
+        },
+        {
+          "lb": "mam Taxi",
+          "fr": "en taxi"
+        },
+        {
+          "lb": "zu Fouss",
+          "fr": "à pied"
+        },
+        {
+          "lb": "fueren",
+          "fr": "aller en véhicule"
+        },
+        {
+          "lb": "huelen",
+          "fr": "prendre"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéi fiers du schaffen?",
+          "fr": "Comment vas-tu travailler ?"
+        },
+        {
+          "lb": "Ech fueren normalerweis mam Auto.",
+          "fr": "Je vais normalement en voiture."
+        },
+        {
+          "lb": "Si fiert mam Bus.",
+          "fr": "Elle va en bus."
+        },
+        {
+          "lb": "Hie fiert mam Zuch.",
+          "fr": "Il va en train."
+        },
+        {
+          "lb": "Mir ginn zu Fouss.",
+          "fr": "Nous allons à pied."
+        },
+        {
+          "lb": "De Marc hëlt den Zuch.",
+          "fr": "Marc prend le train."
+        },
+        {
+          "lb": "De Bus ass do.",
+          "fr": "Le bus est là."
+        },
+        {
+          "lb": "Ech waarden op den Taxi.",
+          "fr": "J'attends le taxi."
+        },
+        {
+          "lb": "De Stau nervt.",
+          "fr": "L'embouteillage est énervant."
+        },
+        {
+          "lb": "De Moto ass futti.",
+          "fr": "La moto est en panne."
+        }
+      ]
+    },
+    {
+      "id": "k3-aarbechtsannoncen",
+      "title": "Aarbechtsannoncen",
+      "titleFr": "Offres d'emploi",
+      "vocab": [
+        {
+          "lb": "d'Annonce",
+          "fr": "l'annonce"
+        },
+        {
+          "lb": "d'Aarbechtsannonce",
+          "fr": "l'offre d'emploi"
+        },
+        {
+          "lb": "d'Plaz",
+          "fr": "le poste"
+        },
+        {
+          "lb": "de Profil",
+          "fr": "le profil"
+        },
+        {
+          "lb": "de Kandidat",
+          "fr": "le candidat"
+        },
+        {
+          "lb": "d'Kandidatur",
+          "fr": "la candidature"
+        },
+        {
+          "lb": "den Diplom",
+          "fr": "le diplôme"
+        },
+        {
+          "lb": "d'Erfahrung",
+          "fr": "l'expérience"
+        },
+        {
+          "lb": "d'Equipe",
+          "fr": "l'équipe"
+        },
+        {
+          "lb": "d'Praxis",
+          "fr": "le cabinet (médical)"
+        },
+        {
+          "lb": "d'Comptabilitéit",
+          "fr": "la comptabilité"
+        },
+        {
+          "lb": "d'Informatik",
+          "fr": "l'informatique"
+        },
+        {
+          "lb": "de Portfolio",
+          "fr": "le portfolio"
+        },
+        {
+          "lb": "de Führerschäin B",
+          "fr": "le permis B"
+        },
+        {
+          "lb": "d'Woch",
+          "fr": "la semaine"
+        },
+        {
+          "lb": "d'Stonn",
+          "fr": "l'heure (durée)"
+        },
+        {
+          "lb": "de Remplacement",
+          "fr": "le remplacement"
+        },
+        {
+          "lb": "de Congé",
+          "fr": "le congé"
+        },
+        {
+          "lb": "d'Suen",
+          "fr": "l'argent"
+        },
+        {
+          "lb": "sichen",
+          "fr": "chercher"
+        },
+        {
+          "lb": "schécken",
+          "fr": "envoyer"
+        },
+        {
+          "lb": "verdéngen",
+          "fr": "gagner de l'argent"
+        },
+        {
+          "lb": "flexibel",
+          "fr": "flexible"
+        },
+        {
+          "lb": "responsabel",
+          "fr": "responsable"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "D'Firma sicht e Chauffer.",
+          "fr": "L'entreprise cherche un chauffeur."
+        },
+        {
+          "lb": "D'Annonce ass an der Zeitung.",
+          "fr": "L'annonce est dans le journal."
+        },
+        {
+          "lb": "Ech sichen eng interessant Plaz.",
+          "fr": "Je cherche un poste intéressant."
+        },
+        {
+          "lb": "Hutt Dir e Führerschäin B?",
+          "fr": "Avez-vous un permis B ?"
+        },
+        {
+          "lb": "Schéckt Är Kandidatur per E-Mail.",
+          "fr": "Envoyez votre candidature par e-mail."
+        },
+        {
+          "lb": "Ech hu fënnef Joer Erfahrung.",
+          "fr": "J'ai cinq ans d'expérience."
+        },
+        {
+          "lb": "Mir schaffen an enger Equipe.",
+          "fr": "Nous travaillons dans une équipe."
+        },
+        {
+          "lb": "D'Plaz ass fir zwanzeg Stonnen d'Woch.",
+          "fr": "Le poste est de vingt heures par semaine."
+        },
+        {
+          "lb": "De Kandidat ass flexibel a responsabel.",
+          "fr": "Le candidat est flexible et responsable."
+        },
+        {
+          "lb": "Si wëll Sue verdéngen.",
+          "fr": "Elle veut gagner de l'argent."
+        },
+        {
+          "lb": "D'Plaz ass net méi fräi.",
+          "fr": "Le poste n'est plus libre."
+        }
+      ]
+    },
+    {
+      "id": "k3-wei-vill-auer-ass-et",
+      "title": "Wéi vill Auer ass et?",
+      "titleFr": "Quelle heure est-il ?",
+      "vocab": [
+        {
+          "lb": "d'Auer",
+          "fr": "l'heure"
+        },
+        {
+          "lb": "d'Minutt",
+          "fr": "la minute"
+        },
+        {
+          "lb": "d'Sekonn",
+          "fr": "la seconde"
+        },
+        {
+          "lb": "eng Auer",
+          "fr": "une heure"
+        },
+        {
+          "lb": "zwou Auer",
+          "fr": "deux heures"
+        },
+        {
+          "lb": "fënnef op dräi",
+          "fr": "deux heures cinq"
+        },
+        {
+          "lb": "zéng op véier",
+          "fr": "trois heures dix"
+        },
+        {
+          "lb": "Véierel op fënnef",
+          "fr": "quatre heures et quart"
+        },
+        {
+          "lb": "zwanzeg op sechs",
+          "fr": "cinq heures vingt"
+        },
+        {
+          "lb": "zwanzeg vir aacht",
+          "fr": "huit heures moins vingt"
+        },
+        {
+          "lb": "Véierel vir néng",
+          "fr": "neuf heures moins le quart"
+        },
+        {
+          "lb": "zéng vir zéng",
+          "fr": "dix heures moins dix"
+        },
+        {
+          "lb": "fënnef vir eelef",
+          "fr": "onze heures moins cinq"
+        },
+        {
+          "lb": "zwielef Auer",
+          "fr": "douze heures"
+        },
+        {
+          "lb": "hallwer dräi",
+          "fr": "deux heures et demie"
+        },
+        {
+          "lb": "fënnef vir hallwer dräi",
+          "fr": "deux heures vingt-cinq"
+        },
+        {
+          "lb": "fënnef op hallwer dräi",
+          "fr": "deux heures trente-cinq"
+        },
+        {
+          "lb": "moies",
+          "fr": "le matin"
+        },
+        {
+          "lb": "mëttes",
+          "fr": "à midi"
+        },
+        {
+          "lb": "nomëttes",
+          "fr": "l'après-midi"
+        },
+        {
+          "lb": "owes",
+          "fr": "le soir"
+        },
+        {
+          "lb": "nuets",
+          "fr": "la nuit"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéi vill Auer ass et?",
+          "fr": "Quelle heure est-il ?"
+        },
+        {
+          "lb": "Et ass sechs Auer.",
+          "fr": "Il est six heures."
+        },
+        {
+          "lb": "Et ass hallwer siwen.",
+          "fr": "Il est six heures et demie."
+        },
+        {
+          "lb": "Et ass fënnef vir eng.",
+          "fr": "Il est une heure moins cinq."
+        },
+        {
+          "lb": "Et ass Véierel op zwou.",
+          "fr": "Il est une heure et quart."
+        },
+        {
+          "lb": "Et ass zwanzeg op sechs.",
+          "fr": "Il est cinq heures vingt."
+        },
+        {
+          "lb": "Et ass zéng vir zéng.",
+          "fr": "Il est dix heures moins dix."
+        },
+        {
+          "lb": "Et ass eng Auer nuets.",
+          "fr": "Il est une heure du matin."
+        },
+        {
+          "lb": "Et ass dräi Auer nomëttes.",
+          "fr": "Il est trois heures de l'après-midi."
+        },
+        {
+          "lb": "De Fliger lant um hallwer néng.",
+          "fr": "L'avion atterrit à huit heures et demie."
+        }
+      ]
+    },
+    {
+      "id": "k3-weini-schaffe-si",
+      "title": "Wéini schaffe si?",
+      "titleFr": "Quand travaillent-ils ?",
+      "vocab": [
+        {
+          "lb": "d'Aarbechtszäit",
+          "fr": "l'horaire de travail"
+        },
+        {
+          "lb": "de Schaffdag",
+          "fr": "la journée de travail"
+        },
+        {
+          "lb": "de Weekend",
+          "fr": "le week-end"
+        },
+        {
+          "lb": "moies",
+          "fr": "le matin"
+        },
+        {
+          "lb": "mëttes",
+          "fr": "à midi"
+        },
+        {
+          "lb": "nomëttes",
+          "fr": "l'après-midi"
+        },
+        {
+          "lb": "owes",
+          "fr": "le soir"
+        },
+        {
+          "lb": "nuets",
+          "fr": "la nuit"
+        },
+        {
+          "lb": "normalerweis",
+          "fr": "normalement"
+        },
+        {
+          "lb": "heiansdo",
+          "fr": "parfois"
+        },
+        {
+          "lb": "ufänken",
+          "fr": "commencer"
+        },
+        {
+          "lb": "ophalen",
+          "fr": "arrêter"
+        },
+        {
+          "lb": "fäerdeg sinn",
+          "fr": "avoir fini"
+        },
+        {
+          "lb": "schaffen",
+          "fr": "travailler"
+        },
+        {
+          "lb": "preparéieren",
+          "fr": "préparer"
+        },
+        {
+          "lb": "zerwéieren",
+          "fr": "servir"
+        },
+        {
+          "lb": "kontrolléieren",
+          "fr": "contrôler"
+        },
+        {
+          "lb": "schreiwen",
+          "fr": "écrire"
+        },
+        {
+          "lb": "verkafen",
+          "fr": "vendre"
+        },
+        {
+          "lb": "beroden",
+          "fr": "conseiller"
+        },
+        {
+          "lb": "d'Clienten",
+          "fr": "les clients"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéini fänks du un?",
+          "fr": "Quand commences-tu ?"
+        },
+        {
+          "lb": "Ech fänken um aacht Auer un.",
+          "fr": "Je commence à huit heures."
+        },
+        {
+          "lb": "Si hält um hallwer sechs op.",
+          "fr": "Elle arrête à cinq heures et demie."
+        },
+        {
+          "lb": "Hie schafft vu sechs bis zwou.",
+          "fr": "Il travaille de six heures à deux heures."
+        },
+        {
+          "lb": "Mir schaffen de Weekend.",
+          "fr": "Nous travaillons le week-end."
+        },
+        {
+          "lb": "Mathilde zerwéiert Gedrénks.",
+          "fr": "Mathilde sert des boissons."
+        },
+        {
+          "lb": "D'Joffer Chantal preparéiert de Cours.",
+          "fr": "Mademoiselle Chantal prépare le cours."
+        },
+        {
+          "lb": "De Pit schafft moies.",
+          "fr": "Pit travaille le matin."
+        },
+        {
+          "lb": "Si ass owes fäerdeg.",
+          "fr": "Elle a fini le soir."
+        },
+        {
+          "lb": "Ech schaffen normalerweis nomëttes.",
+          "fr": "Je travaille normalement l'après-midi."
+        }
+      ]
+    },
+    {
+      "id": "k3-land-a-leit-transportmettelen-zu-letzebuerg",
+      "title": "Land a Leit: Transportmëttelen zu Lëtzebuerg",
+      "titleFr": "Pays et société : les moyens de transport au Luxembourg",
+      "vocab": [
+        {
+          "lb": "den Zuch",
+          "fr": "le train"
+        },
+        {
+          "lb": "de Fliger",
+          "fr": "l'avion"
+        },
+        {
+          "lb": "den Auto",
+          "fr": "la voiture"
+        },
+        {
+          "lb": "de Bus",
+          "fr": "le bus"
+        },
+        {
+          "lb": "de Vëlo",
+          "fr": "le vélo"
+        },
+        {
+          "lb": "d'Gare",
+          "fr": "la gare"
+        },
+        {
+          "lb": "de Findel",
+          "fr": "l'aéroport du Findel"
+        },
+        {
+          "lb": "d'Autobunn",
+          "fr": "l'autoroute"
+        },
+        {
+          "lb": "de Chantier",
+          "fr": "le chantier"
+        },
+        {
+          "lb": "d'Bunn",
+          "fr": "la voie (route)"
+        },
+        {
+          "lb": "d'Gleis",
+          "fr": "la voie (train)"
+        },
+        {
+          "lb": "de Stau",
+          "fr": "l'embouteillage"
+        },
+        {
+          "lb": "de Parkplaz",
+          "fr": "la place de parking"
+        },
+        {
+          "lb": "d'Verbindung",
+          "fr": "la correspondance"
+        },
+        {
+          "lb": "d'Verspéidung",
+          "fr": "le retard"
+        },
+        {
+          "lb": "de Boarding",
+          "fr": "l'embarquement"
+        },
+        {
+          "lb": "d'Geschäftsrees",
+          "fr": "le voyage d'affaires"
+        },
+        {
+          "lb": "de Frontalier",
+          "fr": "le frontalier"
+        },
+        {
+          "lb": "de Bensin",
+          "fr": "l'essence"
+        },
+        {
+          "lb": "de Verkéier",
+          "fr": "la circulation"
+        },
+        {
+          "lb": "den Zentrum",
+          "fr": "le centre"
+        },
+        {
+          "lb": "de Véloh'",
+          "fr": "le vélo en libre-service"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "De Findel huet gutt Verbindungen.",
+          "fr": "Le Findel a de bonnes correspondances."
+        },
+        {
+          "lb": "Den Zuch kënnt um Gleis dräi.",
+          "fr": "Le train arrive à la voie trois."
+        },
+        {
+          "lb": "De Fliger lant um Findel.",
+          "fr": "L'avion atterrit au Findel."
+        },
+        {
+          "lb": "Op der Autobunn ass vill Trafic.",
+          "fr": "Il y a beaucoup de trafic sur l'autoroute."
+        },
+        {
+          "lb": "Eng Bunn ass op der A6 zou.",
+          "fr": "Une voie est fermée sur l'A6."
+        },
+        {
+          "lb": "De Stau ass dräi Kilometer laang.",
+          "fr": "L'embouteillage fait trois kilomètres."
+        },
+        {
+          "lb": "Vill Frontaliere schaffen zu Lëtzebuerg.",
+          "fr": "Beaucoup de frontaliers travaillent au Luxembourg."
+        },
+        {
+          "lb": "De Bensin ass zu Lëtzebuerg bëlleg.",
+          "fr": "L'essence est bon marché au Luxembourg."
+        },
+        {
+          "lb": "Mam Bus kënnt een an d'Stad.",
+          "fr": "En bus, on arrive en ville."
+        },
+        {
+          "lb": "Mam Zuch kënnt een an den Zentrum.",
+          "fr": "En train, on arrive au centre."
+        },
+        {
+          "lb": "D'Leit fuere mam Vëlo an d'Stad.",
+          "fr": "Les gens vont en ville à vélo."
+        }
+      ]
+    }
+  ]
+}

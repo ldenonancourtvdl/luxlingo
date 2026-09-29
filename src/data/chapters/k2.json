@@ -1,0 +1,1339 @@
+{
+  "id": 2,
+  "title": "1, 2, 3, …",
+  "titleFr": "Un, deux, trois, …",
+  "descriptionFr": "Vous apprenez à donner vos numéros, dates, coordonnées et situation familiale.",
+  "page": 22,
+  "themes": [
+    {
+      "id": "k2-1-2-3",
+      "title": "1, 2, 3, …",
+      "titleFr": "Un, deux, trois, …",
+      "vocab": [
+        {
+          "lb": "null",
+          "fr": "zéro"
+        },
+        {
+          "lb": "eent",
+          "fr": "un"
+        },
+        {
+          "lb": "zwee",
+          "fr": "deux"
+        },
+        {
+          "lb": "dräi",
+          "fr": "trois"
+        },
+        {
+          "lb": "véier",
+          "fr": "quatre"
+        },
+        {
+          "lb": "fënnef",
+          "fr": "cinq"
+        },
+        {
+          "lb": "sechs",
+          "fr": "six"
+        },
+        {
+          "lb": "siwen",
+          "fr": "sept"
+        },
+        {
+          "lb": "aacht",
+          "fr": "huit"
+        },
+        {
+          "lb": "néng",
+          "fr": "neuf"
+        },
+        {
+          "lb": "zéng",
+          "fr": "dix"
+        },
+        {
+          "lb": "eelef",
+          "fr": "onze"
+        },
+        {
+          "lb": "zwielef",
+          "fr": "douze"
+        },
+        {
+          "lb": "dräizéng",
+          "fr": "treize"
+        },
+        {
+          "lb": "véierzéng",
+          "fr": "quatorze"
+        },
+        {
+          "lb": "fofzéng",
+          "fr": "quinze"
+        },
+        {
+          "lb": "siechzéng",
+          "fr": "seize"
+        },
+        {
+          "lb": "siwwenzéng",
+          "fr": "dix-sept"
+        },
+        {
+          "lb": "uechtzéng",
+          "fr": "dix-huit"
+        },
+        {
+          "lb": "nonzéng",
+          "fr": "dix-neuf"
+        },
+        {
+          "lb": "zwanzeg",
+          "fr": "vingt"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech hunn zwee Kanner.",
+          "fr": "J'ai deux enfants."
+        },
+        {
+          "lb": "De Paul huet dräi Ticketen.",
+          "fr": "Paul a trois billets."
+        },
+        {
+          "lb": "Mir hu véier Still.",
+          "fr": "Nous avons quatre chaises."
+        },
+        {
+          "lb": "D'Claudine huet uechtzéng Joer.",
+          "fr": "Claudine a dix-huit ans."
+        },
+        {
+          "lb": "De Bus kënnt an zéng Minutten.",
+          "fr": "Le bus arrive dans dix minutes."
+        },
+        {
+          "lb": "Ech gesinn aacht Käerzen.",
+          "fr": "Je vois huit bougies."
+        },
+        {
+          "lb": "Hien huet een Auto.",
+          "fr": "Il a une voiture."
+        },
+        {
+          "lb": "Si schwätzt siwe Sproochen.",
+          "fr": "Elle parle sept langues."
+        },
+        {
+          "lb": "Et kascht fofzéng Euro.",
+          "fr": "Cela coûte quinze euros."
+        },
+        {
+          "lb": "Mir sinn néng Leit.",
+          "fr": "Nous sommes neuf personnes."
+        }
+      ]
+    },
+    {
+      "id": "k2-d-zuelen",
+      "title": "D'Zuelen",
+      "titleFr": "Les nombres",
+      "vocab": [
+        {
+          "lb": "eenanzwanzeg",
+          "fr": "vingt et un"
+        },
+        {
+          "lb": "zweeanzwanzeg",
+          "fr": "vingt-deux"
+        },
+        {
+          "lb": "dräianzwanzeg",
+          "fr": "vingt-trois"
+        },
+        {
+          "lb": "véieranzwanzeg",
+          "fr": "vingt-quatre"
+        },
+        {
+          "lb": "fënnefanzwanzeg",
+          "fr": "vingt-cinq"
+        },
+        {
+          "lb": "sechsanzwanzeg",
+          "fr": "vingt-six"
+        },
+        {
+          "lb": "siwenanzwanzeg",
+          "fr": "vingt-sept"
+        },
+        {
+          "lb": "aachtanzwanzeg",
+          "fr": "vingt-huit"
+        },
+        {
+          "lb": "nénganzwanzeg",
+          "fr": "vingt-neuf"
+        },
+        {
+          "lb": "drësseg",
+          "fr": "trente"
+        },
+        {
+          "lb": "véierzeg",
+          "fr": "quarante"
+        },
+        {
+          "lb": "fofzeg",
+          "fr": "cinquante"
+        },
+        {
+          "lb": "siechzeg",
+          "fr": "soixante"
+        },
+        {
+          "lb": "siwwenzeg",
+          "fr": "soixante-dix"
+        },
+        {
+          "lb": "achtzeg",
+          "fr": "quatre-vingts"
+        },
+        {
+          "lb": "nonzeg",
+          "fr": "quatre-vingt-dix"
+        },
+        {
+          "lb": "honnert",
+          "fr": "cent"
+        },
+        {
+          "lb": "zweehonnert",
+          "fr": "deux cents"
+        },
+        {
+          "lb": "dausend",
+          "fr": "mille"
+        },
+        {
+          "lb": "zéngdausend",
+          "fr": "dix mille"
+        },
+        {
+          "lb": "eng Millioun",
+          "fr": "un million"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "D'Zuel ass drësseg.",
+          "fr": "Le nombre est trente."
+        },
+        {
+          "lb": "Dat mécht siechzeg Euro.",
+          "fr": "Cela fait soixante euros."
+        },
+        {
+          "lb": "D'Tickete kaschte siwwenzeg Euro.",
+          "fr": "Les billets coûtent soixante-dix euros."
+        },
+        {
+          "lb": "Den Ticket kascht fofzeg Euro.",
+          "fr": "Le billet coûte cinquante euros."
+        },
+        {
+          "lb": "Et sinn zweehonnert Leit hei.",
+          "fr": "Il y a deux cents personnes ici."
+        },
+        {
+          "lb": "Mir fuere véierzeg Kilometer.",
+          "fr": "Nous roulons quarante kilomètres."
+        },
+        {
+          "lb": "De Formulaire huet zwanzeg Froen.",
+          "fr": "Le formulaire a vingt questions."
+        },
+        {
+          "lb": "D'Nummer huet aacht Zuelen.",
+          "fr": "Le numéro a huit chiffres."
+        },
+        {
+          "lb": "D'Hausnummer ass nénganzwanzeg.",
+          "fr": "Le numéro de maison est vingt-neuf."
+        },
+        {
+          "lb": "Dat kascht honnert Euro.",
+          "fr": "Cela coûte cent euros."
+        }
+      ]
+    },
+    {
+      "id": "k2-wei-ass-d-telefonsnummer",
+      "title": "Wéi ass d'Telefonsnummer?",
+      "titleFr": "Quel est le numéro de téléphone ?",
+      "vocab": [
+        {
+          "lb": "d'Telefonsnummer",
+          "fr": "le numéro de téléphone"
+        },
+        {
+          "lb": "d'Handysnummer",
+          "fr": "le numéro de portable"
+        },
+        {
+          "lb": "d'Faxnummer",
+          "fr": "le numéro de fax"
+        },
+        {
+          "lb": "d'Virwal",
+          "fr": "l'indicatif"
+        },
+        {
+          "lb": "d'Extensioun",
+          "fr": "le poste interne"
+        },
+        {
+          "lb": "d'Nummer",
+          "fr": "le numéro"
+        },
+        {
+          "lb": "de Renseignement",
+          "fr": "le service de renseignements"
+        },
+        {
+          "lb": "d'Gesondheetskeess",
+          "fr": "la caisse de santé"
+        },
+        {
+          "lb": "dréngend",
+          "fr": "urgent"
+        },
+        {
+          "lb": "widderhuelen",
+          "fr": "répéter"
+        },
+        {
+          "lb": "notéieren",
+          "fr": "noter"
+        },
+        {
+          "lb": "telefonéieren",
+          "fr": "téléphoner"
+        },
+        {
+          "lb": "Ee Moment",
+          "fr": "un instant"
+        },
+        {
+          "lb": "nach eng Kéier",
+          "fr": "encore une fois"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéi ass Är Telefonsnummer?",
+          "fr": "Quel est votre numéro de téléphone ?"
+        },
+        {
+          "lb": "Meng Telefonsnummer ass 26 31 44.",
+          "fr": "Mon numéro de téléphone est le 26 31 44."
+        },
+        {
+          "lb": "Wéi ass deng Handysnummer?",
+          "fr": "Quel est ton numéro de portable ?"
+        },
+        {
+          "lb": "Meng Handysnummer ass 621 45 67.",
+          "fr": "Mon numéro de portable est le 621 45 67."
+        },
+        {
+          "lb": "Kënnt Dir dat widderhuelen?",
+          "fr": "Pouvez-vous répéter cela ?"
+        },
+        {
+          "lb": "Ech notéieren d'Nummer direkt.",
+          "fr": "Je note le numéro tout de suite."
+        },
+        {
+          "lb": "D'Virwal ass 00352.",
+          "fr": "L'indicatif est 00352."
+        },
+        {
+          "lb": "Ech brauch d'Faxnummer.",
+          "fr": "J'ai besoin du numéro de fax."
+        },
+        {
+          "lb": "Hutt Dir d'Extensioun, wann ech gelift?",
+          "fr": "Avez-vous le poste interne, s'il vous plaît ?"
+        },
+        {
+          "lb": "D'Nummer ass net richteg.",
+          "fr": "Le numéro n'est pas correct."
+        }
+      ]
+    },
+    {
+      "id": "k2-wat-fir-en-dag-ass-haut",
+      "title": "Wat fir en Dag ass haut?",
+      "titleFr": "Quel jour sommes-nous aujourd'hui ?",
+      "vocab": [
+        {
+          "lb": "de Méindeg",
+          "fr": "le lundi"
+        },
+        {
+          "lb": "den Dënschdeg",
+          "fr": "le mardi"
+        },
+        {
+          "lb": "de Mëttwoch",
+          "fr": "le mercredi"
+        },
+        {
+          "lb": "den Donneschdeg",
+          "fr": "le jeudi"
+        },
+        {
+          "lb": "de Freideg",
+          "fr": "le vendredi"
+        },
+        {
+          "lb": "de Samschdeg",
+          "fr": "le samedi"
+        },
+        {
+          "lb": "de Sonndeg",
+          "fr": "le dimanche"
+        },
+        {
+          "lb": "de Januar",
+          "fr": "janvier"
+        },
+        {
+          "lb": "de Februar",
+          "fr": "février"
+        },
+        {
+          "lb": "de Mäerz",
+          "fr": "mars"
+        },
+        {
+          "lb": "den Abrëll",
+          "fr": "avril"
+        },
+        {
+          "lb": "de Mee",
+          "fr": "mai"
+        },
+        {
+          "lb": "de Juni",
+          "fr": "juin"
+        },
+        {
+          "lb": "de Juli",
+          "fr": "juillet"
+        },
+        {
+          "lb": "den August",
+          "fr": "août"
+        },
+        {
+          "lb": "de September",
+          "fr": "septembre"
+        },
+        {
+          "lb": "den Oktober",
+          "fr": "octobre"
+        },
+        {
+          "lb": "den November",
+          "fr": "novembre"
+        },
+        {
+          "lb": "den Dezember",
+          "fr": "décembre"
+        },
+        {
+          "lb": "d'Fréijoer",
+          "fr": "le printemps"
+        },
+        {
+          "lb": "de Summer",
+          "fr": "l'été"
+        },
+        {
+          "lb": "den Hierscht",
+          "fr": "l'automne"
+        },
+        {
+          "lb": "de Wanter",
+          "fr": "l'hiver"
+        },
+        {
+          "lb": "haut",
+          "fr": "aujourd'hui"
+        },
+        {
+          "lb": "muer",
+          "fr": "demain"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Haut ass Méindeg.",
+          "fr": "Aujourd'hui, nous sommes lundi."
+        },
+        {
+          "lb": "Gëschter war Sonndeg.",
+          "fr": "Hier, c'était dimanche."
+        },
+        {
+          "lb": "Muer ass Dënschdeg.",
+          "fr": "Demain, nous serons mardi."
+        },
+        {
+          "lb": "E Joer huet zwielef Méint.",
+          "fr": "Une année a douze mois."
+        },
+        {
+          "lb": "De Februar huet aachtanzwanzeg Deeg.",
+          "fr": "Février a vingt-huit jours."
+        },
+        {
+          "lb": "D'Fréijoer ass vu Mäerz bis Juni.",
+          "fr": "Le printemps va de mars à juin."
+        },
+        {
+          "lb": "De Summer ass vu Juni bis September.",
+          "fr": "L'été va de juin à septembre."
+        },
+        {
+          "lb": "Den Hierscht ass vu September bis Dezember.",
+          "fr": "L'automne va de septembre à décembre."
+        },
+        {
+          "lb": "De Wanter ass vun Dezember bis Mäerz.",
+          "fr": "L'hiver va de décembre à mars."
+        },
+        {
+          "lb": "Elo ass de Wanter.",
+          "fr": "Maintenant, c'est l'hiver."
+        }
+      ]
+    },
+    {
+      "id": "k2-weini-hutt-dir-gebuertsdag",
+      "title": "Wéini hutt Dir Gebuertsdag?",
+      "titleFr": "Quand avez-vous votre anniversaire ?",
+      "vocab": [
+        {
+          "lb": "den Alter",
+          "fr": "l'âge"
+        },
+        {
+          "lb": "de Gebuertsdag",
+          "fr": "l'anniversaire"
+        },
+        {
+          "lb": "de Gebuertsdatum",
+          "fr": "la date de naissance"
+        },
+        {
+          "lb": "den Datum",
+          "fr": "la date"
+        },
+        {
+          "lb": "d'Joer",
+          "fr": "l'année"
+        },
+        {
+          "lb": "de Kaddo",
+          "fr": "le cadeau"
+        },
+        {
+          "lb": "d'Party",
+          "fr": "la fête"
+        },
+        {
+          "lb": "d'Famill",
+          "fr": "la famille"
+        },
+        {
+          "lb": "de Restaurant",
+          "fr": "le restaurant"
+        },
+        {
+          "lb": "d'Kollegen",
+          "fr": "les collègues"
+        },
+        {
+          "lb": "gebuer sinn",
+          "fr": "être né"
+        },
+        {
+          "lb": "Gebuertsdag hunn",
+          "fr": "avoir son anniversaire"
+        },
+        {
+          "lb": "feieren",
+          "fr": "fêter"
+        },
+        {
+          "lb": "kréien",
+          "fr": "recevoir"
+        },
+        {
+          "lb": "invitéieren",
+          "fr": "inviter"
+        },
+        {
+          "lb": "froen",
+          "fr": "demander"
+        },
+        {
+          "lb": "al sinn",
+          "fr": "avoir l'âge de"
+        },
+        {
+          "lb": "den éischten",
+          "fr": "le premier"
+        },
+        {
+          "lb": "den zwanzegsten",
+          "fr": "le vingtième"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéini hutt Dir Gebuertsdag?",
+          "fr": "Quand avez-vous votre anniversaire ?"
+        },
+        {
+          "lb": "Mäi Gebuertsdag ass de 14. Abrëll.",
+          "fr": "Mon anniversaire est le 14 avril."
+        },
+        {
+          "lb": "Ech sinn den drëtten August gebuer.",
+          "fr": "Je suis né le trois août."
+        },
+        {
+          "lb": "Wéi al bass du?",
+          "fr": "Quel âge as-tu ?"
+        },
+        {
+          "lb": "Ech hunn 30 Joer.",
+          "fr": "J'ai 30 ans."
+        },
+        {
+          "lb": "D'Mia kritt vill Kaddoen.",
+          "fr": "Mia reçoit beaucoup de cadeaux."
+        },
+        {
+          "lb": "De Luca feiert haut Gebuertsdag.",
+          "fr": "Luca fête son anniversaire aujourd'hui."
+        },
+        {
+          "lb": "Mir invitéieren d'Famill an de Restaurant.",
+          "fr": "Nous invitons la famille au restaurant."
+        },
+        {
+          "lb": "Ech kréien am Summer 24 Joer.",
+          "fr": "J'aurai 24 ans en été."
+        },
+        {
+          "lb": "Den Tom huet den aachte Mee Gebuertsdag.",
+          "fr": "Tom a son anniversaire le huit mai."
+        }
+      ]
+    },
+    {
+      "id": "k2-wou-wunnt-dir",
+      "title": "Wou wunnt Dir?",
+      "titleFr": "Où habitez-vous ?",
+      "vocab": [
+        {
+          "lb": "d'Adress",
+          "fr": "l'adresse"
+        },
+        {
+          "lb": "d'Uertschaft",
+          "fr": "la localité"
+        },
+        {
+          "lb": "de Wunnuert",
+          "fr": "le lieu de résidence"
+        },
+        {
+          "lb": "d'Visittekaart",
+          "fr": "la carte de visite"
+        },
+        {
+          "lb": "d'Kaart",
+          "fr": "la carte"
+        },
+        {
+          "lb": "d'Land",
+          "fr": "le pays"
+        },
+        {
+          "lb": "d'Stad",
+          "fr": "la ville"
+        },
+        {
+          "lb": "d'Belsch",
+          "fr": "la Belgique"
+        },
+        {
+          "lb": "Frankräich",
+          "fr": "la France"
+        },
+        {
+          "lb": "Däitschland",
+          "fr": "l'Allemagne"
+        },
+        {
+          "lb": "Lëtzebuerg",
+          "fr": "le Luxembourg"
+        },
+        {
+          "lb": "Esch-Uelzecht",
+          "fr": "Esch-sur-Alzette"
+        },
+        {
+          "lb": "Diddeleng",
+          "fr": "Dudelange"
+        },
+        {
+          "lb": "Arel",
+          "fr": "Arlon"
+        },
+        {
+          "lb": "Tréier",
+          "fr": "Trèves"
+        },
+        {
+          "lb": "wunnen",
+          "fr": "habiter"
+        },
+        {
+          "lb": "zu Lëtzebuerg",
+          "fr": "au Luxembourg"
+        },
+        {
+          "lb": "an der Belsch",
+          "fr": "en Belgique"
+        },
+        {
+          "lb": "a Frankräich",
+          "fr": "en France"
+        },
+        {
+          "lb": "op der Gare",
+          "fr": "dans le quartier de la Gare"
+        },
+        {
+          "lb": "am Gronn",
+          "fr": "dans le Grund"
+        },
+        {
+          "lb": "um Lampertsbierg",
+          "fr": "au Limpertsberg"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wou wunnt Dir?",
+          "fr": "Où habitez-vous ?"
+        },
+        {
+          "lb": "Ech wunnen zu Lëtzebuerg.",
+          "fr": "J'habite au Luxembourg."
+        },
+        {
+          "lb": "Wunns du nach zu Esch?",
+          "fr": "Habites-tu encore à Esch ?"
+        },
+        {
+          "lb": "Si wunnt an der Belsch.",
+          "fr": "Elle habite en Belgique."
+        },
+        {
+          "lb": "Den Nick wunnt an der Stad.",
+          "fr": "Nick habite en ville."
+        },
+        {
+          "lb": "Mir wunnen um Kierchbierg.",
+          "fr": "Nous habitons au Kirchberg."
+        },
+        {
+          "lb": "Meng Adress ass einfach.",
+          "fr": "Mon adresse est simple."
+        },
+        {
+          "lb": "Hie wunnt a Frankräich.",
+          "fr": "Il habite en France."
+        },
+        {
+          "lb": "De Marco wunnt elo zu Mailand.",
+          "fr": "Marco habite maintenant à Milan."
+        },
+        {
+          "lb": "Ech schaffen hei zu Lëtzebuerg.",
+          "fr": "Je travaille ici au Luxembourg."
+        }
+      ]
+    },
+    {
+      "id": "k2-wei-ass-ar-e-mail-adress",
+      "title": "Wéi ass Är E-Mail-Adress?",
+      "titleFr": "Quelle est votre adresse e-mail ?",
+      "vocab": [
+        {
+          "lb": "d'E-Mail-Adress",
+          "fr": "l'adresse e-mail"
+        },
+        {
+          "lb": "d'Fiche",
+          "fr": "la fiche"
+        },
+        {
+          "lb": "den Dossier",
+          "fr": "le dossier"
+        },
+        {
+          "lb": "de Formulaire",
+          "fr": "le formulaire"
+        },
+        {
+          "lb": "d'Donnéeën",
+          "fr": "les données"
+        },
+        {
+          "lb": "de Computer",
+          "fr": "l'ordinateur"
+        },
+        {
+          "lb": "d'Adress",
+          "fr": "l'adresse"
+        },
+        {
+          "lb": "d'Handysnummer",
+          "fr": "le numéro de portable"
+        },
+        {
+          "lb": "de Punkt",
+          "fr": "le point"
+        },
+        {
+          "lb": "de Bindestréch",
+          "fr": "le trait d'union"
+        },
+        {
+          "lb": "den Numm",
+          "fr": "le nom"
+        },
+        {
+          "lb": "de Virnumm",
+          "fr": "le prénom"
+        },
+        {
+          "lb": "at",
+          "fr": "l'arobase"
+        },
+        {
+          "lb": "buschtawéieren",
+          "fr": "épeler"
+        },
+        {
+          "lb": "sichen",
+          "fr": "chercher"
+        },
+        {
+          "lb": "hëllefen",
+          "fr": "aider"
+        },
+        {
+          "lb": "notéieren",
+          "fr": "noter"
+        },
+        {
+          "lb": "aktuell",
+          "fr": "à jour"
+        },
+        {
+          "lb": "nei",
+          "fr": "nouveau"
+        },
+        {
+          "lb": "komplett",
+          "fr": "complet"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéi ass Är E-Mail-Adress?",
+          "fr": "Quelle est votre adresse e-mail ?"
+        },
+        {
+          "lb": "Meng E-Mail-Adress ass tom@web.lu.",
+          "fr": "Mon adresse e-mail est tom@web.lu."
+        },
+        {
+          "lb": "Kënnt Dir d'Adress buschtawéieren?",
+          "fr": "Pouvez-vous épeler l'adresse ?"
+        },
+        {
+          "lb": "Ech notéieren Är Donnéeën.",
+          "fr": "Je note vos données."
+        },
+        {
+          "lb": "De Dossier ass aktuell.",
+          "fr": "Le dossier est à jour."
+        },
+        {
+          "lb": "Ech sichen Är Fiche.",
+          "fr": "Je cherche votre fiche."
+        },
+        {
+          "lb": "De Formulaire ass komplett.",
+          "fr": "Le formulaire est complet."
+        },
+        {
+          "lb": "Ech hunn eng nei E-Mail-Adress.",
+          "fr": "J'ai une nouvelle adresse e-mail."
+        },
+        {
+          "lb": "De Punkt kënnt no mengem Numm.",
+          "fr": "Le point vient après mon nom."
+        },
+        {
+          "lb": "Ech kucken am Computer.",
+          "fr": "Je regarde sur l'ordinateur."
+        }
+      ]
+    },
+    {
+      "id": "k2-sidd-dir-bestuet",
+      "title": "Sidd Dir bestuet?",
+      "titleFr": "Êtes-vous marié(e) ?",
+      "vocab": [
+        {
+          "lb": "d'Familljesituatioun",
+          "fr": "la situation familiale"
+        },
+        {
+          "lb": "d'Fra",
+          "fr": "la femme (épouse)"
+        },
+        {
+          "lb": "de Mann",
+          "fr": "le mari"
+        },
+        {
+          "lb": "d'Kand",
+          "fr": "l'enfant"
+        },
+        {
+          "lb": "d'Kanner",
+          "fr": "les enfants"
+        },
+        {
+          "lb": "de Jong",
+          "fr": "le garçon"
+        },
+        {
+          "lb": "d'Meedchen",
+          "fr": "la fille"
+        },
+        {
+          "lb": "de Jonggesell",
+          "fr": "le célibataire"
+        },
+        {
+          "lb": "d'Jonggesellin",
+          "fr": "la célibataire"
+        },
+        {
+          "lb": "bestuet",
+          "fr": "marié"
+        },
+        {
+          "lb": "net bestuet",
+          "fr": "non marié"
+        },
+        {
+          "lb": "gescheet",
+          "fr": "divorcé"
+        },
+        {
+          "lb": "gepacst",
+          "fr": "pacsé"
+        },
+        {
+          "lb": "ee Kand",
+          "fr": "un enfant"
+        },
+        {
+          "lb": "keng Kanner",
+          "fr": "pas d'enfants"
+        },
+        {
+          "lb": "de Bouf",
+          "fr": "le fils"
+        },
+        {
+          "lb": "d'Famill",
+          "fr": "la famille"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Sidd Dir bestuet?",
+          "fr": "Êtes-vous marié(e) ?"
+        },
+        {
+          "lb": "Nee, ech si gescheet.",
+          "fr": "Non, je suis divorcé(e)."
+        },
+        {
+          "lb": "Jo, ech si bestuet.",
+          "fr": "Oui, je suis marié(e)."
+        },
+        {
+          "lb": "Ech hu keng Kanner.",
+          "fr": "Je n'ai pas d'enfants."
+        },
+        {
+          "lb": "Mir hunn ee Kand.",
+          "fr": "Nous avons un enfant."
+        },
+        {
+          "lb": "Si huet zwee Jongen.",
+          "fr": "Elle a deux garçons."
+        },
+        {
+          "lb": "Hien ass Jonggesell.",
+          "fr": "Il est célibataire."
+        },
+        {
+          "lb": "D'Anne ass Jonggesellin.",
+          "fr": "Anne est célibataire."
+        },
+        {
+          "lb": "Mir si gepacst.",
+          "fr": "Nous sommes pacsés."
+        },
+        {
+          "lb": "Meng Fra schafft zu Lëtzebuerg.",
+          "fr": "Ma femme travaille au Luxembourg."
+        },
+        {
+          "lb": "Mäi Mann kënnt aus Däitschland.",
+          "fr": "Mon mari vient d'Allemagne."
+        }
+      ]
+    },
+    {
+      "id": "k2-um-bierger-center",
+      "title": "Um Bierger-Center",
+      "titleFr": "Au centre des citoyens",
+      "vocab": [
+        {
+          "lb": "de Bierger-Center",
+          "fr": "le centre des citoyens"
+        },
+        {
+          "lb": "d'Awunnerin",
+          "fr": "l'habitante"
+        },
+        {
+          "lb": "den Awunner",
+          "fr": "l'habitant"
+        },
+        {
+          "lb": "d'Stad",
+          "fr": "la ville"
+        },
+        {
+          "lb": "d'Fiche",
+          "fr": "la fiche"
+        },
+        {
+          "lb": "den Dossier",
+          "fr": "le dossier"
+        },
+        {
+          "lb": "de Gebuertsdatum",
+          "fr": "la date de naissance"
+        },
+        {
+          "lb": "d'Adress",
+          "fr": "l'adresse"
+        },
+        {
+          "lb": "d'Telefonsnummer",
+          "fr": "le numéro de téléphone"
+        },
+        {
+          "lb": "d'Handysnummer",
+          "fr": "le numéro de portable"
+        },
+        {
+          "lb": "d'E-Mail-Adress",
+          "fr": "l'adresse e-mail"
+        },
+        {
+          "lb": "d'Kand",
+          "fr": "l'enfant"
+        },
+        {
+          "lb": "d'Kanner",
+          "fr": "les enfants"
+        },
+        {
+          "lb": "de Bouf",
+          "fr": "le fils"
+        },
+        {
+          "lb": "d'Meedchen",
+          "fr": "la fille"
+        },
+        {
+          "lb": "sech umellen",
+          "fr": "s'inscrire"
+        },
+        {
+          "lb": "hëllefen",
+          "fr": "aider"
+        },
+        {
+          "lb": "brauchen",
+          "fr": "avoir besoin de"
+        },
+        {
+          "lb": "aktuell",
+          "fr": "à jour"
+        },
+        {
+          "lb": "offiziell",
+          "fr": "officiel"
+        },
+        {
+          "lb": "komplett",
+          "fr": "complet"
+        },
+        {
+          "lb": "wëllen",
+          "fr": "vouloir"
+        },
+        {
+          "lb": "froen",
+          "fr": "demander"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech wëll mech umellen.",
+          "fr": "Je veux m'inscrire."
+        },
+        {
+          "lb": "Wéi kann ech Iech hëllefen?",
+          "fr": "Comment puis-je vous aider ?"
+        },
+        {
+          "lb": "Wéi ass Ären Numm?",
+          "fr": "Quel est votre nom ?"
+        },
+        {
+          "lb": "Äre Dossier ass komplett.",
+          "fr": "Votre dossier est complet."
+        },
+        {
+          "lb": "Ech brauch Är Telefonsnummer.",
+          "fr": "J'ai besoin de votre numéro de téléphone."
+        },
+        {
+          "lb": "Wunnt nach eng Persoun hei?",
+          "fr": "Une autre personne habite-t-elle ici ?"
+        },
+        {
+          "lb": "Meng Kanner wunnen hei.",
+          "fr": "Mes enfants habitent ici."
+        },
+        {
+          "lb": "Dir sidd elo offiziell Awunnerin.",
+          "fr": "Vous êtes maintenant officiellement habitante."
+        },
+        {
+          "lb": "Ech sichen Är Fiche.",
+          "fr": "Je cherche votre fiche."
+        },
+        {
+          "lb": "Meng nei Adress ass hei.",
+          "fr": "Ma nouvelle adresse est ici."
+        },
+        {
+          "lb": "D'Handysnummer ass notéiert.",
+          "fr": "Le numéro de portable est noté."
+        }
+      ]
+    },
+    {
+      "id": "k2-land-a-leit-fester-a-feierdeeg-zu-letzebuerg",
+      "title": "Land a Leit: Fester a Feierdeeg zu Lëtzebuerg",
+      "titleFr": "Pays et gens : fêtes et jours fériés au Luxembourg",
+      "vocab": [
+        {
+          "lb": "de Feierdag",
+          "fr": "le jour férié"
+        },
+        {
+          "lb": "d'Fest",
+          "fr": "la fête"
+        },
+        {
+          "lb": "den Dag vun der Aarbecht",
+          "fr": "la fête du Travail"
+        },
+        {
+          "lb": "de Chrëschtdag",
+          "fr": "Noël"
+        },
+        {
+          "lb": "de Kleeserchersdag",
+          "fr": "la Saint-Nicolas"
+        },
+        {
+          "lb": "de Liichtmëssdag",
+          "fr": "la Chandeleur"
+        },
+        {
+          "lb": "den Nationalfeierdag",
+          "fr": "la fête nationale"
+        },
+        {
+          "lb": "de Mammendag",
+          "fr": "la fête des Mères"
+        },
+        {
+          "lb": "de Pappendag",
+          "fr": "la fête des Pères"
+        },
+        {
+          "lb": "d'Ouschteren",
+          "fr": "Pâques"
+        },
+        {
+          "lb": "d'Sprangpressessioun",
+          "fr": "la procession dansante"
+        },
+        {
+          "lb": "d'Schueberfouer",
+          "fr": "la grande foire du Glacis"
+        },
+        {
+          "lb": "de Chrëschtmaart",
+          "fr": "le marché de Noël"
+        },
+        {
+          "lb": "d'Chrëschtbeemchen",
+          "fr": "le petit sapin de Noël"
+        },
+        {
+          "lb": "de Kaddo",
+          "fr": "le cadeau"
+        },
+        {
+          "lb": "d'Rutt",
+          "fr": "la baguette (bâton)"
+        },
+        {
+          "lb": "d'Lampionen",
+          "fr": "les lampions"
+        },
+        {
+          "lb": "d'Kamellen",
+          "fr": "les bonbons"
+        },
+        {
+          "lb": "de Schockela",
+          "fr": "le chocolat"
+        },
+        {
+          "lb": "d'Basilika",
+          "fr": "la basilique"
+        },
+        {
+          "lb": "d'UNESCO-Lëscht",
+          "fr": "la liste de l'UNESCO"
+        },
+        {
+          "lb": "d'Kiermes",
+          "fr": "la fête foraine"
+        },
+        {
+          "lb": "d'Attraktiounen",
+          "fr": "les attractions"
+        },
+        {
+          "lb": "d'Gromperekichelcher",
+          "fr": "les galettes de pommes de terre"
+        },
+        {
+          "lb": "de gebakene Fësch",
+          "fr": "le poisson frit"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Den Dag vun der Aarbecht ass am Mee.",
+          "fr": "La fête du Travail est en mai."
+        },
+        {
+          "lb": "Chrëschtdag ass de 25. Dezember.",
+          "fr": "Noël est le 25 décembre."
+        },
+        {
+          "lb": "Kleeserchersdag ass de 6. Dezember.",
+          "fr": "La Saint-Nicolas est le 6 décembre."
+        },
+        {
+          "lb": "Liichtmëssdag ass den 2. Februar.",
+          "fr": "La Chandeleur est le 2 février."
+        },
+        {
+          "lb": "Den Nationalfeierdag ass den 23. Juni.",
+          "fr": "La fête nationale est le 23 juin."
+        },
+        {
+          "lb": "D'Schueberfouer ass am August.",
+          "fr": "La Schueberfouer est en août."
+        },
+        {
+          "lb": "D'Kanner kréie Kamellen a Schockela.",
+          "fr": "Les enfants reçoivent des bonbons et du chocolat."
+        },
+        {
+          "lb": "D'Leit sprangen zu Iechternach.",
+          "fr": "Les gens sautent à Echternach."
+        },
+        {
+          "lb": "D'Sprangpressessioun steet op der UNESCO-Lëscht.",
+          "fr": "La procession dansante est sur la liste de l'UNESCO."
+        },
+        {
+          "lb": "Um Chrëschtmaart ass e Chrëschtbeemchen.",
+          "fr": "Au marché de Noël, il y a un petit sapin."
+        },
+        {
+          "lb": "D'Kanner bastelen eppes Flottes.",
+          "fr": "Les enfants bricolent quelque chose de joli."
+        }
+      ]
+    }
+  ]
+}

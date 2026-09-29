@@ -1,0 +1,932 @@
+{
+  "id": 6,
+  "title": "Famill a Frënn",
+  "titleFr": "Famille et amis",
+  "descriptionFr": "Vous apprendrez à parler de la famille et des amis, à décrire une personne et à mener un échange chez le médecin.",
+  "page": 82,
+  "themes": [
+    {
+      "id": "k6-famill-a-frenn",
+      "title": "Famill a Frënn",
+      "titleFr": "Famille et amis",
+      "vocab": [
+        {
+          "lb": "d'Annonce",
+          "fr": "l'annonce"
+        },
+        {
+          "lb": "d'Gebuert",
+          "fr": "la naissance"
+        },
+        {
+          "lb": "de Gebuertsdag",
+          "fr": "l'anniversaire"
+        },
+        {
+          "lb": "d'Hochzäit",
+          "fr": "le mariage"
+        },
+        {
+          "lb": "de Pacs",
+          "fr": "le partenariat civil"
+        },
+        {
+          "lb": "d'Famill",
+          "fr": "la famille"
+        },
+        {
+          "lb": "d'Frënn",
+          "fr": "les amis"
+        },
+        {
+          "lb": "d'Elteren",
+          "fr": "les parents"
+        },
+        {
+          "lb": "d'Kanner",
+          "fr": "les enfants"
+        },
+        {
+          "lb": "d'Enkelkanner",
+          "fr": "les petits-enfants"
+        },
+        {
+          "lb": "d'Koppel",
+          "fr": "le couple"
+        },
+        {
+          "lb": "d'Hochzäitskont",
+          "fr": "le compte de mariage"
+        },
+        {
+          "lb": "matdeelen",
+          "fr": "annoncer"
+        },
+        {
+          "lb": "bestueden",
+          "fr": "se marier"
+        },
+        {
+          "lb": "feieren",
+          "fr": "fêter"
+        },
+        {
+          "lb": "gratuléieren",
+          "fr": "féliciter"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech liesen eng Annonce.",
+          "fr": "Je lis une annonce."
+        },
+        {
+          "lb": "Si feieren eng Hochzäit.",
+          "fr": "Ils fêtent un mariage."
+        },
+        {
+          "lb": "Mir feieren e Gebuertsdag.",
+          "fr": "Nous fêtons un anniversaire."
+        },
+        {
+          "lb": "D'Koppel mécht e Pacs.",
+          "fr": "Le couple conclut un partenariat civil."
+        },
+        {
+          "lb": "D'Famill kënnt haut.",
+          "fr": "La famille vient aujourd'hui."
+        },
+        {
+          "lb": "D'Frënn sinn och do.",
+          "fr": "Les amis sont aussi là."
+        },
+        {
+          "lb": "D'Elteren hunn e Puppelchen.",
+          "fr": "Les parents ont un bébé."
+        },
+        {
+          "lb": "D'Kanner kommen um véier.",
+          "fr": "Les enfants viennent à quatre heures."
+        },
+        {
+          "lb": "Mir gratuléieren der Bomi.",
+          "fr": "Nous félicitons la grand-mère."
+        },
+        {
+          "lb": "Sandy an Amélie bestuede sech.",
+          "fr": "Sandy et Amélie se marient."
+        }
+      ]
+    },
+    {
+      "id": "k6-eng-gebuertsdagsparty",
+      "title": "Eng Gebuertsdagsparty",
+      "titleFr": "Une fête d'anniversaire",
+      "vocab": [
+        {
+          "lb": "d'Gebuertsdagsparty",
+          "fr": "la fête d'anniversaire"
+        },
+        {
+          "lb": "d'Gebuertsdagskand",
+          "fr": "la personne fêtée"
+        },
+        {
+          "lb": "de Kuch",
+          "fr": "le gâteau"
+        },
+        {
+          "lb": "d'Käerz",
+          "fr": "la bougie"
+        },
+        {
+          "lb": "d'Blummen",
+          "fr": "les fleurs"
+        },
+        {
+          "lb": "d'Geschenk",
+          "fr": "le cadeau"
+        },
+        {
+          "lb": "de Brudder",
+          "fr": "le frère"
+        },
+        {
+          "lb": "d'Schwëster",
+          "fr": "la sœur"
+        },
+        {
+          "lb": "d'Geschwëster",
+          "fr": "les frères et sœurs"
+        },
+        {
+          "lb": "de Monni",
+          "fr": "l'oncle"
+        },
+        {
+          "lb": "d'Tatta",
+          "fr": "la tante"
+        },
+        {
+          "lb": "de Papp",
+          "fr": "le père"
+        },
+        {
+          "lb": "d'Mamm",
+          "fr": "la mère"
+        },
+        {
+          "lb": "Alles Guddes!",
+          "fr": "Tous mes vœux !"
+        },
+        {
+          "lb": "Prost!",
+          "fr": "Santé !"
+        },
+        {
+          "lb": "Vill Gléck fir de Gebuertsdag!",
+          "fr": "Joyeux anniversaire !"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Alles Guddes fir däi Gebuertsdag!",
+          "fr": "Tous mes vœux pour ton anniversaire !"
+        },
+        {
+          "lb": "De Kuch ass ganz grouss.",
+          "fr": "Le gâteau est très grand."
+        },
+        {
+          "lb": "D'Käerze si rout.",
+          "fr": "Les bougies sont rouges."
+        },
+        {
+          "lb": "Mir proste mam Gebuertsdagskand.",
+          "fr": "Nous trinquons avec la personne fêtée."
+        },
+        {
+          "lb": "D'Tatta bréngt e Geschenk.",
+          "fr": "La tante apporte un cadeau."
+        },
+        {
+          "lb": "Mäi Brudder huet véierzeg Joer.",
+          "fr": "Mon frère a quarante ans."
+        },
+        {
+          "lb": "D'Mamm mécht de Kuch.",
+          "fr": "La mère fait le gâteau."
+        },
+        {
+          "lb": "D'Blumme si schéin.",
+          "fr": "Les fleurs sont belles."
+        },
+        {
+          "lb": "Vill Frënn sinn do.",
+          "fr": "Beaucoup d'amis sont là."
+        },
+        {
+          "lb": "D'Geschwëster sinn och hei.",
+          "fr": "Les frères et sœurs sont aussi ici."
+        }
+      ]
+    },
+    {
+      "id": "k6-meng-famill",
+      "title": "Meng Famill",
+      "titleFr": "Ma famille",
+      "vocab": [
+        {
+          "lb": "de Stammbam",
+          "fr": "l'arbre généalogique"
+        },
+        {
+          "lb": "mäi Papp",
+          "fr": "mon père"
+        },
+        {
+          "lb": "meng Mamm",
+          "fr": "ma mère"
+        },
+        {
+          "lb": "mäi Mann",
+          "fr": "mon mari"
+        },
+        {
+          "lb": "meng Fra",
+          "fr": "ma femme"
+        },
+        {
+          "lb": "mäin Enkelkand",
+          "fr": "mon petit-enfant"
+        },
+        {
+          "lb": "däi Monni",
+          "fr": "ton oncle"
+        },
+        {
+          "lb": "deng Tatta",
+          "fr": "ta tante"
+        },
+        {
+          "lb": "säi Brudder",
+          "fr": "son frère"
+        },
+        {
+          "lb": "seng Schwëster",
+          "fr": "sa sœur"
+        },
+        {
+          "lb": "säi Jong",
+          "fr": "son fils"
+        },
+        {
+          "lb": "seng Duechter",
+          "fr": "sa fille"
+        },
+        {
+          "lb": "Äert Meedchen",
+          "fr": "votre fille"
+        },
+        {
+          "lb": "Är Kanner",
+          "fr": "vos enfants"
+        },
+        {
+          "lb": "de Grousspapp",
+          "fr": "le grand-père"
+        },
+        {
+          "lb": "d'Groussmamm",
+          "fr": "la grand-mère"
+        },
+        {
+          "lb": "de Neveu",
+          "fr": "le neveu"
+        },
+        {
+          "lb": "d'Niess",
+          "fr": "la nièce"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Dat ass meng Famill.",
+          "fr": "C'est ma famille."
+        },
+        {
+          "lb": "Mäi Papp heescht Tun.",
+          "fr": "Mon père s'appelle Tun."
+        },
+        {
+          "lb": "Meng Mamm wunnt zu Esch.",
+          "fr": "Ma mère habite à Esch."
+        },
+        {
+          "lb": "D'Marie ass meng Bomi.",
+          "fr": "Marie est ma mamie."
+        },
+        {
+          "lb": "De Jeff ass mäi Brudder.",
+          "fr": "Jeff est mon frère."
+        },
+        {
+          "lb": "D'Danielle ass seng Schwëster.",
+          "fr": "Danielle est sa sœur."
+        },
+        {
+          "lb": "Meng Geschwëster wunnen hei.",
+          "fr": "Mes frères et sœurs habitent ici."
+        },
+        {
+          "lb": "Säi Jong huet zwee Joer.",
+          "fr": "Son fils a deux ans."
+        },
+        {
+          "lb": "Är Kanner sinn nach kleng.",
+          "fr": "Vos enfants sont encore petits."
+        },
+        {
+          "lb": "Wéi heescht deng Frëndin?",
+          "fr": "Comment s'appelle ton amie ?"
+        }
+      ]
+    },
+    {
+      "id": "k6-international-familljen",
+      "title": "International Familljen",
+      "titleFr": "Familles internationales",
+      "vocab": [
+        {
+          "lb": "zu Lëtzebuerg",
+          "fr": "au Luxembourg"
+        },
+        {
+          "lb": "d'Stad",
+          "fr": "la ville"
+        },
+        {
+          "lb": "England",
+          "fr": "l'Angleterre"
+        },
+        {
+          "lb": "Lettland",
+          "fr": "la Lettonie"
+        },
+        {
+          "lb": "Norwegen",
+          "fr": "la Norvège"
+        },
+        {
+          "lb": "de Cap Vert",
+          "fr": "le Cap-Vert"
+        },
+        {
+          "lb": "d'Belsch",
+          "fr": "la Belgique"
+        },
+        {
+          "lb": "d'Europäesch Kommissioun",
+          "fr": "la Commission européenne"
+        },
+        {
+          "lb": "den Iwwersetzer",
+          "fr": "le traducteur"
+        },
+        {
+          "lb": "de Blummebuttek",
+          "fr": "le magasin de fleurs"
+        },
+        {
+          "lb": "de Schwammclub",
+          "fr": "le club de natation"
+        },
+        {
+          "lb": "d'Crèche",
+          "fr": "la crèche"
+        },
+        {
+          "lb": "d'Hausdéier",
+          "fr": "l'animal domestique"
+        },
+        {
+          "lb": "den Hond",
+          "fr": "le chien"
+        },
+        {
+          "lb": "d'Kaz",
+          "fr": "le chat"
+        },
+        {
+          "lb": "adoptéieren",
+          "fr": "adopter"
+        },
+        {
+          "lb": "schwammen",
+          "fr": "nager"
+        },
+        {
+          "lb": "am Ausland",
+          "fr": "à l'étranger"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "D'Jeanne wunnt zu Esch.",
+          "fr": "Jeanne habite à Esch."
+        },
+        {
+          "lb": "De Marc kënnt aus England.",
+          "fr": "Marc vient d'Angleterre."
+        },
+        {
+          "lb": "D'Marisa ass hei gebuer.",
+          "fr": "Marisa est née ici."
+        },
+        {
+          "lb": "Seng Eltere wunnen hei.",
+          "fr": "Ses parents habitent ici."
+        },
+        {
+          "lb": "Si schwammen am Schwammclub.",
+          "fr": "Ils nagent au club de natation."
+        },
+        {
+          "lb": "Hie schafft zu Lëtzebuerg.",
+          "fr": "Il travaille au Luxembourg."
+        },
+        {
+          "lb": "D'Kanner hunn Hausdéieren.",
+          "fr": "Les enfants ont des animaux domestiques."
+        },
+        {
+          "lb": "Seng Fra schafft an der Belsch.",
+          "fr": "Sa femme travaille en Belgique."
+        },
+        {
+          "lb": "D'Famill feiert am Summer.",
+          "fr": "La famille fait la fête en été."
+        },
+        {
+          "lb": "Den Hond ass am Haus.",
+          "fr": "Le chien est dans la maison."
+        }
+      ]
+    },
+    {
+      "id": "k6-wei-gesi-si-aus",
+      "title": "Wéi gesi si aus?",
+      "titleFr": "À quoi ressemblent-ils ?",
+      "vocab": [
+        {
+          "lb": "grouss",
+          "fr": "grand"
+        },
+        {
+          "lb": "kleng",
+          "fr": "petit"
+        },
+        {
+          "lb": "déck",
+          "fr": "gros"
+        },
+        {
+          "lb": "dënn",
+          "fr": "mince"
+        },
+        {
+          "lb": "schéin",
+          "fr": "beau"
+        },
+        {
+          "lb": "ellen",
+          "fr": "laid"
+        },
+        {
+          "lb": "al",
+          "fr": "vieux"
+        },
+        {
+          "lb": "jonk",
+          "fr": "jeune"
+        },
+        {
+          "lb": "léif",
+          "fr": "gentil"
+        },
+        {
+          "lb": "béis",
+          "fr": "méchant"
+        },
+        {
+          "lb": "flott",
+          "fr": "chouette"
+        },
+        {
+          "lb": "langweileg",
+          "fr": "ennuyeux"
+        },
+        {
+          "lb": "sportlech",
+          "fr": "sportif"
+        },
+        {
+          "lb": "seriö",
+          "fr": "sérieux"
+        },
+        {
+          "lb": "sympathesch",
+          "fr": "sympathique"
+        },
+        {
+          "lb": "jalous",
+          "fr": "jaloux"
+        },
+        {
+          "lb": "laang Hoer",
+          "fr": "les cheveux longs"
+        },
+        {
+          "lb": "kuerz Hoer",
+          "fr": "les cheveux courts"
+        },
+        {
+          "lb": "d'Aen",
+          "fr": "les yeux"
+        },
+        {
+          "lb": "de Brëll",
+          "fr": "les lunettes"
+        },
+        {
+          "lb": "d'Glatz",
+          "fr": "la calvitie"
+        },
+        {
+          "lb": "d'Nues",
+          "fr": "le nez"
+        },
+        {
+          "lb": "de Schnauz",
+          "fr": "la moustache"
+        },
+        {
+          "lb": "ausgesinn",
+          "fr": "avoir l'air"
+        },
+        {
+          "lb": "fannen",
+          "fr": "trouver"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéi gesäit hien aus?",
+          "fr": "À quoi ressemble-t-il ?"
+        },
+        {
+          "lb": "Hien huet laang Hoer.",
+          "fr": "Il a les cheveux longs."
+        },
+        {
+          "lb": "Hatt huet gréng Aen.",
+          "fr": "Elle a les yeux verts."
+        },
+        {
+          "lb": "De Felix ass sportlech.",
+          "fr": "Felix est sportif."
+        },
+        {
+          "lb": "D'Manuela ass interessant.",
+          "fr": "Manuela est intéressante."
+        },
+        {
+          "lb": "Ech fannen hie flott.",
+          "fr": "Je le trouve chouette."
+        },
+        {
+          "lb": "Ech fannen hatt net ellen.",
+          "fr": "Je ne la trouve pas laide."
+        },
+        {
+          "lb": "De Schnauz ass kuerz.",
+          "fr": "La moustache est courte."
+        },
+        {
+          "lb": "Seng Hoer si blond.",
+          "fr": "Ses cheveux sont blonds."
+        },
+        {
+          "lb": "Fënns du dat schéin?",
+          "fr": "Trouves-tu cela beau ?"
+        },
+        {
+          "lb": "D'Kaz ass kleng a béis.",
+          "fr": "Le chat est petit et méchant."
+        }
+      ]
+    },
+    {
+      "id": "k6-beim-dokter",
+      "title": "Beim Dokter",
+      "titleFr": "Chez le médecin",
+      "vocab": [
+        {
+          "lb": "de Kapp",
+          "fr": "la tête"
+        },
+        {
+          "lb": "d'Aen",
+          "fr": "les yeux"
+        },
+        {
+          "lb": "d'Nues",
+          "fr": "le nez"
+        },
+        {
+          "lb": "den Hals",
+          "fr": "la gorge"
+        },
+        {
+          "lb": "de Réck",
+          "fr": "le dos"
+        },
+        {
+          "lb": "de Bauch",
+          "fr": "le ventre"
+        },
+        {
+          "lb": "den Arm",
+          "fr": "le bras"
+        },
+        {
+          "lb": "d'Hand",
+          "fr": "la main"
+        },
+        {
+          "lb": "de Fanger",
+          "fr": "le doigt"
+        },
+        {
+          "lb": "d'Been",
+          "fr": "la jambe"
+        },
+        {
+          "lb": "de Knéi",
+          "fr": "le genou"
+        },
+        {
+          "lb": "de Fouss",
+          "fr": "le pied"
+        },
+        {
+          "lb": "d'Féiwer",
+          "fr": "la fièvre"
+        },
+        {
+          "lb": "d'Gripp",
+          "fr": "la grippe"
+        },
+        {
+          "lb": "den Houscht",
+          "fr": "la toux"
+        },
+        {
+          "lb": "de Schnapp",
+          "fr": "le rhume"
+        },
+        {
+          "lb": "krank",
+          "fr": "malade"
+        },
+        {
+          "lb": "wéi hunn",
+          "fr": "avoir mal"
+        },
+        {
+          "lb": "sech entschëllegen",
+          "fr": "s'excuser"
+        },
+        {
+          "lb": "Entschëllegt!",
+          "fr": "Excusez-moi !"
+        },
+        {
+          "lb": "Gesondheet!",
+          "fr": "À vos souhaits !"
+        },
+        {
+          "lb": "Gutt Besserung!",
+          "fr": "Bon rétablissement !"
+        },
+        {
+          "lb": "d'Praxis",
+          "fr": "le cabinet médical"
+        },
+        {
+          "lb": "d'Urgence",
+          "fr": "les urgences"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech hunn de Kapp wéi.",
+          "fr": "J'ai mal à la tête."
+        },
+        {
+          "lb": "Hien huet d'Gripp.",
+          "fr": "Il a la grippe."
+        },
+        {
+          "lb": "Ech si krank.",
+          "fr": "Je suis malade."
+        },
+        {
+          "lb": "Et ass mir schlecht.",
+          "fr": "Je me sens mal."
+        },
+        {
+          "lb": "Meng Hand deet wéi.",
+          "fr": "Ma main me fait mal."
+        },
+        {
+          "lb": "Ech hu Féiwer.",
+          "fr": "J'ai de la fièvre."
+        },
+        {
+          "lb": "Hues du den Houscht?",
+          "fr": "As-tu la toux ?"
+        },
+        {
+          "lb": "Ech kann haut net kommen.",
+          "fr": "Je ne peux pas venir aujourd'hui."
+        },
+        {
+          "lb": "Gitt Dir bei den Dokter?",
+          "fr": "Allez-vous chez le médecin ?"
+        },
+        {
+          "lb": "Et deet mir leed.",
+          "fr": "Je suis désolé."
+        },
+        {
+          "lb": "Ech ginn an d'Urgence.",
+          "fr": "Je vais aux urgences."
+        }
+      ]
+    },
+    {
+      "id": "k6-land-a-leit-bekannt-letzebuerger",
+      "title": "Land a Leit: Bekannt Lëtzebuerger",
+      "titleFr": "Pays et population : Luxembourgeois connus",
+      "vocab": [
+        {
+          "lb": "de Lëtzebuerger",
+          "fr": "le Luxembourgeois"
+        },
+        {
+          "lb": "d'Lëtzebuergerin",
+          "fr": "la Luxembourgeoise"
+        },
+        {
+          "lb": "bekannt",
+          "fr": "connu"
+        },
+        {
+          "lb": "d'Persoun",
+          "fr": "la personne"
+        },
+        {
+          "lb": "d'Foto",
+          "fr": "la photo"
+        },
+        {
+          "lb": "d'Informatioun",
+          "fr": "l'information"
+        },
+        {
+          "lb": "den Numm",
+          "fr": "le nom"
+        },
+        {
+          "lb": "de Gebuertsdatum",
+          "fr": "la date de naissance"
+        },
+        {
+          "lb": "d'Nationalitéit",
+          "fr": "la nationalité"
+        },
+        {
+          "lb": "de Beruff",
+          "fr": "le métier"
+        },
+        {
+          "lb": "d'Hobbyen",
+          "fr": "les loisirs"
+        },
+        {
+          "lb": "de Sänger",
+          "fr": "le chanteur"
+        },
+        {
+          "lb": "de Komponist",
+          "fr": "le compositeur"
+        },
+        {
+          "lb": "den Auteur",
+          "fr": "l'auteur"
+        },
+        {
+          "lb": "d'Schauspillerin",
+          "fr": "l'actrice"
+        },
+        {
+          "lb": "de Kraaftartist",
+          "fr": "l'homme fort"
+        },
+        {
+          "lb": "de Politiker",
+          "fr": "l'homme politique"
+        },
+        {
+          "lb": "d'Judoka",
+          "fr": "la judokate"
+        },
+        {
+          "lb": "de Regisseur",
+          "fr": "le réalisateur"
+        },
+        {
+          "lb": "d'Politikerin",
+          "fr": "la femme politique"
+        },
+        {
+          "lb": "d'Comic-Figur",
+          "fr": "le personnage de bande dessinée"
+        },
+        {
+          "lb": "d'Stad",
+          "fr": "la ville"
+        },
+        {
+          "lb": "d'Haaptstad",
+          "fr": "la capitale"
+        },
+        {
+          "lb": "d'Lidd",
+          "fr": "la chanson"
+        },
+        {
+          "lb": "Vëlo fueren",
+          "fr": "faire du vélo"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Serge Tonnar ass Komponist.",
+          "fr": "Serge Tonnar est compositeur."
+        },
+        {
+          "lb": "Serge Tonnar ass och Auteur.",
+          "fr": "Serge Tonnar est aussi auteur."
+        },
+        {
+          "lb": "Désirée Nosbusch ass Schauspillerin.",
+          "fr": "Désirée Nosbusch est actrice."
+        },
+        {
+          "lb": "Georges Christen ass Kraaftartist.",
+          "fr": "Georges Christen est un homme fort."
+        },
+        {
+          "lb": "Jean-Claude Juncker ass Politiker.",
+          "fr": "Jean-Claude Juncker est un homme politique."
+        },
+        {
+          "lb": "Marie Muller ass Judoka.",
+          "fr": "Marie Muller est judokate."
+        },
+        {
+          "lb": "Andy Bausch ass Regisseur.",
+          "fr": "Andy Bausch est réalisateur."
+        },
+        {
+          "lb": "Viviane Reding ass Politikerin.",
+          "fr": "Viviane Reding est une femme politique."
+        },
+        {
+          "lb": "Superjhemp ass eng Comic-Figur.",
+          "fr": "Superjhemp est un personnage de bande dessinée."
+        },
+        {
+          "lb": "D'Stad Lëtzebuerg ass d'Haaptstad.",
+          "fr": "La ville de Luxembourg est la capitale."
+        },
+        {
+          "lb": "Serge Tonnar ass 1970 gebuer.",
+          "fr": "Serge Tonnar est né en 1970."
+        }
+      ]
+    }
+  ]
+}
