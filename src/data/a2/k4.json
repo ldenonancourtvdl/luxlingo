@@ -1,0 +1,1517 @@
+{
+  "id": 4,
+  "title": "Ausgesinn a Charakter",
+  "titleFr": "Apparence et caractère",
+  "descriptionFr": "Vous apprenez à décrire et comparer des vêtements, l'apparence et le caractère, et à dire ce qui plaît ou non.",
+  "page": 56,
+  "themes": [
+    {
+      "id": "a2-k4-kleeder-an-accessoiren",
+      "title": "Kleeder an Accessoiren",
+      "titleFr": "Vêtements et accessoires",
+      "vocab": [
+        {
+          "lb": "den Anorak",
+          "fr": "l'anorak"
+        },
+        {
+          "lb": "d'Blus",
+          "fr": "le chemisier"
+        },
+        {
+          "lb": "d'Box",
+          "fr": "le pantalon"
+        },
+        {
+          "lb": "d'Jackett",
+          "fr": "la veste"
+        },
+        {
+          "lb": "d'Jeansbox",
+          "fr": "le jean"
+        },
+        {
+          "lb": "d'Joggingbox",
+          "fr": "le jogging"
+        },
+        {
+          "lb": "d'Kap",
+          "fr": "la casquette"
+        },
+        {
+          "lb": "d'Kleed",
+          "fr": "la robe"
+        },
+        {
+          "lb": "de Kostüm",
+          "fr": "le tailleur"
+        },
+        {
+          "lb": "d'Krawatt",
+          "fr": "la cravate"
+        },
+        {
+          "lb": "de Mantel",
+          "fr": "le manteau"
+        },
+        {
+          "lb": "d'Mutz",
+          "fr": "le bonnet"
+        },
+        {
+          "lb": "d'Posch",
+          "fr": "le sac"
+        },
+        {
+          "lb": "de Pullover",
+          "fr": "le pull"
+        },
+        {
+          "lb": "de Rack",
+          "fr": "la jupe"
+        },
+        {
+          "lb": "de Schal",
+          "fr": "l'écharpe"
+        },
+        {
+          "lb": "d'Strëmp",
+          "fr": "les chaussettes"
+        },
+        {
+          "lb": "den T-Shirt",
+          "fr": "le tee-shirt"
+        },
+        {
+          "lb": "aus Lieder",
+          "fr": "en cuir"
+        },
+        {
+          "lb": "getëppelt",
+          "fr": "à pois"
+        },
+        {
+          "lb": "gesträift",
+          "fr": "rayé"
+        },
+        {
+          "lb": "karéiert",
+          "fr": "à carreaux"
+        },
+        {
+          "lb": "geblummelecht",
+          "fr": "à fleurs"
+        },
+        {
+          "lb": "schick",
+          "fr": "chic"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech hunn eng blo Jackett un.",
+          "fr": "Je porte une veste bleue."
+        },
+        {
+          "lb": "De Schal ass aus Woll.",
+          "fr": "L'écharpe est en laine."
+        },
+        {
+          "lb": "D'Posch ass aus Lieder.",
+          "fr": "Le sac est en cuir."
+        },
+        {
+          "lb": "Mäi wäisst Hiem ass nei.",
+          "fr": "Ma chemise blanche est neuve."
+        },
+        {
+          "lb": "Deng schwaarz Schong si schick.",
+          "fr": "Tes chaussures noires sont chics."
+        },
+        {
+          "lb": "Hien huet e karéiert Hiem un.",
+          "fr": "Il porte une chemise à carreaux."
+        },
+        {
+          "lb": "D'Sandalen si brong.",
+          "fr": "Les sandales sont brunes."
+        },
+        {
+          "lb": "Ech brauch eng waarm Mutz.",
+          "fr": "J'ai besoin d'un bonnet chaud."
+        },
+        {
+          "lb": "De Rack ass ze kuerz.",
+          "fr": "La jupe est trop courte."
+        },
+        {
+          "lb": "D'Krawatt passt zum Kostüm.",
+          "fr": "La cravate va avec le tailleur."
+        }
+      ],
+      "readings": [
+        {
+          "title": "D'Lara sicht Kleeder",
+          "text": "D'Lara huet muer en Entretien an der Stad. Si sicht owes laang an hirer Garderob. Fir d'éischt hëlt si eng Jeansbox, mä déi ass ze sportlech. Duerno probéiert si e bloe Rack an eng wäiss Blus. Dat gesäit schick aus, awer et ass kal. Dofir hëlt si nach eng gro Jackett an e liichte Schal. Hir schwaarz Posch ass aus Lieder a passt gutt dobäi. D'Tallekeschong sinn nei, mee si kann domat gutt goen. Um Enn läit alles prett um Stull.",
+          "textFr": "Lara a un entretien demain en ville. Le soir, elle cherche longtemps dans sa garde-robe. D'abord, elle prend un jean, mais il est trop sportif. Ensuite, elle essaie une jupe bleue et un chemisier blanc. Cela fait chic, mais il fait froid. C'est pourquoi elle prend encore une veste grise et une écharpe légère. Son sac noir est en cuir et va bien avec. Les chaussures à talon sont neuves, mais elle peut bien marcher avec. À la fin, tout est prêt sur la chaise.",
+          "questions": [
+            {
+              "lb": "Muer huet d'Lara en Entretien.",
+              "fr": "Demain, Lara a un entretien.",
+              "answer": true
+            },
+            {
+              "lb": "Si wielt direkt eng Joggingbox.",
+              "fr": "Elle choisit directement un jogging.",
+              "answer": false
+            },
+            {
+              "lb": "Hir Posch ass schwaarz.",
+              "fr": "Son sac est noir.",
+              "answer": true
+            },
+            {
+              "lb": "D'Tallekeschong sinn al.",
+              "fr": "Les chaussures à talon sont anciennes.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Am Kleederschaf",
+          "text": "Tom: Kuck, mäi roude Pullover ass nach naass.\nMia: Da huel däin neien T-Shirt an d'Jeansbox.\nTom: Deen T-Shirt ass getëppelt. Ech wëll eppes méi rouegt.\nMia: Deng wäiss Blus ass propper. Mat der groer Jackett gesäit se gutt aus.\nTom: An ech brauch eng Mutz, well et owes kal gëtt.\nMia: Hei ass deng blo Mutz. Vergiess de Schal net.\nTom: Merci. Ech huelen och meng kleng Posch fir de Schlëssel an den Handy.\nMia: Gutt, elo bass du prett fir d'Gebuertsdagsfeier.",
+          "textFr": "Tom : Regarde, mon pull rouge est encore mouillé.\nMia : Alors prends ton nouveau tee-shirt et le jean.\nTom : Ce tee-shirt est à pois. Je veux quelque chose de plus calme.\nMia : Ton chemisier blanc est propre. Avec la veste grise, il est joli.\nTom : Et j'ai besoin d'un bonnet, parce qu'il va faire froid le soir.\nMia : Voici ton bonnet bleu. N'oublie pas l'écharpe.\nTom : Merci. Je prends aussi mon petit sac pour la clé et le téléphone.\nMia : Bien, maintenant tu es prêt pour la fête d'anniversaire.",
+          "questions": [
+            {
+              "lb": "Dem Tom säi Pullover ass naass.",
+              "fr": "Le pull de Tom est mouillé.",
+              "answer": true
+            },
+            {
+              "lb": "Den T-Shirt ass gesträift.",
+              "fr": "Le tee-shirt est rayé.",
+              "answer": false
+            },
+            {
+              "lb": "D'Mia fënnt déi gro Jackett passend.",
+              "fr": "Mia trouve la veste grise adaptée.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tom léisst seng Posch doheem.",
+              "fr": "Tom laisse son sac à la maison.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k4-invitatioune-mat-dresscode",
+      "title": "Invitatioune mat Dresscode",
+      "titleFr": "Invitations avec code vestimentaire",
+      "vocab": [
+        {
+          "lb": "d'Invitatioun",
+          "fr": "l'invitation"
+        },
+        {
+          "lb": "de Dresscode",
+          "fr": "le code vestimentaire"
+        },
+        {
+          "lb": "d'Pool-Party",
+          "fr": "la fête à la piscine"
+        },
+        {
+          "lb": "d'Hochzäit",
+          "fr": "le mariage"
+        },
+        {
+          "lb": "d'Après-Schi-Party",
+          "fr": "la fête d'après-ski"
+        },
+        {
+          "lb": "de Buedmantel",
+          "fr": "le peignoir de bain"
+        },
+        {
+          "lb": "d'Cocktailskleed",
+          "fr": "la robe de cocktail"
+        },
+        {
+          "lb": "de Maillot",
+          "fr": "le maillot de bain"
+        },
+        {
+          "lb": "d'Schwammbox",
+          "fr": "le short de bain"
+        },
+        {
+          "lb": "de Glühwäin",
+          "fr": "le vin chaud"
+        },
+        {
+          "lb": "d'Raclette",
+          "fr": "la raclette"
+        },
+        {
+          "lb": "eppes Liichtes",
+          "fr": "quelque chose de léger"
+        },
+        {
+          "lb": "eppes Schickes",
+          "fr": "quelque chose de chic"
+        },
+        {
+          "lb": "eppes Waarmes",
+          "fr": "quelque chose de chaud"
+        },
+        {
+          "lb": "eppes Bequeemes",
+          "fr": "quelque chose de confortable"
+        },
+        {
+          "lb": "invitéiert sinn",
+          "fr": "être invité"
+        },
+        {
+          "lb": "Bescheed soen",
+          "fr": "prévenir"
+        },
+        {
+          "lb": "matbréngen",
+          "fr": "apporter"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech sinn op eng Pool-Party invitéiert.",
+          "fr": "Je suis invité à une fête à la piscine."
+        },
+        {
+          "lb": "Wat soll ech undoen?",
+          "fr": "Qu'est-ce que je dois mettre ?"
+        },
+        {
+          "lb": "Du kanns däi Maillot undoen.",
+          "fr": "Tu peux mettre ton maillot de bain."
+        },
+        {
+          "lb": "Bréng däi Buedmantel mat!",
+          "fr": "Apporte ton peignoir de bain !"
+        },
+        {
+          "lb": "Fir d'Hochzäit brauch ech eppes Schickes.",
+          "fr": "Pour le mariage, j'ai besoin de quelque chose de chic."
+        },
+        {
+          "lb": "Dat Cocktailskleed ass elegant.",
+          "fr": "Cette robe de cocktail est élégante."
+        },
+        {
+          "lb": "Sot eis w.e.g. Bescheed.",
+          "fr": "Prévenez-nous, s'il vous plaît."
+        },
+        {
+          "lb": "Ech huelen e waarme Pullover.",
+          "fr": "Je prends un pull chaud."
+        },
+        {
+          "lb": "De Dresscode ass sportlech.",
+          "fr": "Le code vestimentaire est sportif."
+        },
+        {
+          "lb": "Bei der Raclette gëtt et Glühwäin.",
+          "fr": "À la raclette, il y aura du vin chaud."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng Invitatioun am Summer",
+          "text": "De Summer ass do! E Samschdeg invitéieren d'Julie an de Marc hir Frënn op eng Pool-Party am Gaart. D'Party fänkt um véier Auer nomëttes un. Jidderee soll eppes Liichtes undoen an e Maillot matbréngen. D'Kanner kënne vu fënnef Auer un schwammen. Et gëtt Zalot, Jus a spéider och Musek. De Dresscode ass summerlech: kee Kostüm, keng Krawatt, mee Sandalen a faarweg T-Shirten. Wann et owes méi kal gëtt, läit eng Jackett am Haus. D'Gäscht sollen bis e Mëttwoch Bescheed soen, ob si komme kënnen.",
+          "textFr": "L'été est là ! Samedi, Julie et Marc invitent leurs amis à une fête à la piscine dans le jardin. La fête commence à quatre heures de l'après-midi. Chacun doit mettre quelque chose de léger et apporter un maillot de bain. Les enfants pourront nager à partir de cinq heures. Il y aura de la salade, du jus et plus tard aussi de la musique. Le code vestimentaire est estival : pas de tailleur, pas de cravate, mais des sandales et des tee-shirts colorés. S'il fait plus froid le soir, il y a une veste dans la maison. Les invités doivent prévenir avant mercredi s'ils peuvent venir.",
+          "questions": [
+            {
+              "lb": "D'Party ass e Samschdeg am Gaart.",
+              "fr": "La fête a lieu samedi dans le jardin.",
+              "answer": true
+            },
+            {
+              "lb": "D'Gäscht solle Kostümer undoen.",
+              "fr": "Les invités doivent mettre des tailleurs.",
+              "answer": false
+            },
+            {
+              "lb": "E Maillot ass fir d'Party néideg.",
+              "fr": "Un maillot de bain est nécessaire pour la fête.",
+              "answer": true
+            },
+            {
+              "lb": "Si sollen eréischt um Freideg äntweren.",
+              "fr": "Ils doivent répondre seulement vendredi.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Virun der Hochzäit",
+          "text": "Nora: Kuck, mir sinn op dem Luc seng Hochzäit invitéiert.\nPaul: Flott! Steet e Dresscode op der Invitatioun?\nNora: Jo, schick an elegant. Ech hunn awer kee laangt Kleed.\nPaul: Däi bloe Rack an deng wäiss Blus si ganz flott.\nNora: Fir eng Hochzäit wëll ech léiwer e Cocktailskleed.\nPaul: Da gi mir muer an de Buttek. Ech brauch och eng nei Krawatt.\nNora: Gutt. Fir d'Après-Schi-Party nächste Mount brauche mir dann eppes Waarmes.\nPaul: Do huelen ech mäi Pullover an deng rout Mutz mat.",
+          "textFr": "Nora : Regarde, nous sommes invités au mariage de Luc.\nPaul : Chouette ! Y a-t-il un code vestimentaire sur l'invitation ?\nNora : Oui, chic et élégant. Mais je n'ai pas de longue robe.\nPaul : Ta jupe bleue et ton chemisier blanc sont très jolis.\nNora : Pour un mariage, je préfère une robe de cocktail.\nPaul : Alors nous irons demain au magasin. J'ai aussi besoin d'une nouvelle cravate.\nNora : Bien. Pour l'après-ski le mois prochain, nous aurons besoin de quelque chose de chaud.\nPaul : Là, j'apporterai mon pull et ton bonnet rouge.",
+          "questions": [
+            {
+              "lb": "D'Nora an de Paul ginn op eng Hochzäit.",
+              "fr": "Nora et Paul vont à un mariage.",
+              "answer": true
+            },
+            {
+              "lb": "Den Dresscode ass sportlech.",
+              "fr": "Le code vestimentaire est sportif.",
+              "answer": false
+            },
+            {
+              "lb": "De Paul brauch eng nei Krawatt.",
+              "fr": "Paul a besoin d'une nouvelle cravate.",
+              "answer": true
+            },
+            {
+              "lb": "D'Après-Schi-Party ass muer.",
+              "fr": "L'après-ski a lieu demain.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k4-am-kleederbuttek",
+      "title": "Am Kleederbuttek",
+      "titleFr": "Au magasin de vêtements",
+      "vocab": [
+        {
+          "lb": "de Kleederbuttek",
+          "fr": "le magasin de vêtements"
+        },
+        {
+          "lb": "d'Minijup",
+          "fr": "la minijupe"
+        },
+        {
+          "lb": "de laange Rack",
+          "fr": "la jupe longue"
+        },
+        {
+          "lb": "dat wäisst Hiem",
+          "fr": "la chemise blanche"
+        },
+        {
+          "lb": "deen T-Shirt",
+          "fr": "ce tee-shirt"
+        },
+        {
+          "lb": "déi gro Box",
+          "fr": "ce pantalon gris"
+        },
+        {
+          "lb": "déi brong Schong",
+          "fr": "ces chaussures brunes"
+        },
+        {
+          "lb": "d'Proufkummer",
+          "fr": "la cabine d'essayage"
+        },
+        {
+          "lb": "d'Gréisst",
+          "fr": "la taille (vêtement)"
+        },
+        {
+          "lb": "de Präis",
+          "fr": "le prix"
+        },
+        {
+          "lb": "d'Solden",
+          "fr": "les soldes"
+        },
+        {
+          "lb": "bëlleg",
+          "fr": "bon marché"
+        },
+        {
+          "lb": "deier",
+          "fr": "cher"
+        },
+        {
+          "lb": "méi flott wéi",
+          "fr": "plus joli que"
+        },
+        {
+          "lb": "net esou gutt wéi",
+          "fr": "pas aussi bien que"
+        },
+        {
+          "lb": "grad esou kuerz wéi",
+          "fr": "aussi court que"
+        },
+        {
+          "lb": "besser wéi",
+          "fr": "mieux que"
+        },
+        {
+          "lb": "léiwer wéi",
+          "fr": "plutôt que"
+        },
+        {
+          "lb": "probéieren",
+          "fr": "essayer"
+        },
+        {
+          "lb": "gefallen",
+          "fr": "plaire"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "D'Minijup ass méi bëlleg wéi de Rack.",
+          "fr": "La minijupe est moins chère que la jupe."
+        },
+        {
+          "lb": "De Mantel ass méi deier wéi d'Jackett.",
+          "fr": "Le manteau est plus cher que la veste."
+        },
+        {
+          "lb": "Dat Hiem gefält mir besser.",
+          "fr": "Cette chemise me plaît mieux."
+        },
+        {
+          "lb": "Ech hunn deen T-Shirt léiwer.",
+          "fr": "Je préfère ce tee-shirt."
+        },
+        {
+          "lb": "Déi brong Schong si flott.",
+          "fr": "Ces chaussures brunes sont jolies."
+        },
+        {
+          "lb": "Kann ech d'Box probéieren?",
+          "fr": "Puis-je essayer le pantalon ?"
+        },
+        {
+          "lb": "D'Proufkummer ass do riets.",
+          "fr": "La cabine d'essayage est là à droite."
+        },
+        {
+          "lb": "De Präis ass ze héich.",
+          "fr": "Le prix est trop élevé."
+        },
+        {
+          "lb": "D'Jackett ass net esou waarm wéi de Mantel.",
+          "fr": "La veste n'est pas aussi chaude que le manteau."
+        },
+        {
+          "lb": "Dëse Pullover ass grad esou bequem wéi deen.",
+          "fr": "Ce pull est tout aussi confortable que celui-là."
+        }
+      ],
+      "readings": [
+        {
+          "title": "An de Solden",
+          "text": "No der Aarbecht geet de Sam an de Kleederbuttek. An der Fënster gesäit hien eng gro Box an e faarwegen T-Shirt. D'Box ass an de Solden a kascht nëmmen zwanzeg Euro. De Sam probéiert se an der Proufkummer, mä si ass ze laang. D'Verkeeferin bréngt him eng méi kuerz Box. Dee faarwegen T-Shirt gefält him net esou gutt wéi dat wäisst Hiem. Um Enn keeft hien d'Box an dat Hiem. D'Schong keeft hien net, well de Präis ze héich ass.",
+          "textFr": "Après le travail, Sam va au magasin de vêtements. Dans la vitrine, il voit un pantalon gris et un tee-shirt coloré. Le pantalon est en soldes et coûte seulement vingt euros. Sam l'essaie dans la cabine, mais il est trop long. La vendeuse lui apporte un pantalon plus court. Le tee-shirt coloré ne lui plaît pas autant que la chemise blanche. À la fin, il achète le pantalon et la chemise. Il n'achète pas les chaussures, parce que le prix est trop élevé.",
+          "questions": [
+            {
+              "lb": "De Sam geet no der Aarbecht shoppen.",
+              "fr": "Sam va faire les magasins après le travail.",
+              "answer": true
+            },
+            {
+              "lb": "D'Box kascht fofzeg Euro.",
+              "fr": "Le pantalon coûte cinquante euros.",
+              "answer": false
+            },
+            {
+              "lb": "D'Verkeeferin bréngt eng méi kuerz Box.",
+              "fr": "La vendeuse apporte un pantalon plus court.",
+              "answer": true
+            },
+            {
+              "lb": "De Sam keeft och d'Schong.",
+              "fr": "Sam achète aussi les chaussures.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng Noriicht un d'Mara",
+          "text": "Salut Mara,\n\nech war haut am neie Buttek an der Groussgaass. D'Faarwe si flott, mee net alles passt. Ech hunn eng Minijup probéiert; si war méi bëlleg wéi de laange Rack, awer ze kuerz fir mech. Eng blo Jackett war schéin, mä net esou bequem wéi meng al Jackett doheem. Am beschte war dat wäisst Hiem. Et ass aus Kotteng, net deier an et passt gutt bei meng schwaarz Box. Ech kommen muer nach eng Kéier mat dir dohinner.\n\nBis geschwënn,\nTessy",
+          "textFr": "Salut Mara,\n\nj'étais aujourd'hui dans le nouveau magasin de la Grand-Rue. Les couleurs sont jolies, mais tout ne va pas. J'ai essayé une minijupe ; elle était moins chère que la jupe longue, mais trop courte pour moi. Une veste bleue était belle, mais pas aussi confortable que ma vieille veste à la maison. Le mieux était la chemise blanche. Elle est en coton, pas chère et elle va bien avec mon pantalon noir. Je reviendrai demain avec toi.\n\nÀ bientôt,\nTessy",
+          "questions": [
+            {
+              "lb": "D'Tessy war an engem neie Buttek.",
+              "fr": "Tessy était dans un nouveau magasin.",
+              "answer": true
+            },
+            {
+              "lb": "D'Minijup war méi deier wéi de Rack.",
+              "fr": "La minijupe était plus chère que la jupe.",
+              "answer": false
+            },
+            {
+              "lb": "Dat wäisst Hiem passt bei d'Box.",
+              "fr": "La chemise blanche va avec le pantalon.",
+              "answer": true
+            },
+            {
+              "lb": "D'Tessy wëll net méi zréckgoen.",
+              "fr": "Tessy ne veut plus y retourner.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k4-d-ausgesinn",
+      "title": "D'Ausgesinn",
+      "titleFr": "L'apparence",
+      "vocab": [
+        {
+          "lb": "d'Aen",
+          "fr": "les yeux"
+        },
+        {
+          "lb": "den Aarm",
+          "fr": "le bras"
+        },
+        {
+          "lb": "de Bak",
+          "fr": "la joue"
+        },
+        {
+          "lb": "de Bauch",
+          "fr": "le ventre"
+        },
+        {
+          "lb": "d'Been",
+          "fr": "la jambe"
+        },
+        {
+          "lb": "de Fanger",
+          "fr": "le doigt"
+        },
+        {
+          "lb": "d'Figur",
+          "fr": "la silhouette"
+        },
+        {
+          "lb": "de Fouss",
+          "fr": "le pied"
+        },
+        {
+          "lb": "d'Gesiicht",
+          "fr": "le visage"
+        },
+        {
+          "lb": "den Hals",
+          "fr": "le cou"
+        },
+        {
+          "lb": "d'Hand",
+          "fr": "la main"
+        },
+        {
+          "lb": "d'Hoer",
+          "fr": "les cheveux"
+        },
+        {
+          "lb": "de Kënn",
+          "fr": "le menton"
+        },
+        {
+          "lb": "de Mond",
+          "fr": "la bouche"
+        },
+        {
+          "lb": "d'Nues",
+          "fr": "le nez"
+        },
+        {
+          "lb": "d'Ouer",
+          "fr": "l'oreille"
+        },
+        {
+          "lb": "blond",
+          "fr": "blond"
+        },
+        {
+          "lb": "gekrauselt",
+          "fr": "bouclé"
+        },
+        {
+          "lb": "geschminkt",
+          "fr": "maquillé"
+        },
+        {
+          "lb": "glat",
+          "fr": "lisse"
+        },
+        {
+          "lb": "korpulent",
+          "fr": "corpulent"
+        },
+        {
+          "lb": "schlank",
+          "fr": "mince"
+        },
+        {
+          "lb": "tätowéiert",
+          "fr": "tatoué"
+        },
+        {
+          "lb": "ongefleegt",
+          "fr": "négligé"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "D'Fra huet laang Hoer.",
+          "fr": "La femme a les cheveux longs."
+        },
+        {
+          "lb": "De Mann ass zimlech kleng.",
+          "fr": "L'homme est assez petit."
+        },
+        {
+          "lb": "Hir Ae si blo.",
+          "fr": "Ses yeux sont bleus."
+        },
+        {
+          "lb": "Seng Hoer si kuerz.",
+          "fr": "Ses cheveux sont courts."
+        },
+        {
+          "lb": "Hien huet e Baart.",
+          "fr": "Il a une barbe."
+        },
+        {
+          "lb": "Si huet eng laang Nues.",
+          "fr": "Elle a un long nez."
+        },
+        {
+          "lb": "Hir Figur ass schlank.",
+          "fr": "Sa silhouette est mince."
+        },
+        {
+          "lb": "Säi Gesiicht ass ronn.",
+          "fr": "Son visage est rond."
+        },
+        {
+          "lb": "Hien ass um Aarm tätowéiert.",
+          "fr": "Il est tatoué au bras."
+        },
+        {
+          "lb": "Si huet gekrauselt Hoer.",
+          "fr": "Elle a les cheveux bouclés."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng Beschreiwung vun der Police",
+          "text": "D'Police sicht eng Fra, déi gëschter owes an enger Bijouterie zu Diddeleng war. Si ass ongeféier ee Meter fënnefasiwwenzeg grouss a schlank. Hir Hoer si laang, brong a gekrauselt. Si hat eng donkel Jackett, e kuerze Rack an héich Schong un. Si huet eng kleng schwaarz Posch gedroen. Op der lénkser Hand huet si eng Tätowéierung mat engem Stär. D'Fra war geschminkt an hat e grousse Sonnebrëll un. Si geet lues a kuckt dacks op de Buedem. Wien si gesäit, soll d'Police uruffen.",
+          "textFr": "La police cherche une femme qui était hier soir dans une bijouterie à Dudelange. Elle mesure environ un mètre soixante-quinze et elle est mince. Ses cheveux sont longs, bruns et bouclés. Elle portait une veste foncée, une jupe courte et des chaussures hautes. Elle portait un petit sac noir. Sur la main gauche, elle a un tatouage avec une étoile. La femme était maquillée et portait de grandes lunettes de soleil. Elle marche lentement et regarde souvent le sol. Celui qui la voit doit appeler la police.",
+          "questions": [
+            {
+              "lb": "D'Fra ass ongeféier 1,75 Meter grouss.",
+              "fr": "La femme mesure environ 1,75 m.",
+              "answer": true
+            },
+            {
+              "lb": "Hir Hoer si kuerz a blond.",
+              "fr": "Ses cheveux sont courts et blonds.",
+              "answer": false
+            },
+            {
+              "lb": "Si hat eng schwaarz Posch dobäi.",
+              "fr": "Elle avait un sac noir avec elle.",
+              "answer": true
+            },
+            {
+              "lb": "D'Tätowéierung ass um rietsen Aarm.",
+              "fr": "Le tatouage est sur le bras droit.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Wien ass de Ben?",
+          "text": "Sophie: Ech waarden op mäi Cousin Ben, mä ech hunn hien zanter Joren net gesinn.\nLea: Wéi gesäit hien aus?\nSophie: Hien ass elo méi grouss wéi ech. Hien huet kuerz, glat, blond Hoer an hell Aen.\nLea: Huet hien e Baart?\nSophie: Nee, kee Baart a kee Schnauz. Seng Nues ass kleng, a säi Gesiicht ass e bëssen eckeg.\nLea: An d'Kleeder?\nSophie: Hien huet normalerweis eng Jeansbox an en Hiem un. Haut soll hien eng rout Kap droen.\nLea: Da gesinn ech hien: hien steet bei der Dier.",
+          "textFr": "Sophie : J'attends mon cousin Ben, mais je ne l'ai pas vu depuis des années.\nLea : À quoi ressemble-t-il ?\nSophie : Il est maintenant plus grand que moi. Il a les cheveux courts, lisses et blonds et les yeux clairs.\nLea : A-t-il une barbe ?\nSophie : Non, pas de barbe et pas de moustache. Son nez est petit, et son visage est un peu anguleux.\nLea : Et les vêtements ?\nSophie : Il porte normalement un jean et une chemise. Aujourd'hui, il doit porter une casquette rouge.\nLea : Alors je le vois : il est près de la porte.",
+          "questions": [
+            {
+              "lb": "D'Sophie waart op hire Cousin.",
+              "fr": "Sophie attend son cousin.",
+              "answer": true
+            },
+            {
+              "lb": "De Ben huet laang brong Hoer.",
+              "fr": "Ben a les cheveux longs et bruns.",
+              "answer": false
+            },
+            {
+              "lb": "Säi Gesiicht ass e bëssen eckeg.",
+              "fr": "Son visage est un peu anguleux.",
+              "answer": true
+            },
+            {
+              "lb": "Haut huet hien eng blo Mutz un.",
+              "fr": "Aujourd'hui, il porte un bonnet bleu.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k4-e-casting",
+      "title": "E Casting",
+      "titleFr": "Un casting",
+      "vocab": [
+        {
+          "lb": "de Casting",
+          "fr": "le casting"
+        },
+        {
+          "lb": "de Profil",
+          "fr": "le profil"
+        },
+        {
+          "lb": "d'Roll",
+          "fr": "le rôle"
+        },
+        {
+          "lb": "de Film",
+          "fr": "le film"
+        },
+        {
+          "lb": "de Schauspiller",
+          "fr": "l'acteur"
+        },
+        {
+          "lb": "d'Schauspillerin",
+          "fr": "l'actrice"
+        },
+        {
+          "lb": "d'Jury",
+          "fr": "le jury"
+        },
+        {
+          "lb": "d'Gréisst",
+          "fr": "la taille (personne)"
+        },
+        {
+          "lb": "d'Hautfaarf",
+          "fr": "la couleur de peau"
+        },
+        {
+          "lb": "d'Hoerfaarf",
+          "fr": "la couleur des cheveux"
+        },
+        {
+          "lb": "den Teint",
+          "fr": "le teint"
+        },
+        {
+          "lb": "de Baart",
+          "fr": "la barbe"
+        },
+        {
+          "lb": "de Schnauz",
+          "fr": "la moustache"
+        },
+        {
+          "lb": "d'Tätowéierung",
+          "fr": "le tatouage"
+        },
+        {
+          "lb": "de Piercing",
+          "fr": "le piercing"
+        },
+        {
+          "lb": "d'Presentatioun",
+          "fr": "la présentation"
+        },
+        {
+          "lb": "d'Chance",
+          "fr": "la chance"
+        },
+        {
+          "lb": "d'Bühn",
+          "fr": "la scène"
+        },
+        {
+          "lb": "d'Talent",
+          "fr": "le talent"
+        },
+        {
+          "lb": "den Akzent",
+          "fr": "l'accent"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Mir sichen eng Schauspillerin.",
+          "fr": "Nous cherchons une actrice."
+        },
+        {
+          "lb": "De Casting ass um zéng Auer.",
+          "fr": "Le casting est à dix heures."
+        },
+        {
+          "lb": "Hien huet däischter Hoer.",
+          "fr": "Il a les cheveux foncés."
+        },
+        {
+          "lb": "Si passt gutt an de Profil.",
+          "fr": "Elle correspond bien au profil."
+        },
+        {
+          "lb": "D'Jury fënnt seng Presentatioun gutt.",
+          "fr": "Le jury trouve sa présentation bonne."
+        },
+        {
+          "lb": "Dir kritt eng Roll.",
+          "fr": "Vous obtenez un rôle."
+        },
+        {
+          "lb": "Ech hu vill Talent.",
+          "fr": "J'ai beaucoup de talent."
+        },
+        {
+          "lb": "Si huet Piercingen an Tätowéierungen.",
+          "fr": "Elle a des piercings et des tatouages."
+        },
+        {
+          "lb": "Säi Schnauz ass ze laang.",
+          "fr": "Sa moustache est trop longue."
+        },
+        {
+          "lb": "Sidd Dir interesséiert?",
+          "fr": "Êtes-vous intéressé ?"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Annonce fir e Casting",
+          "text": "Fir en neie Film zu Lëtzebuerg sicht d'Produktioun véier Persounen. De Casting ass e Freideg um zéng Auer op der Kinnekswiss. Fir d'Roll vum Polizist brauche si e Mann mat däischteren Hoer, engem Baart an engem kloeren Akzent. Fir d'Roll vun der Studentin sichen si eng jonk Fra mat hellem Teint a vill Energie. Piercingen an Tätowéierunge si méiglech, awer net obligatoresch. All Kandidat soll eng kuerz Presentatioun virbereeden an zwou Sprooche schwätzen. D'Jury entscheet owes, wien eng Chance kritt.",
+          "textFr": "Pour un nouveau film au Luxembourg, la production cherche quatre personnes. Le casting a lieu vendredi à dix heures à la Kinnekswiss. Pour le rôle du policier, ils ont besoin d'un homme aux cheveux foncés, avec une barbe et un accent clair. Pour le rôle de l'étudiante, ils cherchent une jeune femme au teint clair et avec beaucoup d'énergie. Les piercings et les tatouages sont possibles, mais pas obligatoires. Chaque candidat doit préparer une courte présentation et parler deux langues. Le jury décide le soir qui aura sa chance.",
+          "questions": [
+            {
+              "lb": "De Casting ass e Freideg moies.",
+              "fr": "Le casting a lieu vendredi matin.",
+              "answer": true
+            },
+            {
+              "lb": "Fir de Polizist sichen si eng Fra.",
+              "fr": "Pour le policier, ils cherchent une femme.",
+              "answer": false
+            },
+            {
+              "lb": "All Kandidat brauch eng kuerz Presentatioun.",
+              "fr": "Chaque candidat a besoin d'une courte présentation.",
+              "answer": true
+            },
+            {
+              "lb": "D'Jury entscheet eréischt nächste Mount.",
+              "fr": "Le jury décide seulement le mois prochain.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "No der Presentatioun",
+          "text": "Jury: Moien Sarah, firwat wëllt Dir am Film matmaachen?\nSarah: Ech hunn Theater gespillt an ech stinn gär op der Bühn. Ech schwätzen Lëtzebuergesch, Franséisch an Englesch.\nJury: Ären Akzent ass kloer, an Är Presentatioun war roueg. Hutt Dir eng Tätowéierung?\nSarah: Jo, eng kleng um Hals. Wann dat stéiert, kann ech e Schal undoen.\nJury: Dat ass kee Problem. Mir sichen eng Persoun, déi grouss a motivéiert ass.\nSarah: Ech sinn ee Meter siwwenzeg an ech si ganz motivéiert.\nJury: Merci, mir ruffen Iech den Owend un.",
+          "textFr": "Jury : Bonjour Sarah, pourquoi voulez-vous participer au film ?\nSarah : J'ai joué au théâtre et j'aime être sur scène. Je parle luxembourgeois, français et anglais.\nJury : Votre accent est clair, et votre présentation était calme. Avez-vous un tatouage ?\nSarah : Oui, un petit au cou. Si cela gêne, je peux mettre une écharpe.\nJury : Ce n'est pas un problème. Nous cherchons une personne grande et motivée.\nSarah : Je mesure un mètre soixante-dix et je suis très motivée.\nJury : Merci, nous vous appellerons ce soir.",
+          "questions": [
+            {
+              "lb": "D'Sarah huet Theater gespillt.",
+              "fr": "Sarah a joué au théâtre.",
+              "answer": true
+            },
+            {
+              "lb": "Si schwätzt nëmmen Englesch.",
+              "fr": "Elle parle seulement anglais.",
+              "answer": false
+            },
+            {
+              "lb": "D'Tätowéierung ass kleng.",
+              "fr": "Le tatouage est petit.",
+              "answer": true
+            },
+            {
+              "lb": "D'Jury rifft d'nächst Woch un.",
+              "fr": "Le jury appelle la semaine prochaine.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k4-de-charakter",
+      "title": "De Charakter",
+      "titleFr": "Le caractère",
+      "vocab": [
+        {
+          "lb": "agebilt",
+          "fr": "prétentieux"
+        },
+        {
+          "lb": "arrogant",
+          "fr": "hautain"
+        },
+        {
+          "lb": "egoistesch",
+          "fr": "égoïste"
+        },
+        {
+          "lb": "éiergäizeg",
+          "fr": "ambitieux"
+        },
+        {
+          "lb": "éierlech",
+          "fr": "honnête"
+        },
+        {
+          "lb": "fläisseg",
+          "fr": "travailleur"
+        },
+        {
+          "lb": "generéis",
+          "fr": "généreux"
+        },
+        {
+          "lb": "granzeg",
+          "fr": "de mauvaise humeur"
+        },
+        {
+          "lb": "hëllefsbereet",
+          "fr": "serviable"
+        },
+        {
+          "lb": "jalous",
+          "fr": "jaloux"
+        },
+        {
+          "lb": "knéckeg",
+          "fr": "avare"
+        },
+        {
+          "lb": "langweileg",
+          "fr": "ennuyeux"
+        },
+        {
+          "lb": "liddereg",
+          "fr": "paresseux"
+        },
+        {
+          "lb": "nervös",
+          "fr": "nerveux"
+        },
+        {
+          "lb": "onsécher",
+          "fr": "peu sûr de soi"
+        },
+        {
+          "lb": "onsympathesch",
+          "fr": "antipathique"
+        },
+        {
+          "lb": "pünktlech",
+          "fr": "ponctuel"
+        },
+        {
+          "lb": "schei",
+          "fr": "timide"
+        },
+        {
+          "lb": "sensibel",
+          "fr": "émotif"
+        },
+        {
+          "lb": "stur",
+          "fr": "têtu"
+        },
+        {
+          "lb": "tolerant",
+          "fr": "ouvert d'esprit"
+        },
+        {
+          "lb": "uerdentlech",
+          "fr": "ordonné"
+        },
+        {
+          "lb": "virwëtzeg",
+          "fr": "curieux"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "De Sam ass éierlech.",
+          "fr": "Sam est honnête."
+        },
+        {
+          "lb": "D'Florence ass ganz hëllefsbereet.",
+          "fr": "Florence est très serviable."
+        },
+        {
+          "lb": "Si schafft vill an ass fläisseg.",
+          "fr": "Elle travaille beaucoup et elle est travailleuse."
+        },
+        {
+          "lb": "Den Alex ass e bësse knéckeg.",
+          "fr": "Alex est un peu avare."
+        },
+        {
+          "lb": "De Philip ass immens virwëtzeg.",
+          "fr": "Philip est extrêmement curieux."
+        },
+        {
+          "lb": "D'Nathalie ass haut granzeg.",
+          "fr": "Nathalie est de mauvaise humeur aujourd'hui."
+        },
+        {
+          "lb": "Ech si schei, mä tolerant.",
+          "fr": "Je suis timide, mais ouvert d'esprit."
+        },
+        {
+          "lb": "Mäi Brudder ass ni pünktlech.",
+          "fr": "Mon frère n'est jamais ponctuel."
+        },
+        {
+          "lb": "Deng Schwëster ass generéis.",
+          "fr": "Ta sœur est généreuse."
+        },
+        {
+          "lb": "Sidd net esou jalous!",
+          "fr": "Ne soyez pas si jaloux !"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Véier Zeechen",
+          "text": "An enger Zäitschrëft liest d'Mila iwwer véier Déieren aus dem chineseschen Horoskop. Den Hues ass roueg, éierlech a sensibel. Hien huet Sträit net gär a bleift léiwer doheem. D'Schlaang ass elegant, virwëtzeg a ganz intelligent. Si léiert gäre nei Saachen, mee heiansdo ass si e bëssen liddereg. D'Schwäin ass generéis a kennt vill Leit. Ouni Motivatioun schafft et awer net gär. D'Geess ass pünktlech an uerdentlech, mä och stur. D'Mila laacht, well si bei all Zeechen e bëssen u sech selwer denkt.",
+          "textFr": "Dans un magazine, Mila lit quelque chose sur quatre animaux de l'horoscope chinois. Le lièvre est calme, honnête et sensible. Il n'aime pas les disputes et préfère rester à la maison. Le serpent est élégant, curieux et très intelligent. Il aime apprendre de nouvelles choses, mais il est parfois un peu paresseux. Le cochon est généreux et connaît beaucoup de gens. Sans motivation, il n'aime pourtant pas travailler. La chèvre est ponctuelle et ordonnée, mais aussi têtue. Mila rit, parce qu'à chaque signe elle pense un peu à elle-même.",
+          "questions": [
+            {
+              "lb": "Den Hues huet Konflikter net gär.",
+              "fr": "Le lièvre n'aime pas les conflits.",
+              "answer": true
+            },
+            {
+              "lb": "D'Schlaang ass ni virwëtzeg.",
+              "fr": "Le serpent n'est jamais curieux.",
+              "answer": false
+            },
+            {
+              "lb": "D'Schwäin kennt vill Leit.",
+              "fr": "Le cochon connaît beaucoup de gens.",
+              "answer": true
+            },
+            {
+              "lb": "D'Geess ass ëmmer ganz flexibel.",
+              "fr": "La chèvre est toujours très flexible.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Nei Kollegen",
+          "text": "Chef: Muer komme zwee nei Leit an eis Ekipp.\nLynn: Wéi si se?\nChef: D'Joana ass fläisseg a pünktlech. Si organiséiert gär a schreift alles an hire Kalenner.\nLynn: Dat ass gutt fir eist Büro.\nChef: De Mil ass kreativ a ganz hëllefsbereet. Hie schwätzt vill mat Clienten, well hien net schei ass.\nLynn: Ass hien och uerdentlech?\nChef: Net ëmmer. Säi Schreifdësch ass heiansdo chaotesch, mä hie fënnt alles séier.\nLynn: Da passen déi zwee gutt zesummen. Ech freeë mech op si.",
+          "textFr": "Chef : Demain, deux nouvelles personnes arrivent dans notre équipe.\nLynn : Comment sont-ils ?\nChef : Joana est travailleuse et ponctuelle. Elle aime organiser et écrit tout dans son calendrier.\nLynn : C'est bien pour notre bureau.\nChef : Mil est créatif et très serviable. Il parle beaucoup avec les clients, parce qu'il n'est pas timide.\nLynn : Est-il aussi ordonné ?\nChef : Pas toujours. Son bureau est parfois chaotique, mais il retrouve vite tout.\nLynn : Alors les deux vont bien ensemble. Je me réjouis de les rencontrer.",
+          "questions": [
+            {
+              "lb": "D'Joana kënnt muer an d'Ekipp.",
+              "fr": "Joana arrive demain dans l'équipe.",
+              "answer": true
+            },
+            {
+              "lb": "De Mil schwätzt net gär mat Clienten.",
+              "fr": "Mil n'aime pas parler avec les clients.",
+              "answer": false
+            },
+            {
+              "lb": "De Mil ass net ëmmer uerdentlech.",
+              "fr": "Mil n'est pas toujours ordonné.",
+              "answer": true
+            },
+            {
+              "lb": "D'Lynn ass rosen op déi nei Leit.",
+              "fr": "Lynn est fâchée contre les nouveaux.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k4-um-rouden-teppech",
+      "title": "Um rouden Teppech",
+      "titleFr": "Sur le tapis rouge",
+      "vocab": [
+        {
+          "lb": "de rouden Teppech",
+          "fr": "le tapis rouge"
+        },
+        {
+          "lb": "de Filmpräis",
+          "fr": "le prix de cinéma"
+        },
+        {
+          "lb": "d'Eleganz",
+          "fr": "l'élégance"
+        },
+        {
+          "lb": "de Goût",
+          "fr": "le goût"
+        },
+        {
+          "lb": "d'Coiffure",
+          "fr": "la coiffure"
+        },
+        {
+          "lb": "d'Designerkleed",
+          "fr": "la robe de créateur"
+        },
+        {
+          "lb": "de Fan",
+          "fr": "le fan"
+        },
+        {
+          "lb": "d'Paus",
+          "fr": "la pause"
+        },
+        {
+          "lb": "frëndlech",
+          "fr": "aimable"
+        },
+        {
+          "lb": "glécklech",
+          "fr": "heureux"
+        },
+        {
+          "lb": "midd",
+          "fr": "fatigué"
+        },
+        {
+          "lb": "almoudesch",
+          "fr": "démodé"
+        },
+        {
+          "lb": "ze enk",
+          "fr": "trop serré"
+        },
+        {
+          "lb": "ze grouss",
+          "fr": "trop grand"
+        },
+        {
+          "lb": "net modern",
+          "fr": "pas moderne"
+        },
+        {
+          "lb": "tipptopp passen",
+          "fr": "aller parfaitement"
+        },
+        {
+          "lb": "vill Zäit hunn",
+          "fr": "avoir beaucoup de temps"
+        },
+        {
+          "lb": "Top oder Flop",
+          "fr": "réussite ou échec"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Si geet um rouden Teppech.",
+          "fr": "Elle marche sur le tapis rouge."
+        },
+        {
+          "lb": "D'Kleed passt tipptopp.",
+          "fr": "La robe va parfaitement."
+        },
+        {
+          "lb": "Hien huet e gudde Goût.",
+          "fr": "Il a bon goût."
+        },
+        {
+          "lb": "D'Coiffure ass almoudesch.",
+          "fr": "La coiffure est démodée."
+        },
+        {
+          "lb": "Dat Kleed ass vill ze enk.",
+          "fr": "Cette robe est beaucoup trop serrée."
+        },
+        {
+          "lb": "De Mantel ass ze grouss.",
+          "fr": "Le manteau est trop grand."
+        },
+        {
+          "lb": "Si huet Zäit fir hir Fans.",
+          "fr": "Elle a du temps pour ses fans."
+        },
+        {
+          "lb": "Ech fannen dee Kostüm elegant.",
+          "fr": "Je trouve ce costume élégant."
+        },
+        {
+          "lb": "Elegant ass eppes Aneschtes.",
+          "fr": "L'élégance, c'est autre chose."
+        },
+        {
+          "lb": "De Schauspiller gesäit midd aus.",
+          "fr": "L'acteur a l'air fatigué."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Top beim Filmpräis",
+          "text": "Gëschter Owend war de Lëtzebuerger Filmpräis. Vill Schauspiller sinn iwwer de rouden Teppech gaangen. D'Mia war fir eis kloer Top. Hiert gréngt Designerkleed war elegant, awer net ze streng. Hir schwaarz Schong an déi kleng Posch hu perfekt dobäi gepasst. Si war frëndlech, huet mat de Fans geschwat a Fotoe gemaach. De Rob war och schick, mä säi Mantel war e bëssen ze grouss. Hie gesäit trotzdeem glécklech aus. D'Fotografen hunn him vill Froe gestallt, an hien huet gelaacht. Eis Kritik: méi Faarf wier nach besser gewiescht.",
+          "textFr": "Hier soir avait lieu le Prix du cinéma luxembourgeois. Beaucoup d'acteurs sont passés sur le tapis rouge. Pour nous, Mia était clairement une réussite. Sa robe de créateur verte était élégante, mais pas trop stricte. Ses chaussures noires et le petit sac allaient parfaitement avec. Elle était aimable, elle a parlé avec les fans et pris des photos. Rob était chic aussi, mais son manteau était un peu trop grand. Malgré tout, il a l'air heureux. Les photographes lui ont posé beaucoup de questions, et il a ri. Notre critique : plus de couleur aurait été encore mieux.",
+          "questions": [
+            {
+              "lb": "D'Mia war kloer Top.",
+              "fr": "Mia était clairement une réussite.",
+              "answer": true
+            },
+            {
+              "lb": "Hiert Kleed war rout.",
+              "fr": "Sa robe était rouge.",
+              "answer": false
+            },
+            {
+              "lb": "De Rob säi Mantel war ze grouss.",
+              "fr": "Le manteau de Rob était trop grand.",
+              "answer": true
+            },
+            {
+              "lb": "D'Kritik wollt manner Faarf gesinn.",
+              "fr": "La critique voulait voir moins de couleur.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "SMS vum rouden Teppech",
+          "text": "Léif Kim,\n\nech hëllefen haut beim Festival. Ech stinn nieft dem rouden Teppech a weisen de Gäscht de Wee. Eng Sängerin huet eng Coiffure am 80er-Jore-Stil; ech fannen dat net modern, mä ganz witzeg. E jonke Regisseur koum mat wäissen Turnschlappen an engem schwaarze Kostüm. Dat war ongewéinlech, awer et huet gutt ausgesinn. Eng aner Actrice hat e Kleed un, dat vill ze enk war. Si konnt kaum goen an hat keng Zäit fir Fotoen. Ech sinn midd, mee frou.\n\nTom",
+          "textFr": "Chère Kim,\n\naujourd'hui, j'aide au festival. Je me tiens près du tapis rouge et j'indique le chemin aux invités. Une chanteuse a une coiffure de style années 80 ; je ne trouve pas cela moderne, mais très drôle. Un jeune réalisateur est arrivé avec des baskets blanches et un costume noir. C'était inhabituel, mais c'était beau. Une autre actrice portait une robe beaucoup trop serrée. Elle pouvait à peine marcher et n'avait pas de temps pour les photos. Je suis fatigué, mais content.\n\nTom",
+          "questions": [
+            {
+              "lb": "Den Tom hëlleft beim Festival.",
+              "fr": "Tom aide au festival.",
+              "answer": true
+            },
+            {
+              "lb": "D'Sängerin huet eng ganz modern Coiffure.",
+              "fr": "La chanteuse a une coiffure très moderne.",
+              "answer": false
+            },
+            {
+              "lb": "De Regisseur hat wäiss Turnschlappen un.",
+              "fr": "Le réalisateur portait des baskets blanches.",
+              "answer": true
+            },
+            {
+              "lb": "D'Actrice konnt séier lafen.",
+              "fr": "L'actrice pouvait courir vite.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k4-land-a-leit-film-zu-letzebuerg",
+      "title": "Land a Leit: Film zu Lëtzebuerg",
+      "titleFr": "Pays et gens : le cinéma au Luxembourg",
+      "vocab": [
+        {
+          "lb": "d'Filmproduktioun",
+          "fr": "la production cinématographique"
+        },
+        {
+          "lb": "den Documentaire",
+          "fr": "le documentaire"
+        },
+        {
+          "lb": "de Kuerzfilm",
+          "fr": "le court métrage"
+        },
+        {
+          "lb": "de Laangspillfilm",
+          "fr": "le long métrage"
+        },
+        {
+          "lb": "d'Filmgeschicht",
+          "fr": "l'histoire du cinéma"
+        },
+        {
+          "lb": "de Regisseur",
+          "fr": "le réalisateur"
+        },
+        {
+          "lb": "de Produzent",
+          "fr": "le producteur"
+        },
+        {
+          "lb": "d'Koproduktioun",
+          "fr": "la coproduction"
+        },
+        {
+          "lb": "de Film Fund",
+          "fr": "le fonds du cinéma"
+        },
+        {
+          "lb": "de Filmpräis",
+          "fr": "le prix du cinéma"
+        },
+        {
+          "lb": "de Festival",
+          "fr": "le festival"
+        },
+        {
+          "lb": "de Präis",
+          "fr": "la récompense"
+        },
+        {
+          "lb": "d'Première",
+          "fr": "la première"
+        },
+        {
+          "lb": "d'Originalsprooch",
+          "fr": "la langue originale"
+        },
+        {
+          "lb": "d'Affiche",
+          "fr": "l'affiche"
+        },
+        {
+          "lb": "de Krimi",
+          "fr": "le film policier"
+        },
+        {
+          "lb": "de Kannerfilm",
+          "fr": "le film pour enfants"
+        },
+        {
+          "lb": "d'Comédie",
+          "fr": "la comédie"
+        },
+        {
+          "lb": "den historesche Film",
+          "fr": "le film historique"
+        },
+        {
+          "lb": "nominéiert sinn",
+          "fr": "être nommé"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "De Film spillt am Éislek.",
+          "fr": "Le film se déroule dans l'Oesling."
+        },
+        {
+          "lb": "D'Originalsprooch ass Lëtzebuergesch.",
+          "fr": "La langue originale est le luxembourgeois."
+        },
+        {
+          "lb": "De Regisseur kënnt aus Lëtzebuerg.",
+          "fr": "Le réalisateur vient du Luxembourg."
+        },
+        {
+          "lb": "De Kuerzfilm huet en Oscar gewonnen.",
+          "fr": "Le court métrage a gagné un Oscar."
+        },
+        {
+          "lb": "Vill Leit schaffen un enger Produktioun.",
+          "fr": "Beaucoup de personnes travaillent sur une production."
+        },
+        {
+          "lb": "All Joer ginn hei Filmer gedréit.",
+          "fr": "Chaque année, on tourne des films ici."
+        },
+        {
+          "lb": "Den Documentaire ass kuerz.",
+          "fr": "Le documentaire est court."
+        },
+        {
+          "lb": "De Filmpräis ass all zwee Joer.",
+          "fr": "Le prix du cinéma a lieu tous les deux ans."
+        },
+        {
+          "lb": "Schatzritter ass e Kannerfilm.",
+          "fr": "Schatzritter est un film pour enfants."
+        },
+        {
+          "lb": "E Krimi ass spannend.",
+          "fr": "Un film policier est captivant."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng kuerz Filmgeschicht",
+          "text": "D'Filmgeschicht zu Lëtzebuerg huet mat Documentairen a Kuerzfilmer ugefaangen. An den 1980er Joren ass de Kino méi grouss ginn. De Film Troublemaker vum Andy Bausch hat och am Ausland Succès. Méi spéit koume vill Koproduktioune mat auslännesche Regisseuren a Produzenten. Zënter 1990 ënnerstëtzt de Film Fund Luxembourg d'Produktiounen. Hautdesdaags ginn all Joer ongeféier fofzéng Filmer am Land gedréit. Ronn sechshonnert Leit schaffen als Techniker, Kënschtler, Produzenten oder Regisseuren un dëse Projeten. D'Filmpräisser maachen déi bescht Aarbechten och méi bekannt.",
+          "textFr": "L'histoire du cinéma au Luxembourg a commencé avec des documentaires et des courts métrages. Dans les années 1980, le cinéma est devenu plus important. Le film Troublemaker d'Andy Bausch a aussi eu du succès à l'étranger. Plus tard, de nombreuses coproductions sont arrivées avec des réalisateurs et producteurs étrangers. Depuis 1990, le Film Fund Luxembourg soutient les productions. Aujourd'hui, environ quinze films sont tournés chaque année dans le pays. Environ six cents personnes travaillent comme techniciens, artistes, producteurs ou réalisateurs sur ces projets. Les prix du cinéma rendent aussi les meilleurs travaux plus connus.",
+          "questions": [
+            {
+              "lb": "Am Ufank gouf et Documentairen a Kuerzfilmer.",
+              "fr": "Au début, il y avait des documentaires et des courts métrages.",
+              "answer": true
+            },
+            {
+              "lb": "Troublemaker hat nëmmen hei Succès.",
+              "fr": "Troublemaker a eu du succès seulement ici.",
+              "answer": false
+            },
+            {
+              "lb": "De Film Fund gëtt et zënter 1990.",
+              "fr": "Le Film Fund existe depuis 1990.",
+              "answer": true
+            },
+            {
+              "lb": "Haut ginn all Joer honnert Filmer gedréit.",
+              "fr": "Aujourd'hui, cent films sont tournés chaque année.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Véier Lëtzebuerger Filmer",
+          "text": "Am Kino leeft dës Woch e klenge Lëtzebuerger Programm. De Club des Chômeurs ass eng Comédie iwwer fënnef Kollegen am Minett, déi léiwer am Chômage bleiwen. Doudege Wénkel ass e Krimi: no engem Mord sicht d'Police no wichtegen Dokumenter. Schatzritter ass e Kannerfilm mat engem Jong, engem Camping an engem ale Schatz. Emil ass en historesche Film aus dem Zweete Weltkrich. Bei all Film steet op der Affiche d'Produktiounsland, d'Première, d'Originalsprooch an de Regisseur. No der Séance diskutéieren d'Zuschauer iwwer de Genre.",
+          "textFr": "Cette semaine, le cinéma propose un petit programme luxembourgeois. De Club des Chômeurs est une comédie sur cinq collègues dans le Minett qui préfèrent rester au chômage. Doudege Wénkel est un film policier : après un meurtre, la police cherche des documents importants. Schatzritter est un film pour enfants avec un garçon, un camping et un vieux trésor. Emil est un film historique sur la Seconde Guerre mondiale. Sur chaque affiche figurent le pays de production, la première, la langue originale et le réalisateur. Après la séance, les spectateurs discutent du genre.",
+          "questions": [
+            {
+              "lb": "Den éischte Film ass eng Comédie.",
+              "fr": "Le premier film est une comédie.",
+              "answer": true
+            },
+            {
+              "lb": "Doudege Wénkel ass e Kannerfilm.",
+              "fr": "Doudege Wénkel est un film pour enfants.",
+              "answer": false
+            },
+            {
+              "lb": "Schatzritter spillt och um Camping.",
+              "fr": "Schatzritter se passe aussi au camping.",
+              "answer": true
+            },
+            {
+              "lb": "Op der Affiche feelt de Regisseur ëmmer.",
+              "fr": "Sur l'affiche, le réalisateur manque toujours.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

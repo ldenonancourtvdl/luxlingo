@@ -6,7 +6,7 @@
   "page": 22,
   "themes": [
     {
-      "id": "k2-1-2-3",
+      "id": "a1-k2-1-2-3",
       "title": "1, 2, 3, …",
       "titleFr": "Un, deux, trois, …",
       "vocab": [
@@ -136,10 +136,66 @@
           "lb": "Mir sinn néng Leit.",
           "fr": "Nous sommes neuf personnes."
         }
+      ],
+      "readings": [
+        {
+          "title": "Zuelen am Cours",
+          "text": "Am Cours zielt d'Nora. De Paul huet dräi Ticketen. D'Claudine huet uechtzéng Joer. Mir sinn néng Leit. Den Här Weber huet een Auto. D'Madame Ries huet zwee Kanner. De Bus kënnt an zéng Minutten. Et kascht fofzéng Euro.",
+          "textFr": "Au cours, Nora compte. Paul a trois billets. Claudine a dix-huit ans. Nous sommes neuf personnes. Monsieur Weber a une voiture. Madame Ries a deux enfants. Le bus arrive dans dix minutes. Cela coûte quinze euros.",
+          "questions": [
+            {
+              "lb": "De Paul ass mat dräi Ticketen do.",
+              "fr": "Paul est là avec trois billets.",
+              "answer": true
+            },
+            {
+              "lb": "D'Claudine huet zwanzeg Joer.",
+              "fr": "Claudine a vingt ans.",
+              "answer": false
+            },
+            {
+              "lb": "Am Cours sinn néng Leit.",
+              "fr": "Au cours, il y a neuf personnes.",
+              "answer": true
+            },
+            {
+              "lb": "Den Här Weber huet zwee Autoen.",
+              "fr": "Monsieur Weber a deux voitures.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng SMS fir den Tom",
+          "text": "Moien Tom,\n\nech hunn haut véier Still an zwee Kanner am Sall. Siwe Leit kommen. De Luca huet eelef Ticketen an d'Mia huet zwielef Käerzen. Mir gesinn och aacht Kanner. D'Party ass de Mëtteg. Äddi, bis muer!\n\nMara",
+          "textFr": "Salut Tom,\n\naujourd'hui, j'ai quatre chaises et deux enfants dans la salle. Sept personnes viennent. Luca a onze billets et Mia a douze bougies. Nous voyons aussi huit enfants. La fête est à midi. Au revoir, à demain !\n\nMara",
+          "questions": [
+            {
+              "lb": "D'Mara schreift un den Tom.",
+              "fr": "Mara écrit à Tom.",
+              "answer": true
+            },
+            {
+              "lb": "Véier Leit kommen haut.",
+              "fr": "Quatre personnes viennent aujourd'hui.",
+              "answer": false
+            },
+            {
+              "lb": "Bei der Mia sinn zwielef Käerzen.",
+              "fr": "Chez Mia, il y a douze bougies.",
+              "answer": true
+            },
+            {
+              "lb": "D'Party ass den Owend.",
+              "fr": "La fête est le soir.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k2-d-zuelen",
+      "id": "a1-k2-d-zuelen",
       "title": "D'Zuelen",
       "titleFr": "Les nombres",
       "vocab": [
@@ -269,10 +325,66 @@
           "lb": "Dat kascht honnert Euro.",
           "fr": "Cela coûte cent euros."
         }
+      ],
+      "readings": [
+        {
+          "title": "Eng Lëscht mat Zuelen",
+          "text": "Am Cours ass eng kleng Lëscht. Den Ticket kascht fofzeg Euro. Zwee Tickete kaschte siwwenzeg Euro. D'Hausnummer ass nénganzwanzeg. D'Nummer um Formulaire huet aacht Zuelen. Et sinn zweehonnert Leit hei. Mir fuere véierzeg Kilometer bis an d'Stad. Dat mécht honnert Euro fir de Bus.",
+          "textFr": "Au cours, il y a une petite liste. Le billet coûte cinquante euros. Deux billets coûtent soixante-dix euros. Le numéro de maison est vingt-neuf. Le numéro sur le formulaire a huit chiffres. Il y a deux cents personnes ici. Nous roulons quarante kilomètres jusqu'en ville. Cela fait cent euros pour le bus.",
+          "questions": [
+            {
+              "lb": "Een Ticket ass fofzeg Euro.",
+              "fr": "Un billet coûte cinquante euros.",
+              "answer": true
+            },
+            {
+              "lb": "Zwee Tickete kaschte siechzeg Euro.",
+              "fr": "Deux billets coûtent soixante euros.",
+              "answer": false
+            },
+            {
+              "lb": "D'Hausnummer huet d'Zuel nénganzwanzeg.",
+              "fr": "Le numéro de maison est vingt-neuf.",
+              "answer": true
+            },
+            {
+              "lb": "D'Nummer huet véier Zuelen.",
+              "fr": "Le numéro a quatre chiffres.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "D'Tickete vum Marc",
+          "text": "Marc: Wéi vill Leit sinn hei?\nAnne: Zweehonnert Leit. D'Zuel ass grouss.\nMarc: An d'Tickete?\nAnne: Den Ticket kascht fofzeg Euro. Zwee Tickete kaschten honnert Euro.\nMarc: Wéi ass d'Hausnummer?\nAnne: Si ass eenanzwanzeg. Meng Telefonsnummer huet aacht Zuelen.",
+          "textFr": "Marc : Combien de personnes sont ici ?\nAnne : Deux cents personnes. Le nombre est grand.\nMarc : Et les billets ?\nAnne : Le billet coûte cinquante euros. Deux billets coûtent cent euros.\nMarc : Quel est le numéro de maison ?\nAnne : C'est vingt et un. Mon numéro de téléphone a huit chiffres.",
+          "questions": [
+            {
+              "lb": "Et sinn zweehonnert Leit hei.",
+              "fr": "Il y a deux cents personnes ici.",
+              "answer": true
+            },
+            {
+              "lb": "Den Ticket kascht véierzeg Euro.",
+              "fr": "Le billet coûte quarante euros.",
+              "answer": false
+            },
+            {
+              "lb": "D'Hausnummer ass eenanzwanzeg.",
+              "fr": "Le numéro de maison est vingt et un.",
+              "answer": true
+            },
+            {
+              "lb": "D'Telefonsnummer huet néng Zuelen.",
+              "fr": "Le numéro de téléphone a neuf chiffres.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k2-wei-ass-d-telefonsnummer",
+      "id": "a1-k2-wei-ass-d-telefonsnummer",
       "title": "Wéi ass d'Telefonsnummer?",
       "titleFr": "Quel est le numéro de téléphone ?",
       "vocab": [
@@ -374,10 +486,66 @@
           "lb": "D'Nummer ass net richteg.",
           "fr": "Le numéro n'est pas correct."
         }
+      ],
+      "readings": [
+        {
+          "title": "Eng Nummer fir den Tom",
+          "text": "Madame Weber: Gudde Moien. Wéi ass Är Telefonsnummer?\nTom: Meng Telefonsnummer ass 26 31 44.\nMadame Weber: Kënnt Dir dat widderhuelen?\nTom: Jo, 26 31 44. Meng Handysnummer ass 621 45 67.\nMadame Weber: Ee Moment. Ech notéieren d'Nummer direkt. Ech brauch keng Faxnummer.",
+          "textFr": "Madame Weber : Bonjour. Quel est votre numéro de téléphone ?\nTom : Mon numéro de téléphone est le 26 31 44.\nMadame Weber : Pouvez-vous répéter cela ?\nTom : Oui, le 26 31 44. Mon numéro de portable est le 621 45 67.\nMadame Weber : Un instant. Je note le numéro tout de suite. Je n'ai pas besoin du numéro de fax.",
+          "questions": [
+            {
+              "lb": "Dem Tom seng Telefonsnummer ass 26 31 44.",
+              "fr": "Le numéro de téléphone de Tom est le 26 31 44.",
+              "answer": true
+            },
+            {
+              "lb": "Seng Handysnummer ass 621 45 68.",
+              "fr": "Son numéro de portable est le 621 45 68.",
+              "answer": false
+            },
+            {
+              "lb": "D'Madame Weber notéiert d'Nummer direkt.",
+              "fr": "Madame Weber note le numéro tout de suite.",
+              "answer": true
+            },
+            {
+              "lb": "D'Madame Weber brauch d'Faxnummer.",
+              "fr": "Madame Weber a besoin du numéro de fax.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Notiz fir de Renseignement",
+          "text": "Notiz fir de Renseignement: Den Här Klein telefonéiert. Et ass dréngend. D'Virwal ass 00352. D'Nummer ass 48 20 17. D'Extensioun ass néng. Madame Ries notéiert d'Nummer nach eng Kéier. D'Faxnummer ass net richteg. D'Handysnummer brauch si net.",
+          "textFr": "Note pour le service de renseignements : Monsieur Klein téléphone. C'est urgent. L'indicatif est 00352. Le numéro est le 48 20 17. Le poste interne est neuf. Madame Ries note le numéro encore une fois. Le numéro de fax n'est pas correct. Elle n'a pas besoin du numéro de portable.",
+          "questions": [
+            {
+              "lb": "Den Uruff vum Här Klein ass dréngend.",
+              "fr": "L'appel de Monsieur Klein est urgent.",
+              "answer": true
+            },
+            {
+              "lb": "D'Virwal ass 00353.",
+              "fr": "L'indicatif est 00353.",
+              "answer": false
+            },
+            {
+              "lb": "D'Extensioun huet d'Zuel néng.",
+              "fr": "Le poste interne a le chiffre neuf.",
+              "answer": true
+            },
+            {
+              "lb": "D'Faxnummer ass richteg.",
+              "fr": "Le numéro de fax est correct.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k2-wat-fir-en-dag-ass-haut",
+      "id": "a1-k2-wat-fir-en-dag-ass-haut",
       "title": "Wat fir en Dag ass haut?",
       "titleFr": "Quel jour sommes-nous aujourd'hui ?",
       "vocab": [
@@ -523,10 +691,66 @@
           "lb": "Elo ass de Wanter.",
           "fr": "Maintenant, c'est l'hiver."
         }
+      ],
+      "readings": [
+        {
+          "title": "Haut a muer",
+          "text": "Haut ass Méindeg. Muer ass Dënschdeg. Am Cours zielt d'Nora d'Méint. E Joer huet zwielef Méint. De Februar huet aachtanzwanzeg Deeg. Elo ass de Wanter. De Wanter ass vun Dezember bis Mäerz. Am Summer schwätze mir Franséisch doheem.",
+          "textFr": "Aujourd'hui, nous sommes lundi. Demain, nous serons mardi. Au cours, Nora compte les mois. Une année a douze mois. Février a vingt-huit jours. Maintenant, c'est l'hiver. L'hiver va de décembre à mars. En été, nous parlons français à la maison.",
+          "questions": [
+            {
+              "lb": "Den Dag haut ass Méindeg.",
+              "fr": "Aujourd'hui, c'est lundi.",
+              "answer": true
+            },
+            {
+              "lb": "Muer ass Mëttwoch.",
+              "fr": "Demain, nous serons mercredi.",
+              "answer": false
+            },
+            {
+              "lb": "De Februar huet 28 Deeg.",
+              "fr": "Février a 28 jours.",
+              "answer": true
+            },
+            {
+              "lb": "Elo ass de Summer.",
+              "fr": "Maintenant, c'est l'été.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Klenge Programm",
+          "text": "Klenge Programm: De Cours ass de Mëttwoch. De Restaurant ass de Freideg op. D'Party ass de Samschdeg. De Sonndeg ass d'Famill doheem. D'Fréijoer ass vu Mäerz bis Juni. Den Hierscht ass vu September bis Dezember. De Wanter ass vun Dezember bis Mäerz.",
+          "textFr": "Petit programme : le cours est mercredi. Le restaurant est ouvert vendredi. La fête est samedi. Le dimanche, la famille est à la maison. Le printemps va de mars à juin. L'automne va de septembre à décembre. L'hiver va de décembre à mars.",
+          "questions": [
+            {
+              "lb": "De Cours ass um Mëttwoch.",
+              "fr": "Le cours est le mercredi.",
+              "answer": true
+            },
+            {
+              "lb": "De Restaurant ass Méindeg op.",
+              "fr": "Le restaurant est ouvert lundi.",
+              "answer": false
+            },
+            {
+              "lb": "D'Party ass um Samschdeg.",
+              "fr": "La fête est le samedi.",
+              "answer": true
+            },
+            {
+              "lb": "Den Hierscht ass vu Mee bis Dezember.",
+              "fr": "L'automne va de mai à décembre.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k2-weini-hutt-dir-gebuertsdag",
+      "id": "a1-k2-weini-hutt-dir-gebuertsdag",
       "title": "Wéini hutt Dir Gebuertsdag?",
       "titleFr": "Quand avez-vous votre anniversaire ?",
       "vocab": [
@@ -648,10 +872,66 @@
           "lb": "Den Tom huet den aachte Mee Gebuertsdag.",
           "fr": "Tom a son anniversaire le huit mai."
         }
+      ],
+      "readings": [
+        {
+          "title": "Dem Luca seng Party",
+          "text": "Léif Mia,\n\nhaut feiert de Luca Gebuertsdag. Säi Gebuertsdag ass de 14. Abrëll. Hien huet zwanzeg Joer. D'Famill ass am Restaurant. D'Kollegen kommen och. De Luca kritt vill Kaddoen. Ech kréien am Summer 24 Joer.\n\nÄddi,\nTom",
+          "textFr": "Chère Mia,\n\naujourd'hui, Luca fête son anniversaire. Son anniversaire est le 14 avril. Il a vingt ans. La famille est au restaurant. Les collègues viennent aussi. Luca reçoit beaucoup de cadeaux. J'aurai 24 ans en été.\n\nAu revoir,\nTom",
+          "questions": [
+            {
+              "lb": "De Luca huet haut seng Party.",
+              "fr": "Luca a sa fête aujourd'hui.",
+              "answer": true
+            },
+            {
+              "lb": "Säi Gebuertsdag ass den aachte Mee.",
+              "fr": "Son anniversaire est le huit mai.",
+              "answer": false
+            },
+            {
+              "lb": "Am Restaurant ass d'Famill.",
+              "fr": "La famille est au restaurant.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tom kritt drësseg Joer.",
+              "fr": "Tom aura trente ans.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Wéini ass Gebuertsdag",
+          "text": "Anne: Wéini hutt Dir Gebuertsdag, Här Klein?\nHär Klein: Mäi Gebuertsdag ass den éischte Januar.\nAnne: Wéi al sidd Dir?\nHär Klein: Ech hunn drësseg Joer.\nAnne: An d'Mia?\nHär Klein: Si ass den drëtten August gebuer. Si feiert mat der Famill. Si invitéiert d'Kollegen net.",
+          "textFr": "Anne : Quand avez-vous votre anniversaire, Monsieur Klein ?\nMonsieur Klein : Mon anniversaire est le premier janvier.\nAnne : Quel âge avez-vous ?\nMonsieur Klein : J'ai trente ans.\nAnne : Et Mia ?\nMonsieur Klein : Elle est née le trois août. Elle fête avec la famille. Elle n'invite pas les collègues.",
+          "questions": [
+            {
+              "lb": "Den Här Klein huet am Januar Gebuertsdag.",
+              "fr": "Monsieur Klein a son anniversaire en janvier.",
+              "answer": true
+            },
+            {
+              "lb": "Hien huet véierzeg Joer.",
+              "fr": "Il a quarante ans.",
+              "answer": false
+            },
+            {
+              "lb": "D'Mia ass am August gebuer.",
+              "fr": "Mia est née en août.",
+              "answer": true
+            },
+            {
+              "lb": "D'Mia invitéiert d'Kollegen.",
+              "fr": "Mia invite les collègues.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k2-wou-wunnt-dir",
+      "id": "a1-k2-wou-wunnt-dir",
       "title": "Wou wunnt Dir?",
       "titleFr": "Où habitez-vous ?",
       "vocab": [
@@ -785,10 +1065,66 @@
           "lb": "Ech schaffen hei zu Lëtzebuerg.",
           "fr": "Je travaille ici au Luxembourg."
         }
+      ],
+      "readings": [
+        {
+          "title": "Eng Visittekaart",
+          "text": "Op der Visittekaart steet: Nora Klein. Si wunnt zu Lëtzebuerg, um Lampertsbierg. Hir Adress ass einfach. D'Uertschaft ass d'Stad Lëtzebuerg. D'Nora kënnt aus der Belsch, vun Arel. Elo schafft si hei zu Lëtzebuerg. Hir Handysnummer ass och op der Kaart.",
+          "textFr": "Sur la carte de visite, il est écrit : Nora Klein. Elle habite au Luxembourg, au Limpertsberg. Son adresse est simple. La localité est la ville de Luxembourg. Nora vient de Belgique, d'Arlon. Maintenant, elle travaille ici au Luxembourg. Son numéro de portable est aussi sur la carte.",
+          "questions": [
+            {
+              "lb": "D'Nora wunnt um Lampertsbierg.",
+              "fr": "Nora habite au Limpertsberg.",
+              "answer": true
+            },
+            {
+              "lb": "Hir Adress ass am Gronn.",
+              "fr": "Son adresse est dans le Grund.",
+              "answer": false
+            },
+            {
+              "lb": "D'Nora kënnt vun Arel.",
+              "fr": "Nora vient d'Arlon.",
+              "answer": true
+            },
+            {
+              "lb": "Si schafft elo a Frankräich.",
+              "fr": "Elle travaille maintenant en France.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Wou wunnt d'Madame Ries",
+          "text": "Marc: Wou wunnt Dir, Madame Ries?\nMadame Ries: Ech wunnen zu Esch-Uelzecht.\nMarc: Wunnt Dir an Däitschland?\nMadame Ries: Nee, ech wunnen zu Lëtzebuerg. Meng Adress ass op der Kaart.\nMarc: Wunnt Dir op der Gare?\nMadame Ries: Nee, ech wunnen net op der Gare. De Nick wunnt an der Stad.",
+          "textFr": "Marc : Où habitez-vous, Madame Ries ?\nMadame Ries : J'habite à Esch-sur-Alzette.\nMarc : Habitez-vous en Allemagne ?\nMadame Ries : Non, j'habite au Luxembourg. Mon adresse est sur la carte.\nMarc : Habitez-vous dans le quartier de la Gare ?\nMadame Ries : Non, je n'habite pas dans le quartier de la Gare. Nick habite en ville.",
+          "questions": [
+            {
+              "lb": "D'Madame Ries wunnt zu Esch-Uelzecht.",
+              "fr": "Madame Ries habite à Esch-sur-Alzette.",
+              "answer": true
+            },
+            {
+              "lb": "Si wunnt an Däitschland.",
+              "fr": "Elle habite en Allemagne.",
+              "answer": false
+            },
+            {
+              "lb": "Hir Adress ass op der Kaart.",
+              "fr": "Son adresse est sur la carte.",
+              "answer": true
+            },
+            {
+              "lb": "D'Madame Ries wunnt op der Gare.",
+              "fr": "Madame Ries habite dans le quartier de la Gare.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k2-wei-ass-ar-e-mail-adress",
+      "id": "a1-k2-wei-ass-ar-e-mail-adress",
       "title": "Wéi ass Är E-Mail-Adress?",
       "titleFr": "Quelle est votre adresse e-mail ?",
       "vocab": [
@@ -914,10 +1250,66 @@
           "lb": "Ech kucken am Computer.",
           "fr": "Je regarde sur l'ordinateur."
         }
+      ],
+      "readings": [
+        {
+          "title": "Eng Fiche am Computer",
+          "text": "Am Bierger-Center sicht Madame Weber d'Fiche. Si freet: «Wéi ass Är E-Mail-Adress?» De Tom seet: «tom punkt klein at web punkt lu.» Madame Weber notéiert d'Donnéeën am Computer. D'Handysnummer ass 621 45 67. De Formulaire ass komplett, an den Dossier ass aktuell.",
+          "textFr": "Au centre des citoyens, Madame Weber cherche la fiche. Elle demande : « Quelle est votre adresse e-mail ? » Tom dit : « tom point klein arobase web point lu. » Madame Weber note les données dans l'ordinateur. Le numéro de portable est le 621 45 67. Le formulaire est complet, et le dossier est à jour.",
+          "questions": [
+            {
+              "lb": "D'Madame Weber sicht dem Tom seng Fiche.",
+              "fr": "Madame Weber cherche la fiche de Tom.",
+              "answer": true
+            },
+            {
+              "lb": "Dem Tom seng Adress ass tom at web.",
+              "fr": "L'adresse de Tom est tom arobase web.",
+              "answer": false
+            },
+            {
+              "lb": "Dem Tom seng Handysnummer ass 621 45 67.",
+              "fr": "Le numéro de portable est le 621 45 67.",
+              "answer": true
+            },
+            {
+              "lb": "Den Dossier ass net aktuell.",
+              "fr": "Le dossier n'est pas à jour.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng nei E-Mail",
+          "text": "Moien Anne,\n\nech hunn eng nei E-Mail-Adress. Si ass nora bindestréch meyer at mail punkt lu. De Virnumm ass Nora, de Numm ass Meyer. Ech notéieren d'Donnéeën am Computer. D'Fiche ass nei, mee den Dossier ass net aktuell. De Formulaire ass net komplett.\n\nÄddi,\nNora",
+          "textFr": "Salut Anne,\n\nj'ai une nouvelle adresse e-mail. C'est nora trait d'union meyer arobase mail point lu. Le prénom est Nora, le nom est Meyer. Je note les données dans l'ordinateur. La fiche est nouvelle, mais le dossier n'est pas à jour. Le formulaire n'est pas complet.\n\nAu revoir,\nNora",
+          "questions": [
+            {
+              "lb": "D'Nora huet eng nei E-Mail-Adress.",
+              "fr": "Nora a une nouvelle adresse e-mail.",
+              "answer": true
+            },
+            {
+              "lb": "Hire Familljennumm ass Klein.",
+              "fr": "Son nom de famille est Klein.",
+              "answer": false
+            },
+            {
+              "lb": "Den Dossier ass net aktuell.",
+              "fr": "Le dossier n'est pas à jour.",
+              "answer": true
+            },
+            {
+              "lb": "De Formulaire ass komplett.",
+              "fr": "Le formulaire est complet.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k2-sidd-dir-bestuet",
+      "id": "a1-k2-sidd-dir-bestuet",
       "title": "Sidd Dir bestuet?",
       "titleFr": "Êtes-vous marié(e) ?",
       "vocab": [
@@ -1035,10 +1427,66 @@
           "lb": "Mäi Mann kënnt aus Däitschland.",
           "fr": "Mon mari vient d'Allemagne."
         }
+      ],
+      "readings": [
+        {
+          "title": "Eng Fiche Famill",
+          "text": "Op der Fiche steet d'Familljesituatioun. D'Anne ass bestuet. Hire Mann kënnt aus Däitschland. Si hunn ee Kand, e Bouf. De Bouf huet véier Joer. Si hunn kee Meedchen. D'Anne schafft zu Lëtzebuerg. Hire Mann schwätzt e bësse Franséisch.",
+          "textFr": "Sur la fiche figure la situation familiale. Anne est mariée. Son mari vient d'Allemagne. Ils ont un enfant, un fils. Le fils a quatre ans. Ils n'ont pas de fille. Anne travaille au Luxembourg. Son mari parle un peu français.",
+          "questions": [
+            {
+              "lb": "D'Anne ass eng bestuete Fra.",
+              "fr": "Anne est une femme mariée.",
+              "answer": true
+            },
+            {
+              "lb": "Hire Mann kënnt aus Frankräich.",
+              "fr": "Son mari vient de France.",
+              "answer": false
+            },
+            {
+              "lb": "Si hunn ee Bouf.",
+              "fr": "Ils ont un fils.",
+              "answer": true
+            },
+            {
+              "lb": "D'Famill huet zwee Meedercher.",
+              "fr": "La famille a deux filles.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "De Paul ass Jonggesell",
+          "text": "Tom: Sidd Dir bestuet, Paul?\nPaul: Nee, ech si Jonggesell.\nTom: Hutt Dir Kanner?\nPaul: Nee, ech hu keng Kanner. D'Mia ass gescheet. Si huet zwee Jongen. Meng Fra? Nee, ech hunn keng Fra.\nTom: An d'Anne?\nPaul: D'Anne ass Jonggesellin.",
+          "textFr": "Tom : Êtes-vous marié, Paul ?\nPaul : Non, je suis célibataire.\nTom : Avez-vous des enfants ?\nPaul : Non, je n'ai pas d'enfants. Mia est divorcée. Elle a deux garçons. Ma femme ? Non, je n'ai pas de femme.\nTom : Et Anne ?\nPaul : Anne est célibataire.",
+          "questions": [
+            {
+              "lb": "De Paul ass net bestuet.",
+              "fr": "Paul n'est pas marié.",
+              "answer": true
+            },
+            {
+              "lb": "De Paul huet Kanner.",
+              "fr": "Paul a des enfants.",
+              "answer": false
+            },
+            {
+              "lb": "D'Mia huet zwee Jongen.",
+              "fr": "Mia a deux garçons.",
+              "answer": true
+            },
+            {
+              "lb": "D'Anne ass bestuet.",
+              "fr": "Anne est mariée.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k2-um-bierger-center",
+      "id": "a1-k2-um-bierger-center",
       "title": "Um Bierger-Center",
       "titleFr": "Au centre des citoyens",
       "vocab": [
@@ -1180,10 +1628,66 @@
           "lb": "D'Handysnummer ass notéiert.",
           "fr": "Le numéro de portable est noté."
         }
+      ],
+      "readings": [
+        {
+          "title": "Um Comptoir",
+          "text": "Um Bierger-Center freet d'Mara: «Wéi kann ech Iech hëllefen?» Den Här Klein seet: «Ech wëll mech umellen.» D'Mara sicht seng Fiche. Si brauch seng Telefonsnummer, seng Adress an d'E-Mail-Adress. Den Här Klein huet ee Kand, e Bouf. Den Dossier ass komplett. Hien ass elo offiziell Awunner.",
+          "textFr": "Au centre des citoyens, Mara demande : « Comment puis-je vous aider ? » Monsieur Klein dit : « Je veux m'inscrire. » Mara cherche sa fiche. Elle a besoin de son numéro de téléphone, de son adresse et de son adresse e-mail. Monsieur Klein a un enfant, un fils. Le dossier est complet. Il est maintenant officiellement habitant.",
+          "questions": [
+            {
+              "lb": "Den Här Klein wëll sech umellen.",
+              "fr": "Monsieur Klein veut s'inscrire.",
+              "answer": true
+            },
+            {
+              "lb": "D'Mara brauch seng Faxnummer.",
+              "fr": "Mara a besoin de son numéro de fax.",
+              "answer": false
+            },
+            {
+              "lb": "Hien huet ee Bouf.",
+              "fr": "Il a un fils.",
+              "answer": true
+            },
+            {
+              "lb": "Säin Dossier ass net komplett.",
+              "fr": "Son dossier n'est pas complet.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Den Dossier vun der Ries",
+          "text": "Am Dossier vun der Madame Ries: Si wëll sech umellen. Hir nei Adress ass zu Lëtzebuerg. D'Handysnummer ass notéiert. D'E-Mail-Adress ass aktuell. Zwee Kanner wunnen hei: e Bouf an e Meedchen. D'Awunnerin brauch eng offiziell Fiche. De Bierger-Center hëlleft haut.",
+          "textFr": "Dans le dossier de Madame Ries : elle veut s'inscrire. Sa nouvelle adresse est au Luxembourg. Le numéro de portable est noté. L'adresse e-mail est à jour. Deux enfants habitent ici : un garçon et une fille. L'habitante a besoin d'une fiche officielle. Le centre des citoyens aide aujourd'hui.",
+          "questions": [
+            {
+              "lb": "D'Madame Ries wëll sech umellen.",
+              "fr": "Madame Ries veut s'inscrire.",
+              "answer": true
+            },
+            {
+              "lb": "Hir nei Adress ass an der Belsch.",
+              "fr": "Sa nouvelle adresse est en Belgique.",
+              "answer": false
+            },
+            {
+              "lb": "Hei wunnen zwee Kanner.",
+              "fr": "Deux enfants habitent ici.",
+              "answer": true
+            },
+            {
+              "lb": "D'Awunnerin brauch keng offiziell Fiche.",
+              "fr": "L'habitante n'a pas besoin de fiche officielle.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k2-land-a-leit-fester-a-feierdeeg-zu-letzebuerg",
+      "id": "a1-k2-land-a-leit-fester-a-feierdeeg-zu-letzebuerg",
       "title": "Land a Leit: Fester a Feierdeeg zu Lëtzebuerg",
       "titleFr": "Pays et gens : fêtes et jours fériés au Luxembourg",
       "vocab": [
@@ -1332,6 +1836,62 @@
         {
           "lb": "D'Kanner bastelen eppes Flottes.",
           "fr": "Les enfants bricolent quelque chose de joli."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Fester am Joer",
+          "text": "Zu Lëtzebuerg ginn et vill Fester. Liichtmëssdag ass den 2. Februar. D'Kanner kréie Kamellen. Den Dag vun der Aarbecht ass am Mee. Den Nationalfeierdag ass den 23. Juni. D'Schueberfouer ass am August. Um Chrëschtmaart ass e Chrëschtbeemchen.",
+          "textFr": "Au Luxembourg, il y a beaucoup de fêtes. La Chandeleur est le 2 février. Les enfants reçoivent des bonbons. La fête du Travail est en mai. La fête nationale est le 23 juin. La Schueberfouer est en août. Au marché de Noël, il y a un petit sapin.",
+          "questions": [
+            {
+              "lb": "Den 2. Februar ass Liichtmëssdag.",
+              "fr": "Le 2 février, c'est la Chandeleur.",
+              "answer": true
+            },
+            {
+              "lb": "Den Nationalfeierdag ass am Mee.",
+              "fr": "La fête nationale est en mai.",
+              "answer": false
+            },
+            {
+              "lb": "Am August ass d'Schueberfouer.",
+              "fr": "En août, il y a la Schueberfouer.",
+              "answer": true
+            },
+            {
+              "lb": "Um Chrëschtmaart steet kee Chrëschtbeemchen.",
+              "fr": "Au marché de Noël, il n'y a pas de petit sapin.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Froen iwwer Feierdeeg",
+          "text": "Mia: Wéini ass Chrëschtdag?\nTom: Chrëschtdag ass de 25. Dezember.\nMia: An de Kleeserchersdag?\nTom: De Kleeserchersdag ass de 6. Dezember. D'Kanner kréie Kamellen a Schockela.\nMia: Ass d'Sprangpressessioun zu Esch-Uelzecht?\nTom: Nee, d'Leit sprangen zu Iechternach. D'Sprangpressessioun steet op der UNESCO-Lëscht.",
+          "textFr": "Mia : Quand est Noël ?\nTom : Noël est le 25 décembre.\nMia : Et la Saint-Nicolas ?\nTom : La Saint-Nicolas est le 6 décembre. Les enfants reçoivent des bonbons et du chocolat.\nMia : La procession dansante est-elle à Esch-sur-Alzette ?\nTom : Non, les gens sautent à Echternach. La procession dansante est sur la liste de l'UNESCO.",
+          "questions": [
+            {
+              "lb": "De 25. Dezember ass Chrëschtdag.",
+              "fr": "Le 25 décembre, c'est Noël.",
+              "answer": true
+            },
+            {
+              "lb": "Kleeserchersdag ass am Juni.",
+              "fr": "La Saint-Nicolas est en juin.",
+              "answer": false
+            },
+            {
+              "lb": "D'Kanner kréien och Schockela.",
+              "fr": "Les enfants reçoivent aussi du chocolat.",
+              "answer": true
+            },
+            {
+              "lb": "D'Leit sprangen zu Esch-Uelzecht.",
+              "fr": "Les gens sautent à Esch-sur-Alzette.",
+              "answer": false
+            }
+          ]
         }
       ]
     }

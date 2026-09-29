@@ -1,0 +1,1569 @@
+{
+  "id": 2,
+  "title": "Wunnen",
+  "titleFr": "Habiter",
+  "descriptionFr": "Vous apprenez à comprendre des annonces de logement, à décrire une habitation et à parler des tâches ménagères.",
+  "page": 24,
+  "themes": [
+    {
+      "id": "a2-k2-verschidde-wunnengen",
+      "title": "Verschidde Wunnengen",
+      "titleFr": "Différents logements",
+      "vocab": [
+        {
+          "lb": "wunnen",
+          "fr": "habiter"
+        },
+        {
+          "lb": "d'Reienhaus",
+          "fr": "la maison mitoyenne"
+        },
+        {
+          "lb": "d'Persoun",
+          "fr": "la personne"
+        },
+        {
+          "lb": "de Quadratmeter",
+          "fr": "le mètre carré"
+        },
+        {
+          "lb": "d'Appartement",
+          "fr": "l'appartement"
+        },
+        {
+          "lb": "d'Wunngemeinschaft",
+          "fr": "la colocation"
+        },
+        {
+          "lb": "d'Zëmmer",
+          "fr": "la chambre"
+        },
+        {
+          "lb": "de Loyer",
+          "fr": "le loyer"
+        },
+        {
+          "lb": "d'Haus",
+          "fr": "la maison"
+        },
+        {
+          "lb": "den Noper",
+          "fr": "le voisin"
+        },
+        {
+          "lb": "d'Nopesch",
+          "fr": "la voisine"
+        },
+        {
+          "lb": "de Stack",
+          "fr": "l'étage"
+        },
+        {
+          "lb": "d'Leit",
+          "fr": "les gens"
+        },
+        {
+          "lb": "bëlleg",
+          "fr": "bon marché"
+        },
+        {
+          "lb": "deier",
+          "fr": "cher"
+        },
+        {
+          "lb": "praktesch",
+          "fr": "pratique"
+        },
+        {
+          "lb": "eleng",
+          "fr": "seul"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech wunnen an engem Reienhaus.",
+          "fr": "J'habite dans une maison mitoyenne."
+        },
+        {
+          "lb": "Meng Wunneng ass net grouss.",
+          "fr": "Mon logement n'est pas grand."
+        },
+        {
+          "lb": "Mir hunn zwee Zëmmeren.",
+          "fr": "Nous avons deux chambres."
+        },
+        {
+          "lb": "D'Appartement ass ze kleng.",
+          "fr": "L'appartement est trop petit."
+        },
+        {
+          "lb": "De Loyer ass net deier.",
+          "fr": "Le loyer n'est pas cher."
+        },
+        {
+          "lb": "Hatt wunnt eleng zu Miersch.",
+          "fr": "Elle habite seule à Mersch."
+        },
+        {
+          "lb": "De Studio ass praktesch.",
+          "fr": "Le studio est pratique."
+        },
+        {
+          "lb": "D'Nopere si ganz léif.",
+          "fr": "Les voisins sont très gentils."
+        },
+        {
+          "lb": "Mir wunnen an enger WG.",
+          "fr": "Nous habitons dans une colocation."
+        },
+        {
+          "lb": "Am Haus wunnen zwou Persounen.",
+          "fr": "Deux personnes habitent dans la maison."
+        },
+        {
+          "lb": "Zu Wolz ass et méi roueg.",
+          "fr": "À Wiltz, c'est plus calme."
+        },
+        {
+          "lb": "Dat Appartement ass bëlleg.",
+          "fr": "Cet appartement est bon marché."
+        }
+      ],
+      "readings": [
+        {
+          "title": "E Bréif vum Paul",
+          "text": "Léiwe Marc,\n\nech wunnen zanter laangem zu Réimech. Meng Fra an ech hunn e Reienhaus mat 120 Quadratmeter. Fir eis zwee ass dat bal ze grouss, well eis zwee Kanner net méi hei wunnen. Si hunn hir eege Famill. Eis Nopere si roueg, an de klenge Gaart mécht eis vill Freed. De Loyer ass net deier, well d'Haus eis gehéiert. Wann d'Enkelkanner de Weekend kommen, ass et erëm voll a lieweg. Da kache mir zesummen a sëtzen an der Stuff.\n\nBis geschwënn,\nPaul",
+          "textFr": "Cher Marc,\n\nj'habite depuis longtemps à Remich. Ma femme et moi avons une maison mitoyenne de 120 mètres carrés. Pour nous deux, c'est presque trop grand, parce que nos deux enfants n'habitent plus ici. Ils ont leur propre famille. Nos voisins sont calmes, et le petit jardin nous fait très plaisir. Le loyer n'est pas cher, car la maison nous appartient. Quand les petits-enfants viennent le week-end, c'est de nouveau plein et animé. Alors nous cuisinons ensemble et nous nous asseyons dans le salon.\n\nÀ bientôt,\nPaul",
+          "questions": [
+            {
+              "lb": "De Paul lieft zu Réimech.",
+              "fr": "Paul vit à Remich.",
+              "answer": true
+            },
+            {
+              "lb": "Hien huet e klenge Studio.",
+              "fr": "Il a un petit studio.",
+              "answer": false
+            },
+            {
+              "lb": "Seng Kanner wunnen net méi do.",
+              "fr": "Ses enfants n'habitent plus là.",
+              "answer": true
+            },
+            {
+              "lb": "D'Enkelkanner kommen all Mëttwoch.",
+              "fr": "Les petits-enfants viennent tous les mercredis.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng kleng WG",
+          "text": "D'Lea studéiert Economie op der Uni Lëtzebuerg. Si wunnt mat dräi Studenten an enger Wunngemeinschaft zu Mamer. D'Appartement huet 100 Quadratmeter an all Persoun huet hiert eegent Zëmmer. D'Kichen ass grouss, mä d'Stuff ass e bësse kleng. De Loyer ass fir d'Lea an der Rei, well d'Appartement net wäit vun der Uni ass. Si fiert moies mam Bus op de Campus. Owes kachen d'Leit heiansdo zesummen. De Weekend bleift d'Lea gär doheem, well hir Nopere roueg sinn.",
+          "textFr": "Lea étudie l'économie à l'Université du Luxembourg. Elle habite avec trois étudiants dans une colocation à Mamer. L'appartement fait 100 mètres carrés et chaque personne a sa propre chambre. La cuisine est grande, mais le salon est un peu petit. Le loyer convient à Lea, car l'appartement n'est pas loin de l'université. Le matin, elle va au campus en bus. Le soir, les gens cuisinent parfois ensemble. Le week-end, Lea aime rester à la maison, parce que ses voisins sont calmes.",
+          "questions": [
+            {
+              "lb": "D'Lea wunnt mat anere Studenten.",
+              "fr": "Lea habite avec d'autres étudiants.",
+              "answer": true
+            },
+            {
+              "lb": "D'Appartement huet nëmme 50 Quadratmeter.",
+              "fr": "L'appartement ne fait que 50 mètres carrés.",
+              "answer": false
+            },
+            {
+              "lb": "D'Kichen ass méi grouss wéi d'Stuff.",
+              "fr": "La cuisine est plus grande que le salon.",
+              "answer": true
+            },
+            {
+              "lb": "D'Lea fiert mam Zuch op de Campus.",
+              "fr": "Lea va au campus en train.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k2-op-wunnengssich",
+      "title": "Op Wunnengssich",
+      "titleFr": "À la recherche d'un logement",
+      "vocab": [
+        {
+          "lb": "kafen",
+          "fr": "acheter"
+        },
+        {
+          "lb": "verkafen",
+          "fr": "vendre"
+        },
+        {
+          "lb": "lounen",
+          "fr": "louer"
+        },
+        {
+          "lb": "verlounen",
+          "fr": "mettre en location"
+        },
+        {
+          "lb": "d'Buedbidden",
+          "fr": "la baignoire"
+        },
+        {
+          "lb": "d'Buedzëmmer",
+          "fr": "la salle de bains"
+        },
+        {
+          "lb": "de Büro",
+          "fr": "le bureau"
+        },
+        {
+          "lb": "d'Dusch",
+          "fr": "la douche"
+        },
+        {
+          "lb": "de Gaart",
+          "fr": "le jardin"
+        },
+        {
+          "lb": "d'Iesszëmmer",
+          "fr": "la salle à manger"
+        },
+        {
+          "lb": "de Keller",
+          "fr": "la cave"
+        },
+        {
+          "lb": "d'Kichen",
+          "fr": "la cuisine"
+        },
+        {
+          "lb": "de Lift",
+          "fr": "l'ascenseur"
+        },
+        {
+          "lb": "d'Parkplaz",
+          "fr": "la place de parking"
+        },
+        {
+          "lb": "de Präis",
+          "fr": "le prix"
+        },
+        {
+          "lb": "de Rez-de-chaussée",
+          "fr": "le rez-de-chaussée"
+        },
+        {
+          "lb": "d'Schlofzëmmer",
+          "fr": "la chambre à coucher"
+        },
+        {
+          "lb": "de Späicher",
+          "fr": "le grenier"
+        },
+        {
+          "lb": "d'Stuff",
+          "fr": "le salon"
+        },
+        {
+          "lb": "d'Terrass",
+          "fr": "la terrasse"
+        },
+        {
+          "lb": "d'Toilett",
+          "fr": "les toilettes"
+        },
+        {
+          "lb": "d'Garage",
+          "fr": "le garage"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "D'Appartement ass ze verkafen.",
+          "fr": "L'appartement est à vendre."
+        },
+        {
+          "lb": "Et ass um Rez-de-chaussée.",
+          "fr": "Il est au rez-de-chaussée."
+        },
+        {
+          "lb": "D'Kichen ass grouss a modern.",
+          "fr": "La cuisine est grande et moderne."
+        },
+        {
+          "lb": "Et huet keng Garage.",
+          "fr": "Il n'a pas de garage."
+        },
+        {
+          "lb": "Gëtt et e Lift?",
+          "fr": "Y a-t-il un ascenseur ?"
+        },
+        {
+          "lb": "De Präis ass ze héich.",
+          "fr": "Le prix est trop élevé."
+        },
+        {
+          "lb": "D'Terrass ass ganz flott.",
+          "fr": "La terrasse est très chouette."
+        },
+        {
+          "lb": "Dir kënnt e Rendez-vous maachen.",
+          "fr": "Vous pouvez prendre rendez-vous."
+        },
+        {
+          "lb": "Hausdéiere sinn hei net erlaabt.",
+          "fr": "Les animaux domestiques ne sont pas autorisés ici."
+        },
+        {
+          "lb": "De Studio ass nach fräi.",
+          "fr": "Le studio est encore libre."
+        },
+        {
+          "lb": "Mir lounen eng Parkplaz.",
+          "fr": "Nous louons une place de parking."
+        },
+        {
+          "lb": "Dat ass ouni d'Chargen.",
+          "fr": "C'est sans les charges."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng Annonce online",
+          "text": "Ze verlounen: Appartement zu Stroossen, éischte Stack, 78 Quadratmeter. D'Wunneng huet eng hell Kichen, eng Stuff, zwee Schlofzëmmeren an e Buedzëmmer mat Dusch. Et gëtt och eng kleng Terrass an e Keller. De Lift ass praktesch fir d'Akeef. Eng Parkplaz ass am Präis mat dran. De Loyer ass 1.450 Euro mat de Chargen. D'Appartement ass fräi ab dem 1. November. Hausdéiere sinn net erlaabt. Fir eng Visite kënnt Dir owes no 18 Auer uruffen.",
+          "textFr": "À louer : appartement à Strassen, premier étage, 78 mètres carrés. Le logement a une cuisine lumineuse, un salon, deux chambres à coucher et une salle de bains avec douche. Il y a aussi une petite terrasse et une cave. L'ascenseur est pratique pour les courses. Une place de parking est comprise dans le prix. Le loyer est de 1 450 euros avec les charges. L'appartement est libre à partir du 1er novembre. Les animaux domestiques ne sont pas autorisés. Pour une visite, vous pouvez appeler le soir après 18 heures.",
+          "questions": [
+            {
+              "lb": "D'Annonce ass fir eng Wunneng zu Stroossen.",
+              "fr": "L'annonce concerne un logement à Strassen.",
+              "answer": true
+            },
+            {
+              "lb": "Et ginn dräi Schlofzëmmeren.",
+              "fr": "Il y a trois chambres à coucher.",
+              "answer": false
+            },
+            {
+              "lb": "Eng Parkplaz ass am Präis dran.",
+              "fr": "Une place de parking est comprise dans le prix.",
+              "answer": true
+            },
+            {
+              "lb": "Hausdéiere sinn an der Wunneng erlaabt.",
+              "fr": "Les animaux domestiques sont autorisés dans le logement.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Telefon beim Proprietär",
+          "text": "Nathalie: Moien, ech ruffe wéinst Ärer Annonce un. Ass de Studio zu Iechternach nach fräi?\nHär Weber: Jo, nach ass en fräi, mä vill Leit si schonn interesséiert.\nNathalie: Wéi grouss ass en?\nHär Weber: En huet 45 Quadratmeter, eng Kichen, e Buedzëmmer an eng separat Toilett.\nNathalie: Gëtt et eng Garage?\nHär Weber: Nee, awer Dir kënnt eng Parkplaz fir 40 Euro de Mount lounen.\nNathalie: A wat kascht de Studio?\nHär Weber: 820 Euro ouni d'Chargen. Wann Dir wëllt, maache mir muer eng Visite.",
+          "textFr": "Nathalie : Bonjour, j'appelle au sujet de votre annonce. Le studio à Echternach est-il encore libre ?\nMonsieur Weber : Oui, il est encore libre, mais beaucoup de gens sont déjà intéressés.\nNathalie : Quelle est sa taille ?\nMonsieur Weber : Il fait 45 mètres carrés, avec une cuisine, une salle de bains et des toilettes séparées.\nNathalie : Y a-t-il un garage ?\nMonsieur Weber : Non, mais vous pouvez louer une place de parking pour 40 euros par mois.\nNathalie : Et combien coûte le studio ?\nMonsieur Weber : 820 euros sans les charges. Si vous voulez, nous faisons une visite demain.",
+          "questions": [
+            {
+              "lb": "D'Nathalie freet no engem Studio.",
+              "fr": "Nathalie se renseigne sur un studio.",
+              "answer": true
+            },
+            {
+              "lb": "De Studio ass zu Dikrech.",
+              "fr": "Le studio est à Diekirch.",
+              "answer": false
+            },
+            {
+              "lb": "Eng separat Toilett ass dobäi.",
+              "fr": "Des toilettes séparées sont incluses.",
+              "answer": true
+            },
+            {
+              "lb": "D'Parkplaz kascht näischt extra.",
+              "fr": "La place de parking ne coûte rien en plus.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k2-main-doheem",
+      "title": "Mäin Doheem",
+      "titleFr": "Mon chez-moi",
+      "vocab": [
+        {
+          "lb": "doheem",
+          "fr": "à la maison"
+        },
+        {
+          "lb": "d'Dramwunneng",
+          "fr": "le logement de rêve"
+        },
+        {
+          "lb": "d'Faarf",
+          "fr": "la couleur"
+        },
+        {
+          "lb": "faarweg",
+          "fr": "coloré"
+        },
+        {
+          "lb": "hellblo",
+          "fr": "bleu clair"
+        },
+        {
+          "lb": "mof",
+          "fr": "violet"
+        },
+        {
+          "lb": "gréng",
+          "fr": "vert"
+        },
+        {
+          "lb": "grouss genuch",
+          "fr": "assez grand"
+        },
+        {
+          "lb": "gemittlech",
+          "fr": "agréable"
+        },
+        {
+          "lb": "d'Eltereschlofzëmmer",
+          "fr": "la chambre des parents"
+        },
+        {
+          "lb": "d'Kannerschlofzëmmer",
+          "fr": "la chambre d'enfant"
+        },
+        {
+          "lb": "d'Piscine",
+          "fr": "la piscine"
+        },
+        {
+          "lb": "d'Garage",
+          "fr": "le garage"
+        },
+        {
+          "lb": "d'Buedbidden",
+          "fr": "la baignoire"
+        },
+        {
+          "lb": "d'Spullmaschinn",
+          "fr": "le lave-vaisselle"
+        },
+        {
+          "lb": "d'Dusch",
+          "fr": "la douche"
+        },
+        {
+          "lb": "de Besuch",
+          "fr": "la visite"
+        },
+        {
+          "lb": "roueg",
+          "fr": "calme"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Meng Wunneng ass gemittlech.",
+          "fr": "Mon logement est agréable."
+        },
+        {
+          "lb": "D'Stuff ass gréng.",
+          "fr": "Le salon est vert."
+        },
+        {
+          "lb": "D'Kichen ass hellblo.",
+          "fr": "La cuisine est bleu clair."
+        },
+        {
+          "lb": "Ech hunn kee Keller.",
+          "fr": "Je n'ai pas de cave."
+        },
+        {
+          "lb": "D'Haus huet keng Piscine.",
+          "fr": "La maison n'a pas de piscine."
+        },
+        {
+          "lb": "Wéi gesäit Är Wunneng aus?",
+          "fr": "À quoi ressemble votre logement ?"
+        },
+        {
+          "lb": "Meng Dramwunneng huet e Gaart.",
+          "fr": "Mon logement de rêve a un jardin."
+        },
+        {
+          "lb": "Am Späicher ass e Spillzëmmer.",
+          "fr": "Dans le grenier, il y a une salle de jeux."
+        },
+        {
+          "lb": "D'Schlofzëmmer ass mof.",
+          "fr": "La chambre à coucher est violette."
+        },
+        {
+          "lb": "D'Buedzëmmer huet eng Dusch.",
+          "fr": "La salle de bains a une douche."
+        },
+        {
+          "lb": "Mir hunn oft Besuch.",
+          "fr": "Nous avons souvent de la visite."
+        },
+        {
+          "lb": "D'Spullmaschinn ass ganz praktesch.",
+          "fr": "Le lave-vaisselle est très pratique."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Meng faarweg Wunneng",
+          "text": "Ech wunnen um zweete Stack an engem Appartementshaus zu Esch. Meng Wunneng ass net immens grouss, mä si ass grouss genuch fir mech. Ech hunn eng Kichen, eng Stuff, e Schlofzëmmer an e Buedzëmmer mat Dusch. D'Kichen ass hellblo, d'Stuff ass gréng, an d'Schlofzëmmer ass mof. Ech kachen net all Dag, mä d'Spullmaschinn hëlleft vill. Ech hunn kee Balkon a keng Garage, dofir ass de Loyer net ze deier. Meng Nopesch ass léif, an heiansdo kënnt si op Besuch.",
+          "textFr": "J'habite au deuxième étage dans un immeuble à Esch. Mon logement n'est pas très grand, mais il est assez grand pour moi. J'ai une cuisine, un salon, une chambre à coucher et une salle de bains avec douche. La cuisine est bleu clair, le salon est vert et la chambre est violette. Je ne cuisine pas tous les jours, mais le lave-vaisselle aide beaucoup. Je n'ai pas de balcon ni de garage, c'est pourquoi le loyer n'est pas trop cher. Ma voisine est gentille, et parfois elle vient en visite.",
+          "questions": [
+            {
+              "lb": "D'Persoun lieft zu Esch.",
+              "fr": "La personne vit à Esch.",
+              "answer": true
+            },
+            {
+              "lb": "D'Wunneng huet eng Garage.",
+              "fr": "Le logement a un garage.",
+              "answer": false
+            },
+            {
+              "lb": "D'Kichen huet eng hellblo Faarf.",
+              "fr": "La cuisine a une couleur bleu clair.",
+              "answer": true
+            },
+            {
+              "lb": "D'Nopesch ass net sympathesch.",
+              "fr": "La voisine n'est pas sympathique.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Froen iwwer d'Dramwunneng",
+          "text": "Sara: Wéi gesäit deng Dramwunneng aus?\nAlex: Ech wëll e klengt Haus um Duerf. Et soll eng grouss Kichen, eng Stuff an dräi Schlofzëmmeren hunn.\nSara: Brauchs du och eng Piscine?\nAlex: Nee, eng Piscine brauch ech net. Mä ech wëll e Gaart an eng Terrass, well ech gär dobausse liesen.\nSara: Wéi soll d'Buedzëmmer sinn?\nAlex: Modern, mat enger Buedbidden an enger Dusch. Eng Garage ass och wichteg, well mäin Auto net ëmmer op der Strooss stoe soll.\nSara: Dat kléngt flott!",
+          "textFr": "Sara : À quoi ressemble ton logement de rêve ?\nAlex : Je veux une petite maison au village. Elle doit avoir une grande cuisine, un salon et trois chambres à coucher.\nSara : As-tu aussi besoin d'une piscine ?\nAlex : Non, je n'ai pas besoin de piscine. Mais je veux un jardin et une terrasse, parce que j'aime lire dehors.\nSara : Comment doit être la salle de bains ?\nAlex : Moderne, avec une baignoire et une douche. Un garage est aussi important, parce que ma voiture ne doit pas toujours rester dans la rue.\nSara : Ça a l'air chouette !",
+          "questions": [
+            {
+              "lb": "Den Alex wëll um Duerf wunnen.",
+              "fr": "Alex veut habiter au village.",
+              "answer": true
+            },
+            {
+              "lb": "Hie brauch onbedéngt eng Piscine.",
+              "fr": "Il a absolument besoin d'une piscine.",
+              "answer": false
+            },
+            {
+              "lb": "Hie liest gär dobaussen.",
+              "fr": "Il aime lire dehors.",
+              "answer": true
+            },
+            {
+              "lb": "D'Garage ass fir d'Sara wichteg.",
+              "fr": "Le garage est important pour Sara.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k2-eng-plenneraktioun",
+      "title": "Eng Plënneraktioun",
+      "titleFr": "Un déménagement",
+      "vocab": [
+        {
+          "lb": "plënneren",
+          "fr": "déménager"
+        },
+        {
+          "lb": "d'Miwwelen",
+          "fr": "les meubles"
+        },
+        {
+          "lb": "d'Bett",
+          "fr": "le lit"
+        },
+        {
+          "lb": "d'Bild",
+          "fr": "le tableau"
+        },
+        {
+          "lb": "d'Buch",
+          "fr": "le livre"
+        },
+        {
+          "lb": "de Canapé",
+          "fr": "le canapé"
+        },
+        {
+          "lb": "den Dësch",
+          "fr": "la table"
+        },
+        {
+          "lb": "d'Fotell",
+          "fr": "le fauteuil"
+        },
+        {
+          "lb": "den Iessdësch",
+          "fr": "la table à manger"
+        },
+        {
+          "lb": "d'Këscht",
+          "fr": "la caisse"
+        },
+        {
+          "lb": "d'Kommod",
+          "fr": "la commode"
+        },
+        {
+          "lb": "d'Luucht",
+          "fr": "la lampe"
+        },
+        {
+          "lb": "d'Regal",
+          "fr": "l'étagère"
+        },
+        {
+          "lb": "de Schaf",
+          "fr": "l'armoire"
+        },
+        {
+          "lb": "de Spigel",
+          "fr": "le miroir"
+        },
+        {
+          "lb": "d'Steeluucht",
+          "fr": "le lampadaire"
+        },
+        {
+          "lb": "de Stull",
+          "fr": "la chaise"
+        },
+        {
+          "lb": "den Teppech",
+          "fr": "le tapis"
+        },
+        {
+          "lb": "de Schreifdësch",
+          "fr": "le bureau (meuble)"
+        },
+        {
+          "lb": "d'Wäschmaschinn",
+          "fr": "la machine à laver"
+        },
+        {
+          "lb": "d'Kleeder",
+          "fr": "les vêtements"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Mir plënneren um Samschdeg.",
+          "fr": "Nous déménageons samedi."
+        },
+        {
+          "lb": "De Schaf kënnt an d'Schlofzëmmer.",
+          "fr": "L'armoire va dans la chambre."
+        },
+        {
+          "lb": "D'Këschte stinn am Keller.",
+          "fr": "Les caisses sont dans la cave."
+        },
+        {
+          "lb": "Den Dësch ass fir d'Kichen.",
+          "fr": "La table est pour la cuisine."
+        },
+        {
+          "lb": "D'Bett ass nach am Camion.",
+          "fr": "Le lit est encore dans le camion."
+        },
+        {
+          "lb": "Kann de Spigel an de Büro?",
+          "fr": "Le miroir peut-il aller dans le bureau ?"
+        },
+        {
+          "lb": "D'Steeluucht kënnt an d'Stuff.",
+          "fr": "Le lampadaire va dans le salon."
+        },
+        {
+          "lb": "D'Bicher kommen an d'Regal.",
+          "fr": "Les livres vont sur l'étagère."
+        },
+        {
+          "lb": "De Schreifdësch ass ze schwéier.",
+          "fr": "Le bureau est trop lourd."
+        },
+        {
+          "lb": "Ech droen d'Këschten erop.",
+          "fr": "Je porte les caisses à l'étage."
+        },
+        {
+          "lb": "D'Kommod steet nieft dem Bett.",
+          "fr": "La commode est à côté du lit."
+        },
+        {
+          "lb": "De Canapé bleift an der Stuff.",
+          "fr": "Le canapé reste dans le salon."
+        }
+      ],
+      "readings": [
+        {
+          "title": "De Plang fir Samschdeg",
+          "text": "Moien alleguer,\n\ne Samschdeg plënnere mir an eis nei Wunneng zu Diddeleng. De Camion kënnt um néng Auer. De Schaf an d'Bett kommen direkt an d'Schlofzëmmer. Den Iessdësch an d'Still kommen an d'Kichen, well mir do méi Plaz hunn. D'Këschte mat de Bicher droe mir an d'Stuff, an d'Këschte mat de Kleeder ginn an d'Schlofzëmmer. D'Wäschmaschinn muss an de Keller. Nomëttes kafe mir Pizza fir jiddereen. Merci fir Är Hëllef!\n\nNora",
+          "textFr": "Bonjour à tous,\n\nsamedi, nous déménageons dans notre nouveau logement à Dudelange. Le camion arrive à neuf heures. L'armoire et le lit vont directement dans la chambre. La table à manger et les chaises vont dans la cuisine, parce que nous y avons plus de place. Les caisses avec les livres, nous les portons dans le salon, et les caisses avec les vêtements vont dans la chambre. La machine à laver doit aller à la cave. L'après-midi, nous achetons des pizzas pour tout le monde. Merci pour votre aide !\n\nNora",
+          "questions": [
+            {
+              "lb": "D'Nora plënnert op Diddeleng.",
+              "fr": "Nora déménage à Dudelange.",
+              "answer": true
+            },
+            {
+              "lb": "De Camion kënnt um Mëtteg.",
+              "fr": "Le camion arrive à midi.",
+              "answer": false
+            },
+            {
+              "lb": "D'Wäschmaschinn kënnt an de Keller.",
+              "fr": "La machine à laver va à la cave.",
+              "answer": true
+            },
+            {
+              "lb": "Owes gëtt et Pizza fir jiddereen.",
+              "fr": "Le soir, il y a des pizzas pour tout le monde.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Am Camion",
+          "text": "Tom: Wuer kënnt de Schreifdësch?\nMia: De Schreifdësch kënnt an de Büro, nieft d'Fënster.\nTom: A wuer komme de Canapé an d'Fotell?\nMia: Déi kommen an d'Stuff. Pass gutt op d'Luucht op, si ass nach nei.\nTom: Ass de Spigel fir d'Buedzëmmer?\nMia: Nee, de Spigel kënnt an d'Schlofzëmmer, iwwer d'Kommod.\nTom: An den Teppech?\nMia: Den Teppech bleift am Camion bis muer. Haut hu mir keng Zäit méi. D'Këschte mam Geschier kommen nach an d'Kichen, duerno maache mir Paus.",
+          "textFr": "Tom : Où va le bureau ?\nMia : Le bureau va dans le bureau, à côté de la fenêtre.\nTom : Et où vont le canapé et le fauteuil ?\nMia : Ils vont dans le salon. Fais bien attention à la lampe, elle est encore neuve.\nTom : Le miroir est-il pour la salle de bains ?\nMia : Non, le miroir va dans la chambre, au-dessus de la commode.\nTom : Et le tapis ?\nMia : Le tapis reste dans le camion jusqu'à demain. Aujourd'hui, nous n'avons plus le temps. Les caisses avec la vaisselle vont encore dans la cuisine, ensuite nous faisons une pause.",
+          "questions": [
+            {
+              "lb": "De Schreifdësch steet spéider am Büro.",
+              "fr": "Le bureau sera plus tard dans le bureau.",
+              "answer": true
+            },
+            {
+              "lb": "D'Luucht ass ganz al.",
+              "fr": "La lampe est très vieille.",
+              "answer": false
+            },
+            {
+              "lb": "De Spigel kënnt bei d'Kommod.",
+              "fr": "Le miroir va près de la commode.",
+              "answer": true
+            },
+            {
+              "lb": "Den Teppech kënnt haut an d'Stuff.",
+              "fr": "Le tapis va aujourd'hui dans le salon.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k2-en-tour-duerch-dhaus",
+      "title": "En Tour duerch d'Haus",
+      "titleFr": "Une visite de la maison",
+      "vocab": [
+        {
+          "lb": "en Tour maachen",
+          "fr": "faire une visite"
+        },
+        {
+          "lb": "erakommen",
+          "fr": "entrer"
+        },
+        {
+          "lb": "weisen",
+          "fr": "montrer"
+        },
+        {
+          "lb": "d'Entrée",
+          "fr": "l'entrée"
+        },
+        {
+          "lb": "d'Miwwelen",
+          "fr": "les meubles"
+        },
+        {
+          "lb": "antik",
+          "fr": "ancien"
+        },
+        {
+          "lb": "almoudesch",
+          "fr": "démodé"
+        },
+        {
+          "lb": "kitscheg",
+          "fr": "kitsch"
+        },
+        {
+          "lb": "extravagant",
+          "fr": "extravagant"
+        },
+        {
+          "lb": "modern",
+          "fr": "moderne"
+        },
+        {
+          "lb": "schéin",
+          "fr": "beau"
+        },
+        {
+          "lb": "bestëmmt",
+          "fr": "sûrement"
+        },
+        {
+          "lb": "d'Kichen",
+          "fr": "la cuisine"
+        },
+        {
+          "lb": "d'Stuff",
+          "fr": "le salon"
+        },
+        {
+          "lb": "d'Buedzëmmer",
+          "fr": "la salle de bains"
+        },
+        {
+          "lb": "d'Schlofzëmmer",
+          "fr": "la chambre à coucher"
+        },
+        {
+          "lb": "d'Terrass",
+          "fr": "la terrasse"
+        },
+        {
+          "lb": "de Gaart",
+          "fr": "le jardin"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Komm eran, ech weisen dir d'Haus.",
+          "fr": "Entre, je te montre la maison."
+        },
+        {
+          "lb": "Deng Kichen ass richteg modern.",
+          "fr": "Ta cuisine est vraiment moderne."
+        },
+        {
+          "lb": "D'Stuff ass e bëssen almoudesch.",
+          "fr": "Le salon est un peu démodé."
+        },
+        {
+          "lb": "D'Miwwelen hei sinn antik.",
+          "fr": "Les meubles ici sont anciens."
+        },
+        {
+          "lb": "D'Buedzëmmer ass kitscheg.",
+          "fr": "La salle de bains est kitsch."
+        },
+        {
+          "lb": "D'Terrass ass wierklech schéin.",
+          "fr": "La terrasse est vraiment belle."
+        },
+        {
+          "lb": "D'Kommod steet an der Entrée.",
+          "fr": "La commode est dans l'entrée."
+        },
+        {
+          "lb": "Ech fannen d'Haus flott.",
+          "fr": "Je trouve la maison chouette."
+        },
+        {
+          "lb": "De Gaart ass ze kleng.",
+          "fr": "Le jardin est trop petit."
+        },
+        {
+          "lb": "Dat ass bestëmmt deier.",
+          "fr": "C'est sûrement cher."
+        },
+        {
+          "lb": "Hei ass däi Schlofzëmmer.",
+          "fr": "Voici ta chambre à coucher."
+        },
+        {
+          "lb": "D'Luuchte si ganz extravagant.",
+          "fr": "Les lampes sont très extravagantes."
+        }
+      ],
+      "readings": [
+        {
+          "title": "D'Carine weist d'Haus",
+          "text": "Carine: Moien Simone, komm eran! Ech weisen dir meng Wunneng.\nSimone: Gären. D'Entrée ass schéin hell.\nCarine: Hei ass d'Stuff. D'Miwwelen sinn antik, well meng Bomi se mir ginn huet.\nSimone: Ech fannen se flott, awer d'Tapeten e bëssen almoudesch.\nCarine: Dat soen ech och. An hei ass d'Kichen. Si ass nei a richteg modern.\nSimone: Wow, do kann ee gutt kachen.\nCarine: Hannert dem Haus ass eng kleng Terrass. Duerno kucke mir nach d'Buedzëmmer.\nSimone: Super, an duerno drénke mir e Kaffi.",
+          "textFr": "Carine : Bonjour Simone, entre ! Je te montre mon logement.\nSimone : Volontiers. L'entrée est joliment lumineuse.\nCarine : Voici le salon. Les meubles sont anciens, parce que ma grand-mère me les a donnés.\nSimone : Je les trouve chouettes, mais le papier peint un peu démodé.\nCarine : Je dis la même chose. Et voici la cuisine. Elle est neuve et vraiment moderne.\nSimone : Waouh, on peut bien y cuisiner.\nCarine : Derrière la maison, il y a une petite terrasse. Ensuite, nous regardons encore la salle de bains.\nSimone : Super, et ensuite nous buvons un café.",
+          "questions": [
+            {
+              "lb": "D'Carine mécht en Tour mam Besuch.",
+              "fr": "Carine fait une visite avec son invitée.",
+              "answer": true
+            },
+            {
+              "lb": "D'Kichen ass al an almoudesch.",
+              "fr": "La cuisine est vieille et démodée.",
+              "answer": false
+            },
+            {
+              "lb": "D'Terrass läit hannert dem Haus.",
+              "fr": "La terrasse se trouve derrière la maison.",
+              "answer": true
+            },
+            {
+              "lb": "D'Simone wëll direkt heemgoen.",
+              "fr": "Simone veut rentrer directement chez elle.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "No der Visite",
+          "text": "Nom Tour duerch d'Haus schreift d'Simone eng kleng Notiz. D'Wunneng vun der Carine ass net grouss, mä si huet vill Charakter. An der Entrée hänkt e grousse Spigel. D'Stuff ass gemittlech, och wann d'Miwwelen e bëssen al sinn. D'Kichen ass der Simone am beschte gefall, well si modern a praktesch ass. D'Buedzëmmer ass rosa a kitscheg, awer ganz propper. De Gaart ass kleng, mä d'Terrass ass ideal fir e Kaffi. D'Simone wëll d'Carine geschwënn nees besichen.",
+          "textFr": "Après la visite de la maison, Simone écrit une petite note. Le logement de Carine n'est pas grand, mais il a beaucoup de caractère. Dans l'entrée, il y a un grand miroir. Le salon est agréable, même si les meubles sont un peu vieux. C'est la cuisine que Simone a préférée, parce qu'elle est moderne et pratique. La salle de bains est rose et kitsch, mais très propre. Le jardin est petit, mais la terrasse est idéale pour un café. Simone veut bientôt rendre visite à Carine à nouveau.",
+          "questions": [
+            {
+              "lb": "D'Wunneng huet vill Charakter.",
+              "fr": "Le logement a beaucoup de caractère.",
+              "answer": true
+            },
+            {
+              "lb": "An der Entrée steet e klenge Schaf.",
+              "fr": "Dans l'entrée se trouve une petite armoire.",
+              "answer": false
+            },
+            {
+              "lb": "D'Buedzëmmer ass propper.",
+              "fr": "La salle de bains est propre.",
+              "answer": true
+            },
+            {
+              "lb": "D'Terrass ass schlecht fir e Kaffi.",
+              "fr": "La terrasse est mauvaise pour prendre un café.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k2-de-stot-maachen",
+      "title": "De Stot maachen",
+      "titleFr": "Faire le ménage",
+      "vocab": [
+        {
+          "lb": "botzen",
+          "fr": "nettoyer"
+        },
+        {
+          "lb": "naass opbotzen",
+          "fr": "passer la serpillière"
+        },
+        {
+          "lb": "propper",
+          "fr": "propre"
+        },
+        {
+          "lb": "knaschteg / dreckeg",
+          "fr": "sale"
+        },
+        {
+          "lb": "de Botzplang",
+          "fr": "le planning de nettoyage"
+        },
+        {
+          "lb": "d'Dreckskëscht",
+          "fr": "la poubelle"
+        },
+        {
+          "lb": "d'Dreckskëscht eidel maachen",
+          "fr": "vider la poubelle"
+        },
+        {
+          "lb": "voll",
+          "fr": "plein"
+        },
+        {
+          "lb": "kachen",
+          "fr": "cuisiner"
+        },
+        {
+          "lb": "d'Kachplack",
+          "fr": "la plaque de cuisson"
+        },
+        {
+          "lb": "spullen",
+          "fr": "faire la vaisselle"
+        },
+        {
+          "lb": "d'Spullmaschinn",
+          "fr": "le lave-vaisselle"
+        },
+        {
+          "lb": "d'Spullmaschinn araumen",
+          "fr": "remplir le lave-vaisselle"
+        },
+        {
+          "lb": "raumen",
+          "fr": "ranger"
+        },
+        {
+          "lb": "staubsaugen",
+          "fr": "passer l'aspirateur"
+        },
+        {
+          "lb": "de Staubsauger",
+          "fr": "l'aspirateur"
+        },
+        {
+          "lb": "stëbsen",
+          "fr": "épousseter"
+        },
+        {
+          "lb": "strecken",
+          "fr": "repasser"
+        },
+        {
+          "lb": "d'Streckeisen",
+          "fr": "le fer à repasser"
+        },
+        {
+          "lb": "d'Streckbriet",
+          "fr": "la planche à repasser"
+        },
+        {
+          "lb": "d'Wäschmaschinn",
+          "fr": "la machine à laver"
+        },
+        {
+          "lb": "d'Wäsch maachen",
+          "fr": "faire la lessive"
+        },
+        {
+          "lb": "d'Bett maachen",
+          "fr": "faire le lit"
+        },
+        {
+          "lb": "den Dësch decken",
+          "fr": "mettre la table"
+        },
+        {
+          "lb": "d'Planzen nätzen",
+          "fr": "arroser les plantes"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech stëbse guer net gär.",
+          "fr": "Je n'aime pas du tout épousseter."
+        },
+        {
+          "lb": "Marc staubsaugt all Méindeg.",
+          "fr": "Marc passe l'aspirateur tous les lundis."
+        },
+        {
+          "lb": "D'Kichen ass erëm propper.",
+          "fr": "La cuisine est de nouveau propre."
+        },
+        {
+          "lb": "Mir hunn e Botzplang.",
+          "fr": "Nous avons un planning de nettoyage."
+        },
+        {
+          "lb": "Du bass fir d'Buedzëmmer zoustänneg.",
+          "fr": "Tu es responsable de la salle de bains."
+        },
+        {
+          "lb": "D'Kanner decken den Dësch.",
+          "fr": "Les enfants mettent la table."
+        },
+        {
+          "lb": "Ech maachen d'Wäsch muer.",
+          "fr": "Je fais la lessive demain."
+        },
+        {
+          "lb": "D'Spullmaschinn ass voll.",
+          "fr": "Le lave-vaisselle est plein."
+        },
+        {
+          "lb": "Kanns du d'Planzen nätzen?",
+          "fr": "Peux-tu arroser les plantes ?"
+        },
+        {
+          "lb": "D'Dreckskëscht ass net eidel.",
+          "fr": "La poubelle n'est pas vide."
+        },
+        {
+          "lb": "Strecke fannen ech schrecklech.",
+          "fr": "Je trouve le repassage horrible."
+        },
+        {
+          "lb": "D'Wunneng soll propper bleiwen.",
+          "fr": "Le logement doit rester propre."
+        }
+      ],
+      "readings": [
+        {
+          "title": "De Botzplang vun der WG",
+          "text": "An eiser WG zu Mamer hänkt de Botzplang an der Kichen. All Woch ass eng aner Persoun fir d'Stuff, d'Buedzëmmer oder d'Kichen zoustänneg. Dës Woch botzt d'Lea d'Stuff. Si stëbst d'Regaler a mécht d'Fënsteren op. De Marc staubsaugt de Buedem an der Kichen an botzt duerno naass op. D'Sara mécht d'Buedzëmmer propper. Ech sinn fir d'Dreckskëscht a fir d'Recycling-Këschten zoustänneg. Spulle mécht jidderee selwer. Dat ass fair, an d'Wunneng bleift esou propper.",
+          "textFr": "Dans notre colocation à Mamer, le planning de nettoyage est accroché dans la cuisine. Chaque semaine, une autre personne est responsable du salon, de la salle de bains ou de la cuisine. Cette semaine, Lea nettoie le salon. Elle époussette les étagères et ouvre les fenêtres. Marc passe l'aspirateur dans la cuisine et passe ensuite la serpillière. Sara nettoie la salle de bains. Moi, je suis responsable de la poubelle et des caisses de recyclage. Chacun fait sa vaisselle lui-même. C'est juste, et le logement reste ainsi propre.",
+          "questions": [
+            {
+              "lb": "De Botzplang ass an der Kichen.",
+              "fr": "Le planning de nettoyage est dans la cuisine.",
+              "answer": true
+            },
+            {
+              "lb": "De Marc botzt dës Woch d'Buedzëmmer.",
+              "fr": "Marc nettoie cette semaine la salle de bains.",
+              "answer": false
+            },
+            {
+              "lb": "Jidderee spullt seng Saachen.",
+              "fr": "Chacun fait sa propre vaisselle.",
+              "answer": true
+            },
+            {
+              "lb": "D'Wunneng bleift ëmmer knaschteg.",
+              "fr": "Le logement reste toujours sale.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "E Samschdeg doheem",
+          "text": "Mia: Ech wëll haut séier de Stot maachen. Wéi kanns du hëllefen?\nTom: Ech raumen d'Schlofzëmmer a maachen d'Better. Strecken hunn ech awer net gär.\nMia: Dat ass kee Problem. Ech strecken d'Hiemer an ech maachen d'Wäsch. Kanns du dono d'Planzen nätzen?\nTom: Jo, an ech maachen och d'Dreckskëscht eidel. Ass d'Spullmaschinn nach voll?\nMia: Jo, si ass voll. Raum se w.e.g. aus, duerno kache mir zesummen.\nTom: Gutt. Wann d'Kichen propper ass, drénke mir e Kaffi op der Terrass.",
+          "textFr": "Mia : Je veux faire vite le ménage aujourd'hui. Comment peux-tu aider ?\nTom : Je range la chambre et je fais les lits. Mais je n'aime pas repasser.\nMia : Ce n'est pas un problème. Je repasse les chemises et je fais la lessive. Peux-tu ensuite arroser les plantes ?\nTom : Oui, et je vide aussi la poubelle. Le lave-vaisselle est-il encore plein ?\nMia : Oui, il est plein. Vide-le s'il te plaît, ensuite nous cuisinons ensemble.\nTom : Bien. Quand la cuisine est propre, nous buvons un café sur la terrasse.",
+          "questions": [
+            {
+              "lb": "Den Tom wëll d'Schlofzëmmer raumen.",
+              "fr": "Tom veut ranger la chambre.",
+              "answer": true
+            },
+            {
+              "lb": "Hie streckt ganz gär.",
+              "fr": "Il aime beaucoup repasser.",
+              "answer": false
+            },
+            {
+              "lb": "D'Mia mécht d'Wäsch.",
+              "fr": "Mia fait la lessive.",
+              "answer": true
+            },
+            {
+              "lb": "Si drénke Kaffi am Keller.",
+              "fr": "Ils boivent du café dans la cave.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k2-um-floumaart",
+      "title": "Um Floumaart",
+      "titleFr": "Au marché aux puces",
+      "vocab": [
+        {
+          "lb": "de Floumaart",
+          "fr": "le marché aux puces"
+        },
+        {
+          "lb": "d'Saach",
+          "fr": "l'objet"
+        },
+        {
+          "lb": "kaschten",
+          "fr": "coûter"
+        },
+        {
+          "lb": "funktionéieren",
+          "fr": "fonctionner"
+        },
+        {
+          "lb": "verkafen",
+          "fr": "vendre"
+        },
+        {
+          "lb": "kafen",
+          "fr": "acheter"
+        },
+        {
+          "lb": "de Präis",
+          "fr": "le prix"
+        },
+        {
+          "lb": "d'Luucht",
+          "fr": "la lampe"
+        },
+        {
+          "lb": "den Iessdësch",
+          "fr": "la table à manger"
+        },
+        {
+          "lb": "de Salonsdësch",
+          "fr": "la table de salon"
+        },
+        {
+          "lb": "d'Tëlee",
+          "fr": "la télévision"
+        },
+        {
+          "lb": "d'Kaffismaschinn",
+          "fr": "la machine à café"
+        },
+        {
+          "lb": "d'Fotell",
+          "fr": "le fauteuil"
+        },
+        {
+          "lb": "d'Qualitéit",
+          "fr": "la qualité"
+        },
+        {
+          "lb": "d'Geschäft",
+          "fr": "la bonne affaire"
+        },
+        {
+          "lb": "al",
+          "fr": "vieux"
+        },
+        {
+          "lb": "nei",
+          "fr": "neuf"
+        },
+        {
+          "lb": "relativ nei",
+          "fr": "relativement neuf"
+        },
+        {
+          "lb": "modern",
+          "fr": "moderne"
+        },
+        {
+          "lb": "Averstanen",
+          "fr": "d'accord"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wat kascht déi Luucht?",
+          "fr": "Combien coûte cette lampe ?"
+        },
+        {
+          "lb": "Si funktionéiert nach gutt.",
+          "fr": "Elle fonctionne encore bien."
+        },
+        {
+          "lb": "Ech ginn Iech 15 Euro.",
+          "fr": "Je vous donne 15 euros."
+        },
+        {
+          "lb": "Dat ass ze deier.",
+          "fr": "C'est trop cher."
+        },
+        {
+          "lb": "De Salonsdësch ass relativ nei.",
+          "fr": "La table de salon est relativement neuve."
+        },
+        {
+          "lb": "Dës Fotell ass ganz gemittlech.",
+          "fr": "Ce fauteuil est très confortable."
+        },
+        {
+          "lb": "D'Tëlee ass méi modern.",
+          "fr": "La télévision est plus moderne."
+        },
+        {
+          "lb": "Ass de Präis verhandelbar?",
+          "fr": "Le prix est-il négociable ?"
+        },
+        {
+          "lb": "Ech kafen d'Kaffismaschinn.",
+          "fr": "J'achète la machine à café."
+        },
+        {
+          "lb": "Mir verkafen den Iessdësch.",
+          "fr": "Nous vendons la table à manger."
+        },
+        {
+          "lb": "Dat ass e gutt Geschäft.",
+          "fr": "C'est une bonne affaire."
+        },
+        {
+          "lb": "Averstanen, ech huelen se.",
+          "fr": "D'accord, je la prends."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng Luucht um Stand",
+          "text": "Keefer: Moien, ech fannen Är Luucht flott. Wéi vill kascht se?\nVerkeefer: Si kascht 25 Euro. Si ass net al a se funktionéiert gutt.\nKeefer: 25 Euro ass mir e bëssen ze deier. Ech ginn Iech 18 Euro.\nVerkeefer: Dat geet net. D'Qualitéit ass gutt, an d'Luucht ass relativ nei.\nKeefer: Da maachen ech 20 Euro. Ech plënnere grad an ech brauch nach vill Saachen.\nVerkeefer: Averstanen, 20 Euro. Hutt Dir och Interessi un engem Salonsdësch?\nKeefer: Haut net, merci. Ech huelen nëmmen d'Luucht.",
+          "textFr": "Acheteur : Bonjour, je trouve votre lampe chouette. Combien coûte-t-elle ?\nVendeur : Elle coûte 25 euros. Elle n'est pas vieille et elle fonctionne bien.\nAcheteur : 25 euros, c'est un peu trop cher pour moi. Je vous donne 18 euros.\nVendeur : Ça ne va pas. La qualité est bonne, et la lampe est relativement neuve.\nAcheteur : Alors je propose 20 euros. Je suis en train de déménager et j'ai encore besoin de beaucoup d'objets.\nVendeur : D'accord, 20 euros. Vous avez aussi de l'intérêt pour une table de salon ?\nAcheteur : Pas aujourd'hui, merci. Je prends seulement la lampe.",
+          "questions": [
+            {
+              "lb": "De Keefer kuckt eng Luucht.",
+              "fr": "L'acheteur regarde une lampe.",
+              "answer": true
+            },
+            {
+              "lb": "De Verkeefer freet direkt 18 Euro.",
+              "fr": "Le vendeur demande directement 18 euros.",
+              "answer": false
+            },
+            {
+              "lb": "Si gi sech op 20 Euro eens.",
+              "fr": "Ils se mettent d'accord sur 20 euros.",
+              "answer": true
+            },
+            {
+              "lb": "De Keefer hëlt och de Salonsdësch.",
+              "fr": "L'acheteur prend aussi la table de salon.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "D'Sara sicht Saachen",
+          "text": "D'Sara geet sonndes moies op de Floumaart an der Stad. Si huet eng kleng Lëscht dobäi: eng Fotell fir d'Stuff, eng Kaffismaschinn an e Bild fir d'Kichen. Um éischte Stand gesäit si eng modern Tëlee, mä déi brauch si net. Beim zweete Stand steet eng brong Fotell. Si ass net nei, awer ganz gemittlech. De Verkeefer wëll 60 Euro. D'Sara fënnt de Präis ze héich a bitt 45 Euro. Zum Schluss bezilt si 50 Euro. D'Kaffismaschinn fënnt si net, dofir kënnt si nächste Mount nach eng Kéier.",
+          "textFr": "Sara va le dimanche matin au marché aux puces en ville. Elle a une petite liste avec elle : un fauteuil pour le salon, une machine à café et un tableau pour la cuisine. Au premier stand, elle voit une télévision moderne, mais elle n'en a pas besoin. Au deuxième stand, il y a un fauteuil brun. Il n'est pas neuf, mais très confortable. Le vendeur veut 60 euros. Sara trouve le prix trop élevé et offre 45 euros. À la fin, elle paie 50 euros. Elle ne trouve pas la machine à café, c'est pourquoi elle revient encore une fois le mois prochain.",
+          "questions": [
+            {
+              "lb": "D'Sara huet eng Lëscht mat.",
+              "fr": "Sara a une liste avec elle.",
+              "answer": true
+            },
+            {
+              "lb": "Si keeft eng modern Tëlee.",
+              "fr": "Elle achète une télévision moderne.",
+              "answer": false
+            },
+            {
+              "lb": "D'Fotell kascht um Enn 50 Euro.",
+              "fr": "Le fauteuil coûte finalement 50 euros.",
+              "answer": true
+            },
+            {
+              "lb": "Si fënnt d'Kaffismaschinn um éischte Stand.",
+              "fr": "Elle trouve la machine à café au premier stand.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k2-land-a-leit-wunnen-zu-letzebuerg",
+      "title": "Land a Leit: Wunnen zu Lëtzebuerg",
+      "titleFr": "Pays et population : habiter au Luxembourg",
+      "vocab": [
+        {
+          "lb": "d'Land",
+          "fr": "le pays"
+        },
+        {
+          "lb": "d'Awunner",
+          "fr": "les habitants"
+        },
+        {
+          "lb": "de Präis pro Metercarré",
+          "fr": "le prix au mètre carré"
+        },
+        {
+          "lb": "de Quadratmeter",
+          "fr": "le mètre carré"
+        },
+        {
+          "lb": "duerchschnëttlech",
+          "fr": "en moyenne"
+        },
+        {
+          "lb": "extra deier",
+          "fr": "très cher"
+        },
+        {
+          "lb": "méi bëlleg",
+          "fr": "moins cher"
+        },
+        {
+          "lb": "d'Stad",
+          "fr": "la ville"
+        },
+        {
+          "lb": "d'Duerf",
+          "fr": "le village"
+        },
+        {
+          "lb": "de Virdeel",
+          "fr": "l'avantage"
+        },
+        {
+          "lb": "den Nodeel",
+          "fr": "l'inconvénient"
+        },
+        {
+          "lb": "vill Leit",
+          "fr": "beaucoup de gens"
+        },
+        {
+          "lb": "wéineg Leit",
+          "fr": "peu de gens"
+        },
+        {
+          "lb": "den Offall",
+          "fr": "les déchets"
+        },
+        {
+          "lb": "trennen",
+          "fr": "trier"
+        },
+        {
+          "lb": "recycléieren",
+          "fr": "recycler"
+        },
+        {
+          "lb": "de Container",
+          "fr": "le conteneur"
+        },
+        {
+          "lb": "de Recycling-Center",
+          "fr": "le centre de recyclage"
+        },
+        {
+          "lb": "d'Valorlux-Tut",
+          "fr": "le sac Valorlux"
+        },
+        {
+          "lb": "de Pabeier",
+          "fr": "le papier"
+        },
+        {
+          "lb": "d'Glas",
+          "fr": "le verre"
+        },
+        {
+          "lb": "de Plastik",
+          "fr": "le plastique"
+        },
+        {
+          "lb": "um Trottoir",
+          "fr": "sur le trottoir"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Zu Lëtzebuerg si Wunnengen deier.",
+          "fr": "Au Luxembourg, les logements sont chers."
+        },
+        {
+          "lb": "An der Stad wunne vill Leit.",
+          "fr": "Beaucoup de gens habitent en ville."
+        },
+        {
+          "lb": "Um Duerf ass et méi roueg.",
+          "fr": "Au village, c'est plus calme."
+        },
+        {
+          "lb": "De Präis pro Metercarré ass héich.",
+          "fr": "Le prix au mètre carré est élevé."
+        },
+        {
+          "lb": "Wolz ass méi bëlleg wéi d'Stad.",
+          "fr": "Wiltz est moins cher que la ville."
+        },
+        {
+          "lb": "Lëtzebuerg-Stad huet vill Awunner.",
+          "fr": "Luxembourg-Ville a beaucoup d'habitants."
+        },
+        {
+          "lb": "Mir trennen den Offall doheem.",
+          "fr": "Nous trions les déchets à la maison."
+        },
+        {
+          "lb": "Glas kënnt an de Container.",
+          "fr": "Le verre va dans le conteneur."
+        },
+        {
+          "lb": "D'Valorlux-Tut ass fir Plastik.",
+          "fr": "Le sac Valorlux est pour le plastique."
+        },
+        {
+          "lb": "De Recycling-Center ass no beim Duerf.",
+          "fr": "Le centre de recyclage est près du village."
+        },
+        {
+          "lb": "D'Nodeeler sinn och wichteg.",
+          "fr": "Les inconvénients sont aussi importants."
+        },
+        {
+          "lb": "Wéineg Leit wunnen zu Wolz.",
+          "fr": "Peu de gens habitent à Wiltz."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Präisser op der Kaart",
+          "text": "Op enger Kaart vum Wunnen zu Lëtzebuerg gesäit een Duerchschnëttspräisser vun Appartementer. Lëtzebuerg-Stad ass am Beispill extra deier: do stinn 107.247 Awunner an 6.598 Euro pro Metercarré. Zu Wolz sinn et nëmmen 5.367 Awunner an 3.304 Euro pro Metercarré. Esch-Uelzecht ass méi grouss wéi Wolz, mat 32.600 Awunner, mä de Präis ass méi niddreg wéi an der Stad. Zu Réimech wunnen 3.443 Leit. Ettelbréck huet 8.278 Awunner an e Präis vu 4.306 Euro pro Metercarré. Sou kann een d'Stad an d'Duerf vergläichen.",
+          "textFr": "Sur une carte du logement au Luxembourg, on voit des prix moyens d'appartements. Luxembourg-Ville est très chère dans l'exemple : on y indique 107 247 habitants et 6 598 euros par mètre carré. À Wiltz, il n'y a que 5 367 habitants et 3 304 euros par mètre carré. Esch-sur-Alzette est plus grande que Wiltz, avec 32 600 habitants, mais le prix est plus bas qu'en ville. À Remich habitent 3 443 personnes. Ettelbruck a 8 278 habitants et un prix de 4 306 euros par mètre carré. On peut ainsi comparer la ville et le village.",
+          "questions": [
+            {
+              "lb": "Lëtzebuerg-Stad huet méi wéi 100.000 Awunner.",
+              "fr": "Luxembourg-Ville a plus de 100 000 habitants.",
+              "answer": true
+            },
+            {
+              "lb": "Zu Wolz ass de Metercarré am deiersten.",
+              "fr": "À Wiltz, le mètre carré est le plus cher.",
+              "answer": false
+            },
+            {
+              "lb": "Esch-Uelzecht huet méi Awunner wéi Wolz.",
+              "fr": "Esch-sur-Alzette a plus d'habitants que Wiltz.",
+              "answer": true
+            },
+            {
+              "lb": "Réimech huet méi Awunner wéi Ettelbréck.",
+              "fr": "Remich a plus d'habitants qu'Ettelbruck.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Forum iwwer Offall",
+          "text": "Ben: Ech wunnen an engem Appartement an der Stad. De Loyer ass héich, mä ech hunn de Bus virun der Dier. Den Offall trennen ass einfach: Pabeier kënnt an déi blo Këscht, Glas an de Container, a Plastik an d'Valorlux-Tut. Déi Tut stellen ech dënschdes owes op den Trottoir.\nMara: Ech wunnen um Duerf an hunn méi Plaz am Keller. Dat ass e Virdeel. De Recycling-Center ass awer fënnef Kilometer ewech, an dat ass en Nodeel. Ech fuere samschdes dohinner mat Glas, alen Zeitungen an engem Kartong. Ech recycléieren trotzdem gär.",
+          "textFr": "Ben : J'habite dans un appartement en ville. Le loyer est élevé, mais j'ai le bus devant la porte. Trier les déchets est simple : le papier va dans la caisse bleue, le verre dans le conteneur et le plastique dans le sac Valorlux. Je mets ce sac le mardi soir sur le trottoir.\nMara : J'habite au village et j'ai plus de place à la cave. C'est un avantage. Le centre de recyclage est cependant à cinq kilomètres, et c'est un inconvénient. J'y vais le samedi avec du verre, de vieux journaux et un carton. J'aime quand même recycler.",
+          "questions": [
+            {
+              "lb": "De Ben lieft an der Stad.",
+              "fr": "Ben vit en ville.",
+              "answer": true
+            },
+            {
+              "lb": "Hie setzt d'Valorlux-Tut an de Keller.",
+              "fr": "Il met le sac Valorlux à la cave.",
+              "answer": false
+            },
+            {
+              "lb": "D'Mara huet méi Plaz doheem.",
+              "fr": "Mara a plus de place chez elle.",
+              "answer": true
+            },
+            {
+              "lb": "De Recycling-Center ass nieft hirem Haus.",
+              "fr": "Le centre de recyclage est à côté de sa maison.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

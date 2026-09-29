@@ -1,4 +1,4 @@
-import type { Sentence, Theme, VocabItem } from '../data/types'
+import type { Reading, ReadingStatement, Sentence, Theme, VocabItem } from '../data/types'
 import { type Rng, sample, shuffle } from './random'
 
 export interface Tile {
@@ -28,10 +28,34 @@ export interface TranslateExercise {
   options: string[]
 }
 
-export type Exercise = OrderExercise | TranslateExercise
+export interface WriteExercise {
+  kind: 'write'
+  id: string
+  /** French word or expression */
+  prompt: string
+  /** Expected Luxembourgish answer, as displayed in feedback */
+  answer: string
+  /** Every accepted answer, normalized with normalizeAnswer */
+  accepted: string[]
+  /** True when the answer starts with a definite article the learner must type */
+  withArticle: boolean
+}
+
+export interface ReadingExercise {
+  kind: 'reading'
+  id: string
+  title: string
+  text: string
+  textFr: string
+  statements: ReadingStatement[]
+}
+
+export type Exercise = OrderExercise | TranslateExercise | WriteExercise | ReadingExercise
 
 export const SESSION_LENGTH = 10
 const OPTION_COUNT = 4
+/** Longest vocabulary item (in words) asked in a writing exercise */
+const MAX_WRITE_WORDS = 3
 
 const EDGE_PUNCTUATION = /^[.,!?;:…«»"“”„()]+|[.,!?;:…«»"“”„()]+$/g
 
@@ -50,6 +74,19 @@ function normalizeText(text: string): string {
   return normalizeToken(text).replace(/\s+/g, ' ').trim()
 }
 
+/** Normalizes a typed answer: case, apostrophes, punctuation and spacing don't matter. */
+export function normalizeAnswer(text: string): string {
+  return normalizeToken(text.normalize('NFC'))
+    .replace(/[.,!?;:…«»"“”„()¿¡]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .replace(/' /g, "'")
+    .trim()
+}
+
+export function stripAccents(text: string): string {
+  return text.normalize('NFD').replace(/\p{M}/gu, '').normalize('NFC')
+}
+
 export function isOrderCorrect(exercise: OrderExercise, words: string[]): boolean {
   const given = words.map(normalizeToken).join(' ')
   return exercise.accepted.some((tokens) => tokens.join(' ') === given)
@@ -57,6 +94,22 @@ export function isOrderCorrect(exercise: OrderExercise, words: string[]): boolea
 
 export function isTranslateCorrect(exercise: TranslateExercise, choice: string | null): boolean {
   return choice !== null && normalizeText(choice) === normalizeText(exercise.answer)
+}
+
+/** "correct", "accents" (right apart from missing/wrong accents, counted as correct) or "wrong". */
+export type WriteVerdict = 'correct' | 'accents' | 'wrong'
+
+export function checkWrite(exercise: WriteExercise, input: string): WriteVerdict {
+  const given = normalizeAnswer(input)
+  if (!given) return 'wrong'
+  if (exercise.accepted.includes(given)) return 'correct'
+  const bare = stripAccents(given)
+  if (exercise.accepted.some((a) => stripAccents(a) === bare)) return 'accents'
+  return 'wrong'
+}
+
+export function isReadingCorrect(exercise: ReadingExercise, answers: (boolean | null)[]): boolean {
+  return exercise.statements.every((s, i) => answers[i] === s.answer)
 }
 
 function shuffleTiles(tiles: Tile[], accepted: string[][], rng: Rng): Tile[] {
@@ -115,12 +168,44 @@ export function makeTranslateExercise(
   }
 }
 
+const ARTICLE = /^(d['’]|(de|den|dat|déi)\s)/i
+
+/** Alternatives are written "oft / dacks". */
+const variants = (lb: string) => lb.split(/\s+\/\s+/).map((v) => v.trim()).filter(Boolean)
+
+/**
+ * `synonyms` are other Luxembourgish words with the same French translation: they are accepted too.
+ */
+export function makeWriteExercise(id: string, item: VocabItem, synonyms: string[] = []): WriteExercise {
+  const accepted = [...new Set([item.lb, ...synonyms].flatMap(variants).map(normalizeAnswer))]
+  return {
+    kind: 'write',
+    id,
+    prompt: item.fr,
+    answer: item.lb,
+    accepted,
+    withArticle: variants(item.lb).every((v) => ARTICLE.test(v)),
+  }
+}
+
+export function makeReadingExercise(id: string, reading: Reading): ReadingExercise {
+  return { kind: 'reading', id, ...reading, statements: reading.questions }
+}
+
+export function canWrite(item: VocabItem): boolean {
+  return variants(item.lb).every((v) => tokenize(v).length <= MAX_WRITE_WORDS) && !/[()[\]…]/.test(item.lb)
+}
+
 /** Returns a copy of the exercise with tiles / options shuffled again (used to retry mistakes). */
 export function reshuffle(exercise: Exercise, rng: Rng = Math.random): Exercise {
-  if (exercise.kind === 'order') {
-    return { ...exercise, tiles: shuffleTiles(exercise.tiles, exercise.accepted, rng) }
+  switch (exercise.kind) {
+    case 'order':
+      return { ...exercise, tiles: shuffleTiles(exercise.tiles, exercise.accepted, rng) }
+    case 'translate':
+      return { ...exercise, options: shuffle(exercise.options, rng) }
+    default:
+      return exercise
   }
-  return { ...exercise, options: shuffle(exercise.options, rng) }
 }
 
 interface Candidate {
@@ -130,10 +215,13 @@ interface Candidate {
   item: VocabItem | Sentence
 }
 
+const between = (min: number, max: number, rng: Rng) => min + Math.floor(rng() * (max - min + 1))
+
 /**
- * Builds a session of random exercises mixing "word order" and "translation".
+ * Builds a session of random exercises. For 10 exercises: 1 reading text (when the themes have some),
+ * 3-4 word-order, 2-3 writing and the rest multiple-choice translation.
  * `themes` are the selected themes; `contextThemes` (usually the whole chapter)
- * provide extra distractors when a theme is too small.
+ * provide extra distractors and accepted synonyms when a theme is too small.
  */
 export function buildSession(
   themes: Theme[],
@@ -147,40 +235,52 @@ export function buildSession(
   const vocab: Candidate[] = themes.flatMap((theme) =>
     theme.vocab.map((item, index) => ({ type: 'vocab' as const, theme, index, item })),
   )
+  const readings = themes.flatMap((theme) => (theme.readings ?? []).map((reading, index) => ({ theme, index, reading })))
 
-  // The same Luxembourgish text can exist as vocab and as a sentence: never ask it twice.
+  // The same Luxembourgish text can exist several times (vocab, sentence, other theme): never ask it twice.
   const promptKey = (c: Candidate) => normalizeText(c.item.lb)
-  const unique = (list: Candidate[], used = new Set<string>()) =>
-    shuffle(list, rng).filter((c) => {
+  const used = new Set<string>()
+  const take = (list: Candidate[], n: number) => {
+    const picked: Candidate[] = []
+    for (const c of shuffle(list, rng)) {
+      if (picked.length >= n) break
       const key = promptKey(c)
-      if (used.has(key)) return false
+      if (used.has(key)) continue
       used.add(key)
-      return true
-    })
-
-  // Roughly half word-order exercises (4 to 6 out of 10).
-  const targetOrder = Math.round(count / 2) + Math.floor(rng() * 3) - 1
-  const orderPool = unique(sentences)
-  const orderPicks = orderPool.slice(0, Math.min(orderPool.length, Math.max(0, targetOrder)))
-  const leftoverSentences = orderPool.slice(orderPicks.length)
-
-  // Translation: mostly vocabulary, plus a couple of whole sentences.
-  const used = new Set(orderPicks.map(promptKey))
-  const translatePool = unique([...vocab, ...sample(leftoverSentences, 2, rng)], used)
-  const translatePicks = translatePool.slice(0, count - orderPicks.length)
-
-  // Not enough vocabulary: top up with more word-order exercises.
-  const missing = count - orderPicks.length - translatePicks.length
-  if (missing > 0) {
-    const taken = new Set([...orderPicks, ...translatePicks].map(promptKey))
-    orderPicks.push(...leftoverSentences.filter((s) => !taken.has(promptKey(s))).slice(0, missing))
+      picked.push(c)
+    }
+    return picked
   }
+
+  const readingPicks = count >= 5 ? sample(readings, 1, rng) : []
+  const orderPicks = take(sentences, between(3, 4, rng))
+  const writePicks = take(
+    vocab.filter((c) => canWrite(c.item)),
+    between(2, 3, rng),
+  )
+  const translateTarget = count - readingPicks.length - orderPicks.length - writePicks.length
+  const translatePicks = take([...vocab, ...sample(sentences, 2, rng)], translateTarget)
+
+  // Not enough material: top up with whatever is left.
+  const missing = () => count - readingPicks.length - orderPicks.length - writePicks.length - translatePicks.length
+  if (missing() > 0) orderPicks.push(...take(sentences, missing()))
+  if (missing() > 0) writePicks.push(...take(vocab.filter((c) => canWrite(c.item)), missing()))
+  if (missing() > 0) translatePicks.push(...take([...vocab, ...sentences], missing()))
 
   const frOf = (type: Candidate['type'], list: Theme[]) =>
     list.flatMap((t) => (type === 'vocab' ? t.vocab : t.sentences).map((i) => i.fr))
 
+  const synonymsOf = (item: VocabItem) => {
+    const fr = normalizeText(item.fr)
+    return [...themes, ...contextThemes].flatMap((t) => t.vocab.filter((v) => normalizeText(v.fr) === fr).map((v) => v.lb))
+  }
+
   const exercises: Exercise[] = [
+    ...readingPicks.map(({ theme, index, reading }) => makeReadingExercise(`${theme.id}/r${index}/reading`, reading)),
     ...orderPicks.map(({ theme, index, item }) => makeOrderExercise(`${theme.id}/s${index}/order`, item, rng)),
+    ...writePicks.map(({ theme, index, item }) =>
+      makeWriteExercise(`${theme.id}/v${index}/write`, item, synonymsOf(item)),
+    ),
     ...translatePicks.map(({ type, theme, index, item }) =>
       makeTranslateExercise(
         `${theme.id}/${type === 'vocab' ? 'v' : 's'}${index}/translate`,

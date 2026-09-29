@@ -16,6 +16,55 @@ function verdict(score: number, total: number) {
   return { emoji: '📚', text: "Continue à t'entraîner, tu vas y arriver !" }
 }
 
+const KIND_LABELS = {
+  order: 'Remettre dans l’ordre',
+  translate: 'Traduire en français',
+  write: 'Écrire en luxembourgeois',
+  reading: 'Compréhension écrite',
+}
+
+function Mistake({ result }: { result: ExerciseResult }) {
+  const { exercise, given } = result
+  if (exercise.kind === 'reading') {
+    const wrong = exercise.statements
+      .map((statement, i) => ({ statement, given: result.answers?.[i] }))
+      .filter(({ statement, given }) => given !== statement.answer)
+    return (
+      <>
+        <p className="mistake__prompt" lang="lb">
+          {exercise.title}
+        </p>
+        <p className="mistake__score">{given}</p>
+        <ul className="mistake__statements">
+          {wrong.map(({ statement }) => (
+            <li key={statement.lb}>
+              <span lang="lb">{statement.lb}</span>{' '}
+              <strong className="mistake__truth">→ {statement.answer ? 'Richteg (vrai)' : 'Falsch (faux)'}</strong>
+            </li>
+          ))}
+        </ul>
+      </>
+    )
+  }
+  const promptLang = exercise.kind === 'translate' ? 'lb' : 'fr'
+  const answerLang = exercise.kind === 'translate' ? 'fr' : 'lb'
+  return (
+    <>
+      <p className="mistake__prompt" lang={promptLang}>
+        {exercise.prompt}
+      </p>
+      <p className="mistake__given">
+        <span className="mistake__label">Ta réponse</span>
+        <span lang={answerLang}>{given || '—'}</span>
+      </p>
+      <p className="mistake__answer">
+        <span className="mistake__label">Bonne réponse</span>
+        <span lang={answerLang}>{exercise.answer}</span>
+      </p>
+    </>
+  )
+}
+
 export function ResultsView({ title, results, onRetryMistakes, onNewSession, onBack }: Props) {
   const score = results.filter((r) => r.correct).length
   const mistakes = results.filter((r) => !r.correct)
@@ -52,22 +101,10 @@ export function ResultsView({ title, results, onRetryMistakes, onNewSession, onB
         <section className="mistakes">
           <h2 className="section-title">Tes erreurs</h2>
           <ul className="mistakes__list">
-            {mistakes.map(({ exercise, given }) => (
-              <li key={exercise.id} className="mistake">
-                <p className="mistake__kind">
-                  {exercise.kind === 'order' ? 'Remettre dans l’ordre' : 'Traduire en français'}
-                </p>
-                <p className="mistake__prompt" lang={exercise.kind === 'order' ? 'fr' : 'lb'}>
-                  {exercise.prompt}
-                </p>
-                <p className="mistake__given">
-                  <span className="mistake__label">Ta réponse</span>
-                  <span lang={exercise.kind === 'order' ? 'lb' : 'fr'}>{given || '—'}</span>
-                </p>
-                <p className="mistake__answer">
-                  <span className="mistake__label">Bonne réponse</span>
-                  <span lang={exercise.kind === 'order' ? 'lb' : 'fr'}>{exercise.answer}</span>
-                </p>
+            {mistakes.map((result) => (
+              <li key={result.exercise.id} className="mistake">
+                <p className="mistake__kind">{KIND_LABELS[result.exercise.kind]}</p>
+                <Mistake result={result} />
               </li>
             ))}
           </ul>

@@ -6,7 +6,7 @@
   "page": 36,
   "themes": [
     {
-      "id": "k3-op-der-aarbecht",
+      "id": "a1-k3-op-der-aarbecht",
       "title": "Op der Aarbecht",
       "titleFr": "Au travail",
       "vocab": [
@@ -119,10 +119,66 @@
           "lb": "D'Adress ass op der Visittekaart.",
           "fr": "L'adresse est sur la carte de visite."
         }
+      ],
+      "readings": [
+        {
+          "title": "Eng E-Mail vum Marc",
+          "text": "Moien Nora,\n\nech sinn de Marc. Ech schaffen als Employé an enger Firma zu Esch. Meng Direktesch ass d'Madamm Weber. Si ass haut um Telefon. Am Büro sinn och eng Sekretärin an en Informatiker. D'Sekretärin hëlleft direkt. Um véier Auer kënnt d'Botzfra. D'Adress an d'Telefonsnummer sinn op der Visittekaart.\n\nBis geschwënn,\nMarc",
+          "textFr": "Salut Nora,\n\nje suis Marc. Je travaille comme employé dans une entreprise à Esch. Ma directrice est Madame Weber. Elle est au téléphone aujourd'hui. Au bureau, il y a aussi une secrétaire et un informaticien. La secrétaire aide tout de suite. À quatre heures, la femme de ménage arrive. L'adresse et le numéro de téléphone sont sur la carte de visite.\n\nÀ bientôt,\nMarc",
+          "questions": [
+            {
+              "lb": "De Marc ass Employé.",
+              "fr": "Marc est employé.",
+              "answer": true
+            },
+            {
+              "lb": "D'Direktesch heescht Madamm Meyer.",
+              "fr": "La directrice s'appelle Madame Meyer.",
+              "answer": false
+            },
+            {
+              "lb": "D'Sekretärin hëlleft am Büro.",
+              "fr": "La secrétaire aide au bureau.",
+              "answer": true
+            },
+            {
+              "lb": "D'Botzfra kënnt um dräi Auer.",
+              "fr": "La femme de ménage arrive à trois heures.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Am Büro",
+          "text": "Tom: Gudde Moien. Wat schafft Dir?\nSara: Ech sinn Informatikerin. Ech schaffen zu Diddeleng.\nTom: Ass Är Direktesch do?\nSara: Jo, d'Direktesch ass um Telefon.\nTom: An d'Telefonsnummer?\nSara: Si ass op der Visittekaart. Den Employé hëlleft direkt. De Mecanicien ass net do. De Receptionnist schafft haut.",
+          "textFr": "Tom : Bonjour. Vous travaillez comme quoi ?\nSara : Je suis informaticienne. Je travaille à Dudelange.\nTom : Votre directrice est là ?\nSara : Oui, la directrice est au téléphone.\nTom : Et le numéro de téléphone ?\nSara : Il est sur la carte de visite. L'employé aide tout de suite. Le mécanicien n'est pas là. Le réceptionniste travaille aujourd'hui.",
+          "questions": [
+            {
+              "lb": "D'Sara schafft als Informatikerin.",
+              "fr": "Sara travaille comme informaticienne.",
+              "answer": true
+            },
+            {
+              "lb": "D'Direktesch ass net um Telefon.",
+              "fr": "La directrice n'est pas au téléphone.",
+              "answer": false
+            },
+            {
+              "lb": "D'Telefonsnummer steet op der Visittekaart.",
+              "fr": "Le numéro de téléphone figure sur la carte de visite.",
+              "answer": true
+            },
+            {
+              "lb": "De Mecanicien ass haut do.",
+              "fr": "Le mécanicien est là aujourd'hui.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k3-wat-schaffe-si",
+      "id": "a1-k3-wat-schaffe-si",
       "title": "Wat schaffe si?",
       "titleFr": "Quel métier font-ils ?",
       "vocab": [
@@ -264,10 +320,66 @@
           "lb": "De Schoulmeeschter léiert d'Kanner.",
           "fr": "L'instituteur enseigne aux enfants."
         }
+      ],
+      "readings": [
+        {
+          "title": "Leit an der Stad",
+          "text": "D'Anne schafft an der Stad. Si ass Bäckesch a verkeeft moies Brout. De Luc ass Metzler. Hie schafft och an der Stad. D'Nora ass Journalistin; si schreift Artikelen. De Paul ass Schoulmeeschter. Hie léiert d'Kanner. Den Tom ass Infirmier an hëlleft de Patienten. D'Anne schwätzt Lëtzebuergesch a Franséisch.",
+          "textFr": "Anne travaille en ville. Elle est boulangère et vend du pain le matin. Luc est boucher. Il travaille aussi en ville. Nora est journaliste ; elle écrit des articles. Paul est instituteur. Il enseigne aux enfants. Tom est infirmier et aide les patients. Anne parle luxembourgeois et français.",
+          "questions": [
+            {
+              "lb": "D'Anne verkeeft moies Brout.",
+              "fr": "Anne vend du pain le matin.",
+              "answer": true
+            },
+            {
+              "lb": "De Luc ass Dokter.",
+              "fr": "Luc est docteur.",
+              "answer": false
+            },
+            {
+              "lb": "D'Nora ass eng Journalistin.",
+              "fr": "Nora est journaliste.",
+              "answer": true
+            },
+            {
+              "lb": "De Paul ass Coiffeur.",
+              "fr": "Paul est coiffeur.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "E SMS vum Claude",
+          "text": "Moien Sam,\n\nech sinn haut beim Dokter. Den Dokter gëtt Medikamenter. Meng Schwëster Lisa ass Coiffeuse; si schneit d'Hoer. Mäi Brudder Pit ass Caissier, net Affekot. Eis Mamm ass Léierin. Si léiert d'Kanner an der Schoul. Haut kënnt de Bréifdréier mat engem Bréif.\n\nClaude",
+          "textFr": "Salut Sam,\n\nje suis chez le docteur aujourd'hui. Le docteur donne des médicaments. Ma sœur Lisa est coiffeuse ; elle coupe les cheveux. Mon frère Pit est caissier, pas avocat. Notre mère est institutrice. Elle enseigne aux enfants à l'école. Aujourd'hui, le facteur vient avec une lettre.\n\nClaude",
+          "questions": [
+            {
+              "lb": "De Claude ass beim Dokter.",
+              "fr": "Claude est chez le docteur.",
+              "answer": true
+            },
+            {
+              "lb": "Den Dokter gëtt keng Medikamenter.",
+              "fr": "Le docteur ne donne pas de médicaments.",
+              "answer": false
+            },
+            {
+              "lb": "D'Lisa schafft als Coiffeuse.",
+              "fr": "Lisa travaille comme coiffeuse.",
+              "answer": true
+            },
+            {
+              "lb": "De Pit schafft als Affekot.",
+              "fr": "Pit travaille comme avocat.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k3-wou-schaffe-si",
+      "id": "a1-k3-wou-schaffe-si",
       "title": "Wou schaffe si?",
       "titleFr": "Où travaillent-ils ?",
       "vocab": [
@@ -393,10 +505,66 @@
           "lb": "De Mecanicien schafft an enger Garage.",
           "fr": "Le mécanicien travaille dans un garage."
         }
+      ],
+      "readings": [
+        {
+          "title": "Informatioun fir Employéen",
+          "text": "Informatioun fir nei Employéen\n\nD'Firma LuxPrint ass zu Miersch. D'Direktesch schafft an engem Büro. De Mecanicien schafft an enger Garage nieft der Firma. D'Sekretärin schafft och an engem Büro. D'Botzfra ass moies am Hotel. Den Dokter ass net an der Firma; hien ass an enger Praxis. D'Gare ass virun der Firma.",
+          "textFr": "Information pour les nouveaux employés\n\nL'entreprise LuxPrint est à Mersch. La directrice travaille dans un bureau. Le mécanicien travaille dans un garage à côté de l'entreprise. La secrétaire travaille aussi dans un bureau. La femme de ménage est à l'hôtel le matin. Le docteur n'est pas dans l'entreprise ; il est dans un cabinet. La gare est devant l'entreprise.",
+          "questions": [
+            {
+              "lb": "D'Firma ass zu Miersch.",
+              "fr": "L'entreprise est à Mersch.",
+              "answer": true
+            },
+            {
+              "lb": "D'Direktesch schafft an enger Garage.",
+              "fr": "La directrice travaille dans un garage.",
+              "answer": false
+            },
+            {
+              "lb": "Den Dokter ass an enger Praxis.",
+              "fr": "Le docteur est dans un cabinet.",
+              "answer": true
+            },
+            {
+              "lb": "D'Botzfra ass am Restaurant.",
+              "fr": "La femme de ménage est au restaurant.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Meng Aarbechtsplaz",
+          "text": "Ech sinn d'Mila. Ech schaffen an engem Supermarché zu Ettelbréck. Mäi Mann Ben schafft op enger Bank. Eis Duechter Lea schafft net; si ass an der Schoul. Méindes geet de Ben op d'Gare. D'Bank ass an der Stad. Ech hëllefen och am Buttek. Meng Aarbechtsplaz ass no bei der Post.",
+          "textFr": "Je suis Mila. Je travaille dans un supermarché à Ettelbruck. Mon mari Ben travaille dans une banque. Notre fille Lea ne travaille pas ; elle est à l'école. Le lundi, Ben va à la gare. La banque est en ville. J'aide aussi dans le magasin. Mon lieu de travail est près de la poste.",
+          "questions": [
+            {
+              "lb": "D'Mila schafft am Supermarché.",
+              "fr": "Mila travaille au supermarché.",
+              "answer": true
+            },
+            {
+              "lb": "De Ben schafft an enger Klinick.",
+              "fr": "Ben travaille dans une clinique.",
+              "answer": false
+            },
+            {
+              "lb": "D'Lea ass an der Schoul.",
+              "fr": "Lea est à l'école.",
+              "answer": true
+            },
+            {
+              "lb": "D'Aarbechtsplaz ass bei der Apdikt.",
+              "fr": "Le lieu de travail est près de la pharmacie.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k3-wei-fuere-si-op-daarbecht",
+      "id": "a1-k3-wei-fuere-si-op-daarbecht",
       "title": "Wéi fuere si op d'Aarbecht?",
       "titleFr": "Comment vont-ils au travail ?",
       "vocab": [
@@ -522,10 +690,66 @@
           "lb": "De Moto ass futti.",
           "fr": "La moto est en panne."
         }
+      ],
+      "readings": [
+        {
+          "title": "De Wee op d'Aarbecht",
+          "text": "Moien Claire,\n\nech schaffen elo zu Lëtzebuerg. Normalerweis fueren ech mam Zuch op d'Aarbecht. Ech wunnen zu Esch, an d'Gare ass no. Méindes huelen ech de Bus. Den Zuch ass ze spéit. Mäi Kolleg Marc fiert mam Vëlo. Hien huet keen Auto. Haut ass vill Trafic, an de Stau nervt.\n\nTom",
+          "textFr": "Salut Claire,\n\nje travaille maintenant au Luxembourg. Normalement, je vais au travail en train. J'habite à Esch, et la gare est proche. Le lundi, je prends le bus. Le train est en retard. Mon collègue Marc va à vélo. Il n'a pas de voiture. Aujourd'hui, il y a beaucoup de circulation, et l'embouteillage est énervant.\n\nTom",
+          "questions": [
+            {
+              "lb": "Den Tom fiert mam Zuch.",
+              "fr": "Tom va en train.",
+              "answer": true
+            },
+            {
+              "lb": "Méindes hëlt den Tom den Taxi.",
+              "fr": "Le lundi, Tom prend le taxi.",
+              "answer": false
+            },
+            {
+              "lb": "De Marc huet keen Auto.",
+              "fr": "Marc n'a pas de voiture.",
+              "answer": true
+            },
+            {
+              "lb": "Haut ass kee Stau.",
+              "fr": "Aujourd'hui, il n'y a pas d'embouteillage.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Wéi fiers du?",
+          "text": "Ana: Wéi fiers du op d'Aarbecht?\nBen: Ech fueren mam Auto. Ech hunn e Führerschäin.\nAna: Ass de Stau grouss?\nBen: Jo, de Stau ass haut laang. An du?\nAna: Ech ginn zu Fouss. Meng Aarbecht ass op der Gare. Muer huelen ech de Bus.\nBen: Mäi Moto ass futti, dofir fueren ech net mam Moto.",
+          "textFr": "Ana : Comment vas-tu travailler ?\nBen : Je vais en voiture. J'ai un permis de conduire.\nAna : L'embouteillage est grand ?\nBen : Oui, l'embouteillage est long aujourd'hui. Et toi ?\nAna : Je vais à pied. Mon travail est à la gare. Demain, je prendrai le bus.\nBen : Ma moto est en panne, donc je ne vais pas à moto.",
+          "questions": [
+            {
+              "lb": "De Ben fiert mam Auto.",
+              "fr": "Ben va en voiture.",
+              "answer": true
+            },
+            {
+              "lb": "De Ben huet kee Führerschäin.",
+              "fr": "Ben n'a pas de permis de conduire.",
+              "answer": false
+            },
+            {
+              "lb": "D'Ana geet haut zu Fouss.",
+              "fr": "Ana va à pied aujourd'hui.",
+              "answer": true
+            },
+            {
+              "lb": "De Moto vum Ben ass nei.",
+              "fr": "La moto de Ben est neuve.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k3-aarbechtsannoncen",
+      "id": "a1-k3-aarbechtsannoncen",
       "title": "Aarbechtsannoncen",
       "titleFr": "Offres d'emploi",
       "vocab": [
@@ -671,10 +895,66 @@
           "lb": "D'Plaz ass net méi fräi.",
           "fr": "Le poste n'est plus libre."
         }
+      ],
+      "readings": [
+        {
+          "title": "Eng Aarbechtsannonce",
+          "text": "Aarbechtsannonce\n\nD'Praxis Müller sicht eng Sekretärin. D'Plaz ass fir zwanzeg Stonnen d'Woch. De Profil: Dir sidd flexibel a responsabel. E Diplom ass gutt, mee net obligatoresch. Erfahrung am Büro ass wichteg. Schéckt Är Kandidatur per E-Mail. D'Equipe ass kleng. De Congé ass am August. D'Praxis ass an der Stad.",
+          "textFr": "Offre d'emploi\n\nLe cabinet Müller cherche une secrétaire. Le poste est de vingt heures par semaine. Le profil : vous êtes flexible et responsable. Un diplôme est bien, mais pas obligatoire. L'expérience au bureau est importante. Envoyez votre candidature par e-mail. L'équipe est petite. Le congé est en août. Le cabinet est en ville.",
+          "questions": [
+            {
+              "lb": "D'Praxis wëll eng Sekretärin.",
+              "fr": "Le cabinet veut une secrétaire.",
+              "answer": true
+            },
+            {
+              "lb": "D'Annonce ass fir zéng Stonnen.",
+              "fr": "L'annonce est pour dix heures.",
+              "answer": false
+            },
+            {
+              "lb": "Am Büro brauch een Erfahrung.",
+              "fr": "Au bureau, il faut de l'expérience.",
+              "answer": true
+            },
+            {
+              "lb": "De Congé ass net am August.",
+              "fr": "Le congé n'est pas en août.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Dem Rafael seng Kandidatur",
+          "text": "Moien,\n\nech sinn de Rafael. Ech sichen eng interessant Plaz. Ech hunn e Führerschäin B an dräi Joer Erfahrung. Ech kann an enger Equipe schaffen. Ech wëll Sue verdéngen, awer ech sinn och flexibel. Ech schécken meng Kandidatur per E-Mail. Ech schécken och mäin Diplom a mäi Portfolio. Ech muss méindes net schaffen.\n\nMat beschte Gréiss,\nRafael",
+          "textFr": "Bonjour,\n\nje suis Rafael. Je cherche un poste intéressant. J'ai un permis B et trois ans d'expérience. Je peux travailler dans une équipe. Je veux gagner de l'argent, mais je suis aussi flexible. J'envoie ma candidature par e-mail. J'envoie aussi mon diplôme et mon portfolio. Je ne dois pas travailler le lundi.\n\nCordialement,\nRafael",
+          "questions": [
+            {
+              "lb": "De Rafael sicht eng Plaz.",
+              "fr": "Rafael cherche un poste.",
+              "answer": true
+            },
+            {
+              "lb": "Hien huet kee Führerschäin B.",
+              "fr": "Il n'a pas de permis B.",
+              "answer": false
+            },
+            {
+              "lb": "Hie kann an enger Equipe schaffen.",
+              "fr": "Il peut travailler dans une équipe.",
+              "answer": true
+            },
+            {
+              "lb": "Hie muss méindes schaffen.",
+              "fr": "Il doit travailler le lundi.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k3-wei-vill-auer-ass-et",
+      "id": "a1-k3-wei-vill-auer-ass-et",
       "title": "Wéi vill Auer ass et?",
       "titleFr": "Quelle heure est-il ?",
       "vocab": [
@@ -808,10 +1088,66 @@
           "lb": "De Fliger lant um hallwer néng.",
           "fr": "L'avion atterrit à huit heures et demie."
         }
+      ],
+      "readings": [
+        {
+          "title": "Programm um Findel",
+          "text": "Programm um Findel\n\nDe Fliger vu Paräis lant um hallwer néng moies. De Boarding fir Berlin ass um zéng vir zéng. Um zwielef Auer ass eng Paus. D'Equipe schafft bis dräi Auer nomëttes. De Bus an d'Stad kënnt um fënnef op dräi. Owes, um Véierel vir néng, fiert den Zuch op Esch.",
+          "textFr": "Programme au Findel\n\nL'avion de Paris atterrit à huit heures et demie du matin. L'embarquement pour Berlin est à dix heures moins dix. À midi, il y a une pause. L'équipe travaille jusqu'à trois heures de l'après-midi. Le bus vers la ville arrive à deux heures cinq. Le soir, à neuf heures moins le quart, le train part pour Esch.",
+          "questions": [
+            {
+              "lb": "De Fliger lant moies.",
+              "fr": "L'avion atterrit le matin.",
+              "answer": true
+            },
+            {
+              "lb": "De Boarding ass um zéng vir zéng.",
+              "fr": "L'embarquement est à dix heures moins dix.",
+              "answer": true
+            },
+            {
+              "lb": "D'Paus ass um zwou Auer.",
+              "fr": "La pause est à deux heures.",
+              "answer": false
+            },
+            {
+              "lb": "Den Zuch fiert um Véierel op néng.",
+              "fr": "Le train part à huit heures et quart.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Nach Zäit",
+          "text": "Lena: Wéi vill Auer ass et?\nNico: Et ass fënnef op dräi.\nLena: Da komme mir ze spéit. De Rendez-vous ass um hallwer dräi.\nNico: Nee, de Rendez-vous ass um fënnef op hallwer dräi. Mir hunn nach Zäit.\nLena: Gutt. Moies schaffen ech bis zwielef Auer. Owes sinn ech um sechs Auer doheem.",
+          "textFr": "Lena : Quelle heure est-il ?\nNico : Il est deux heures cinq.\nLena : Alors nous arrivons trop tard. Le rendez-vous est à deux heures et demie.\nNico : Non, le rendez-vous est à deux heures vingt-cinq. Nous avons encore le temps.\nLena : Bien. Le matin, je travaille jusqu'à midi. Le soir, je suis à la maison à six heures.",
+          "questions": [
+            {
+              "lb": "Elo ass et fënnef op dräi.",
+              "fr": "Maintenant, il est deux heures cinq.",
+              "answer": true
+            },
+            {
+              "lb": "De Rendez-vous ass um dräi Auer.",
+              "fr": "Le rendez-vous est à trois heures.",
+              "answer": false
+            },
+            {
+              "lb": "D'Lena schafft bis zwielef Auer.",
+              "fr": "Lena travaille jusqu'à midi.",
+              "answer": true
+            },
+            {
+              "lb": "D'Lena ass um fënnef doheem.",
+              "fr": "Lena est à la maison à cinq heures.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k3-weini-schaffe-si",
+      "id": "a1-k3-weini-schaffe-si",
       "title": "Wéini schaffe si?",
       "titleFr": "Quand travaillent-ils ?",
       "vocab": [
@@ -941,10 +1277,66 @@
           "lb": "Ech schaffen normalerweis nomëttes.",
           "fr": "Je travaille normalement l'après-midi."
         }
+      ],
+      "readings": [
+        {
+          "title": "Dem Mathilde säi Schaffdag",
+          "text": "Ech sinn d'Mathilde. Ech schaffen an engem Restaurant. Mäi Schaffdag fänkt um sechs Auer moies un. Ech preparéieren Kaffi a zerwéieren Gedrénks. Mëttes sinn ech net fäerdeg; ech schaffen bis zwou Auer. Normalerweis hunn ech de Weekend fräi. Heiansdo schaffen ech awer samschdes owes. Da beroden ech d'Clienten.",
+          "textFr": "Je suis Mathilde. Je travaille dans un restaurant. Ma journée de travail commence à six heures du matin. Je prépare du café et je sers des boissons. À midi, je n'ai pas fini ; je travaille jusqu'à deux heures. Normalement, j'ai le week-end libre. Parfois, je travaille cependant le samedi soir. Alors je conseille les clients.",
+          "questions": [
+            {
+              "lb": "D'Mathilde schafft am Restaurant.",
+              "fr": "Mathilde travaille au restaurant.",
+              "answer": true
+            },
+            {
+              "lb": "Hire Schaffdag fänkt um aacht Auer un.",
+              "fr": "Sa journée de travail commence à huit heures.",
+              "answer": false
+            },
+            {
+              "lb": "Si zerwéiert moies Gedrénks.",
+              "fr": "Elle sert des boissons le matin.",
+              "answer": true
+            },
+            {
+              "lb": "Si schafft ëmmer de Weekend.",
+              "fr": "Elle travaille toujours le week-end.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "D'Equipe Alpha",
+          "text": "Equipe Alpha\n\nDe Pit schafft moies vu sechs bis zwou. D'Joffer Chantal fänkt um aacht Auer un an hält um hallwer sechs op. Si preparéiert de Cours. De Karim kontrolléiert d'Adressen nomëttes. D'Lea schreift E-Mailen owes. Sonndes schafft d'Equipe net; de Weekend ass fräi.",
+          "textFr": "Équipe Alpha\n\nPit travaille le matin de six heures à deux heures. Mademoiselle Chantal commence à huit heures et arrête à cinq heures et demie. Elle prépare le cours. Karim contrôle les adresses l'après-midi. Lea écrit des e-mails le soir. Le dimanche, l'équipe ne travaille pas ; le week-end est libre.",
+          "questions": [
+            {
+              "lb": "De Pit schafft bis zwou Auer.",
+              "fr": "Pit travaille jusqu'à deux heures.",
+              "answer": true
+            },
+            {
+              "lb": "D'Chantal fänkt um sechs Auer un.",
+              "fr": "Chantal commence à six heures.",
+              "answer": false
+            },
+            {
+              "lb": "De Karim kontrolléiert nomëttes Adressen.",
+              "fr": "Karim contrôle des adresses l'après-midi.",
+              "answer": true
+            },
+            {
+              "lb": "D'Equipe schafft sonndes am Büro.",
+              "fr": "L'équipe travaille au bureau le dimanche.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k3-land-a-leit-transportmettelen-zu-letzebuerg",
+      "id": "a1-k3-land-a-leit-transportmettelen-zu-letzebuerg",
       "title": "Land a Leit: Transportmëttelen zu Lëtzebuerg",
       "titleFr": "Pays et société : les moyens de transport au Luxembourg",
       "vocab": [
@@ -1081,6 +1473,62 @@
         {
           "lb": "D'Leit fuere mam Vëlo an d'Stad.",
           "fr": "Les gens vont en ville à vélo."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Info Verkéier Lëtzebuerg",
+          "text": "Info Verkéier Lëtzebuerg\n\nMoies ass vill Verkéier op der Autobunn A6. Eng Spuer ass zou, well do e Chantier ass. De Stau ass dräi Kilometer laang. Vill Frontaliere fuere mam Auto. Op der Gare kënnt den Zuch um Gleis dräi. Mam Bus kënnt een an den Zentrum. De Findel huet haut gutt Verbindungen.",
+          "textFr": "Info circulation Luxembourg\n\nLe matin, il y a beaucoup de circulation sur l'autoroute A6. Une voie est fermée parce qu'il y a un chantier. L'embouteillage fait trois kilomètres. Beaucoup de frontaliers vont en voiture. À la gare, le train arrive voie trois. En bus, on arrive au centre. Le Findel a de bonnes correspondances aujourd'hui.",
+          "questions": [
+            {
+              "lb": "Op der A6 ass e Chantier.",
+              "fr": "Il y a un chantier sur l'A6.",
+              "answer": true
+            },
+            {
+              "lb": "De Stau ass fënnef Kilometer laang.",
+              "fr": "L'embouteillage fait cinq kilomètres.",
+              "answer": false
+            },
+            {
+              "lb": "Den Zuch kënnt um Gleis dräi.",
+              "fr": "Le train arrive voie trois.",
+              "answer": true
+            },
+            {
+              "lb": "De Findel huet keng Verbindungen.",
+              "fr": "Le Findel n'a pas de correspondances.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng Geschäftsrees",
+          "text": "Léif Sophie,\n\nech sinn zu Lëtzebuerg fir eng Geschäftsrees. Vum Findel huelen ech de Bus an d'Stad. Am Zentrum fueren d'Leit mam Vëlo oder mam Véloh'. Mäi Kolleg ass Frontalier; hien hëlt moies den Zuch. Haut ass op der Autobunn vill Stau, mee de Bensin ass bëlleg. Ech fannen eng Parkplaz nieft dem Hotel.\n\nMarc",
+          "textFr": "Chère Sophie,\n\nje suis au Luxembourg pour un voyage d'affaires. Depuis le Findel, je prends le bus vers la ville. Au centre, les gens vont à vélo ou avec le Véloh'. Mon collègue est frontalier ; il prend le train le matin. Aujourd'hui, il y a beaucoup d'embouteillages sur l'autoroute, mais l'essence est bon marché. Je trouve une place de parking à côté de l'hôtel.\n\nMarc",
+          "questions": [
+            {
+              "lb": "De Marc ass op enger Geschäftsrees.",
+              "fr": "Marc est en voyage d'affaires.",
+              "answer": true
+            },
+            {
+              "lb": "Hie fiert vum Findel mam Taxi.",
+              "fr": "Il va depuis le Findel en taxi.",
+              "answer": false
+            },
+            {
+              "lb": "Säi Kolleg hëlt den Zuch.",
+              "fr": "Son collègue prend le train.",
+              "answer": true
+            },
+            {
+              "lb": "De Bensin ass deier.",
+              "fr": "L'essence est chère.",
+              "answer": false
+            }
+          ]
         }
       ]
     }

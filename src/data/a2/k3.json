@@ -1,0 +1,1400 @@
+{
+  "id": 3,
+  "title": "Mäin Alldag",
+  "titleFr": "Mon quotidien",
+  "descriptionFr": "Vous apprenez à parler des habitudes quotidiennes, des lieux, des avantages et inconvénients, et à fixer un rendez-vous.",
+  "page": 38,
+  "themes": [
+    {
+      "id": "a2-k3-de-programm-vum-dag",
+      "title": "De Programm vum Dag",
+      "titleFr": "Le programme de la journée",
+      "vocab": [
+        {
+          "lb": "an der Woch",
+          "fr": "en semaine"
+        },
+        {
+          "lb": "de Weekend",
+          "fr": "le week-end"
+        },
+        {
+          "lb": "d'Musekschoul",
+          "fr": "l'école de musique"
+        },
+        {
+          "lb": "den Zuch",
+          "fr": "le train"
+        },
+        {
+          "lb": "de Pyjama",
+          "fr": "le pyjama"
+        },
+        {
+          "lb": "d'Zänn",
+          "fr": "les dents"
+        },
+        {
+          "lb": "den Dossier",
+          "fr": "le dossier"
+        },
+        {
+          "lb": "d'Invitatioun",
+          "fr": "l'invitation"
+        },
+        {
+          "lb": "d'Aarbecht",
+          "fr": "le travail"
+        },
+        {
+          "lb": "Sport maachen",
+          "fr": "faire du sport"
+        },
+        {
+          "lb": "sech ofschalten",
+          "fr": "décompresser"
+        },
+        {
+          "lb": "de Kinosowend",
+          "fr": "la soirée cinéma"
+        },
+        {
+          "lb": "heem goen",
+          "fr": "rentrer à la maison"
+        },
+        {
+          "lb": "de Bus",
+          "fr": "le bus"
+        },
+        {
+          "lb": "de Kaffi",
+          "fr": "le café"
+        },
+        {
+          "lb": "moies",
+          "fr": "le matin"
+        },
+        {
+          "lb": "owes",
+          "fr": "le soir"
+        },
+        {
+          "lb": "Bis herno",
+          "fr": "à tout à l'heure"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "An der Woch stinn ech fréi op.",
+          "fr": "En semaine, je me lève tôt."
+        },
+        {
+          "lb": "De Weekend ginn ech an de Kino.",
+          "fr": "Le week-end, je vais au cinéma."
+        },
+        {
+          "lb": "Ech fuere mam Bus op d'Aarbecht.",
+          "fr": "Je vais au travail en bus."
+        },
+        {
+          "lb": "Mëttes iessen ech mat der Famill.",
+          "fr": "À midi, je mange avec la famille."
+        },
+        {
+          "lb": "No der Aarbecht maache mir Sport.",
+          "fr": "Après le travail, nous faisons du sport."
+        },
+        {
+          "lb": "Owes gi mir heem.",
+          "fr": "Le soir, nous rentrons à la maison."
+        },
+        {
+          "lb": "D'Kanner ginn an d'Musekschoul.",
+          "fr": "Les enfants vont à l'école de musique."
+        },
+        {
+          "lb": "Am Zuch liesen ech d'Zeitung.",
+          "fr": "Dans le train, je lis le journal."
+        },
+        {
+          "lb": "Ech hunn haut vill Aarbecht.",
+          "fr": "J'ai beaucoup de travail aujourd'hui."
+        },
+        {
+          "lb": "Bis herno!",
+          "fr": "À tout à l'heure !"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Claire um Méindeg",
+          "text": "D'Claire huet e volle Méindeg. Moies steet si um hallwer siwen op a wäscht séier d'Zänn. Am Zuch liest si d'Zeitung a schreift eng kleng Noriicht un hir Schwëster. Um néng Auer ass si am Büro. Si schafft un dräi Dossieren a geet duerno mat de Kolleege Kaffi drénken. Mëttes huet si eng Reunioun, an nomëttes rifft hire Chef un. No der Aarbecht bréngt si hir Duechter an d'Musekschoul. Owes iessen si doheem zesummen. Fir e Kinosowend ass si ze midd.",
+          "textFr": "Claire a un lundi bien rempli. Le matin, elle se lève à six heures et demie et se lave rapidement les dents. Dans le train, elle lit le journal et écrit un petit message à sa sœur. À neuf heures, elle est au bureau. Elle travaille sur trois dossiers puis va boire un café avec les collègues. À midi, elle a une réunion, et l'après-midi son chef appelle. Après le travail, elle amène sa fille à l'école de musique. Le soir, elles mangent ensemble à la maison. Pour une soirée cinéma, elle est trop fatiguée.",
+          "questions": [
+            {
+              "lb": "D'Claire steet fréi op.",
+              "fr": "Claire se lève tôt.",
+              "answer": true
+            },
+            {
+              "lb": "Si liest am Zuch e Buch.",
+              "fr": "Elle lit un livre dans le train.",
+              "answer": false
+            },
+            {
+              "lb": "Si huet mëttes eng Reunioun.",
+              "fr": "Elle a une réunion à midi.",
+              "answer": true
+            },
+            {
+              "lb": "Owes geet si an de Kino.",
+              "fr": "Le soir, elle va au cinéma.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "E Weekend mam Sam",
+          "text": "Sam: Hues du de Weekend schonn e Programm, Mia?\nMia: Jo, samschdes ginn ech mam Bus an d'Stad. Ech kafen e Cadeau fir meng Mamm an duerno treffen ech meng Frëndin.\nSam: Flott! Ech bleiwen samschdes doheem, well ech vill Aarbecht hunn. Ech muss zwee Dossiere fäerdeg maachen.\nMia: An e Sonndeg?\nSam: Moies ginn ech mat mengem Brudder Sport maachen. Nomëttes wëlle mir e relaxe Kinosowend maachen.\nMia: Da vill Spaass! Ech sinn e Sonndeg bei menger Famill. Mir iessen zesummen a ginn duerno spadséieren.",
+          "textFr": "Sam : As-tu déjà un programme pour le week-end, Mia ?\nMia : Oui, samedi je vais en ville en bus. J'achète un cadeau pour ma mère, puis je retrouve mon amie.\nSam : Chouette ! Samedi, je reste à la maison parce que j'ai beaucoup de travail. Je dois terminer deux dossiers.\nMia : Et dimanche ?\nSam : Le matin, je vais faire du sport avec mon frère. L'après-midi, nous voulons faire une soirée cinéma détendue.\nMia : Alors amuse-toi bien ! Dimanche, je suis chez ma famille. Nous mangeons ensemble puis nous allons nous promener.",
+          "questions": [
+            {
+              "lb": "D'Mia fiert samschdes mam Bus.",
+              "fr": "Mia prend le bus samedi.",
+              "answer": true
+            },
+            {
+              "lb": "De Sam huet samschdes näischt ze maachen.",
+              "fr": "Sam n'a rien à faire samedi.",
+              "answer": false
+            },
+            {
+              "lb": "De Sam mécht e Sonndeg Sport.",
+              "fr": "Sam fait du sport dimanche.",
+              "answer": true
+            },
+            {
+              "lb": "D'Mia ass e Sonndeg am Kino.",
+              "fr": "Mia est au cinéma dimanche.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k3-wat-maacht-dir-moies",
+      "title": "Wat maacht Dir moies?",
+      "titleFr": "Que faites-vous le matin ?",
+      "vocab": [
+        {
+          "lb": "opstoen",
+          "fr": "se lever"
+        },
+        {
+          "lb": "umaachen",
+          "fr": "allumer"
+        },
+        {
+          "lb": "ausmaachen",
+          "fr": "éteindre"
+        },
+        {
+          "lb": "opmaachen",
+          "fr": "ouvrir"
+        },
+        {
+          "lb": "opspären",
+          "fr": "déverrouiller"
+        },
+        {
+          "lb": "zouspären",
+          "fr": "fermer à clé"
+        },
+        {
+          "lb": "fortfueren",
+          "fr": "partir en voiture"
+        },
+        {
+          "lb": "heemkommen",
+          "fr": "rentrer chez soi"
+        },
+        {
+          "lb": "erausgoen",
+          "fr": "sortir"
+        },
+        {
+          "lb": "ufänken",
+          "fr": "commencer"
+        },
+        {
+          "lb": "sech wäschen",
+          "fr": "se laver"
+        },
+        {
+          "lb": "sech duschen",
+          "fr": "se doucher"
+        },
+        {
+          "lb": "sech ofdréchnen",
+          "fr": "s'essuyer"
+        },
+        {
+          "lb": "sech undoen",
+          "fr": "s'habiller"
+        },
+        {
+          "lb": "sech ausdoen",
+          "fr": "se déshabiller"
+        },
+        {
+          "lb": "sech raséieren",
+          "fr": "se raser"
+        },
+        {
+          "lb": "sech schminken",
+          "fr": "se maquiller"
+        },
+        {
+          "lb": "sech kämmen",
+          "fr": "se peigner"
+        },
+        {
+          "lb": "sech tommelen",
+          "fr": "se dépêcher"
+        },
+        {
+          "lb": "all Dag",
+          "fr": "tous les jours"
+        },
+        {
+          "lb": "normalerweis",
+          "fr": "normalement"
+        },
+        {
+          "lb": "heiansdo",
+          "fr": "parfois"
+        },
+        {
+          "lb": "ni",
+          "fr": "jamais"
+        },
+        {
+          "lb": "gär",
+          "fr": "volontiers"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Moies stinn ech um sechs op.",
+          "fr": "Le matin, je me lève à six heures."
+        },
+        {
+          "lb": "Ech maachen d'Kaffismaschinn un.",
+          "fr": "J'allume la machine à café."
+        },
+        {
+          "lb": "Du wäschs dech séier.",
+          "fr": "Tu te laves vite."
+        },
+        {
+          "lb": "Hatt deet sech am Buedzëmmer un.",
+          "fr": "Elle s'habille dans la salle de bains."
+        },
+        {
+          "lb": "Hien raséiert sech virun der Aarbecht.",
+          "fr": "Il se rase avant le travail."
+        },
+        {
+          "lb": "Mir fueren um siwen Auer fort.",
+          "fr": "Nous partons en voiture à sept heures."
+        },
+        {
+          "lb": "Ech spären d'Dier zou.",
+          "fr": "Je ferme la porte à clé."
+        },
+        {
+          "lb": "Um hallwer néng fänken ech un.",
+          "fr": "À huit heures et demie, je commence."
+        },
+        {
+          "lb": "Si kënnt normalerweis spéit heem.",
+          "fr": "Elle rentre normalement tard."
+        },
+        {
+          "lb": "Ech kucke mech am Spigel un.",
+          "fr": "Je me regarde dans le miroir."
+        },
+        {
+          "lb": "D'Kanner maachen d'Tëlee aus.",
+          "fr": "Les enfants éteignent la télé."
+        },
+        {
+          "lb": "Tommelt Iech elo!",
+          "fr": "Dépêchez-vous maintenant !"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng Moiesroutine",
+          "text": "Ech sinn d'Lea. An der Woch rabbelt mäi Wecker um Véirel vir siwen. Ech sti net gär esou fréi op, mä ech tommele mech. Fir d'éischt maachen ech d'Fënster op an ech ginn an d'Buedzëmmer. Do wäschen ech mech, dusche mech séier a kämme mech. Ech maachen de Radio un a preparéieren e Kaffi. Um hallwer aacht fueren ech mam Auto fort. Ech spären d'Dier ëmmer zou. De Weekend ass et méi roueg: Ech schlofen da méi laang a maachen d'Kaffismaschinn eréischt um néng Auer un.",
+          "textFr": "Je suis Lea. En semaine, mon réveil sonne à sept heures moins le quart. Je n'aime pas me lever si tôt, mais je me dépêche. D'abord, j'ouvre la fenêtre et je vais dans la salle de bains. Là, je me lave, je me douche rapidement et je me peigne. J'allume la radio et je prépare un café. À sept heures et demie, je pars en voiture. Je ferme toujours la porte à clé. Le week-end, c'est plus calme : je dors plus longtemps et je n'allume la machine à café qu'à neuf heures.",
+          "questions": [
+            {
+              "lb": "D'Lea steet an der Woch fréi op.",
+              "fr": "Lea se lève tôt en semaine.",
+              "answer": true
+            },
+            {
+              "lb": "Si mécht moies d'Tëlee un.",
+              "fr": "Elle allume la télé le matin.",
+              "answer": false
+            },
+            {
+              "lb": "D'Lea fiert mam Auto fort.",
+              "fr": "Lea part en voiture.",
+              "answer": true
+            },
+            {
+              "lb": "De Weekend steet si méi fréi op.",
+              "fr": "Le week-end, elle se lève plus tôt.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng Notiz um Frigo",
+          "text": "Tom,\n\nech sinn haut moies fréi erausgaangen. Kanns du w.e.g. d'Luuchten am Gang ausmaachen an d'Fënsteren am Schlofzëmmer opmaachen? Duerno méchs du dech prett fir de Cours. Vergiess net, dech ze raséieren an däi Mantel unzedoen, et ass kal. Ech kommen ëm véier Auer heem. Wann s du viru mir fortfiers, späers du d'Dier zou. Owes gi mir bei d'Bomi iessen. Mir däerfen also net ze spéit heemkommen.\n\nMerci, Nora",
+          "textFr": "Tom,\n\nje suis sortie tôt ce matin. Peux-tu s'il te plaît éteindre les lumières dans le couloir et ouvrir les fenêtres dans la chambre ? Ensuite, tu te prépares pour le cours. N'oublie pas de te raser et de mettre ton manteau, il fait froid. Je rentre à quatre heures. Si tu pars avant moi, tu fermes la porte à clé. Le soir, nous allons manger chez mamie. Nous ne devons donc pas rentrer trop tard.\n\nMerci, Nora",
+          "questions": [
+            {
+              "lb": "D'Nora ass moies fréi erausgaangen.",
+              "fr": "Nora est sortie tôt le matin.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tom soll d'Fënsteren zoumaachen.",
+              "fr": "Tom doit fermer les fenêtres.",
+              "answer": false
+            },
+            {
+              "lb": "D'Nora kënnt ëm véier heem.",
+              "fr": "Nora rentre à quatre heures.",
+              "answer": true
+            },
+            {
+              "lb": "Owes iesse si am Restaurant.",
+              "fr": "Le soir, ils mangent au restaurant.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k3-dem-christian-sain-dag",
+      "title": "Dem Christian säin Dag",
+      "titleFr": "La journée de Christian",
+      "vocab": [
+        {
+          "lb": "schonn",
+          "fr": "déjà"
+        },
+        {
+          "lb": "eréischt",
+          "fr": "seulement"
+        },
+        {
+          "lb": "d'Crèche",
+          "fr": "la crèche"
+        },
+        {
+          "lb": "de Bistro",
+          "fr": "le bistrot"
+        },
+        {
+          "lb": "de Reesbüro",
+          "fr": "l'agence de voyages"
+        },
+        {
+          "lb": "d'Spillplaz",
+          "fr": "l'aire de jeux"
+        },
+        {
+          "lb": "d'Gebai",
+          "fr": "le bâtiment"
+        },
+        {
+          "lb": "bréngen",
+          "fr": "amener"
+        },
+        {
+          "lb": "bleiwen",
+          "fr": "rester"
+        },
+        {
+          "lb": "op der Aarbecht",
+          "fr": "au travail"
+        },
+        {
+          "lb": "d'Apdikt",
+          "fr": "la pharmacie"
+        },
+        {
+          "lb": "d'Gemeng",
+          "fr": "la commune"
+        },
+        {
+          "lb": "de Supermarché",
+          "fr": "le supermarché"
+        },
+        {
+          "lb": "de Metzler",
+          "fr": "le boucher"
+        },
+        {
+          "lb": "de Maart",
+          "fr": "le marché"
+        },
+        {
+          "lb": "op der Post",
+          "fr": "à la poste"
+        },
+        {
+          "lb": "um Ministère",
+          "fr": "au ministère"
+        },
+        {
+          "lb": "beim Dokter",
+          "fr": "chez le médecin"
+        },
+        {
+          "lb": "bei der Nopesch",
+          "fr": "chez la voisine"
+        },
+        {
+          "lb": "de Schlëssel",
+          "fr": "la clé"
+        },
+        {
+          "lb": "d'Bank",
+          "fr": "la banque"
+        },
+        {
+          "lb": "de Zoo",
+          "fr": "le zoo"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "De Christian war haut an der Crèche.",
+          "fr": "Christian était à la crèche aujourd'hui."
+        },
+        {
+          "lb": "Hie war schonn op der Post.",
+          "fr": "Il était déjà à la poste."
+        },
+        {
+          "lb": "Hien hat keng Zäit.",
+          "fr": "Il n'avait pas le temps."
+        },
+        {
+          "lb": "Ech hat gëschter vill um Programm.",
+          "fr": "J'avais beaucoup au programme hier."
+        },
+        {
+          "lb": "Muer geet hien op d'Bank.",
+          "fr": "Demain, il va à la banque."
+        },
+        {
+          "lb": "D'Kanner bleiwen op der Spillplaz.",
+          "fr": "Les enfants restent sur l'aire de jeux."
+        },
+        {
+          "lb": "Si bréngt de Jong an d'Crèche.",
+          "fr": "Elle amène le garçon à la crèche."
+        },
+        {
+          "lb": "Bei der Nopesch läit de Schlëssel.",
+          "fr": "La clé est chez la voisine."
+        },
+        {
+          "lb": "Mir waren um Ministère.",
+          "fr": "Nous étions au ministère."
+        },
+        {
+          "lb": "Du waars eréischt am Bistro.",
+          "fr": "Tu étais seulement au bistrot."
+        },
+        {
+          "lb": "Am Reesbüro froe mir no Ticketen.",
+          "fr": "À l'agence de voyages, nous demandons des billets."
+        },
+        {
+          "lb": "De Bistro ass beim Maart.",
+          "fr": "Le bistrot est près du marché."
+        }
+      ],
+      "readings": [
+        {
+          "title": "E volle Dënschdeg",
+          "text": "Gëschter hat de Christian e wierklech volle Programm. Um aacht Auer war hien an der Crèche, well hie seng kleng Duechter bruecht huet. Duerno war hien op der Post an um Ministère. Am Bistro um Eck huet hien eréischt géint eelef Auer e Kaffi gedronk. Mëttes war hien op der Aarbecht an hat eng laang Reunioun. Nomëttes ass hien nach op d'Bank gaangen. Säi Schlëssel war bei der Nopesch, dofir ass hien no der Aarbecht nach kuerz bei hatt gaangen. Um fënnef Auer war hien endlech doheem.",
+          "textFr": "Hier, Christian avait vraiment un programme chargé. À huit heures, il était à la crèche, parce qu'il a amené sa petite fille. Ensuite, il était à la poste et au ministère. Au bistrot du coin, il n'a bu un café qu'autour de onze heures. À midi, il était au travail et avait une longue réunion. L'après-midi, il est encore allé à la banque. Sa clé était chez la voisine, c'est pourquoi après le travail il est encore passé rapidement chez elle. À cinq heures, il était enfin à la maison.",
+          "questions": [
+            {
+              "lb": "De Christian hat e volle Programm.",
+              "fr": "Christian avait un programme chargé.",
+              "answer": true
+            },
+            {
+              "lb": "Fir d'éischt war hien am Bistro.",
+              "fr": "D'abord, il était au bistrot.",
+              "answer": false
+            },
+            {
+              "lb": "Nomëttes ass hien op d'Bank gaangen.",
+              "fr": "L'après-midi, il est allé à la banque.",
+              "answer": true
+            },
+            {
+              "lb": "Säi Schlëssel war am Büro.",
+              "fr": "Sa clé était au bureau.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Wou waars du?",
+          "text": "Marie: Christian, wou waars du haut schonn?\nChristian: Ech war am Reesbüro, well ech no eisen Tickete gefrot hunn. Duerno war ech um Ministère.\nMarie: An op der Post?\nChristian: Nee, do war ech net. Ech hat keng Zäit méi. Kanns du nomëttes dohinner goen?\nMarie: Jo, ech ginn och an de Supermarché. D'Kanner bleiwen esou laang bei der Bomi.\nChristian: Gutt. Ech huelen se duerno of a ginn nach kuerz beim Metzler laanscht.\nMarie: Vergiess d'Apdikt net. D'Lea brauch nach Houschtsirop.",
+          "textFr": "Marie : Christian, où étais-tu déjà aujourd'hui ?\nChristian : J'étais à l'agence de voyages, parce que je me suis renseigné sur nos billets. Ensuite, j'étais au ministère.\nMarie : Et à la poste ?\nChristian : Non, je n'y étais pas. Je n'avais plus de temps. Peux-tu y aller l'après-midi ?\nMarie : Oui, je vais aussi au supermarché. Les enfants restent pendant ce temps chez mamie.\nChristian : Bien. Je les récupère ensuite et je passe encore rapidement chez le boucher.\nMarie : N'oublie pas la pharmacie. Lea a encore besoin de sirop contre la toux.",
+          "questions": [
+            {
+              "lb": "De Christian war am Reesbüro.",
+              "fr": "Christian était à l'agence de voyages.",
+              "answer": true
+            },
+            {
+              "lb": "Hie war haut op der Post.",
+              "fr": "Il était aujourd'hui à la poste.",
+              "answer": false
+            },
+            {
+              "lb": "D'Marie geet an de Supermarché.",
+              "fr": "Marie va au supermarché.",
+              "answer": true
+            },
+            {
+              "lb": "D'Kanner bleiwen beim Dokter.",
+              "fr": "Les enfants restent chez le médecin.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k3-an-der-creche",
+      "title": "An der Crèche",
+      "titleFr": "À la crèche",
+      "vocab": [
+        {
+          "lb": "d'Crèche",
+          "fr": "la crèche"
+        },
+        {
+          "lb": "d'Spillschoul",
+          "fr": "l'école préscolaire"
+        },
+        {
+          "lb": "de Précoce",
+          "fr": "le précoce"
+        },
+        {
+          "lb": "d'Maison relais",
+          "fr": "la maison relais"
+        },
+        {
+          "lb": "d'Dagesmamm",
+          "fr": "l'assistante maternelle"
+        },
+        {
+          "lb": "erwuessen",
+          "fr": "adulte"
+        },
+        {
+          "lb": "versuergen",
+          "fr": "s'occuper de"
+        },
+        {
+          "lb": "andeelen",
+          "fr": "répartir"
+        },
+        {
+          "lb": "d'Méisproochegkeet",
+          "fr": "le multilinguisme"
+        },
+        {
+          "lb": "d'Auerzäit",
+          "fr": "l'horaire"
+        },
+        {
+          "lb": "d'Gréisst",
+          "fr": "la taille"
+        },
+        {
+          "lb": "d'Aktivitéit",
+          "fr": "l'activité"
+        },
+        {
+          "lb": "den Dagesoflaf",
+          "fr": "le déroulement de la journée"
+        },
+        {
+          "lb": "d'Mëttesrascht",
+          "fr": "la pause de midi"
+        },
+        {
+          "lb": "d'Waardelëscht",
+          "fr": "la liste d'attente"
+        },
+        {
+          "lb": "d'Entwécklung",
+          "fr": "le développement"
+        },
+        {
+          "lb": "d'Erzéiung",
+          "fr": "l'éducation"
+        },
+        {
+          "lb": "de Virdeel",
+          "fr": "l'avantage"
+        },
+        {
+          "lb": "den Nodeel",
+          "fr": "l'inconvénient"
+        },
+        {
+          "lb": "de Präis",
+          "fr": "le prix"
+        },
+        {
+          "lb": "de Kontakt",
+          "fr": "le contact"
+        },
+        {
+          "lb": "d'Kreativitéit",
+          "fr": "la créativité"
+        },
+        {
+          "lb": "d'Beweegung",
+          "fr": "le mouvement"
+        },
+        {
+          "lb": "den Educateur",
+          "fr": "l'éducateur"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "D'Crèche mécht um siwen Auer op.",
+          "fr": "La crèche ouvre à sept heures."
+        },
+        {
+          "lb": "D'Kanner ginn all Dag eraus.",
+          "fr": "Les enfants sortent tous les jours."
+        },
+        {
+          "lb": "D'Gruppen däerfen net ze grouss sinn.",
+          "fr": "Les groupes ne doivent pas être trop grands."
+        },
+        {
+          "lb": "De Präis spillt och eng Roll.",
+          "fr": "Le prix joue aussi un rôle."
+        },
+        {
+          "lb": "Mir brauchen flexibel Auerzäiten.",
+          "fr": "Nous avons besoin d'horaires flexibles."
+        },
+        {
+          "lb": "D'Maison relais ass bei der Schoul.",
+          "fr": "La maison relais est près de l'école."
+        },
+        {
+          "lb": "Dagesmamme versuerge Kanner doheem.",
+          "fr": "Les assistantes maternelles s'occupent d'enfants à la maison."
+        },
+        {
+          "lb": "D'Méisproochegkeet ass e Virdeel.",
+          "fr": "Le multilinguisme est un avantage."
+        },
+        {
+          "lb": "Et gëtt eng Waardelëscht.",
+          "fr": "Il y a une liste d'attente."
+        },
+        {
+          "lb": "Professionell Educateure schaffen an der Crèche.",
+          "fr": "Des éducateurs professionnels travaillent à la crèche."
+        },
+        {
+          "lb": "Den Dagesoflaf ass gutt strukturéiert.",
+          "fr": "Le déroulement de la journée est bien structuré."
+        },
+        {
+          "lb": "D'Eltere fannen d'Kichen wichteg.",
+          "fr": "Les parents trouvent la cuisine importante."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Crèche Am Park",
+          "text": "Nei am Quartier: D'Crèche Am Park mécht den 3. Mee op. Mir hunn zwou Gruppen: eng Grupp fir Puppelcher vun dräi Méint bis zwee Joer an eng Grupp fir Kanner vun zwee bis véier Joer. Eis Auerzäite si flexibel, vu siwen Auer moies bis hallwer siwen owes. All Dag kache mir frësch an d'Kanner gi bei guddem Wieder eraus. D'Kreativitéit, d'Beweegung an d'Méisproochegkeet si fir eis wichteg. Am Moment hu mir nach dräi Plaze fräi. Fir méi Informatiounen, mellt Iech per Telefon oder kommt op e Besuch.",
+          "textFr": "Nouveau dans le quartier : la crèche Am Park ouvre le 3 mai. Nous avons deux groupes : un groupe pour les bébés de trois mois à deux ans et un groupe pour les enfants de deux à quatre ans. Nos horaires sont flexibles, de sept heures du matin à six heures et demie du soir. Chaque jour, nous cuisinons frais et les enfants sortent quand il fait beau. La créativité, le mouvement et le multilinguisme sont importants pour nous. Pour le moment, nous avons encore trois places libres. Pour plus d'informations, contactez-nous par téléphone ou venez pour une visite.",
+          "questions": [
+            {
+              "lb": "D'Crèche mécht am Mee op.",
+              "fr": "La crèche ouvre en mai.",
+              "answer": true
+            },
+            {
+              "lb": "Et gëtt nëmmen eng Grupp.",
+              "fr": "Il n'y a qu'un seul groupe.",
+              "answer": false
+            },
+            {
+              "lb": "D'Kanner kréie frëscht Iessen.",
+              "fr": "Les enfants reçoivent de la nourriture fraîche.",
+              "answer": true
+            },
+            {
+              "lb": "Et gëtt keng Plaz méi.",
+              "fr": "Il n'y a plus de place.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng Diskussioun doheem",
+          "text": "Mamm: Ech hunn haut eng Crèche beim Park besicht. Se ass no bei eisem Haus.\nPapp: Dat ass praktesch, mä wéi grouss sinn d'Gruppen?\nMamm: Déi kleng Grupp huet zéng Kanner an zwou Educatricen. D'Méisproochegkeet ass der Crèche wichteg.\nPapp: Dat kléngt gutt. Ech hunn awer Angscht virun de Krankheeten. An de Präis ass sécher héich.\nMamm: Jo, dat sinn Nodeeler. Mä d'Auerzäite si flexibel, an d'Kanner hunn all Dag Aktivitéiten.\nPapp: Da maache mir e Rendez-vous fir eng Visite. Duerno decidéiere mir zesummen.",
+          "textFr": "Maman : J'ai visité aujourd'hui une crèche près du parc. Elle est proche de notre maison.\nPapa : C'est pratique, mais quelle est la taille des groupes ?\nMaman : Le petit groupe a dix enfants et deux éducatrices. Le multilinguisme est important pour la crèche.\nPapa : Cela semble bien. Mais j'ai peur des maladies. Et le prix est sûrement élevé.\nMaman : Oui, ce sont des inconvénients. Mais les horaires sont flexibles, et les enfants ont des activités tous les jours.\nPapa : Alors prenons rendez-vous pour une visite. Ensuite, nous déciderons ensemble.",
+          "questions": [
+            {
+              "lb": "D'Crèche ass no beim Haus.",
+              "fr": "La crèche est proche de la maison.",
+              "answer": true
+            },
+            {
+              "lb": "De Papp fënnt Krankheeten egal.",
+              "fr": "Le père trouve les maladies sans importance.",
+              "answer": false
+            },
+            {
+              "lb": "D'Auerzäite sinn flexibel.",
+              "fr": "Les horaires sont flexibles.",
+              "answer": true
+            },
+            {
+              "lb": "Si decidéieren direkt um Telefon.",
+              "fr": "Ils décident tout de suite au téléphone.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k3-am-verain",
+      "title": "Am Veräin",
+      "titleFr": "Dans une association",
+      "vocab": [
+        {
+          "lb": "d'Turnen",
+          "fr": "la gymnastique"
+        },
+        {
+          "lb": "de Spaass",
+          "fr": "le plaisir"
+        },
+        {
+          "lb": "d'Fanfare",
+          "fr": "la fanfare"
+        },
+        {
+          "lb": "d'Trompett",
+          "fr": "la trompette"
+        },
+        {
+          "lb": "d'Instrument",
+          "fr": "l'instrument"
+        },
+        {
+          "lb": "d'Musek",
+          "fr": "la musique"
+        },
+        {
+          "lb": "d'Danzen",
+          "fr": "la danse"
+        },
+        {
+          "lb": "de Sport",
+          "fr": "le sport"
+        },
+        {
+          "lb": "den Equippesport",
+          "fr": "le sport d'équipe"
+        },
+        {
+          "lb": "d'Scouten",
+          "fr": "les scouts"
+        },
+        {
+          "lb": "musikalesch",
+          "fr": "musical"
+        },
+        {
+          "lb": "sportlech",
+          "fr": "sportif"
+        },
+        {
+          "lb": "prouwen",
+          "fr": "répéter"
+        },
+        {
+          "lb": "sech umellen",
+          "fr": "s'inscrire"
+        },
+        {
+          "lb": "sech ofmellen",
+          "fr": "se désinscrire"
+        },
+        {
+          "lb": "sech engagéieren",
+          "fr": "s'engager"
+        },
+        {
+          "lb": "d'Internetsäit",
+          "fr": "le site Internet"
+        },
+        {
+          "lb": "d'Gemeng",
+          "fr": "la commune"
+        },
+        {
+          "lb": "de Formulaire",
+          "fr": "le formulaire"
+        },
+        {
+          "lb": "de Sportsclub",
+          "fr": "le club de sport"
+        },
+        {
+          "lb": "d'Associatioun",
+          "fr": "l'association"
+        },
+        {
+          "lb": "d'Prouf",
+          "fr": "la répétition"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "D'Caroline turnt zanter dräi Joer.",
+          "fr": "Caroline fait de la gymnastique depuis trois ans."
+        },
+        {
+          "lb": "De Charel spillt Trompett.",
+          "fr": "Charel joue de la trompette."
+        },
+        {
+          "lb": "D'Nora ass net musikalesch.",
+          "fr": "Nora n'est pas musicale."
+        },
+        {
+          "lb": "Hatt ass ganz sportlech.",
+          "fr": "Elle est très sportive."
+        },
+        {
+          "lb": "Ech melle mech online un.",
+          "fr": "Je m'inscris en ligne."
+        },
+        {
+          "lb": "Mir prouwen all Dënschdeg.",
+          "fr": "Nous répétons tous les mardis."
+        },
+        {
+          "lb": "Den Equippesport mécht Spaass.",
+          "fr": "Le sport d'équipe est amusant."
+        },
+        {
+          "lb": "D'Kanner sinn an de Scouten.",
+          "fr": "Les enfants sont chez les scouts."
+        },
+        {
+          "lb": "Op der Internetsäit fannt Dir Formulairen.",
+          "fr": "Sur le site Internet, vous trouvez des formulaires."
+        },
+        {
+          "lb": "Vill Leit engagéieren sech am Veräin.",
+          "fr": "Beaucoup de gens s'engagent dans l'association."
+        },
+        {
+          "lb": "D'Fanfare sicht nei Memberen.",
+          "fr": "La fanfare cherche de nouveaux membres."
+        },
+        {
+          "lb": "Am Sportsclub trainéiere mir reegelméisseg.",
+          "fr": "Au club de sport, nous nous entraînons régulièrement."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Flyer vun der Fanfare",
+          "text": "Fanfare Harmonie Duerf\n\nHues du Loscht op Musek? Spillt deng Duechter oder däi Jong schonn en Instrument? Da komm bei eis! Mir prouwen all mëttwochs vun 18.30 bis 20.00 Auer am ale Schoulgebai. Nei Memberen däerfen zweemol gratis matmaachen. Kanner an Erwuessener si wëllkomm. Mir spillen op Concerten, op Fester an am Hierscht beim Hämmelsmarsch. Wann s du nach keen Instrument hues, hëlleft d'Fanfare der Famill, eent ze léinen. De Formulaire fir sech unzemellen ass op eiser Internetsäit.\n\nKontakt: fanfare-duerf@ptt.lu",
+          "textFr": "Fanfare Harmonie Duerf\n\nAs-tu envie de musique ? Ta fille ou ton fils joue-t-il déjà d'un instrument ? Alors viens chez nous ! Nous répétons tous les mercredis de 18 h 30 à 20 h 00 dans l'ancien bâtiment scolaire. Les nouveaux membres peuvent participer gratuitement deux fois. Enfants et adultes sont les bienvenus. Nous jouons aux concerts, aux fêtes et en automne au Hämmelsmarsch. Si tu n'as pas encore d'instrument, la fanfare aide la famille à en emprunter un. Le formulaire pour s'inscrire est sur notre site Internet.\n\nContact : fanfare-duerf@ptt.lu",
+          "questions": [
+            {
+              "lb": "D'Fanfare prouwt mëttwochs owes.",
+              "fr": "La fanfare répète le mercredi soir.",
+              "answer": true
+            },
+            {
+              "lb": "Nëmme Kanner däerfe Member ginn.",
+              "fr": "Seuls les enfants peuvent devenir membres.",
+              "answer": false
+            },
+            {
+              "lb": "D'Fanfare spillt och op Fester.",
+              "fr": "La fanfare joue aussi lors de fêtes.",
+              "answer": true
+            },
+            {
+              "lb": "De Formulaire ass bei der Bank.",
+              "fr": "Le formulaire est à la banque.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng Noriicht vun der Anna",
+          "text": "Moien Claude,\n\nech hu gëschter op der Internetsäit vun eiser Gemeng no Veräiner gesicht. Fir d'Nora hunn ech zwee gutt Iddien. Si ass net ganz musikalesch, dofir ass d'Fanfare vläicht näischt fir hatt. Mä hatt ass sportlech an huet gär Equippesport. De Volleyballclub trainéiert méindes a freides. Et gëtt och Scouten am Quartier; si organiséieren all Mount e Weekend am Bësch. Den Online-Formulaire ass einfach, mä ech wëll nach mat engem Trainer schwätzen. Weess du, ob d'Caroline nach am Sportsclub ass?\n\nBis geschwënn,\nAnna",
+          "textFr": "Salut Claude,\n\nhier, j'ai cherché des associations sur le site Internet de notre commune. Pour Nora, j'ai deux bonnes idées. Elle n'est pas très musicale, c'est pourquoi la fanfare n'est peut-être pas pour elle. Mais elle est sportive et aime les sports d'équipe. Le club de volley s'entraîne le lundi et le vendredi. Il y a aussi des scouts dans le quartier ; ils organisent chaque mois un week-end en forêt. Le formulaire en ligne est simple, mais je veux encore parler avec un entraîneur. Sais-tu si Caroline est encore au club de sport ?\n\nÀ bientôt,\nAnna",
+          "questions": [
+            {
+              "lb": "D'Anna sicht Veräiner fir d'Nora.",
+              "fr": "Anna cherche des associations pour Nora.",
+              "answer": true
+            },
+            {
+              "lb": "D'Nora ass immens musikalesch.",
+              "fr": "Nora est très musicale.",
+              "answer": false
+            },
+            {
+              "lb": "De Volleyballclub trainéiert zweemol d'Woch.",
+              "fr": "Le club de volley s'entraîne deux fois par semaine.",
+              "answer": true
+            },
+            {
+              "lb": "De Formulaire ass ganz komplizéiert.",
+              "fr": "Le formulaire est très compliqué.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k3-e-rendez-vous",
+      "title": "E Rendez-vous",
+      "titleFr": "Un rendez-vous",
+      "vocab": [
+        {
+          "lb": "sech mellen",
+          "fr": "prendre contact"
+        },
+        {
+          "lb": "sech gesinn",
+          "fr": "se voir"
+        },
+        {
+          "lb": "d'Neiegkeet",
+          "fr": "la nouvelle"
+        },
+        {
+          "lb": "een huele goen",
+          "fr": "aller boire un verre"
+        },
+        {
+          "lb": "d'Mëttesstonn",
+          "fr": "la pause de midi"
+        },
+        {
+          "lb": "sech treffen",
+          "fr": "se rencontrer"
+        },
+        {
+          "lb": "den Agenda",
+          "fr": "l'agenda"
+        },
+        {
+          "lb": "de Rendez-vous",
+          "fr": "le rendez-vous"
+        },
+        {
+          "lb": "de Fitnesscours",
+          "fr": "le cours de fitness"
+        },
+        {
+          "lb": "den Theater",
+          "fr": "le théâtre"
+        },
+        {
+          "lb": "de Concert",
+          "fr": "le concert"
+        },
+        {
+          "lb": "d'Rockhal",
+          "fr": "la Rockhal"
+        },
+        {
+          "lb": "d'Konferenz",
+          "fr": "la conférence"
+        },
+        {
+          "lb": "den Déierendokter",
+          "fr": "le vétérinaire"
+        },
+        {
+          "lb": "d'Aarbechtsiessen",
+          "fr": "le repas d'affaires"
+        },
+        {
+          "lb": "d'nächst Woch",
+          "fr": "la semaine prochaine"
+        },
+        {
+          "lb": "iwwermuer",
+          "fr": "après-demain"
+        },
+        {
+          "lb": "Zäit hunn",
+          "fr": "avoir le temps"
+        },
+        {
+          "lb": "voll",
+          "fr": "plein"
+        },
+        {
+          "lb": "fräi",
+          "fr": "libre"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Mir hunn eis laang net gesinn.",
+          "fr": "Nous ne nous sommes pas vus depuis longtemps."
+        },
+        {
+          "lb": "Hues du muer den Owend Zäit?",
+          "fr": "As-tu le temps demain soir ?"
+        },
+        {
+          "lb": "Iwwermuer hunn ech keng Zäit.",
+          "fr": "Après-demain, je n'ai pas le temps."
+        },
+        {
+          "lb": "E Freideg ass den Agenda voll.",
+          "fr": "Vendredi, l'agenda est plein."
+        },
+        {
+          "lb": "Treffe mir eis e Mëttwoch?",
+          "fr": "Nous nous retrouvons mercredi ?"
+        },
+        {
+          "lb": "Ech melle mech bei dir.",
+          "fr": "Je te recontacte."
+        },
+        {
+          "lb": "D'Mëttesstonn ass scho voll.",
+          "fr": "La pause de midi est déjà pleine."
+        },
+        {
+          "lb": "Ech ginn op e Concert.",
+          "fr": "Je vais à un concert."
+        },
+        {
+          "lb": "D'nächst Woch geet et besser.",
+          "fr": "La semaine prochaine, ça ira mieux."
+        },
+        {
+          "lb": "Um aacht Auer passt et.",
+          "fr": "À huit heures, cela convient."
+        },
+        {
+          "lb": "Ech freeë mech.",
+          "fr": "Je m'en réjouis."
+        },
+        {
+          "lb": "Bis dann!",
+          "fr": "À plus tard !"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng SMS vum Julien",
+          "text": "Salut Martha, ech hunn dech laang net méi gesinn. Dës Woch ass mäin Agenda leider voll. Muer ginn ech mat enger Frëndin an den Theater, e Mëttwoch hunn ech e Rendez-vous beim Déierendokter, an en Donneschdeg sinn ech op enger Konferenz. E Freideg an der Mëttesstonn hunn ech awer Zäit. Wëlls du mat mir am Café Alterna een huele goen? Wann dat net geet, kënne mir eis d'nächst Woch e Mëttwoch den Owend treffen. Ech freeë mech op deng Neiegkeeten. Ruff mech w.e.g. no sechs Auer un. Julien",
+          "textFr": "Salut Martha, cela fait longtemps que je ne t'ai pas vue. Cette semaine, mon agenda est malheureusement plein. Demain, je vais au théâtre avec une amie, mercredi j'ai rendez-vous chez le vétérinaire, et jeudi je suis à une conférence. Vendredi pendant la pause de midi, j'ai cependant le temps. Veux-tu aller boire un verre avec moi au café Alterna ? Si cela ne va pas, nous pouvons nous retrouver mercredi soir la semaine prochaine. Je me réjouis de tes nouvelles. Appelle-moi s'il te plaît après six heures. Julien",
+          "questions": [
+            {
+              "lb": "Dem Julien säin Agenda ass voll.",
+              "fr": "L'agenda de Julien est plein.",
+              "answer": true
+            },
+            {
+              "lb": "Muer geet hien an d'Rockhal.",
+              "fr": "Demain, il va à la Rockhal.",
+              "answer": false
+            },
+            {
+              "lb": "E Freideg huet hien Zäit.",
+              "fr": "Vendredi, il a le temps.",
+              "answer": true
+            },
+            {
+              "lb": "D'Martha soll viru sechs uruffen.",
+              "fr": "Martha doit appeler avant six heures.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Am Agenda vun der Aline",
+          "text": "D'Aline wëll mam Marc e Rendez-vous ausmaachen. Si kuckt am Agenda. E Méindeg huet si an der Mëttesstonn en Aarbechtsiessen. E Mëttwoch den Owend geet si op e Concert an d'Rockhal. En Donneschdeg schafft si bis siwen Auer, mä duerno ass si fräi. De Marc huet en Dënschdeg e Fitnesscours an iwwermuer eng kleng Reunioun. Si schwätzen um Telefon a fannen endlech eng Léisung. Si treffe sech en Donneschdeg um hallwer aacht am Café nieft dem Theater. D'Aline schreift de Rendez-vous direkt an den Agenda.",
+          "textFr": "Aline veut fixer un rendez-vous avec Marc. Elle regarde dans l'agenda. Lundi, elle a un repas d'affaires pendant la pause de midi. Mercredi soir, elle va à un concert à la Rockhal. Jeudi, elle travaille jusqu'à sept heures, mais ensuite elle est libre. Marc a un cours de fitness mardi et une petite réunion après-demain. Ils parlent au téléphone et trouvent enfin une solution. Ils se retrouvent jeudi à sept heures et demie au café à côté du théâtre. Aline écrit le rendez-vous directement dans l'agenda.",
+          "questions": [
+            {
+              "lb": "D'Aline huet e Méindeg en Aarbechtsiessen.",
+              "fr": "Aline a un repas d'affaires lundi.",
+              "answer": true
+            },
+            {
+              "lb": "E Mëttwoch geet si an de Kino.",
+              "fr": "Mercredi, elle va au cinéma.",
+              "answer": false
+            },
+            {
+              "lb": "De Marc huet en Dënschdeg Fitnesscours.",
+              "fr": "Marc a un cours de fitness mardi.",
+              "answer": true
+            },
+            {
+              "lb": "Si treffen sech um sechs Auer.",
+              "fr": "Ils se retrouvent à six heures.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k3-land-a-leit-dverainsliewen-zu-letzebuerg",
+      "title": "Land a Leit: D'Veräinsliewen zu Lëtzebuerg",
+      "titleFr": "Pays et gens : la vie associative au Luxembourg",
+      "vocab": [
+        {
+          "lb": "d'Veräinsliewen",
+          "fr": "la vie associative"
+        },
+        {
+          "lb": "de Veräin",
+          "fr": "le club"
+        },
+        {
+          "lb": "de Member",
+          "fr": "le membre"
+        },
+        {
+          "lb": "d'Geleeënheet",
+          "fr": "l'occasion"
+        },
+        {
+          "lb": "d'Federatioun",
+          "fr": "la fédération"
+        },
+        {
+          "lb": "d'Informatioun",
+          "fr": "l'information"
+        },
+        {
+          "lb": "de Fussball",
+          "fr": "le football"
+        },
+        {
+          "lb": "Vëlofueren",
+          "fr": "faire du vélo"
+        },
+        {
+          "lb": "d'Fanfare",
+          "fr": "la fanfare"
+        },
+        {
+          "lb": "d'Harmonie",
+          "fr": "l'harmonie"
+        },
+        {
+          "lb": "de Conservatoire",
+          "fr": "le conservatoire"
+        },
+        {
+          "lb": "de Musekscours",
+          "fr": "le cours de musique"
+        },
+        {
+          "lb": "de Museksstage",
+          "fr": "le stage de musique"
+        },
+        {
+          "lb": "d'Scoutsgrupp",
+          "fr": "le groupe scout"
+        },
+        {
+          "lb": "de Scoutismus",
+          "fr": "le scoutisme"
+        },
+        {
+          "lb": "de CLAE",
+          "fr": "le CLAE"
+        },
+        {
+          "lb": "de Festival",
+          "fr": "le festival"
+        },
+        {
+          "lb": "d'Kultur",
+          "fr": "la culture"
+        },
+        {
+          "lb": "d'Gemeng",
+          "fr": "la commune"
+        },
+        {
+          "lb": "d'Chorale",
+          "fr": "la chorale"
+        },
+        {
+          "lb": "de Sportsclub",
+          "fr": "le club de sport"
+        },
+        {
+          "lb": "d'Clubaktivitéit",
+          "fr": "l'activité de club"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Zu Lëtzebuerg ginn et vill Veräiner.",
+          "fr": "Au Luxembourg, il y a beaucoup d'associations."
+        },
+        {
+          "lb": "Vill Leit si Member an engem Club.",
+          "fr": "Beaucoup de gens sont membres d'un club."
+        },
+        {
+          "lb": "Sportveräiner hunn dacks eng Federatioun.",
+          "fr": "Les clubs sportifs ont souvent une fédération."
+        },
+        {
+          "lb": "Fussball ass ganz populär.",
+          "fr": "Le football est très populaire."
+        },
+        {
+          "lb": "D'Musekschoul bitt Coursen un.",
+          "fr": "L'école de musique propose des cours."
+        },
+        {
+          "lb": "D'Scoutsgruppen maachen Aktivitéiten am Fräien.",
+          "fr": "Les groupes scouts font des activités en plein air."
+        },
+        {
+          "lb": "De CLAE organiséiert e Festival.",
+          "fr": "Le CLAE organise un festival."
+        },
+        {
+          "lb": "Op der Gemeng kritt een Informatiounen.",
+          "fr": "À la commune, on obtient des informations."
+        },
+        {
+          "lb": "Eng Fanfare spillt am Duerf.",
+          "fr": "Une fanfare joue au village."
+        },
+        {
+          "lb": "Am Veräin léiert een Leit kennen.",
+          "fr": "Dans l'association, on fait connaissance avec des gens."
+        },
+        {
+          "lb": "Vill Kanner probéiere Sportaarten aus.",
+          "fr": "Beaucoup d'enfants essaient des disciplines sportives."
+        },
+        {
+          "lb": "De Conservatoire bitt Musekscoursen un.",
+          "fr": "Le conservatoire propose des cours de musique."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Veräiner an der Gemeng",
+          "text": "An der Gemeng Mamer ass d'Veräinsliewen ganz aktiv. Et gëtt e Fussballsveräin, eng Fanfare, eng Chorale, e Vëlosclub an e Club fir Senioren. De Fussballsveräin trainéiert zweemol d'Woch, an d'Fanfare prouwt mëttwochs owes am Kulturhaus. Fir nei Awunner ass dat eng gutt Geleeënheet, Leit kennenzeléieren a Lëtzebuergesch ze schwätzen. D'Gemeng huet eng Internetsäit mat all Informatiounen: Auerzäiten, Adressen a Formulairen. Wien net gär um Internet sicht, ka moies op d'Gemeng goen. Do erklären d'Mataarbechter, wéi een sech an engem Veräin umellt.",
+          "textFr": "Dans la commune de Mamer, la vie associative est très active. Il y a un club de football, une fanfare, une chorale, un club de vélo et un club pour seniors. Le club de football s'entraîne deux fois par semaine, et la fanfare répète le mercredi soir à la maison de la culture. Pour les nouveaux habitants, c'est une bonne occasion de faire connaissance avec des gens et de parler luxembourgeois. La commune a un site Internet avec toutes les informations : horaires, adresses et formulaires. Celui qui n'aime pas chercher sur Internet peut aller le matin à la commune. Là, les employés expliquent comment s'inscrire dans un club.",
+          "questions": [
+            {
+              "lb": "D'Gemeng huet vill Veräiner.",
+              "fr": "La commune a beaucoup d'associations.",
+              "answer": true
+            },
+            {
+              "lb": "De Fussballsveräin trainéiert nëmmen eemol.",
+              "fr": "Le club de football s'entraîne seulement une fois.",
+              "answer": false
+            },
+            {
+              "lb": "D'Fanfare prouwt am Kulturhaus.",
+              "fr": "La fanfare répète à la maison de la culture.",
+              "answer": true
+            },
+            {
+              "lb": "Informatioune kritt een nëmmen online.",
+              "fr": "On obtient des informations uniquement en ligne.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Beim Festival vum CLAE",
+          "text": "D'Rita engagéiert sech zanter zwee Joer an enger portugisescher Associatioun. Am Mäerz hëlleft si beim Festival vum CLAE an der Stad. Do treffen sech Associatiounen aus ville Länner. Si weisen Musek, Danz, Iessen a Konscht aus hire Kulturen. D'Rita steet samschdes um Stand vun hirem Veräin a verkeeft kleng Pasteis. Hire Jong spillt mat enger Trommelgrupp op der Bühn. Fir d'Famill ass de Festival eng flott Geleeënheet, Frënn ze gesinn an nei Leit kennenzeléieren. D'Rita seet, datt d'Veräiner hëllefen, sech zu Lëtzebuerg doheem ze fillen.",
+          "textFr": "Rita s'engage depuis deux ans dans une association portugaise. En mars, elle aide au festival du CLAE en ville. Là, des associations de nombreux pays se rencontrent. Elles présentent de la musique, de la danse, de la nourriture et de l'art de leurs cultures. Rita tient le stand de son association le samedi et vend de petits pastéis. Son fils joue avec un groupe de tambours sur la scène. Pour la famille, le festival est une belle occasion de voir des amis et de faire connaissance avec de nouvelles personnes. Rita dit que les associations aident à se sentir chez soi au Luxembourg.",
+          "questions": [
+            {
+              "lb": "D'Rita ass an enger portugisescher Associatioun.",
+              "fr": "Rita est dans une association portugaise.",
+              "answer": true
+            },
+            {
+              "lb": "De Festival ass nëmme fir Sportsclibb.",
+              "fr": "Le festival est seulement pour les clubs sportifs.",
+              "answer": false
+            },
+            {
+              "lb": "Hire Jong spillt op der Bühn.",
+              "fr": "Son fils joue sur la scène.",
+              "answer": true
+            },
+            {
+              "lb": "D'Rita fënnt Veräiner onwichteg.",
+              "fr": "Rita trouve les associations sans importance.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

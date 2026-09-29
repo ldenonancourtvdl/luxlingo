@@ -1,0 +1,1517 @@
+{
+  "id": 7,
+  "title": "Gesondheet",
+  "titleFr": "Santé",
+  "descriptionFr": "Vous apprenez à décrire des symptômes, nommer des parties du corps, demander et donner des conseils, téléphoner et réagir à des messages.",
+  "page": 108,
+  "themes": [
+    {
+      "id": "a2-k7-gesond-liewen",
+      "title": "Gesond liewen",
+      "titleFr": "Vivre sainement",
+      "vocab": [
+        {
+          "lb": "d'Gesondheet",
+          "fr": "la santé"
+        },
+        {
+          "lb": "gesond",
+          "fr": "sain"
+        },
+        {
+          "lb": "d'Energie",
+          "fr": "l'énergie"
+        },
+        {
+          "lb": "d'Fett",
+          "fr": "la graisse"
+        },
+        {
+          "lb": "d'Suerg",
+          "fr": "le souci"
+        },
+        {
+          "lb": "sech Suerge maachen",
+          "fr": "se faire du souci"
+        },
+        {
+          "lb": "ënnersichen",
+          "fr": "examiner"
+        },
+        {
+          "lb": "schwaachfalen",
+          "fr": "s'évanouir"
+        },
+        {
+          "lb": "d'Ambulanz",
+          "fr": "l'ambulance"
+        },
+        {
+          "lb": "d'Klinick",
+          "fr": "la clinique"
+        },
+        {
+          "lb": "d'Praxis",
+          "fr": "le cabinet médical"
+        },
+        {
+          "lb": "de Stress",
+          "fr": "le stress"
+        },
+        {
+          "lb": "joggen",
+          "fr": "faire du jogging"
+        },
+        {
+          "lb": "Fitness maachen",
+          "fr": "faire du fitness"
+        },
+        {
+          "lb": "d'Ernärung",
+          "fr": "l'alimentation"
+        },
+        {
+          "lb": "an der Natur",
+          "fr": "dans la nature"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Gesondheet ass wichteg fir mech.",
+          "fr": "La santé est importante pour moi."
+        },
+        {
+          "lb": "Ech ginn all Moie joggen.",
+          "fr": "Je vais faire du jogging tous les matins."
+        },
+        {
+          "lb": "Hien huet vill Stress.",
+          "fr": "Il a beaucoup de stress."
+        },
+        {
+          "lb": "Si mécht sech Suergen ëm hir Gesondheet.",
+          "fr": "Elle se fait du souci pour sa santé."
+        },
+        {
+          "lb": "Den Dokter ënnersicht mech all Joer.",
+          "fr": "Le médecin m'examine chaque année."
+        },
+        {
+          "lb": "Meng Frëndin ass an der Schoul schwaachgefall.",
+          "fr": "Mon amie s'est évanouie à l'école."
+        },
+        {
+          "lb": "Mir maache Fitness no der Aarbecht.",
+          "fr": "Nous faisons du fitness après le travail."
+        },
+        {
+          "lb": "Ech wëll méi Energie hunn.",
+          "fr": "Je veux avoir plus d'énergie."
+        },
+        {
+          "lb": "Vill Leit liewen an der Pensioun gesond.",
+          "fr": "Beaucoup de gens vivent sainement à la retraite."
+        }
+      ],
+      "readings": [
+        {
+          "title": "En neie Plang",
+          "text": "Moien Lisa,\n\nech maachen dës Woch e klenge Gesondheetsplang. Moies ginn ech zwanzeg Minutten zu Fouss op d'Aarbecht, well ech manner Stress wëll hunn. Mëttes iessen ech eng Zalot an e Stéck Brout. Owes maachen ech Fitness am Club. Mäi Kolleeg Marc moosst all Dag säi Bluttdrock, mä ech maachen dat net. E Samschdeg gi mir mam Vëlo an d'Natur. Ech hoffen, datt ech méi Energie kréien an net esou midd sinn.\n\nBis geschwënn,\nNora",
+          "textFr": "Salut Lisa,\n\ncette semaine, je fais un petit plan de santé. Le matin, je vais vingt minutes à pied au travail, parce que je veux avoir moins de stress. À midi, je mange une salade et un morceau de pain. Le soir, je fais du fitness au club. Mon collègue Marc mesure sa tension tous les jours, mais moi je ne le fais pas. Samedi, nous allons dans la nature à vélo. J'espère avoir plus d'énergie et ne pas être aussi fatiguée.\n\nÀ bientôt,\nNora",
+          "questions": [
+            {
+              "lb": "D'Nora geet moies zu Fouss.",
+              "fr": "Nora va à pied le matin.",
+              "answer": true
+            },
+            {
+              "lb": "Si ësst mëttes eng Pizza.",
+              "fr": "Elle mange une pizza à midi.",
+              "answer": false
+            },
+            {
+              "lb": "De Marc kontrolléiert säi Bluttdrock.",
+              "fr": "Marc contrôle sa tension.",
+              "answer": true
+            },
+            {
+              "lb": "Samschdes bleift d'Nora doheem.",
+              "fr": "Le samedi, Nora reste à la maison.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Am Park",
+          "text": "Tom: Du gesäis midd aus, Anne.\nAnne: Jo, ech hu vill Stress am Büro. Ech schlofen och schlecht.\nTom: Méchs du Sport?\nAnne: Net wierklech. Ech sëtzen de ganzen Dag a ginn owes direkt heem.\nTom: Komm muer mat an de Park. Mir maachen e Spadséiergang, an du kriss frësch Loft.\nAnne: Dat ass eng gutt Iddi. Ech huelen och manner Séissegkeete mat.\nTom: Super. Gesond liewen ass net ëmmer schwéier.\nAnne: Da fänke mir muer un.",
+          "textFr": "Tom : Tu as l'air fatiguée, Anne.\nAnne : Oui, j'ai beaucoup de stress au bureau. Je dors mal aussi.\nTom : Tu fais du sport ?\nAnne : Pas vraiment. Je suis assise toute la journée et je rentre directement le soir.\nTom : Viens demain au parc. Nous faisons une promenade et tu auras de l'air frais.\nAnne : C'est une bonne idée. J'emporte aussi moins de sucreries.\nTom : Super. Vivre sainement n'est pas toujours difficile.\nAnne : Alors nous commençons demain.",
+          "questions": [
+            {
+              "lb": "D'Anne huet Stress am Büro.",
+              "fr": "Anne a du stress au bureau.",
+              "answer": true
+            },
+            {
+              "lb": "Si mécht all Dag Sport.",
+              "fr": "Elle fait du sport tous les jours.",
+              "answer": false
+            },
+            {
+              "lb": "Den Tom proposéiert e Spadséiergang.",
+              "fr": "Tom propose une promenade.",
+              "answer": true
+            },
+            {
+              "lb": "Si fänken haut un.",
+              "fr": "Ils commencent aujourd'hui.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k7-beim-dokter",
+      "title": "Beim Dokter",
+      "titleFr": "Chez le médecin",
+      "vocab": [
+        {
+          "lb": "den Dokter",
+          "fr": "le médecin"
+        },
+        {
+          "lb": "d'Doktesch",
+          "fr": "la médecin"
+        },
+        {
+          "lb": "den Aendokter",
+          "fr": "l'ophtalmologue"
+        },
+        {
+          "lb": "den Zänndokter",
+          "fr": "le dentiste"
+        },
+        {
+          "lb": "den Hausdokter",
+          "fr": "le médecin généraliste"
+        },
+        {
+          "lb": "den Hautdokter",
+          "fr": "le dermatologue"
+        },
+        {
+          "lb": "de Kannerdokter",
+          "fr": "le pédiatre"
+        },
+        {
+          "lb": "de Fraendokter",
+          "fr": "le gynécologue"
+        },
+        {
+          "lb": "den Déierendokter",
+          "fr": "le vétérinaire"
+        },
+        {
+          "lb": "de Kiné",
+          "fr": "le kinésithérapeute"
+        },
+        {
+          "lb": "de Psychiater",
+          "fr": "le psychiatre"
+        },
+        {
+          "lb": "de Gastrolog",
+          "fr": "le gastro-entérologue"
+        },
+        {
+          "lb": "d'Féiwer",
+          "fr": "la fièvre"
+        },
+        {
+          "lb": "d'Brëtsch",
+          "fr": "la table d'examen"
+        },
+        {
+          "lb": "de Krankeschäin",
+          "fr": "le certificat médical"
+        },
+        {
+          "lb": "d'Pëll",
+          "fr": "la pilule"
+        },
+        {
+          "lb": "d'Medikament",
+          "fr": "le médicament"
+        },
+        {
+          "lb": "d'Häerz",
+          "fr": "le cœur"
+        },
+        {
+          "lb": "d'Operatioun",
+          "fr": "l'opération"
+        },
+        {
+          "lb": "de Bluttdrock",
+          "fr": "la tension artérielle"
+        },
+        {
+          "lb": "d'Bluttanalys",
+          "fr": "l'analyse de sang"
+        },
+        {
+          "lb": "d'Erkältung",
+          "fr": "le rhume"
+        },
+        {
+          "lb": "houschten",
+          "fr": "tousser"
+        },
+        {
+          "lb": "schnaïzen",
+          "fr": "se moucher"
+        },
+        {
+          "lb": "verdroen",
+          "fr": "supporter"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Bonjour, wéi geet et Iech?",
+          "fr": "Bonjour, comment allez-vous ?"
+        },
+        {
+          "lb": "Ech hunn all Dag de Bauch wéi.",
+          "fr": "J'ai mal au ventre tous les jours."
+        },
+        {
+          "lb": "Da musst Dir bei de Gastrolog goen.",
+          "fr": "Alors vous devez aller chez le gastro-entérologue."
+        },
+        {
+          "lb": "Hutt Dir och Féiwer?",
+          "fr": "Avez-vous aussi de la fièvre ?"
+        },
+        {
+          "lb": "Den Dokter moosst mäi Bluttdrock.",
+          "fr": "Le médecin mesure ma tension."
+        },
+        {
+          "lb": "Ech verdroen dat Medikament net.",
+          "fr": "Je ne supporte pas ce médicament."
+        },
+        {
+          "lb": "Dir bleift e puer Deeg doheem.",
+          "fr": "Vous restez quelques jours à la maison."
+        },
+        {
+          "lb": "Ech schreiwen Iech bis Freideg krank.",
+          "fr": "Je vous mets en congé maladie jusqu'à vendredi."
+        },
+        {
+          "lb": "Mäi Kand muss bei de Kannerdokter goen.",
+          "fr": "Mon enfant doit aller chez le pédiatre."
+        },
+        {
+          "lb": "Gutt Besserung!",
+          "fr": "Bon rétablissement !"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng Erkältung",
+          "text": "Dokter: Bonjour Madamm Klein, wéi geet et Iech?\nPatientin: Net immens. Ech houschten zënter dräi Deeg, a meng Nues ass zou.\nDokter: Hutt Dir Féiwer?\nPatientin: Gëschter hat ech 38 Grad. Ech fille mech midd.\nDokter: Ech lauschteren Iech no an ech moossen de Bluttdrock. D'Longe klénge roueg, mä Dir hutt eng Erkältung. Ech verschreiwen Iech e Medikament fir d'Nuecht.\nPatientin: Muss ech doheem bleiwen?\nDokter: Jo, Dir sollt zwee Deeg raschten a vill Waasser drénken.",
+          "textFr": "Médecin : Bonjour Madame Klein, comment allez-vous ?\nPatiente : Pas très bien. Je tousse depuis trois jours et mon nez est bouché.\nMédecin : Avez-vous de la fièvre ?\nPatiente : Hier, j'avais 38 degrés. Je me sens fatiguée.\nMédecin : Je vous ausculte et je mesure la tension. Les poumons semblent calmes, mais vous avez un rhume. Je vous prescris un médicament pour la nuit.\nPatiente : Dois-je rester à la maison ?\nMédecin : Oui, vous devriez vous reposer deux jours et boire beaucoup d'eau.",
+          "questions": [
+            {
+              "lb": "D'Madamm Klein houscht zënter dräi Deeg.",
+              "fr": "Madame Klein tousse depuis trois jours.",
+              "answer": true
+            },
+            {
+              "lb": "Hir Nues ass ganz fräi.",
+              "fr": "Son nez est complètement dégagé.",
+              "answer": false
+            },
+            {
+              "lb": "Den Dokter kontrolléiert de Bluttdrock.",
+              "fr": "Le médecin contrôle la tension.",
+              "answer": true
+            },
+            {
+              "lb": "D'Patientin muss bei den Zänndokter.",
+              "fr": "La patiente doit aller chez le dentiste.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng Kontroll",
+          "text": "De Sami huet haut Moien e Rendez-vous beim Hausdokter. Hie kënnt ze fréi an d'Praxis, well hien net gär ze spéit ass. D'Doktesch freet no sengem Häerz, sengem Réck an dem Bluttdrock. De Sami huet keng Péng, mä hien ass séier midd. D'Doktesch mécht eng kleng Kontroll a schreift eng Bluttanalys fir d'nächst Woch. Si seet, datt hie méi schlofe soll. Hie kritt kee Krankeschäin, well hien nach schaffe kann. Nom Rendez-vous geet hie roueg heem.",
+          "textFr": "Sami a un rendez-vous chez le médecin généraliste ce matin. Il arrive trop tôt au cabinet, parce qu'il n'aime pas être en retard. La médecin pose des questions sur son cœur, son dos et sa tension. Sami n'a pas de douleurs, mais il est vite fatigué. La médecin fait un petit contrôle et prescrit une analyse de sang pour la semaine prochaine. Elle dit qu'il devrait dormir davantage. Il ne reçoit pas de certificat médical, parce qu'il peut encore travailler. Après le rendez-vous, il rentre tranquillement chez lui.",
+          "questions": [
+            {
+              "lb": "De Sami geet bei den Hausdokter.",
+              "fr": "Sami va chez le médecin généraliste.",
+              "answer": true
+            },
+            {
+              "lb": "Hie kënnt ze spéit an d'Praxis.",
+              "fr": "Il arrive en retard au cabinet.",
+              "answer": false
+            },
+            {
+              "lb": "D'Bluttanalys ass fir d'nächst Woch.",
+              "fr": "L'analyse de sang est pour la semaine prochaine.",
+              "answer": true
+            },
+            {
+              "lb": "De Sami kritt e Krankeschäin.",
+              "fr": "Sami reçoit un certificat médical.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k7-an-der-urgence",
+      "title": "An der Urgence",
+      "titleFr": "Aux urgences",
+      "vocab": [
+        {
+          "lb": "d'Urgence",
+          "fr": "les urgences"
+        },
+        {
+          "lb": "den Asaz",
+          "fr": "l'intervention"
+        },
+        {
+          "lb": "de Blinddarm",
+          "fr": "l'appendice"
+        },
+        {
+          "lb": "platzen",
+          "fr": "éclater"
+        },
+        {
+          "lb": "d'Entzündung",
+          "fr": "l'inflammation"
+        },
+        {
+          "lb": "entzünd",
+          "fr": "enflammé"
+        },
+        {
+          "lb": "d'Verbrennung",
+          "fr": "la brûlure"
+        },
+        {
+          "lb": "verbrannt",
+          "fr": "brûlé"
+        },
+        {
+          "lb": "Dat deet wéi",
+          "fr": "ça fait mal"
+        },
+        {
+          "lb": "gebrach",
+          "fr": "cassé"
+        },
+        {
+          "lb": "verstaucht",
+          "fr": "foulé"
+        },
+        {
+          "lb": "de Sonnebrand",
+          "fr": "le coup de soleil"
+        },
+        {
+          "lb": "de Fouss",
+          "fr": "le pied"
+        },
+        {
+          "lb": "d'Bee",
+          "fr": "la jambe"
+        },
+        {
+          "lb": "d'Hand",
+          "fr": "la main"
+        },
+        {
+          "lb": "de Fanger",
+          "fr": "le doigt"
+        },
+        {
+          "lb": "de Knéi",
+          "fr": "le genou"
+        },
+        {
+          "lb": "de Réck",
+          "fr": "le dos"
+        },
+        {
+          "lb": "de Bauch",
+          "fr": "le ventre"
+        },
+        {
+          "lb": "d'Gesiicht",
+          "fr": "le visage"
+        },
+        {
+          "lb": "d'Zänn",
+          "fr": "les dents"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "D'Fra kënnt an d'Urgence.",
+          "fr": "La femme arrive aux urgences."
+        },
+        {
+          "lb": "Hien huet d'Bee gebrach.",
+          "fr": "Il s'est cassé la jambe."
+        },
+        {
+          "lb": "Mäi Fouss ass verstaucht.",
+          "fr": "Mon pied est foulé."
+        },
+        {
+          "lb": "Si huet d'Hand verbrannt.",
+          "fr": "Elle s'est brûlé la main."
+        },
+        {
+          "lb": "De Blinddarm ass entzünd.",
+          "fr": "L'appendice est enflammé."
+        },
+        {
+          "lb": "Dat deet immens wéi!",
+          "fr": "Ça fait extrêmement mal !"
+        },
+        {
+          "lb": "Hatt huet héicht Féiwer.",
+          "fr": "Elle a une forte fièvre."
+        },
+        {
+          "lb": "Ruff w.e.g. d'Ambulanz un!",
+          "fr": "Appelle l'ambulance, s'il te plaît !"
+        },
+        {
+          "lb": "Hien huet sech an de Fanger geschnidden.",
+          "fr": "Il s'est coupé au doigt."
+        },
+        {
+          "lb": "Glécklecherweis ass näischt Schlimmes dobäi.",
+          "fr": "Heureusement, il n'y a rien de grave."
+        }
+      ],
+      "readings": [
+        {
+          "title": "E Fouss deet wéi",
+          "text": "De Paul ass owes an der Urgence. Hie war d'Trapen erofgefall an de Fouss ass elo déck. Seng Schwëster huet d'Ambulanz net geruff, well hien nach konnt goen. Am Waardesall sëtzt och eng Fra mat enger Verbrennung un der Hand. No véierzeg Minutte kënnt den Dokter. Hie kuckt de Fouss un a seet: 'Et ass net gebrach, just verstaucht.' De Paul kritt Krätschen fir zwou Wochen an däerf kee Fussball spillen.",
+          "textFr": "Paul est aux urgences le soir. Il est tombé dans les escaliers et son pied est maintenant gonflé. Sa sœur n'a pas appelé l'ambulance, parce qu'il pouvait encore marcher. Dans la salle d'attente, il y a aussi une femme avec une brûlure à la main. Après quarante minutes, le médecin arrive. Il regarde le pied et dit : « Ce n'est pas cassé, juste foulé. » Paul reçoit des béquilles pour deux semaines et n'a pas le droit de jouer au football.",
+          "questions": [
+            {
+              "lb": "De Paul ass d'Trapen erofgefall.",
+              "fr": "Paul est tombé dans les escaliers.",
+              "answer": true
+            },
+            {
+              "lb": "D'Ambulanz huet de Paul bruecht.",
+              "fr": "L'ambulance a amené Paul.",
+              "answer": false
+            },
+            {
+              "lb": "Eng Fra huet d'Hand verbrannt.",
+              "fr": "Une femme s'est brûlé la main.",
+              "answer": true
+            },
+            {
+              "lb": "Dem Paul säi Fouss ass gebrach.",
+              "fr": "Le pied de Paul est cassé.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "En Uruff owes",
+          "text": "Réceptioun: Urgence, gudden Owend.\nLara: Moien, hei ass d'Lara. Mäi Brudder Tom huet sech mam Messer an de Fanger geschnidden.\nRéceptioun: Blutt et nach vill?\nLara: Nee, ech hunn e Verband dropgemaach, mä et deet him nach wéi.\nRéceptioun: Da kommt an d'Klinick. Huet hien och Féiwer?\nLara: Nee, kee Féiwer. Mir si mat der Nopesch am Auto.\nRéceptioun: Gutt. Wann et erëm staark blutt, rufft d'Ambulanz un.\nLara: Verstanen. Mir sinn a fofzéng Minutten do. Merci fir d'Hëllef.",
+          "textFr": "Réception : Urgences, bonsoir.\nLara : Bonjour, ici Lara. Mon frère Tom s'est coupé au doigt avec le couteau.\nRéception : Est-ce que cela saigne encore beaucoup ?\nLara : Non, j'ai mis un bandage dessus, mais il a encore mal.\nRéception : Alors venez à la clinique. A-t-il aussi de la fièvre ?\nLara : Non, pas de fièvre. Nous sommes en voiture avec la voisine.\nRéception : Bien. Si cela saigne de nouveau fort, appelez l'ambulance.\nLara : Compris. Nous sommes là dans quinze minutes. Merci pour l'aide.",
+          "questions": [
+            {
+              "lb": "Den Tom huet sech geschnidden.",
+              "fr": "Tom s'est coupé.",
+              "answer": true
+            },
+            {
+              "lb": "Et blutt nach immens vill.",
+              "fr": "Cela saigne encore énormément.",
+              "answer": false
+            },
+            {
+              "lb": "Si fuere mat engem Auto.",
+              "fr": "Ils viennent en voiture.",
+              "answer": true
+            },
+            {
+              "lb": "Si sinn a fënnef Minutten do.",
+              "fr": "Ils seront là dans cinq minutes.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k7-an-der-apdikt",
+      "title": "An der Apdikt",
+      "titleFr": "À la pharmacie",
+      "vocab": [
+        {
+          "lb": "d'Apdikt",
+          "fr": "la pharmacie"
+        },
+        {
+          "lb": "d'Plooschter",
+          "fr": "le pansement"
+        },
+        {
+          "lb": "d'Kratsch",
+          "fr": "la béquille"
+        },
+        {
+          "lb": "de Verband",
+          "fr": "le bandage"
+        },
+        {
+          "lb": "den Thermometer",
+          "fr": "le thermomètre"
+        },
+        {
+          "lb": "de Sirop",
+          "fr": "le sirop"
+        },
+        {
+          "lb": "de Liesbrëll",
+          "fr": "les lunettes de lecture"
+        },
+        {
+          "lb": "d'Sallef",
+          "fr": "la pommade"
+        },
+        {
+          "lb": "d'Zännbiischt",
+          "fr": "la brosse à dents"
+        },
+        {
+          "lb": "den Téi",
+          "fr": "le thé"
+        },
+        {
+          "lb": "d'Desinfektiounsmëttel",
+          "fr": "le désinfectant"
+        },
+        {
+          "lb": "d'Rezept",
+          "fr": "l'ordonnance (pharmacie)"
+        },
+        {
+          "lb": "d'Ordonnance",
+          "fr": "la prescription du médecin"
+        },
+        {
+          "lb": "den Duerchfall",
+          "fr": "la diarrhée"
+        },
+        {
+          "lb": "d'Packung",
+          "fr": "la boîte"
+        },
+        {
+          "lb": "d'Apdiktesch",
+          "fr": "la pharmacienne"
+        },
+        {
+          "lb": "ouni Rezept",
+          "fr": "sans ordonnance"
+        },
+        {
+          "lb": "beim Iessen",
+          "fr": "pendant le repas"
+        },
+        {
+          "lb": "dropmaachen",
+          "fr": "appliquer"
+        },
+        {
+          "lb": "de Kamillentéi",
+          "fr": "la tisane à la camomille"
+        },
+        {
+          "lb": "d'Kompressiounsstrëmp",
+          "fr": "les bas de contention"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech brauch eng Plooschter.",
+          "fr": "J'ai besoin d'un pansement."
+        },
+        {
+          "lb": "Firwat brauchs du eng Sallef?",
+          "fr": "Pourquoi as-tu besoin d'une pommade ?"
+        },
+        {
+          "lb": "Ech hunn en Ausschlag.",
+          "fr": "J'ai une éruption."
+        },
+        {
+          "lb": "Hutt Dir eng Ordonnance vum Dokter?",
+          "fr": "Avez-vous une prescription du médecin ?"
+        },
+        {
+          "lb": "Dat kritt ee leider net ouni Rezept.",
+          "fr": "On ne l'obtient malheureusement pas sans ordonnance."
+        },
+        {
+          "lb": "Dir musst d'Pëlle beim Iessen huelen.",
+          "fr": "Vous devez prendre les pilules pendant le repas."
+        },
+        {
+          "lb": "Wéi dacks muss ech d'Sallef dropmaachen?",
+          "fr": "À quelle fréquence dois-je appliquer la pommade ?"
+        },
+        {
+          "lb": "Ech huelen e Sirop, well ech houschten.",
+          "fr": "Je prends un sirop parce que je tousse."
+        },
+        {
+          "lb": "Wëllt Dir eng kleng Packung?",
+          "fr": "Voulez-vous une petite boîte ?"
+        },
+        {
+          "lb": "Et ass u mir.",
+          "fr": "C'est à moi."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng Sallef",
+          "text": "Apdiktesch: Gudde Moien, wat braucht Dir?\nClient: Moien. Ech brauch eng Sallef, well ech rout Plazen um Aarm hunn.\nApdiktesch: Hutt Dir eng Ordonnance?\nClient: Nee, den Dokter sot, ech soll emol dës Zort probéieren.\nApdiktesch: Dat ass an der Rei. Maacht d'Sallef zweemol den Dag drop. Wëllt Dir eng kleng oder eng grouss Packung?\nClient: Eng kleng Packung, w.e.g. Ech brauch och e Sirop fir mäi Meedchen.\nApdiktesch: Wéi al ass hatt?\nClient: Si ass aacht Joer.",
+          "textFr": "Pharmacienne : Bonjour, de quoi avez-vous besoin ?\nClient : Bonjour. J'ai besoin d'une pommade, parce que j'ai des plaques rouges au bras.\nPharmacienne : Avez-vous une prescription ?\nClient : Non, le médecin a dit que je devais essayer cette sorte.\nPharmacienne : C'est en ordre. Mettez la pommade deux fois par jour. Voulez-vous une petite ou une grande boîte ?\nClient : Une petite boîte, s'il vous plaît. J'ai aussi besoin d'un sirop pour ma fille.\nPharmacienne : Quel âge a-t-elle ?\nClient : Elle a huit ans.",
+          "questions": [
+            {
+              "lb": "De Client brauch eng Sallef.",
+              "fr": "Le client a besoin d'une pommade.",
+              "answer": true
+            },
+            {
+              "lb": "Hien huet eng Ordonnance dobäi.",
+              "fr": "Il a une prescription avec lui.",
+              "answer": false
+            },
+            {
+              "lb": "De Client soll d'Sallef zweemol den Dag dropmaachen.",
+              "fr": "Le client doit appliquer la pommade deux fois par jour.",
+              "answer": true
+            },
+            {
+              "lb": "Säi Meedchen ass uechtzéng Joer al.",
+              "fr": "Sa fille a dix-huit ans.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng Notiz fir de Ben",
+          "text": "Notiz fir de Ben:\nEch war an der Apdikt, well du nach ëmmer houschts. Um Dësch steet e Sirop. Du muss en owes nom Iessen huelen. An der Täsch sinn och Plooschteren an en Desinfektiounsmëttel, well d'Mia sech an de Fanger geschnidden huet. D'Kompressiounsstrëmp fir d'Bomi kréie mir eréischt nächste Méindeg. D'Apdiktesch huet gesot, datt si net ouni Rezept ze kréie sinn. Ruff mech un, wann s du eng Fro hues.",
+          "textFr": "Note pour Ben :\nJe suis passée à la pharmacie, parce que tu tousses encore. Sur la table se trouve un sirop. Tu dois le prendre le soir après le repas. Dans le sac, il y a aussi des pansements et un désinfectant, parce que Mia s'est coupée au doigt. Nous ne recevrons les bas de contention pour mamie que lundi prochain. La pharmacienne a dit qu'on ne peut pas les obtenir sans ordonnance. Appelle-moi si tu as une question.",
+          "questions": [
+            {
+              "lb": "De Ben houscht nach ëmmer.",
+              "fr": "Ben tousse encore.",
+              "answer": true
+            },
+            {
+              "lb": "De Sirop steet ënnert dem Dësch.",
+              "fr": "Le sirop est sous la table.",
+              "answer": false
+            },
+            {
+              "lb": "D'Mia huet sech an de Fanger geschnidden.",
+              "fr": "Mia s'est coupée au doigt.",
+              "answer": true
+            },
+            {
+              "lb": "D'Bomi kritt d'Strëmp haut.",
+              "fr": "Mamie reçoit les bas aujourd'hui.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k7-e-puer-rotschlei",
+      "title": "E puer Rotschléi",
+      "titleFr": "Quelques conseils",
+      "vocab": [
+        {
+          "lb": "d'Rotschléi",
+          "fr": "les conseils"
+        },
+        {
+          "lb": "mussen",
+          "fr": "devoir (obligation)"
+        },
+        {
+          "lb": "däerfen",
+          "fr": "avoir le droit"
+        },
+        {
+          "lb": "sollen",
+          "fr": "devoir (conseil)"
+        },
+        {
+          "lb": "kënnen",
+          "fr": "pouvoir"
+        },
+        {
+          "lb": "wëllen",
+          "fr": "vouloir"
+        },
+        {
+          "lb": "konsequent sinn",
+          "fr": "être discipliné"
+        },
+        {
+          "lb": "ofhuelen",
+          "fr": "maigrir"
+        },
+        {
+          "lb": "zouhuelen",
+          "fr": "prendre du poids"
+        },
+        {
+          "lb": "d'Séissegkeeten",
+          "fr": "les sucreries"
+        },
+        {
+          "lb": "vill Geméis",
+          "fr": "beaucoup de légumes"
+        },
+        {
+          "lb": "wéineg Fleesch",
+          "fr": "peu de viande"
+        },
+        {
+          "lb": "d'Zalot",
+          "fr": "la salade"
+        },
+        {
+          "lb": "de Schockela",
+          "fr": "le chocolat"
+        },
+        {
+          "lb": "schwaarzen Téi",
+          "fr": "du thé noir"
+        },
+        {
+          "lb": "de Kaffi",
+          "fr": "le café"
+        },
+        {
+          "lb": "Waasser drénken",
+          "fr": "boire de l'eau"
+        },
+        {
+          "lb": "d'Glace",
+          "fr": "la glace"
+        },
+        {
+          "lb": "d'Taart",
+          "fr": "la tarte"
+        },
+        {
+          "lb": "den Zocker",
+          "fr": "le sucre"
+        },
+        {
+          "lb": "hongereg",
+          "fr": "affamé"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Du solls vill Geméis iessen.",
+          "fr": "Tu devrais manger beaucoup de légumes."
+        },
+        {
+          "lb": "Ech muss konsequent sinn.",
+          "fr": "Je dois être discipliné."
+        },
+        {
+          "lb": "Du däerfs kee Kaffi drénken.",
+          "fr": "Tu n'as pas le droit de boire du café."
+        },
+        {
+          "lb": "Ech wëll e bëssen ofhuelen.",
+          "fr": "Je veux maigrir un peu."
+        },
+        {
+          "lb": "Mir kënnen nom Iesse spadséieren.",
+          "fr": "Nous pouvons nous promener après le repas."
+        },
+        {
+          "lb": "Si soll manner Zocker huelen.",
+          "fr": "Elle devrait prendre moins de sucre."
+        },
+        {
+          "lb": "Du däerfs heiansdo Schockela iessen.",
+          "fr": "Tu peux parfois manger du chocolat."
+        },
+        {
+          "lb": "Ech muss méi Waasser drénken.",
+          "fr": "Je dois boire plus d'eau."
+        },
+        {
+          "lb": "Du solls net hongereg bleiwen.",
+          "fr": "Tu ne devrais pas rester affamé."
+        },
+        {
+          "lb": "Ech wëll kee Brout iessen.",
+          "fr": "Je ne veux pas manger de pain."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Rotschléi vun der Martine",
+          "text": "Salut Isabel,\n\ndu hues mech ëm Rotschléi gefrot, well s du ofhuele wëlls. Ech si keng Doktesch, mä ech hunn e puer Iddien. Du solls moies net nëmmen Kaffi drénken. Huel léiwer Müsli oder e Stéck Brout. Mëttes kanns du eng Zalot mat Geméis iessen. Owes däerfs du och heiansdo e Stéck Schockela huelen, mä net all Dag eng Taart. Wichteg ass: drénk vill Waasser a schlof genuch. Wann s du midd bass, gees du méi séier un d'Séissegkeeten.\n\nMartine",
+          "textFr": "Salut Isabel,\n\ntu m'as demandé des conseils parce que tu veux maigrir. Je ne suis pas médecin, mais j'ai quelques idées. Le matin, tu ne devrais pas boire seulement du café. Prends plutôt du muesli ou un morceau de pain. À midi, tu peux manger une salade avec des légumes. Le soir, tu as aussi le droit de prendre parfois un morceau de chocolat, mais pas une tarte tous les jours. L'important est : bois beaucoup d'eau et dors assez. Quand tu es fatiguée, tu vas plus vite vers les sucreries.\n\nMartine",
+          "questions": [
+            {
+              "lb": "D'Isabel freet ëm Rotschléi.",
+              "fr": "Isabel demande des conseils.",
+              "answer": true
+            },
+            {
+              "lb": "D'Martine ass eng Doktesch.",
+              "fr": "Martine est médecin.",
+              "answer": false
+            },
+            {
+              "lb": "Si recommandéiert vill Waasser.",
+              "fr": "Elle recommande beaucoup d'eau.",
+              "answer": true
+            },
+            {
+              "lb": "Eng Taart all Dag ass gutt.",
+              "fr": "Une tarte tous les jours, c'est bien.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "E Gespréich iwwer Iessen",
+          "text": "Luc: Ech hunn zënter Januar dräi Kilo zougeholl.\nMara: Wëlls du e Plang maachen?\nLuc: Jo, mä ech si séier hongereg.\nMara: Da muss de regelméisseg iessen. Vill Geméis hëlleft, well et net schwéier am Mo läit.\nLuc: Däerf ech nach Glace iessen?\nMara: Heiansdo jo. Du solls just net owes virum Fernsee ëmmer Séissegkeeten huelen.\nLuc: Ech kann och mam Vëlo op d'Aarbecht fueren.\nMara: Gutt Iddi. Beweegung mécht dacks méi wéi eng streng Diät.",
+          "textFr": "Luc : Depuis janvier, j'ai pris trois kilos.\nMara : Veux-tu faire un plan ?\nLuc : Oui, mais j'ai vite faim.\nMara : Alors tu dois manger régulièrement. Beaucoup de légumes, ça aide, parce que ce n'est pas lourd pour l'estomac.\nLuc : Puis-je encore manger de la glace ?\nMara : Parfois oui. Tu ne devrais simplement pas prendre toujours des sucreries le soir devant la télévision.\nLuc : Je peux aussi aller au travail à vélo.\nMara : Bonne idée. L'activité physique fait souvent plus qu'un régime strict.",
+          "questions": [
+            {
+              "lb": "De Luc huet dräi Kilo zougeholl.",
+              "fr": "Luc a pris trois kilos.",
+              "answer": true
+            },
+            {
+              "lb": "Hie gëtt ni hongereg.",
+              "fr": "Il n'a jamais faim.",
+              "answer": false
+            },
+            {
+              "lb": "D'Mara erlaabt heiansdo Glace.",
+              "fr": "Mara autorise parfois la glace.",
+              "answer": true
+            },
+            {
+              "lb": "D'Mara recommandéiert owes Séissegkeeten.",
+              "fr": "Mara recommande des sucreries le soir.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k7-um-telefon",
+      "title": "Um Telefon",
+      "titleFr": "Au téléphone",
+      "vocab": [
+        {
+          "lb": "d'Gespréich",
+          "fr": "la conversation"
+        },
+        {
+          "lb": "den Iertum",
+          "fr": "l'erreur"
+        },
+        {
+          "lb": "ee Moment Gedold",
+          "fr": "un moment de patience"
+        },
+        {
+          "lb": "erreechen",
+          "fr": "joindre"
+        },
+        {
+          "lb": "verbannen",
+          "fr": "mettre en relation"
+        },
+        {
+          "lb": "e Message hannerloossen",
+          "fr": "laisser un message"
+        },
+        {
+          "lb": "uruffen",
+          "fr": "appeler"
+        },
+        {
+          "lb": "unhänken",
+          "fr": "raccrocher"
+        },
+        {
+          "lb": "ophiewen",
+          "fr": "décrocher"
+        },
+        {
+          "lb": "schécken",
+          "fr": "envoyer"
+        },
+        {
+          "lb": "sech ieren",
+          "fr": "se tromper"
+        },
+        {
+          "lb": "stéieren",
+          "fr": "déranger"
+        },
+        {
+          "lb": "eng Nummer wielen",
+          "fr": "composer un numéro"
+        },
+        {
+          "lb": "widderhuelen",
+          "fr": "répéter"
+        },
+        {
+          "lb": "de Repondeur",
+          "fr": "le répondeur"
+        },
+        {
+          "lb": "den Apparat",
+          "fr": "l'appareil"
+        },
+        {
+          "lb": "déi falsch Nummer",
+          "fr": "le mauvais numéro"
+        },
+        {
+          "lb": "de Rendez-vous",
+          "fr": "le rendez-vous"
+        },
+        {
+          "lb": "d'Adress",
+          "fr": "l'adresse"
+        },
+        {
+          "lb": "per SMS",
+          "fr": "par SMS"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech géing gär mam Dokter schwätzen.",
+          "fr": "J'aimerais parler au médecin."
+        },
+        {
+          "lb": "Ee Moment, w.e.g., ech verbannen Iech.",
+          "fr": "Un instant, s'il vous plaît, je vous mets en relation."
+        },
+        {
+          "lb": "Hutt w.e.g. ee Moment Gedold.",
+          "fr": "Veuillez patienter un instant."
+        },
+        {
+          "lb": "Dir hutt eng falsch Nummer gewielt.",
+          "fr": "Vous avez composé un mauvais numéro."
+        },
+        {
+          "lb": "Kann ech Iech weiderhëllefen?",
+          "fr": "Puis-je vous aider ?"
+        },
+        {
+          "lb": "Ech ruffe méi spéit un.",
+          "fr": "Je rappelle plus tard."
+        },
+        {
+          "lb": "Ech muss elo unhänken.",
+          "fr": "Je dois maintenant raccrocher."
+        },
+        {
+          "lb": "Schéck mer d'Nummer per SMS.",
+          "fr": "Envoie-moi le numéro par SMS."
+        },
+        {
+          "lb": "Ech hu mech geiert.",
+          "fr": "Je me suis trompé."
+        },
+        {
+          "lb": "Ass den Dokter ze erreechen?",
+          "fr": "Le médecin est-il joignable ?"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Beim Cabinet uruffen",
+          "text": "Cabinet Dr Wampach: Bonjour.\nElisabeth: Moien, hei ass d'Elisabeth Becker. Ech géing gär mam Dokter schwätzen.\nCabinet: Wien ass um Apparat, wann ech gelift?\nElisabeth: Madame Becker. Ech hunn zënter gëschter de Bauch wéi.\nCabinet: Den Dokter ass de Moment bei engem Patient. Kann ech Iech weiderhëllefen?\nElisabeth: Nee, ech wëll perséinlech mat him schwätzen.\nCabinet: Da probéiert w.e.g. géint zwou Auer nach eng Kéier. Do huet hien normalerweis manner Patienten.\nElisabeth: Dat maachen ech. Merci, Äddi.\nCabinet: Awar, Madame.",
+          "textFr": "Cabinet du Dr Wampach : Bonjour.\nElisabeth : Bonjour, ici Elisabeth Becker. J'aimerais parler au médecin.\nCabinet : Qui est à l'appareil, s'il vous plaît ?\nElisabeth : Madame Becker. J'ai mal au ventre depuis hier.\nCabinet : Le médecin est actuellement avec un patient. Puis-je vous aider ?\nElisabeth : Non, je veux lui parler personnellement.\nCabinet : Alors essayez encore une fois vers deux heures, s'il vous plaît. Il a normalement moins de patients à ce moment-là.\nElisabeth : Je vais faire cela. Merci, au revoir.\nCabinet : Au revoir, Madame.",
+          "questions": [
+            {
+              "lb": "D'Elisabeth wëll mam Dokter schwätzen.",
+              "fr": "Elisabeth veut parler au médecin.",
+              "answer": true
+            },
+            {
+              "lb": "Den Dokter ass direkt fräi.",
+              "fr": "Le médecin est libre tout de suite.",
+              "answer": false
+            },
+            {
+              "lb": "D'Elisabeth huet de Bauch wéi.",
+              "fr": "Elisabeth a mal au ventre.",
+              "answer": true
+            },
+            {
+              "lb": "Si soll ëm aacht Auer uruffen.",
+              "fr": "Elle doit appeler à huit heures.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Dem Samuel seng Notiz",
+          "text": "De Samuel telefonéiert mat der Yola. Si huet e Problem mam Knéi a sicht d'Nummer vun engem Sportsdokter. De Samuel kennt den Dokter Geller. Hie seet, datt deen Dokter wierklech gutt ass. D'Yola huet sech virun enger Woch beim Jogge wéi gedoen. De Samuel schéckt d'Nummer per SMS. D'Yola wëll direkt uruffen, well si e Rendez-vous brauch. Mat e bësse Chance kritt si séier e Rendez-vous. Si seet dem Samuel Merci a leet duerno op.",
+          "textFr": "Samuel téléphone avec Yola. Elle a un problème au genou et cherche le numéro d'un médecin du sport. Samuel connaît le docteur Geller. Il dit que ce médecin est vraiment très bien. Yola s'est fait mal il y a une semaine en faisant du jogging. Samuel envoie le numéro par SMS. Yola veut appeler directement, parce qu'elle a besoin d'un rendez-vous. Avec un peu de chance, elle obtient vite un rendez-vous. Elle remercie Samuel et raccroche ensuite.",
+          "questions": [
+            {
+              "lb": "D'Yola huet e Problem mam Knéi.",
+              "fr": "Yola a un problème au genou.",
+              "answer": true
+            },
+            {
+              "lb": "De Samuel kennt keen Dokter.",
+              "fr": "Samuel ne connaît aucun médecin.",
+              "answer": false
+            },
+            {
+              "lb": "Hie schéckt d'Nummer per SMS.",
+              "fr": "Il envoie le numéro par SMS.",
+              "answer": true
+            },
+            {
+              "lb": "D'Yola wëll eréischt nächste Mount uruffen.",
+              "fr": "Yola veut appeler seulement le mois prochain.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k7-messagen-um-telefon",
+      "title": "Messagen um Telefon",
+      "titleFr": "Messages au téléphone",
+      "vocab": [
+        {
+          "lb": "d'Noriicht",
+          "fr": "le message"
+        },
+        {
+          "lb": "de Beep",
+          "fr": "le bip"
+        },
+        {
+          "lb": "d'Voicemail",
+          "fr": "la messagerie vocale"
+        },
+        {
+          "lb": "d'Telefonsnummer",
+          "fr": "le numéro de téléphone"
+        },
+        {
+          "lb": "hannerloossen",
+          "fr": "laisser"
+        },
+        {
+          "lb": "zréckruffen",
+          "fr": "rappeler"
+        },
+        {
+          "lb": "esou séier wéi méiglech",
+          "fr": "aussi vite que possible"
+        },
+        {
+          "lb": "dréngend",
+          "fr": "urgent"
+        },
+        {
+          "lb": "zou sinn",
+          "fr": "être fermé"
+        },
+        {
+          "lb": "de Cabinet",
+          "fr": "le cabinet"
+        },
+        {
+          "lb": "vergiessen",
+          "fr": "oublier"
+        },
+        {
+          "lb": "ofsoen",
+          "fr": "annuler"
+        },
+        {
+          "lb": "invitéieren",
+          "fr": "inviter"
+        },
+        {
+          "lb": "reklaméieren",
+          "fr": "réclamer"
+        },
+        {
+          "lb": "d'Rechnung",
+          "fr": "la facture"
+        },
+        {
+          "lb": "de Feeler",
+          "fr": "l'erreur"
+        },
+        {
+          "lb": "d'Informatioun",
+          "fr": "l'information"
+        },
+        {
+          "lb": "d'Maschinn",
+          "fr": "le répondeur"
+        },
+        {
+          "lb": "nom Beep",
+          "fr": "après le bip"
+        },
+        {
+          "lb": "de Grond",
+          "fr": "la raison"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Hannerloosst w.e.g. eng Noriicht nom Beep.",
+          "fr": "Laissez un message après le bip, s'il vous plaît."
+        },
+        {
+          "lb": "Ech ruffen esou séier wéi méiglech zréck.",
+          "fr": "Je rappelle aussi vite que possible."
+        },
+        {
+          "lb": "De Cabinet ass bis de 15. Mee zou.",
+          "fr": "Le cabinet est fermé jusqu'au 15 mai."
+        },
+        {
+          "lb": "Wann et dréngend ass, gitt an d'Urgence.",
+          "fr": "Si c'est urgent, allez aux urgences."
+        },
+        {
+          "lb": "Vergiesst de Rendez-vous muer net.",
+          "fr": "N'oubliez pas le rendez-vous demain."
+        },
+        {
+          "lb": "Ech muss mäi Rendez-vous ofsoen.",
+          "fr": "Je dois annuler mon rendez-vous."
+        },
+        {
+          "lb": "Dir kënnt nom Beep schwätzen.",
+          "fr": "Vous pouvez parler après le bip."
+        },
+        {
+          "lb": "De Patrick versprécht zréckzeruffen.",
+          "fr": "Patrick promet de rappeler."
+        },
+        {
+          "lb": "D'Rechnung huet e Feeler.",
+          "fr": "La facture comporte une erreur."
+        },
+        {
+          "lb": "Schwätzt eppes Léiwes op d'Maschinn.",
+          "fr": "Dites quelque chose de gentil sur le répondeur."
+        }
+      ],
+      "readings": [
+        {
+          "title": "De Repondeur vum Cabinet",
+          "text": "Moien, Dir sidd beim Cabinet vum Dokter Winandy. De Cabinet ass haut a muer zou, well d'Doktesch op enger Formatioun ass. Wann et dréngend ass, kontaktéiert w.e.g. den Dokter Barthelmy op der Nummer 28 11 43 12 oder gitt an d'Urgence. Fir en normale Rendez-vous hannerloosst Ären Numm, Är Telefonsnummer an de Grond vum Uruff nom Beep. Fir Rezepter kënnt Dir eis och eng E-Mail schécken. Mir ruffen Iech Méindeg de Moien zréck. Merci a gutt Besserung.",
+          "textFr": "Bonjour, vous êtes au cabinet du docteur Winandy. Le cabinet est fermé aujourd'hui et demain, parce que la médecin est en formation. Si c'est urgent, veuillez contacter le docteur Barthelmy au numéro 28 11 43 12 ou allez aux urgences. Pour un rendez-vous normal, laissez votre nom, votre numéro de téléphone et le motif de l'appel après le bip. Pour les ordonnances, vous pouvez aussi nous envoyer un e-mail. Nous vous rappelons lundi matin. Merci et bon rétablissement.",
+          "questions": [
+            {
+              "lb": "Haut a muer ass de Cabinet zou.",
+              "fr": "Aujourd'hui et demain, le cabinet est fermé.",
+              "answer": true
+            },
+            {
+              "lb": "Am Noutfall soll een den Dokter Geller kontaktéieren.",
+              "fr": "En cas d'urgence, il faut contacter le docteur Geller.",
+              "answer": false
+            },
+            {
+              "lb": "Een soll Numm an Telefonsnummer soen.",
+              "fr": "Il faut donner le nom et le numéro de téléphone.",
+              "answer": true
+            },
+            {
+              "lb": "De Cabinet rifft Freideg zréck.",
+              "fr": "Le cabinet rappelle vendredi.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Véier Messagen",
+          "text": "Um Repondeur vun der Famill Weber-Schneider si véier Messagen. Déi éischt ass vum Patrick. Hie seet, datt hie sech dacks am Lännchen iergendwou verfiert an awer zréckrifft. Déi zweet ass vun der Joanna. Si muss hire Rendez-vous fir muer um hallwer néng ofsoen. Déi drëtt ass vum Här Schneider. Hien ass rosen, well hien zanter zwou Stonnen op e Mataarbechter waart. Déi véiert ass vum Maya. Si invitéiert d'Jackie op eng Vernissage am Mudam um sechs Auer.",
+          "textFr": "Sur le répondeur de la famille Weber-Schneider, il y a quatre messages. Le premier est de Patrick. Il dit qu'il se perd souvent quelque part dans le pays, mais qu'il rappellera. Le deuxième est de Joanna. Elle doit annuler son rendez-vous de demain à huit heures trente. Le troisième est de Schneider. Il est fâché parce qu'il attend un employé depuis deux heures. Le quatrième est de Maya. Elle invite Jackie à un vernissage au Mudam à six heures.",
+          "questions": [
+            {
+              "lb": "Um Repondeur si véier Messagen.",
+              "fr": "Il y a quatre messages sur le répondeur.",
+              "answer": true
+            },
+            {
+              "lb": "De Patrick rifft wéinst enger Rechnung un.",
+              "fr": "Patrick appelle au sujet d'une facture.",
+              "answer": false
+            },
+            {
+              "lb": "D'Joanna seet e Rendez-vous of.",
+              "fr": "Joanna annule un rendez-vous.",
+              "answer": true
+            },
+            {
+              "lb": "D'Maya invitéiert d'Jackie an e Restaurant.",
+              "fr": "Maya invite Jackie au restaurant.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k7-projeten",
+      "title": "Projeten",
+      "titleFr": "Projets",
+      "vocab": [
+        {
+          "lb": "de Projet",
+          "fr": "le projet"
+        },
+        {
+          "lb": "d'Organisatioun",
+          "fr": "l'organisation"
+        },
+        {
+          "lb": "Finnland",
+          "fr": "la Finlande"
+        },
+        {
+          "lb": "d'Arktis",
+          "fr": "l'Arctique"
+        },
+        {
+          "lb": "de Programm",
+          "fr": "le programme"
+        },
+        {
+          "lb": "d'Konferenz",
+          "fr": "la conférence"
+        },
+        {
+          "lb": "sportlech Evenementer",
+          "fr": "les événements sportifs"
+        },
+        {
+          "lb": "zu Fouss",
+          "fr": "à pied"
+        },
+        {
+          "lb": "mam Vëlo",
+          "fr": "à vélo"
+        },
+        {
+          "lb": "d'Kamera",
+          "fr": "la caméra"
+        },
+        {
+          "lb": "d'Ëmwelt",
+          "fr": "l'environnement"
+        },
+        {
+          "lb": "trainéieren",
+          "fr": "s'entraîner"
+        },
+        {
+          "lb": "fit sinn",
+          "fr": "être en forme"
+        },
+        {
+          "lb": "engagéiert sinn",
+          "fr": "être engagé"
+        },
+        {
+          "lb": "de gudden Zweck",
+          "fr": "la bonne cause"
+        },
+        {
+          "lb": "sech asetzen",
+          "fr": "s'investir"
+        },
+        {
+          "lb": "d'Equipe",
+          "fr": "l'équipe"
+        },
+        {
+          "lb": "d'Plaz",
+          "fr": "le lieu"
+        },
+        {
+          "lb": "de Schimpans",
+          "fr": "le chimpanzé"
+        },
+        {
+          "lb": "d'Schimpansefarm",
+          "fr": "la ferme de chimpanzés"
+        },
+        {
+          "lb": "den Educateur",
+          "fr": "l'éducateur"
+        },
+        {
+          "lb": "d'Crèche",
+          "fr": "la crèche"
+        },
+        {
+          "lb": "d'Handysnummer",
+          "fr": "le numéro de portable"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech hunn e grousse Projet.",
+          "fr": "J'ai un grand projet."
+        },
+        {
+          "lb": "Mir fueren an dräi Méint a Finnland.",
+          "fr": "Nous partons en Finlande dans trois mois."
+        },
+        {
+          "lb": "D'Organisatioun schafft an der Arktis.",
+          "fr": "L'organisation travaille en Arctique."
+        },
+        {
+          "lb": "Ech trainéieren all Dag am Park.",
+          "fr": "Je m'entraîne tous les jours au parc."
+        },
+        {
+          "lb": "Mir lafen zéng Kilometer.",
+          "fr": "Nous courons dix kilomètres."
+        },
+        {
+          "lb": "Ech wëll fit sinn.",
+          "fr": "Je veux être en forme."
+        },
+        {
+          "lb": "D'Kamera weist schéi Plazen.",
+          "fr": "La caméra montre de beaux endroits."
+        },
+        {
+          "lb": "Hien engagéiert sech fir d'Ëmwelt.",
+          "fr": "Il s'engage pour l'environnement."
+        },
+        {
+          "lb": "D'Marie schafft op enger Schimpansefarm.",
+          "fr": "Marie travaille dans une ferme de chimpanzés."
+        },
+        {
+          "lb": "Mir schwätzen iwwer eis Projeten.",
+          "fr": "Nous parlons de nos projets."
+        },
+        {
+          "lb": "Mell dech einfach.",
+          "fr": "Contacte-moi simplement."
+        }
+      ],
+      "readings": [
+        {
+          "title": "E Projet a Finnland",
+          "text": "Moien Paul,\n\nech sinn erëm vum Training doheem. Eise Projet fir Finnland geet gutt virun. Mir sinn eng Equipe vu sechs Leit. All Dag lafe mir op d'mannst zéng Kilometer, an de Weekend fuere mir mam Vëlo. An dräi Méint reese mir an d'Arktis. Do maache mir Fotoen a kucke mat enger Kamera, wéi d'Ëmwelt sech verännert. Ech freeë mech, mä ech muss nach vill trainéieren. Wann s du Zäit hues, drénke mir dës Woch e Kaffi.\n\nMarie",
+          "textFr": "Salut Paul,\n\nje suis de nouveau à la maison après l'entraînement. Notre projet pour la Finlande avance bien. Nous sommes une équipe de six personnes. Tous les jours, nous courons au moins dix kilomètres, et le week-end nous allons à vélo. Dans trois mois, nous partons en Arctique. Là-bas, nous prenons des photos et nous observons avec une caméra comment l'environnement change. Je me réjouis, mais je dois encore beaucoup m'entraîner. Si tu as le temps, nous buvons un café cette semaine.\n\nMarie",
+          "questions": [
+            {
+              "lb": "D'Marie trainéiert fir Finnland.",
+              "fr": "Marie s'entraîne pour la Finlande.",
+              "answer": true
+            },
+            {
+              "lb": "D'Equipe huet véier Leit.",
+              "fr": "L'équipe compte quatre personnes.",
+              "answer": false
+            },
+            {
+              "lb": "Si kucken d'Ëmwelt mat enger Kamera.",
+              "fr": "Ils observent l'environnement avec une caméra.",
+              "answer": true
+            },
+            {
+              "lb": "D'Rees ass scho muer.",
+              "fr": "Le voyage est déjà demain.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Fir e gudden Zweck",
+          "text": "Lea: Firwat bass du esou sportlech, Nils?\nNils: Ech maachen e Projet fir e gudden Zweck. Am Juni fueren ech mat Frënn mam Vëlo duerch Lëtzebuerg.\nLea: Wéi vill Kilometer plangt Dir?\nNils: Ongeféier honnert Kilometer an zwee Deeg. Mir sammelen och Suen fir eng Crèche.\nLea: Dat kléngt flott. Kann ech hëllefen?\nNils: Jo, du kanns Plakater maachen oder eis Waasser bréngen.\nLea: Gär. Ech wëll mech och fir e Projet asetzen.\nNils: Super, da bass du an eiser Equipe.",
+          "textFr": "Lea : Pourquoi es-tu si sportif, Nils ?\nNils : Je fais un projet pour une bonne cause. En juin, je traverse le Luxembourg à vélo avec des amis.\nLea : Combien de kilomètres prévoyez-vous ?\nNils : Environ cent kilomètres en deux jours. Nous collectons aussi de l'argent pour une crèche.\nLea : Cela semble chouette. Est-ce que je peux aider ?\nNils : Oui, tu peux faire des affiches ou nous apporter de l'eau.\nLea : Volontiers. Je veux aussi m'investir pour un projet.\nNils : Super, alors tu es dans notre équipe.",
+          "questions": [
+            {
+              "lb": "Den Nils mécht e Projet fir e gudden Zweck.",
+              "fr": "Nils fait un projet pour une bonne cause.",
+              "answer": true
+            },
+            {
+              "lb": "Hie leeft duerch Frankräich.",
+              "fr": "Il court à travers la France.",
+              "answer": false
+            },
+            {
+              "lb": "Si sammele Suen fir eng Crèche.",
+              "fr": "Ils collectent de l'argent pour une crèche.",
+              "answer": true
+            },
+            {
+              "lb": "D'Lea wëll net hëllefen.",
+              "fr": "Lea ne veut pas aider.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

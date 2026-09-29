@@ -17,7 +17,7 @@ export function ChapterView({ chapter, onBack, onStart }: Props) {
 
       <header className="chapter-banner">
         <span className="chapter-banner__badge">
-          Kapitel {chapter.id} · p. {chapter.page}
+          {chapter.level} · Kapitel {chapter.id} · p. {chapter.page}
         </span>
         <h1 className="chapter-banner__title" lang="lb">
           {chapter.title}
@@ -42,6 +42,7 @@ export function ChapterView({ chapter, onBack, onStart }: Props) {
                 <span className="theme-card__subtitle">{theme.titleFr}</span>
                 <span className="theme-card__meta">
                   {theme.vocab.length} mots · {theme.sentences.length} phrases
+                  {theme.readings?.length ? ` · ${theme.readings.length} textes` : ''}
                 </span>
               </span>
               <span className="theme-card__go" aria-hidden>

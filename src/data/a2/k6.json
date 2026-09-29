@@ -1,0 +1,1392 @@
+{
+  "id": 6,
+  "title": "Mäi Quartier",
+  "titleFr": "Mon quartier",
+  "descriptionFr": "Vous apprenez à décrire votre quartier, votre logement, des règles et un itinéraire simple.",
+  "page": 90,
+  "themes": [
+    {
+      "id": "a2-k6-am-quartier",
+      "title": "Am Quartier",
+      "titleFr": "Dans le quartier",
+      "vocab": [
+        {
+          "lb": "de Quartier",
+          "fr": "le quartier"
+        },
+        {
+          "lb": "d'Uertschaft",
+          "fr": "la localité"
+        },
+        {
+          "lb": "d'Géigend",
+          "fr": "les environs"
+        },
+        {
+          "lb": "de Wunnuert",
+          "fr": "le lieu d'habitation"
+        },
+        {
+          "lb": "d'Haaptstrooss",
+          "fr": "la rue principale"
+        },
+        {
+          "lb": "d'Residence",
+          "fr": "la résidence"
+        },
+        {
+          "lb": "d'Appartement",
+          "fr": "l'appartement"
+        },
+        {
+          "lb": "d'Haus",
+          "fr": "la maison"
+        },
+        {
+          "lb": "d'Noperen",
+          "fr": "les voisins"
+        },
+        {
+          "lb": "den Arrêt",
+          "fr": "l'arrêt"
+        },
+        {
+          "lb": "d'Schoul",
+          "fr": "l'école"
+        },
+        {
+          "lb": "d'Epicerie",
+          "fr": "l'épicerie"
+        },
+        {
+          "lb": "d'Verbindung",
+          "fr": "la liaison"
+        },
+        {
+          "lb": "roueg",
+          "fr": "calme"
+        },
+        {
+          "lb": "sécher",
+          "fr": "sûr"
+        },
+        {
+          "lb": "nobäi",
+          "fr": "tout près"
+        },
+        {
+          "lb": "wäit ewech",
+          "fr": "loin"
+        },
+        {
+          "lb": "frëndlech",
+          "fr": "sympathique"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech wunnen an engem rouege Quartier.",
+          "fr": "J'habite dans un quartier calme."
+        },
+        {
+          "lb": "Meng Nopere si frëndlech.",
+          "fr": "Mes voisins sont sympathiques."
+        },
+        {
+          "lb": "D'Schoul ass ganz nobäi.",
+          "fr": "L'école est tout près."
+        },
+        {
+          "lb": "Den Arrêt ass dräi Minutten ewech.",
+          "fr": "L'arrêt est à trois minutes."
+        },
+        {
+          "lb": "Hei ass et roueg a sécher.",
+          "fr": "Ici, c'est calme et sûr."
+        },
+        {
+          "lb": "An der Géigend gëtt et eng Epicerie.",
+          "fr": "Dans les environs, il y a une épicerie."
+        },
+        {
+          "lb": "D'Verbindunge sinn immens praktesch.",
+          "fr": "Les liaisons sont très pratiques."
+        },
+        {
+          "lb": "Ech kann mam Bus an d'Stad fueren.",
+          "fr": "Je peux aller en ville en bus."
+        },
+        {
+          "lb": "D'Haaptstrooss ass wäit ewech.",
+          "fr": "La rue principale est loin."
+        },
+        {
+          "lb": "Wou wunns du elo?",
+          "fr": "Où habites-tu maintenant ?"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng Noriicht vum Sam",
+          "text": "Salut Claire,\n\nech wunnen zanter enger Woch zu Bartreng. Mäi Quartier ass roueg, well d'Haaptstrooss wäit ewech ass. Direkt hannert eiser Residence ass eng kleng Spillplaz, an nieft der Spillplaz geet e Spadséierwee. Meng Nopere si frëndlech. Si soen ëmmer Moien an hëllefen, wann ech eppes sichen. D'Schoul ass net nobäi, mä den Arrêt ass nëmmen dräi Minutten ewech. Mam Bus sinn ech séier an der Stad. Eng Epicerie ass um Eck, do kafen ech Brout a Mëllech.\n\nBis geschwënn,\nSam",
+          "textFr": "Salut Claire,\n\nj'habite depuis une semaine à Bertrange. Mon quartier est calme, parce que la rue principale est loin. Juste derrière notre résidence, il y a une petite aire de jeux, et à côté de l'aire de jeux il y a un sentier de promenade. Mes voisins sont sympathiques. Ils disent toujours bonjour et aident quand je cherche quelque chose. L'école n'est pas tout près, mais l'arrêt est seulement à trois minutes. En bus, je suis vite en ville. Une épicerie se trouve au coin, j'y achète du pain et du lait.\n\nÀ bientôt,\nSam",
+          "questions": [
+            {
+              "lb": "De Sam ass nei zu Bartreng.",
+              "fr": "Sam est nouveau à Bertrange.",
+              "answer": true
+            },
+            {
+              "lb": "D'Haaptstrooss läit direkt bei der Residence.",
+              "fr": "La rue principale se trouve juste près de la résidence.",
+              "answer": false
+            },
+            {
+              "lb": "Hannert dem Haus ass eng Spillplaz.",
+              "fr": "Derrière la maison, il y a une aire de jeux.",
+              "answer": true
+            },
+            {
+              "lb": "D'Schoul ass nëmmen dräi Minutten ewech.",
+              "fr": "L'école est seulement à trois minutes.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Op der Spillplaz",
+          "text": "Lea: Wéi gefält dir deng nei Géigend?\nTom: Ganz gutt. Et ass vill méi roueg wéi virdrun.\nLea: Ginn et Geschäfter an der Géigend?\nTom: Jo, eng Epicerie ass um Eck, mä kee Bäcker.\nLea: Wéi sinn d'Verbindunge mam Bus?\nTom: Si si praktesch. De Bus fiert all zéng Minutten an den Zentrum.\nLea: A wéi sinn deng Noperen?\nTom: Si sinn hëllefsbereet. Gëschter huet mir eng Nopesch mam Schlëssel gehollef.\nLea: Dann hues du wierklech Chance.\nTom: Jo, ech fille mech sécher hei.",
+          "textFr": "Lea : Comment trouves-tu tes nouveaux environs ?\nTom : Très bien. C'est beaucoup plus calme qu'avant.\nLea : Y a-t-il des magasins dans les environs ?\nTom : Oui, une épicerie est au coin, mais pas de boulangerie.\nLea : Comment sont les liaisons en bus ?\nTom : Elles sont pratiques. Le bus va au centre toutes les dix minutes.\nLea : Et comment sont tes voisins ?\nTom : Ils sont serviables. Hier, une voisine m'a aidé avec la clé.\nLea : Alors tu as vraiment de la chance.\nTom : Oui, je me sens en sécurité ici.",
+          "questions": [
+            {
+              "lb": "Dem Tom seng Géigend ass elo méi roueg.",
+              "fr": "Les environs de Tom sont maintenant plus calmes.",
+              "answer": true
+            },
+            {
+              "lb": "Et gëtt e Bäcker um Eck.",
+              "fr": "Il y a une boulangerie au coin.",
+              "answer": false
+            },
+            {
+              "lb": "Et kënnt dacks e Bus an den Zentrum.",
+              "fr": "Il y a souvent un bus pour le centre.",
+              "answer": true
+            },
+            {
+              "lb": "Eng Nopesch huet dem Tom mam Vëlo gehollef.",
+              "fr": "Une voisine a aidé Tom avec son vélo.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k6-eng-wunneng-en-doheem",
+      "title": "Eng Wunneng – En Doheem",
+      "titleFr": "Un logement – un chez-soi",
+      "vocab": [
+        {
+          "lb": "d'Wunneng",
+          "fr": "le logement"
+        },
+        {
+          "lb": "d'Zëmmer",
+          "fr": "la chambre"
+        },
+        {
+          "lb": "d'Kichen",
+          "fr": "la cuisine"
+        },
+        {
+          "lb": "d'Buedzëmmer",
+          "fr": "la salle de bains"
+        },
+        {
+          "lb": "de Keller",
+          "fr": "la cave"
+        },
+        {
+          "lb": "de Raum",
+          "fr": "la pièce"
+        },
+        {
+          "lb": "de Buedem",
+          "fr": "le sol"
+        },
+        {
+          "lb": "d'Mauer",
+          "fr": "le mur"
+        },
+        {
+          "lb": "d'Fënster",
+          "fr": "la fenêtre"
+        },
+        {
+          "lb": "d'Dier",
+          "fr": "la porte"
+        },
+        {
+          "lb": "d'Bicherregal",
+          "fr": "la bibliothèque"
+        },
+        {
+          "lb": "de Kleederschaf",
+          "fr": "l'armoire"
+        },
+        {
+          "lb": "de Canapé",
+          "fr": "le canapé"
+        },
+        {
+          "lb": "d'Fotell",
+          "fr": "le fauteuil"
+        },
+        {
+          "lb": "den Dësch",
+          "fr": "la table"
+        },
+        {
+          "lb": "de Stull",
+          "fr": "la chaise"
+        },
+        {
+          "lb": "den Teppech",
+          "fr": "le tapis"
+        },
+        {
+          "lb": "d'Luucht",
+          "fr": "la lampe"
+        },
+        {
+          "lb": "de Frigo",
+          "fr": "le réfrigérateur"
+        },
+        {
+          "lb": "d'Mikrowell",
+          "fr": "le micro-ondes"
+        },
+        {
+          "lb": "miwweléiert",
+          "fr": "meublé"
+        },
+        {
+          "lb": "ariichten",
+          "fr": "aménager"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "D'Wunneng ass grouss genuch.",
+          "fr": "Le logement est assez grand."
+        },
+        {
+          "lb": "Meng Stuff ass miwweléiert.",
+          "fr": "Mon salon est meublé."
+        },
+        {
+          "lb": "D'Fënster ass niewent der Dier.",
+          "fr": "La fenêtre est à côté de la porte."
+        },
+        {
+          "lb": "De Canapé steet bei der Fënster.",
+          "fr": "Le canapé se trouve près de la fenêtre."
+        },
+        {
+          "lb": "Den Teppech läit ënnert dem Dësch.",
+          "fr": "Le tapis est sous la table."
+        },
+        {
+          "lb": "Ech stellen d'Fotell virun d'Bicherregal.",
+          "fr": "Je mets le fauteuil devant l'étagère."
+        },
+        {
+          "lb": "D'Bicher stinn am Bicherregal.",
+          "fr": "Les livres sont dans la bibliothèque."
+        },
+        {
+          "lb": "Hänk d'Bild un d'Mauer!",
+          "fr": "Accroche le tableau au mur !"
+        },
+        {
+          "lb": "Ech leeën d'Zeitung op den Dësch.",
+          "fr": "Je pose le journal sur la table."
+        },
+        {
+          "lb": "D'Luucht hänkt iwwer dem Bett.",
+          "fr": "La lampe est suspendue au-dessus du lit."
+        },
+        {
+          "lb": "De Frigo steet an der Kichen.",
+          "fr": "Le réfrigérateur est dans la cuisine."
+        },
+        {
+          "lb": "Wuer kënnt de Kleederschaf?",
+          "fr": "Où va l'armoire ?"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Dem Philip säi Plang",
+          "text": "Léif Annick,\n\nendlech hunn ech meng nei Wunneng. Si ass net grouss, mä hell a praktesch. Ech hunn eng Kichen, e Buedzëmmer an zwee Zëmmeren. Am grousse Raum steet schonn de Canapé bei der Fënster. Den Teppech läit ënnert dem Salonsdësch. D'Luucht steet nach am Keller, an d'Bicher leien an zwou Këschten. Ech wëll se muer an d'Bicherregal stellen. De Frigo steet natierlech an der Kichen. E Samschdeg kënnt mäi Brudder hëllefen. Da riichte mir alles zesummen an.\n\nBis geschwënn,\nPhilip",
+          "textFr": "Chère Annick,\n\nj'ai enfin mon nouveau logement. Il n'est pas grand, mais clair et pratique. J'ai une cuisine, une salle de bains et deux chambres. Dans la grande pièce, le canapé est déjà près de la fenêtre. Le tapis se trouve sous la table basse. La lampe est encore à la cave, et les livres sont dans deux cartons. Je veux les mettre demain dans la bibliothèque. Le réfrigérateur est bien sûr dans la cuisine. Samedi, mon frère vient aider. Alors nous aménagerons tout ensemble.\n\nÀ bientôt,\nPhilip",
+          "questions": [
+            {
+              "lb": "De Philip huet elo eng nei Wunneng.",
+              "fr": "Philip a maintenant un nouveau logement.",
+              "answer": true
+            },
+            {
+              "lb": "Seng Wunneng huet keng Kichen.",
+              "fr": "Son logement n'a pas de cuisine.",
+              "answer": false
+            },
+            {
+              "lb": "De Canapé steet am grousse Raum.",
+              "fr": "Le canapé se trouve dans la grande pièce.",
+              "answer": true
+            },
+            {
+              "lb": "Säi Brudder kënnt e Freideg hëllefen.",
+              "fr": "Son frère vient aider vendredi.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Annonce fir eng Wunneng",
+          "text": "Annonce\n\nZe verlounen: hell Wunneng zu Mamer, drëtte Stack, ouni Lift. D'Wunneng ass miwweléiert an huet eng Kichen, e Buedzëmmer, eng kleng Schlofkummer an eng Stuff. An der Stuff steet e Canapé virun der Fënster. De Kleederschaf ass am Schlofzëmmer, an de Schreifdësch steet niewent der Dier. Am Keller gëtt et nach e Raum fir Vëloen a Këschten. Hausdéieren sinn net erlaabt. Den Arrêt ass fënnef Minutten ewech. Rendez-vous fir eng Visite: Méindeg ëm 18 Auer.",
+          "textFr": "Annonce\n\nÀ louer : logement lumineux à Mamer, troisième étage, sans ascenseur. Le logement est meublé et comprend une cuisine, une salle de bains, une petite chambre à coucher et un salon. Dans le salon, il y a un canapé devant la fenêtre. L'armoire est dans la chambre à coucher, et le bureau se trouve à côté de la porte. À la cave, il y a encore une pièce pour les vélos et les cartons. Les animaux domestiques ne sont pas autorisés. L'arrêt est à cinq minutes. Rendez-vous pour une visite : lundi à 18 heures.",
+          "questions": [
+            {
+              "lb": "D'Wunneng läit um drëtte Stack.",
+              "fr": "Le logement se trouve au troisième étage.",
+              "answer": true
+            },
+            {
+              "lb": "Am Haus gëtt et e Lift.",
+              "fr": "Il y a un ascenseur dans la maison.",
+              "answer": false
+            },
+            {
+              "lb": "Am Keller ass Plaz fir Vëloen.",
+              "fr": "À la cave, il y a de la place pour les vélos.",
+              "answer": true
+            },
+            {
+              "lb": "D'Visite ass samschdes ëm 18 Auer.",
+              "fr": "La visite est le samedi à 18 heures.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k6-um-nopeschfest",
+      "title": "Um Nopeschfest",
+      "titleFr": "À la fête des voisins",
+      "vocab": [
+        {
+          "lb": "d'Nopeschfest",
+          "fr": "la fête des voisins"
+        },
+        {
+          "lb": "d'Noperschaft",
+          "fr": "le voisinage"
+        },
+        {
+          "lb": "d'Noperen",
+          "fr": "les voisins"
+        },
+        {
+          "lb": "d'Spillplaz",
+          "fr": "l'aire de jeux"
+        },
+        {
+          "lb": "d'Géigend",
+          "fr": "le secteur"
+        },
+        {
+          "lb": "d'Epicerie",
+          "fr": "l'épicerie"
+        },
+        {
+          "lb": "de Spadséierwee",
+          "fr": "le chemin de promenade"
+        },
+        {
+          "lb": "de Vëloswee",
+          "fr": "la piste cyclable"
+        },
+        {
+          "lb": "d'Verbindung",
+          "fr": "la liaison"
+        },
+        {
+          "lb": "de Wunnuert",
+          "fr": "le domicile"
+        },
+        {
+          "lb": "d'Trapenhaus",
+          "fr": "la cage d'escalier"
+        },
+        {
+          "lb": "d'Poubelle",
+          "fr": "la poubelle"
+        },
+        {
+          "lb": "gefalen",
+          "fr": "plaire"
+        },
+        {
+          "lb": "hëllefsbereet",
+          "fr": "serviable"
+        },
+        {
+          "lb": "nobäi",
+          "fr": "proche"
+        },
+        {
+          "lb": "wäit ewech",
+          "fr": "éloigné"
+        },
+        {
+          "lb": "roueg",
+          "fr": "tranquille"
+        },
+        {
+          "lb": "knaschteg",
+          "fr": "sale"
+        },
+        {
+          "lb": "sech sécher fillen",
+          "fr": "se sentir en sécurité"
+        },
+        {
+          "lb": "zesummeliewen",
+          "fr": "vivre ensemble"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Mir feieren haut en Nopeschfest.",
+          "fr": "Nous célébrons aujourd'hui une fête des voisins."
+        },
+        {
+          "lb": "Meng Nopere sinn hëllefsbereet.",
+          "fr": "Mes voisins sont serviables."
+        },
+        {
+          "lb": "Et gefält mir gutt hei.",
+          "fr": "Je me plais bien ici."
+        },
+        {
+          "lb": "D'Epicerie ass um Eck.",
+          "fr": "L'épicerie est au coin."
+        },
+        {
+          "lb": "D'Spillplaz ass hannert dem Haus.",
+          "fr": "L'aire de jeux est derrière la maison."
+        },
+        {
+          "lb": "D'Verbindunge mat der Stad si gutt.",
+          "fr": "Les liaisons avec la ville sont bonnes."
+        },
+        {
+          "lb": "D'Trapenhaus ass leider knaschteg.",
+          "fr": "La cage d'escalier est malheureusement sale."
+        },
+        {
+          "lb": "Ech fille mech sécher an dëser Géigend.",
+          "fr": "Je me sens en sécurité dans ce secteur."
+        },
+        {
+          "lb": "Am Summer sëtze mir op der Wiss.",
+          "fr": "En été, nous sommes assis sur la pelouse."
+        },
+        {
+          "lb": "D'Poubelle ass haut net voll.",
+          "fr": "La poubelle n'est pas pleine aujourd'hui."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Programm vum Nopeschfest",
+          "text": "Nopeschfest an eiser Residence\n\nSamschdeg um 16 Auer treffe mir eis op der Wiss hannert dem Haus. Jidderee bréngt eng kleng Saach fir ze iessen. D'Kanner däerfen op der Spillplaz spillen, mä eng erwuesse Persoun bleift derbäi. Um 18 Auer mécht d'Marie eng kleng Visite vum neie Vëloswee. Duerno setze mir eis zesummen un de groussen Dësch. Mir wëllen eis besser kenne léieren, well vill Leit eréischt dëst Joer geplënnert sinn. W.e.g. haalt d'Trapenhaus propper a maacht d'Musek net ze haart.",
+          "textFr": "Fête des voisins dans notre résidence\n\nSamedi à 16 heures, nous nous retrouvons sur la pelouse derrière la maison. Chacun apporte quelque chose de petit à manger. Les enfants peuvent jouer sur l'aire de jeux, mais une personne adulte reste avec eux. À 18 heures, Marie fait une petite visite de la nouvelle piste cyclable. Ensuite, nous nous asseyons ensemble à la grande table. Nous voulons mieux faire connaissance, car beaucoup de gens n'ont déménagé que cette année. Veuillez garder la cage d'escalier propre et ne pas mettre la musique trop fort.",
+          "questions": [
+            {
+              "lb": "D'Fest fänkt samschdes nomëttes un.",
+              "fr": "La fête commence le samedi après-midi.",
+              "answer": true
+            },
+            {
+              "lb": "Jidderee soll eppes ze drénke mathuelen.",
+              "fr": "Chacun doit apporter quelque chose à boire.",
+              "answer": false
+            },
+            {
+              "lb": "D'Marie weist de Vëloswee.",
+              "fr": "Marie montre la piste cyclable.",
+              "answer": true
+            },
+            {
+              "lb": "D'Musek däerf ganz haart sinn.",
+              "fr": "La musique peut être très forte.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Nei am Haus",
+          "text": "Zanter zwee Méint wunnen ech an enger Residence zu Esch. Am Ufank hunn ech bal kee kannt, an ech hunn d'Géigend e bëssen ze grouss fonnt. Um Nopeschfest hunn ech mam Tom a mam Luc geschwat. Si wunnen um éischte Stack a si wierklech hëllefsbereet. Den Tom huet mir gewisen, wou de beschte Vëloswee ass. De Luc huet erkläert, datt d'Epicerie just um Eck ass. Elo gefält et mir vill besser hei. Nëmmen d'Trapenhaus mécht mir Suergen, well et dacks knaschteg ass an d'Poubelle séier voll sinn.",
+          "textFr": "Depuis deux mois, j'habite dans une résidence à Esch. Au début, je ne connaissais presque personne, et je trouvais le secteur un peu trop grand. À la fête des voisins, j'ai parlé avec Tom et Luc. Ils habitent au premier étage et sont vraiment serviables. Tom m'a montré où se trouve la meilleure piste cyclable. Luc a expliqué que l'épicerie est juste au coin. Maintenant, je me plais beaucoup mieux ici. Seule la cage d'escalier m'inquiète, parce qu'elle est souvent sale et les poubelles sont vite pleines.",
+          "questions": [
+            {
+              "lb": "D'Persoun wunnt elo zu Esch.",
+              "fr": "La personne habite maintenant à Esch.",
+              "answer": true
+            },
+            {
+              "lb": "D'Persoun huet am Ufank vill Leit kannt.",
+              "fr": "Au début, la personne connaissait beaucoup de gens.",
+              "answer": false
+            },
+            {
+              "lb": "Den Tom huet e Vëloswee gewisen.",
+              "fr": "Tom a montré une piste cyclable.",
+              "answer": true
+            },
+            {
+              "lb": "D'Trapenhaus ass ëmmer propper.",
+              "fr": "La cage d'escalier est toujours propre.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k6-wat-daerf-een-wat-daerf-een-net",
+      "title": "Wat däerf een? Wat däerf een net?",
+      "titleFr": "Qu'a-t-on le droit de faire ? Qu'est-ce qui est interdit ?",
+      "vocab": [
+        {
+          "lb": "de Kaméidi",
+          "fr": "le bruit"
+        },
+        {
+          "lb": "propper halen",
+          "fr": "tenir propre"
+        },
+        {
+          "lb": "dreckeg / knaschteg",
+          "fr": "sale"
+        },
+        {
+          "lb": "den Dreck",
+          "fr": "les déchets"
+        },
+        {
+          "lb": "de Knascht",
+          "fr": "la saleté"
+        },
+        {
+          "lb": "däerfen",
+          "fr": "avoir le droit"
+        },
+        {
+          "lb": "net däerfen",
+          "fr": "ne pas avoir le droit"
+        },
+        {
+          "lb": "mussen",
+          "fr": "devoir"
+        },
+        {
+          "lb": "net mussen",
+          "fr": "ne pas être obligé"
+        },
+        {
+          "lb": "erlaabt",
+          "fr": "autorisé"
+        },
+        {
+          "lb": "verbueden",
+          "fr": "interdit"
+        },
+        {
+          "lb": "d'Reglement",
+          "fr": "le règlement"
+        },
+        {
+          "lb": "d'Hausuerdnung",
+          "fr": "le règlement intérieur"
+        },
+        {
+          "lb": "d'Déier",
+          "fr": "l'animal"
+        },
+        {
+          "lb": "d'Hausdéier",
+          "fr": "l'animal domestique"
+        },
+        {
+          "lb": "den Hond",
+          "fr": "le chien"
+        },
+        {
+          "lb": "d'Kaz",
+          "fr": "le chat"
+        },
+        {
+          "lb": "den Hamster",
+          "fr": "le hamster"
+        },
+        {
+          "lb": "de Vugel",
+          "fr": "l'oiseau"
+        },
+        {
+          "lb": "d'Trapenhaus",
+          "fr": "la cage d'escalier"
+        },
+        {
+          "lb": "zouspäeren",
+          "fr": "fermer à clé"
+        },
+        {
+          "lb": "opspären",
+          "fr": "ouvrir avec une clé"
+        },
+        {
+          "lb": "d'Hausdier",
+          "fr": "la porte d'entrée"
+        },
+        {
+          "lb": "d'Kellerdier",
+          "fr": "la porte de la cave"
+        },
+        {
+          "lb": "stéieren",
+          "fr": "déranger"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "No 22 Auer däerf ee kee Kaméidi maachen.",
+          "fr": "Après 22 heures, on ne peut pas faire de bruit."
+        },
+        {
+          "lb": "Dir musst d'Entrée propper halen.",
+          "fr": "Vous devez garder l'entrée propre."
+        },
+        {
+          "lb": "Kanner däerfen net eleng am Keller sinn.",
+          "fr": "Les enfants ne peuvent pas être seuls à la cave."
+        },
+        {
+          "lb": "D'Kellerdier muss ëmmer zougespaart sinn.",
+          "fr": "La porte de la cave doit toujours être fermée à clé."
+        },
+        {
+          "lb": "Hënn däerfen net fräi ronderëmlafen.",
+          "fr": "Les chiens ne peuvent pas courir librement."
+        },
+        {
+          "lb": "E klengen Hamster ass erlaabt.",
+          "fr": "Un petit hamster est autorisé."
+        },
+        {
+          "lb": "Musek stéiert all d'Leit am Haus.",
+          "fr": "La musique dérange tous les gens dans la maison."
+        },
+        {
+          "lb": "Et däerf ee keng Vëloen ofstellen.",
+          "fr": "On ne peut pas déposer de vélos."
+        },
+        {
+          "lb": "Dat steet an der Hausuerdnung.",
+          "fr": "C'est écrit dans le règlement intérieur."
+        },
+        {
+          "lb": "Du muss de Knascht ewechmaachen.",
+          "fr": "Tu dois enlever la saleté."
+        },
+        {
+          "lb": "D'viischt Dier bleift nuets zou.",
+          "fr": "La porte de devant reste fermée la nuit."
+        },
+        {
+          "lb": "Dat ass mir egal.",
+          "fr": "Cela m'est égal."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Hausuerdnung am Gang",
+          "text": "Hausuerdnung\n\nAn eiser Residence muss d'viischt Dier tëschent 22 an 6 Auer zougespaart sinn. D'Kellerdier bleift och ëmmer zou. Vëloen a Kannercutschen däerfen net am Gang stoen; se kommen an de Keller. Hausdéieren sinn erlaabt, awer Hënn mussen am gemeinsame Gaart un der Léngt bleiwen. No 22 Auer däerf ee kee Kaméidi maachen. Wann Dir Dreck am Trap leie gesitt, maacht en direkt ewech. D'Poubelle ginn all Méindeg moies erausgestallt.",
+          "textFr": "Règlement intérieur\n\nDans notre résidence, la porte de devant doit être fermée à clé entre 22 heures et 6 heures. La porte de la cave reste aussi toujours fermée. Les vélos et poussettes ne peuvent pas rester dans le couloir ; ils vont à la cave. Les animaux domestiques sont autorisés, mais les chiens doivent rester en laisse dans le jardin commun. Après 22 heures, on ne peut pas faire de bruit. Si vous voyez des déchets dans l'escalier, enlevez-les tout de suite. Les poubelles sont sorties chaque lundi matin.",
+          "questions": [
+            {
+              "lb": "D'Hausdier muss nuets zougespaart sinn.",
+              "fr": "La porte d'entrée doit être fermée à clé la nuit.",
+              "answer": true
+            },
+            {
+              "lb": "Vëloen däerfen am Gang stoen.",
+              "fr": "Les vélos peuvent rester dans le couloir.",
+              "answer": false
+            },
+            {
+              "lb": "Hënn mussen am Gaart un der Léngt bleiwen.",
+              "fr": "Les chiens doivent rester en laisse dans le jardin.",
+              "answer": true
+            },
+            {
+              "lb": "D'Poubelle ginn dënschdes erausgestallt.",
+              "fr": "Les poubelles sont sorties le mardi.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Mat der Propriétaire",
+          "text": "Vanessa: Gudde Mëtteg, Madame Klein. Ech hunn e puer Froen iwwer d'Wunneng.\nPropriétaire: Gären, wat wëllt Dir wëssen?\nVanessa: Däerf ech am Zëmmer fëmmen?\nPropriétaire: Nee, fëmmen ass am ganzen Appartement verbueden.\nVanessa: An däerf ech Piano spillen?\nPropriétaire: Klassesch Instrumenter sinn erlaabt, mä no 20 Auer muss et roueg sinn.\nVanessa: Ech hunn eng kleng Kaz. Ass dat e Problem?\nPropriétaire: Eng Kaz ass ok, mä Dir musst d'Trapenhaus propper halen.\nVanessa: Ech wëll och e puer Blummen am Gaart planzen.\nPropriétaire: Dat däerft Dir, wann Dir et mat den Noperen ofschwätzt.",
+          "textFr": "Vanessa : Bonjour, Madame Klein. J'ai quelques questions sur le logement.\nPropriétaire : Volontiers, que voulez-vous savoir ?\nVanessa : Ai-je le droit de fumer dans la chambre ?\nPropriétaire : Non, fumer est interdit dans tout l'appartement.\nVanessa : Et ai-je le droit de jouer du piano ?\nPropriétaire : Les instruments classiques sont autorisés, mais après 20 heures cela doit être calme.\nVanessa : J'ai un petit chat. Est-ce un problème ?\nPropriétaire : Un chat, c'est d'accord, mais vous devez garder la cage d'escalier propre.\nVanessa : Je veux aussi planter quelques fleurs dans le jardin.\nPropriétaire : Vous pouvez le faire, si vous vous mettez d'accord avec les voisins.",
+          "questions": [
+            {
+              "lb": "D'Vanessa däerf an der Schlofkummer fëmmen.",
+              "fr": "Vanessa peut fumer dans la chambre à coucher.",
+              "answer": false
+            },
+            {
+              "lb": "Piano spillen ass virun 20 Auer erlaabt.",
+              "fr": "Jouer du piano est autorisé avant 20 heures.",
+              "answer": true
+            },
+            {
+              "lb": "D'Vanessa huet e klengen Hond.",
+              "fr": "Vanessa a un petit chien.",
+              "answer": false
+            },
+            {
+              "lb": "Si däerf Blumme mam Accord vun den Nopere planzen.",
+              "fr": "Elle peut planter des fleurs avec l'accord des voisins.",
+              "answer": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k6-e-wee-beschreiwen",
+      "title": "E Wee beschreiwen",
+      "titleFr": "Décrire un itinéraire",
+      "vocab": [
+        {
+          "lb": "Wéi kommen ech op d'Gare?",
+          "fr": "Comment aller à la gare ?"
+        },
+        {
+          "lb": "den Arrêt",
+          "fr": "l'arrêt de bus"
+        },
+        {
+          "lb": "d'Sakgaass",
+          "fr": "l'impasse"
+        },
+        {
+          "lb": "d'Parkplaz",
+          "fr": "la place de stationnement"
+        },
+        {
+          "lb": "eraklammen",
+          "fr": "monter"
+        },
+        {
+          "lb": "erausklammen",
+          "fr": "descendre"
+        },
+        {
+          "lb": "d'Virfaartsstrooss",
+          "fr": "la route prioritaire"
+        },
+        {
+          "lb": "d'Rietsvirfaart",
+          "fr": "la priorité à droite"
+        },
+        {
+          "lb": "d'Vitesselimit",
+          "fr": "la limitation de vitesse"
+        },
+        {
+          "lb": "d'Schëld",
+          "fr": "le panneau"
+        },
+        {
+          "lb": "riichtaus",
+          "fr": "tout droit"
+        },
+        {
+          "lb": "lénks",
+          "fr": "à gauche"
+        },
+        {
+          "lb": "riets",
+          "fr": "à droite"
+        },
+        {
+          "lb": "laanscht",
+          "fr": "le long de"
+        },
+        {
+          "lb": "bei der rouder Luucht",
+          "fr": "au feu rouge"
+        },
+        {
+          "lb": "duerch",
+          "fr": "à travers"
+        },
+        {
+          "lb": "bis bei",
+          "fr": "jusqu'à"
+        },
+        {
+          "lb": "ronderëm",
+          "fr": "autour de"
+        },
+        {
+          "lb": "vis-à-vis vun",
+          "fr": "en face de"
+        },
+        {
+          "lb": "eropgoen",
+          "fr": "monter à pied"
+        },
+        {
+          "lb": "erofgoen",
+          "fr": "descendre à pied"
+        },
+        {
+          "lb": "de Kierfecht",
+          "fr": "le cimetière"
+        },
+        {
+          "lb": "d'Richtung",
+          "fr": "la direction"
+        },
+        {
+          "lb": "op der rietser Säit",
+          "fr": "du côté droit"
+        },
+        {
+          "lb": "op der lénkser Säit",
+          "fr": "du côté gauche"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wou ass den Arrêt?",
+          "fr": "Où est l'arrêt de bus ?"
+        },
+        {
+          "lb": "Gitt hei ëmmer riichtaus!",
+          "fr": "Allez toujours tout droit ici !"
+        },
+        {
+          "lb": "Fuert déi éischt Strooss lénks!",
+          "fr": "Prenez la première rue à gauche !"
+        },
+        {
+          "lb": "Klammt um Arrêt Äppelwee eraus!",
+          "fr": "Descendez à l'arrêt Äppelwee !"
+        },
+        {
+          "lb": "Fuert net an d'Sakgaass eran!",
+          "fr": "N'entrez pas dans l'impasse !"
+        },
+        {
+          "lb": "Gitt bei der rouder Luucht riets.",
+          "fr": "Au feu rouge, allez à droite."
+        },
+        {
+          "lb": "D'Parkplaz ass op der rietser Säit.",
+          "fr": "La place de stationnement est du côté droit."
+        },
+        {
+          "lb": "Gitt laanscht d'Epicerie!",
+          "fr": "Passez le long de l'épicerie !"
+        },
+        {
+          "lb": "De Bus hält virum Kierfecht.",
+          "fr": "Le bus s'arrête devant le cimetière."
+        },
+        {
+          "lb": "D'Post ass vis-à-vis vum Café.",
+          "fr": "La poste est en face du café."
+        },
+        {
+          "lb": "Gitt duerch de Park bis bei d'Spillplaz.",
+          "fr": "Traversez le parc jusqu'à l'aire de jeux."
+        },
+        {
+          "lb": "Fuert ronderëm d'Spillplaz!",
+          "fr": "Contournez l'aire de jeux !"
+        }
+      ],
+      "readings": [
+        {
+          "title": "De Wee op d'Party",
+          "text": "Moien Tess,\n\nhei ass de Wee bis bei mech. Huel de Bus Nummer 15 a klamm um Arrêt Äppelwee eraus. Géi net an d'Rue des Romains, do ass e Chantier. Géi riichtaus bis bei d'rout Luucht. Do gees du déi éischt Strooss lénks. Du bass dann an der Lannewee. No 300 Meter gesäis du eng kleng Epicerie. Mäi Haus ass vis-à-vis vun der Epicerie, op der rietser Säit. Wann s du mam Auto kënns, muss de ronderëm d'Spillplaz fueren. Do ass eng gratis Parkplaz.\n\nBis geschwënn,\nMara",
+          "textFr": "Salut Tess,\n\nvoici le chemin jusqu'à chez moi. Prends le bus numéro 15 et descends à l'arrêt Äppelwee. Ne va pas dans la Rue des Romains, il y a un chantier. Va tout droit jusqu'au feu rouge. Là, tu prends la première rue à gauche. Tu es alors dans la Lannewee. Après 300 mètres, tu vois une petite épicerie. Ma maison est en face de l'épicerie, du côté droit. Si tu viens en voiture, tu dois contourner l'aire de jeux. Il y a une place de stationnement gratuite.\n\nÀ bientôt,\nMara",
+          "questions": [
+            {
+              "lb": "D'Tess soll de Bus Nummer 15 huelen.",
+              "fr": "Tess doit prendre le bus numéro 15.",
+              "answer": true
+            },
+            {
+              "lb": "D'Rue des Romains ass fräi.",
+              "fr": "La Rue des Romains est libre.",
+              "answer": false
+            },
+            {
+              "lb": "Dem Mara säin Haus ass vis-à-vis vun der Epicerie.",
+              "fr": "La maison de Mara est en face de l'épicerie.",
+              "answer": true
+            },
+            {
+              "lb": "D'Parkplaz kascht samschdes Suen.",
+              "fr": "La place de stationnement coûte de l'argent le samedi.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Op der Gare",
+          "text": "Tourist: Entschëllegt, wéi kommen ech vun hei op de Glacis?\nMann: Gitt hei iwwert d'Strooss an dann no riets.\nTourist: Muss ech de Bus huelen?\nMann: Nee, et ass net wäit. Gitt laanscht de Casino an duerno duerch de klenge Park.\nTourist: A wou muss ech dann hin?\nMann: Um Enn vum Park gitt Dir lénks. Dir gesitt e grousst Schëld mat Glacis. D'Entrée ass op der lénkser Säit.\nTourist: Ass do eng Parkplaz?\nMann: Jo, awer haut ass vill lass. Zu Fouss sidd Dir méi séier.\nTourist: Villmools Merci!\nMann: Gär geschitt.",
+          "textFr": "Touriste : Excusez-moi, comment aller d'ici au Glacis ?\nHomme : Traversez la rue ici, puis allez à droite.\nTouriste : Dois-je prendre le bus ?\nHomme : Non, ce n'est pas loin. Passez le long du casino, puis traversez le petit parc.\nTouriste : Et où dois-je aller ensuite ?\nHomme : À la fin du parc, allez à gauche. Vous verrez un grand panneau avec Glacis. L'entrée est du côté gauche.\nTouriste : Y a-t-il une place de stationnement ?\nHomme : Oui, mais il y a beaucoup de monde aujourd'hui. À pied, vous êtes plus rapide.\nTouriste : Merci beaucoup !\nHomme : Avec plaisir.",
+          "questions": [
+            {
+              "lb": "Den Tourist sicht de Wee op de Glacis.",
+              "fr": "Le touriste cherche le chemin vers le Glacis.",
+              "answer": true
+            },
+            {
+              "lb": "Hie muss mam Bus fueren.",
+              "fr": "Il doit prendre le bus.",
+              "answer": false
+            },
+            {
+              "lb": "Beim Park steet e Schëld.",
+              "fr": "Il y a un panneau près du parc.",
+              "answer": true
+            },
+            {
+              "lb": "D'Entrée ass op der rietser Säit.",
+              "fr": "L'entrée est du côté droit.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k6-op-der-aweiungsparty",
+      "title": "Op der Aweiungsparty",
+      "titleFr": "À la pendaison de crémaillère",
+      "vocab": [
+        {
+          "lb": "d'Aweiungsparty",
+          "fr": "la pendaison de crémaillère"
+        },
+        {
+          "lb": "de Kaddo",
+          "fr": "le cadeau"
+        },
+        {
+          "lb": "den Téikan",
+          "fr": "la théière"
+        },
+        {
+          "lb": "de Matbewunner",
+          "fr": "le colocataire"
+        },
+        {
+          "lb": "d'Matbewunnerin",
+          "fr": "la colocataire"
+        },
+        {
+          "lb": "den Noper",
+          "fr": "le voisin"
+        },
+        {
+          "lb": "d'Stuff",
+          "fr": "le salon"
+        },
+        {
+          "lb": "d'Schlofzëmmer",
+          "fr": "la chambre à coucher"
+        },
+        {
+          "lb": "d'Mauer",
+          "fr": "le mur"
+        },
+        {
+          "lb": "d'Regal",
+          "fr": "l'étagère"
+        },
+        {
+          "lb": "den Dësch",
+          "fr": "la table"
+        },
+        {
+          "lb": "d'Plaz",
+          "fr": "la place"
+        },
+        {
+          "lb": "no lénks",
+          "fr": "vers la gauche"
+        },
+        {
+          "lb": "rout",
+          "fr": "rouge"
+        },
+        {
+          "lb": "orange",
+          "fr": "de couleur orange"
+        },
+        {
+          "lb": "mof",
+          "fr": "mauve"
+        },
+        {
+          "lb": "erëmgesinn",
+          "fr": "revoir"
+        },
+        {
+          "lb": "kenne léieren",
+          "fr": "faire connaissance"
+        },
+        {
+          "lb": "reklaméieren",
+          "fr": "se plaindre"
+        },
+        {
+          "lb": "plënneren",
+          "fr": "déménager"
+        },
+        {
+          "lb": "roueg",
+          "fr": "calme"
+        },
+        {
+          "lb": "d'Verännerung",
+          "fr": "le changement"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Merci fir däi Kaddo!",
+          "fr": "Merci pour ton cadeau !"
+        },
+        {
+          "lb": "Schéin, dech erëmzegesinn!",
+          "fr": "Content de te revoir !"
+        },
+        {
+          "lb": "Hues du mäi Matbewunner kennegeléiert?",
+          "fr": "As-tu fait connaissance avec mon colocataire ?"
+        },
+        {
+          "lb": "Deng Nopere sinn och sympathesch.",
+          "fr": "Tes voisins sont aussi sympathiques."
+        },
+        {
+          "lb": "De Kaddo läit op dem Dësch.",
+          "fr": "Le cadeau est sur la table."
+        },
+        {
+          "lb": "Stell den Téikan op d'Regal!",
+          "fr": "Mets la théière sur l'étagère !"
+        },
+        {
+          "lb": "Réckel den Dësch no lénks!",
+          "fr": "Déplace la table vers la gauche !"
+        },
+        {
+          "lb": "D'Party war wierklech flott.",
+          "fr": "La fête était vraiment chouette."
+        },
+        {
+          "lb": "Ech si grad heemkomm.",
+          "fr": "Je viens de rentrer à la maison."
+        },
+        {
+          "lb": "D'Mauer am Schlofzëmmer ass mof.",
+          "fr": "Le mur de la chambre à coucher est mauve."
+        },
+        {
+          "lb": "Mir däerfe keng grouss Verännerunge maachen.",
+          "fr": "Nous ne pouvons pas faire de grands changements."
+        },
+        {
+          "lb": "Kann ech d'Zëmmer kucke goen?",
+          "fr": "Puis-je aller voir les chambres ?"
+        }
+      ],
+      "readings": [
+        {
+          "title": "E Message vun der Jennifer",
+          "text": "Salut Jackie,\n\nech si grad heemkomm. Dem Philip seng Aweiungsparty war wierklech flott. Säin Appartement ass hell a méi grouss, wéi ech geduecht hunn. Ech hu seng zwee Matbewunner kennegeléiert; si si sympathesch a ganz roueg. Ech hunn dem Philip e klengen Téikan als Kaddo matbruecht. Hie wollt en als éischt op den Dësch stellen, mä ech hunn d'Regal besser fonnt. Dunn hu mir den Dësch e bëssen no lénks geréckelt. Deen eenzegen Nodeel: säin Noper mécht owes vill Kaméidi. Mä de Philip huet scho reklaméiert.\n\nBis muer,\nJennifer",
+          "textFr": "Salut Jackie,\n\nje viens de rentrer à la maison. La pendaison de crémaillère de Philip était vraiment chouette. Son appartement est clair et plus grand que je ne pensais. J'ai fait connaissance avec ses deux colocataires ; ils sont sympathiques et très calmes. J'ai apporté à Philip une petite théière comme cadeau. Il voulait d'abord la mettre sur la table, mais j'ai trouvé l'étagère mieux. Ensuite, nous avons déplacé la table un peu vers la gauche. Le seul inconvénient : son voisin fait beaucoup de bruit le soir. Mais Philip s'est déjà plaint.\n\nÀ demain,\nJennifer",
+          "questions": [
+            {
+              "lb": "D'Jennifer ass no der Party heemkomm.",
+              "fr": "Jennifer est rentrée chez elle après la fête.",
+              "answer": true
+            },
+            {
+              "lb": "Dem Philip säin Appartement ass däischter.",
+              "fr": "L'appartement de Philip est sombre.",
+              "answer": false
+            },
+            {
+              "lb": "De Kaddo ass e klengen Téikan.",
+              "fr": "Le cadeau est une petite théière.",
+              "answer": true
+            },
+            {
+              "lb": "Säin Noper ass owes ëmmer roueg.",
+              "fr": "Son voisin est toujours calme le soir.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Beim Philip doheem",
+          "text": "Tom: Hey Philip, super Party!\nPhilip: Merci, komm eran. Hues du de Wee gutt fonnt?\nTom: Net direkt. Ech sinn eng Strooss ze fréi lénks gefuer.\nPhilip: Dat geschitt dacks. Maach der keng Suergen.\nTom: Däi Salon ass gemittlech. Wou kann ech mäi Kaddo hileeën?\nPhilip: Lee en op de Salonsdësch, w.e.g.\nTom: Soll ech och eppes an der Kichen hëllefen?\nPhilip: Jo, huel d'Glieser aus dem Schaf.\nTom: Gären. Däi Matbewunner ass och do?\nPhilip: Jo, de Marc mécht d'Musek, awer no 22 Auer bleift et méi roueg.",
+          "textFr": "Tom : Hey Philip, super fête !\nPhilip : Merci, entre. As-tu bien trouvé le chemin ?\nTom : Pas directement. J'ai tourné une rue trop tôt à gauche.\nPhilip : Cela arrive souvent. Ne t'inquiète pas.\nTom : Ton salon est confortable. Où puis-je mettre mon cadeau ?\nPhilip : Mets-le sur la table basse, s'il te plaît.\nTom : Dois-je aussi aider à la cuisine ?\nPhilip : Oui, prends les verres dans l'armoire.\nTom : Volontiers. Ton colocataire est aussi là ?\nPhilip : Oui, Marc s'occupe de la musique, mais après 22 heures cela reste plus calme.",
+          "questions": [
+            {
+              "lb": "Den Tom huet de Wee direkt fonnt.",
+              "fr": "Tom a trouvé le chemin directement.",
+              "answer": false
+            },
+            {
+              "lb": "De Kaddo kënnt op de Salonsdësch.",
+              "fr": "Le cadeau va sur la table basse.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tom hëlleft an der Kichen.",
+              "fr": "Tom aide dans la cuisine.",
+              "answer": true
+            },
+            {
+              "lb": "No 22 Auer gëtt d'Musek méi haart.",
+              "fr": "Après 22 heures, la musique devient plus forte.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k6-land-a-leit-letzebuerger-lidder",
+      "title": "Land a Leit: Lëtzebuerger Lidder",
+      "titleFr": "Pays et société : chansons luxembourgeoises",
+      "vocab": [
+        {
+          "lb": "d'Lidd",
+          "fr": "la chanson"
+        },
+        {
+          "lb": "d'Nationalhymn",
+          "fr": "l'hymne national"
+        },
+        {
+          "lb": "d'Uertschaft",
+          "fr": "la localité"
+        },
+        {
+          "lb": "de Floss",
+          "fr": "la rivière"
+        },
+        {
+          "lb": "d'Musel",
+          "fr": "la Moselle"
+        },
+        {
+          "lb": "d'Sauer",
+          "fr": "la Sûre"
+        },
+        {
+          "lb": "d'Uelzecht",
+          "fr": "l'Alzette"
+        },
+        {
+          "lb": "de Pafendall",
+          "fr": "le Pafendall"
+        },
+        {
+          "lb": "den Théiwesbur",
+          "fr": "le puits Théiwesbur"
+        },
+        {
+          "lb": "d'Sichegaass",
+          "fr": "la rue Sichegaass"
+        },
+        {
+          "lb": "d'Kierch",
+          "fr": "l'église"
+        },
+        {
+          "lb": "de Bur",
+          "fr": "le puits"
+        },
+        {
+          "lb": "d'Roulotte",
+          "fr": "la roulotte"
+        },
+        {
+          "lb": "d'Sanéierung",
+          "fr": "l'assainissement"
+        },
+        {
+          "lb": "de Protest",
+          "fr": "la protestation"
+        },
+        {
+          "lb": "de Jangli",
+          "fr": "le Jangli"
+        },
+        {
+          "lb": "d'Eisebunnslinn",
+          "fr": "la ligne de chemin de fer"
+        },
+        {
+          "lb": "d'Streck",
+          "fr": "le trajet"
+        },
+        {
+          "lb": "den Zuch",
+          "fr": "le train"
+        },
+        {
+          "lb": "d'Gare",
+          "fr": "la gare"
+        },
+        {
+          "lb": "de Charly",
+          "fr": "le Charly"
+        },
+        {
+          "lb": "den Houwald",
+          "fr": "le Howald"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Vill Lidder nennen Uertschaften a Flëss.",
+          "fr": "Beaucoup de chansons nomment des localités et des rivières."
+        },
+        {
+          "lb": "D'Nationalhymn schwätzt vun der Musel.",
+          "fr": "L'hymne national parle de la Moselle."
+        },
+        {
+          "lb": "De Pafendall ass e Quartier an der Stad.",
+          "fr": "Le Pafendall est un quartier de la ville."
+        },
+        {
+          "lb": "Den Théiwesbur war nieft der Kierch.",
+          "fr": "Le Théiwesbur était à côté de l'église."
+        },
+        {
+          "lb": "D'Leit hu Waasser beim Bur geholl.",
+          "fr": "Les gens ont pris de l'eau au puits."
+        },
+        {
+          "lb": "D'Sichegaass läit am Pafendall.",
+          "fr": "La Sichegaass se trouve au Pafendall."
+        },
+        {
+          "lb": "D'Lidd war e Protest géint d'Sanéierung.",
+          "fr": "La chanson était une protestation contre l'assainissement."
+        },
+        {
+          "lb": "De Jangli war eng Eisebunnslinn.",
+          "fr": "Le Jangli était une ligne de chemin de fer."
+        },
+        {
+          "lb": "Den Zuch ass op Réimech gefuer.",
+          "fr": "Le train allait à Remich."
+        },
+        {
+          "lb": "De Charly kënnt am Lidd vir.",
+          "fr": "Le Charly apparaît dans la chanson."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Lidder iwwer Plazen",
+          "text": "A ville Lëtzebuerger Lidder spille Plazen eng grouss Roll. D'Nationalhymn D'Heemecht nennt d'Musel, d'Sauer an d'Uelzecht. Aner Lidder erzielen iwwer e Quartier oder iwwer eng Strooss. Am Pafendall gouf et fréier de Bur Théiwesbur nieft der Kierch Saint Mathieu. D'Leit hunn do Waasser geholl. Wéi d'Sichegaass um Enn vum 19. Joerhonnert sanéiert ginn ass, hu vill Leit misse plënneren. De Fritz Weimerskirch huet d'Lidd vum Théiwesbur geschriwwen. Et erënnert un déi al Strooss an un d'Leit, déi do gewunnt hunn.",
+          "textFr": "Dans beaucoup de chansons luxembourgeoises, les lieux jouent un grand rôle. L'hymne national D'Heemecht nomme la Moselle, la Sûre et l'Alzette. D'autres chansons racontent un quartier ou une rue. Au Pafendall, il y avait autrefois le puits Théiwesbur à côté de l'église Saint-Mathieu. Les gens y prenaient de l'eau. Lorsque la Sichegaass a été assainie à la fin du 19e siècle, beaucoup de gens ont dû déménager. Fritz Weimerskirch a écrit la chanson du Théiwesbur. Elle rappelle l'ancienne rue et les gens qui y ont habité.",
+          "questions": [
+            {
+              "lb": "D'Nationalhymn nennt dräi Flëss.",
+              "fr": "L'hymne national nomme trois rivières.",
+              "answer": true
+            },
+            {
+              "lb": "Den Théiwesbur war zu Esch.",
+              "fr": "Le Théiwesbur était à Esch.",
+              "answer": false
+            },
+            {
+              "lb": "D'Leit hu Waasser beim Bur geholl.",
+              "fr": "Les gens prenaient de l'eau au puits.",
+              "answer": true
+            },
+            {
+              "lb": "Bei der Sanéierung si keng Leit geplënnert.",
+              "fr": "Lors de l'assainissement, personne n'a déménagé.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Musekstonn an der Klass",
+          "text": "E Mëttwoch hu mir iwwer de Jangli geschwat. De Jangli war eng al Eisebunnslinn mat zwou Strecken. Eng Streck ass vun Näerden op Rombech gefuer, an eng aner vun der Stad Lëtzebuerg op Réimech. De Schoulmeeschter huet erkläert, datt den Numm och an engem Lidd virkënnt. Am Lidd fiert de Jangli den Houwald erop. Et geet ëm en Zuch, Damp an eng Rees duerch verschidde Plazen. Meng Bomi kennt d'Melodie nach. Si seet, datt vill Leit esou Lidder bei Familljefester sangen. Ech wëll elo mäi Liiblingslidd iwwer meng Uertschaft presentéieren.",
+          "textFr": "Un mercredi, nous avons parlé du Jangli. Le Jangli était une ancienne ligne de chemin de fer avec deux trajets. Un trajet allait de Noerdange à Rombach, et un autre de la ville de Luxembourg à Remich. L'instituteur a expliqué que le nom apparaît aussi dans une chanson. Dans la chanson, le Jangli monte au Howald. Il s'agit d'un train, de vapeur et d'un voyage à travers différents lieux. Ma grand-mère connaît encore la mélodie. Elle dit que beaucoup de gens chantent de telles chansons lors de fêtes de famille. Je veux maintenant présenter ma chanson préférée sur ma localité.",
+          "questions": [
+            {
+              "lb": "D'Klass huet iwwer de Jangli geschwat.",
+              "fr": "La classe a parlé du Jangli.",
+              "answer": true
+            },
+            {
+              "lb": "De Jangli war eng modern Buslinn.",
+              "fr": "Le Jangli était une ligne de bus moderne.",
+              "answer": false
+            },
+            {
+              "lb": "Eng Streck ass op Réimech gefuer.",
+              "fr": "Un trajet allait à Remich.",
+              "answer": true
+            },
+            {
+              "lb": "D'Bomi huet d'Melodie vergiess.",
+              "fr": "La grand-mère a oublié la mélodie.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

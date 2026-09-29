@@ -1,0 +1,1276 @@
+{
+  "id": 5,
+  "title": "Vakanz a Pläng",
+  "titleFr": "Vacances et projets",
+  "descriptionFr": "Vous apprenez à parler des vacances, du week-end, des projets, des réactions et de la météo.",
+  "page": 74,
+  "themes": [
+    {
+      "id": "a2-k5-wei-war-ar-vakanz",
+      "title": "Wéi war Är Vakanz?",
+      "titleFr": "Comment se sont passées vos vacances ?",
+      "vocab": [
+        {
+          "lb": "d'Wieder",
+          "fr": "le temps (météo)"
+        },
+        {
+          "lb": "sech ameséieren",
+          "fr": "s'amuser"
+        },
+        {
+          "lb": "Schi fueren",
+          "fr": "faire du ski"
+        },
+        {
+          "lb": "Snowboard fueren",
+          "fr": "faire du snowboard"
+        },
+        {
+          "lb": "de Souvenir",
+          "fr": "le souvenir"
+        },
+        {
+          "lb": "e Souvenir matbréngen",
+          "fr": "rapporter un souvenir"
+        },
+        {
+          "lb": "Leit kenne léieren",
+          "fr": "faire connaissance avec des gens"
+        },
+        {
+          "lb": "Fotoe maachen",
+          "fr": "prendre des photos"
+        },
+        {
+          "lb": "an d'Disco goen",
+          "fr": "aller en discothèque"
+        },
+        {
+          "lb": "eng Visite guidée",
+          "fr": "une visite guidée"
+        },
+        {
+          "lb": "reesen",
+          "fr": "voyager"
+        },
+        {
+          "lb": "d'Famill besichen",
+          "fr": "rendre visite à la famille"
+        },
+        {
+          "lb": "op d'Plage goen",
+          "fr": "aller à la plage"
+        },
+        {
+          "lb": "bei e Séi goen",
+          "fr": "aller au bord d'un lac"
+        },
+        {
+          "lb": "kucke goen",
+          "fr": "aller voir"
+        },
+        {
+          "lb": "de Reen",
+          "fr": "la pluie"
+        },
+        {
+          "lb": "vill Leit",
+          "fr": "beaucoup de monde"
+        },
+        {
+          "lb": "langweileg",
+          "fr": "ennuyeux"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéi war Är Vakanz?",
+          "fr": "Comment se sont passées vos vacances ?"
+        },
+        {
+          "lb": "D'Wieder war immens.",
+          "fr": "Le temps était formidable."
+        },
+        {
+          "lb": "Mir sinn op d'Plage gaangen.",
+          "fr": "Nous sommes allés à la plage."
+        },
+        {
+          "lb": "Hues du Fotoe gemaach?",
+          "fr": "As-tu pris des photos ?"
+        },
+        {
+          "lb": "Ech hunn e Souvenir matbruecht.",
+          "fr": "J'ai rapporté un souvenir."
+        },
+        {
+          "lb": "Si hu vill Leit kennegeléiert.",
+          "fr": "Ils ont fait connaissance avec beaucoup de gens."
+        },
+        {
+          "lb": "Um Camping war et flott.",
+          "fr": "Au camping, c'était chouette."
+        },
+        {
+          "lb": "Et huet vill gereent.",
+          "fr": "Il a beaucoup plu."
+        },
+        {
+          "lb": "Mir sinn an d'Disco gaangen.",
+          "fr": "Nous sommes allés en discothèque."
+        },
+        {
+          "lb": "Ech hunn d'Famill besicht.",
+          "fr": "J'ai rendu visite à la famille."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng E-Mail vun der Lena",
+          "text": "Salut Nora,\n\nech sinn zanter gëschter nees doheem. Eis Vakanz um Stauséi war wierklech flott. Mir hunn an engem klenge Chalet geschlof. Moies si mir schwamme gaangen, an nomëttes hu mir Fotoe vum Séi gemaach. De Weekend huet et vill gereent, dofir si mir op eng Visite guidée an d'Buerg gaangen. Mäi Brudder Tom huet e Souvenir fir d'Bomi matbruecht. Ech hu vill Leit kennegeléiert, mä an d'Disco si mir net gaangen. Owes hu mir zesumme gekacht.\n\nBis geschwënn,\nLena",
+          "textFr": "Salut Nora,\n\nje suis de nouveau à la maison depuis hier. Nos vacances au lac de la Haute-Sûre étaient vraiment chouettes. Nous avons dormi dans un petit chalet. Le matin, nous sommes allés nager, et l'après-midi nous avons pris des photos du lac. Le week-end, il a beaucoup plu, c'est pourquoi nous sommes allés faire une visite guidée du château fort. Mon frère Tom a rapporté un souvenir pour mamie. J'ai fait connaissance avec beaucoup de gens, mais nous ne sommes pas allés en discothèque. Le soir, nous avons cuisiné ensemble.\n\nÀ bientôt,\nLena",
+          "questions": [
+            {
+              "lb": "D'Lena ass nees doheem.",
+              "fr": "Lena est de nouveau à la maison.",
+              "answer": true
+            },
+            {
+              "lb": "Si hunn am Hotel geschlof.",
+              "fr": "Ils ont dormi à l'hôtel.",
+              "answer": false
+            },
+            {
+              "lb": "Um Weekend war et naass.",
+              "fr": "Le week-end, le temps était humide.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tom huet näischt matbruecht.",
+              "fr": "Tom n'a rien rapporté.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Dem Jim seng Reesnotiz",
+          "text": "Dës Woch sinn ech mat menge Cousinen op Safari. Et ass waarm, mä net ze waarm. Gëschter hu mir ganz fréi Kaffi gedronk an duerno vill Déiere gesinn. Ech hunn Elefanten a vill Villercher fotograféiert, awer kee Léiw. Owes hu mir um Camping giess. Nom Iessen hu mir Musek gelauschtert. D'Leit hei si sympathesch, an ech ameséiere mech immens. Muer fuere mir bei e Séi, well de Guide eng kleng Bootstour geplangt huet. Ech brénge menger Schwëster e klengen Souvenir mat.",
+          "textFr": "Cette semaine, je suis en safari avec mes cousines. Il fait chaud, mais pas trop chaud. Hier, nous avons bu du café très tôt, puis nous avons vu beaucoup d'animaux. J'ai photographié des éléphants et beaucoup d'oiseaux, mais pas de lion. Le soir, nous avons mangé au camping. Après le repas, nous avons écouté de la musique. Les gens ici sont sympathiques et je m'amuse énormément. Demain, nous allons au bord d'un lac, parce que le guide a prévu une petite excursion en bateau. Je rapporte un petit souvenir à ma sœur.",
+          "questions": [
+            {
+              "lb": "De Jim reest mat senge Cousinen.",
+              "fr": "Jim voyage avec ses cousines.",
+              "answer": true
+            },
+            {
+              "lb": "Hien huet e Léiw fotograféiert.",
+              "fr": "Il a photographié un lion.",
+              "answer": false
+            },
+            {
+              "lb": "Owes hu si um Camping giess.",
+              "fr": "Le soir, ils ont mangé au camping.",
+              "answer": true
+            },
+            {
+              "lb": "Muer gi si op d'Plage.",
+              "fr": "Demain, ils vont à la plage.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k5-wat-hutt-dir-haut-gemaach",
+      "title": "Wat hutt Dir haut gemaach?",
+      "titleFr": "Qu'avez-vous fait aujourd'hui ?",
+      "vocab": [
+        {
+          "lb": "erwächen",
+          "fr": "se réveiller"
+        },
+        {
+          "lb": "opstoen",
+          "fr": "se lever"
+        },
+        {
+          "lb": "sech wäschen",
+          "fr": "se laver"
+        },
+        {
+          "lb": "sech undoen",
+          "fr": "s'habiller"
+        },
+        {
+          "lb": "Kaffi drénken",
+          "fr": "boire du café"
+        },
+        {
+          "lb": "op d'Aarbecht fueren",
+          "fr": "aller au travail"
+        },
+        {
+          "lb": "um Büro schaffen",
+          "fr": "travailler au bureau"
+        },
+        {
+          "lb": "d'Noriichte kucken",
+          "fr": "regarder les informations"
+        },
+        {
+          "lb": "zu Mëtteg iessen",
+          "fr": "déjeuner"
+        },
+        {
+          "lb": "heeme fueren",
+          "fr": "rentrer chez soi"
+        },
+        {
+          "lb": "aschlofen",
+          "fr": "s'endormir"
+        },
+        {
+          "lb": "schlofe goen",
+          "fr": "aller se coucher"
+        },
+        {
+          "lb": "de Bus huelen",
+          "fr": "prendre le bus"
+        },
+        {
+          "lb": "de Portefeuille verléieren",
+          "fr": "perdre le portefeuille"
+        },
+        {
+          "lb": "de Portefeuille sichen",
+          "fr": "chercher le portefeuille"
+        },
+        {
+          "lb": "d'Kaart weisen",
+          "fr": "montrer la carte"
+        },
+        {
+          "lb": "d'Rechnung bezuelen",
+          "fr": "payer l'addition"
+        },
+        {
+          "lb": "Kleeder umoossen",
+          "fr": "essayer des vêtements"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wat hutt Dir haut gemaach?",
+          "fr": "Qu'avez-vous fait aujourd'hui ?"
+        },
+        {
+          "lb": "Ech sinn um siwen Auer opgestanen.",
+          "fr": "Je me suis levé à sept heures."
+        },
+        {
+          "lb": "Si huet sech séier ugedoen.",
+          "fr": "Elle s'est habillée rapidement."
+        },
+        {
+          "lb": "Mir hunn d'Noriichte gekuckt.",
+          "fr": "Nous avons regardé les informations."
+        },
+        {
+          "lb": "De Pol ass heemgefuer.",
+          "fr": "Pol est rentré chez lui."
+        },
+        {
+          "lb": "Hues du de Bus geholl?",
+          "fr": "As-tu pris le bus ?"
+        },
+        {
+          "lb": "Ech hu mäi Portefeuille verluer.",
+          "fr": "J'ai perdu mon portefeuille."
+        },
+        {
+          "lb": "Si ass mat der Claudia iesse gaang.",
+          "fr": "Elle est allée manger avec Claudia."
+        },
+        {
+          "lb": "D'Rechnung hunn ech direkt bezuelt.",
+          "fr": "J'ai payé l'addition tout de suite."
+        },
+        {
+          "lb": "Um Büro huet hien geschafft.",
+          "fr": "Il a travaillé au bureau."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Dem Pol säin Dag",
+          "text": "Moies um Véierel vir siwen ass de Pol erwächt. Hien ass direkt opgestanen, huet sech gewäsch an huet sech séier ugedoen. Duerno huet hien an der Kichen Kaffi gedronk an eng Banann giess. Um hallwer aacht ass hien mam Bus op d'Aarbecht gefuer. Am Büro huet hien vill E-Maile geschriwwen. Mëttes huet hien mat enger Kollegin giess. Nomëttes huet hie säi Portefeuille gesicht, well en net a senger Täsch war. Zum Schluss huet hien en ënner dem Dësch fonnt. Owes huet hien d'Noriichte gekuckt.",
+          "textFr": "Le matin à sept heures moins le quart, Pol s'est réveillé. Il s'est levé tout de suite, s'est lavé et s'est habillé rapidement. Ensuite, il a bu du café dans la cuisine et mangé une banane. À sept heures et demie, il est allé au travail en bus. Au bureau, il a écrit beaucoup d'e-mails. À midi, il a mangé avec une collègue. L'après-midi, il a cherché son portefeuille, parce qu'il n'était pas dans son sac. Finalement, il l'a trouvé sous la table. Le soir, il a regardé les informations.",
+          "questions": [
+            {
+              "lb": "De Pol ass fréi erwächt.",
+              "fr": "Pol s'est réveillé tôt.",
+              "answer": true
+            },
+            {
+              "lb": "Hien ass mam Auto gefuer.",
+              "fr": "Il est parti en voiture.",
+              "answer": false
+            },
+            {
+              "lb": "Mëttes war hie mat enger Kollegin.",
+              "fr": "À midi, il était avec une collègue.",
+              "answer": true
+            },
+            {
+              "lb": "Säi Portefeuille ass verschwonnen bliwwen.",
+              "fr": "Son portefeuille est resté disparu.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "E Chat mat der Claudia",
+          "text": "Claudia: Moien Sara, bass du nach am Zentrum?\nSara: Jo, ech si grad aus engem Kleederbuttek komm. Ech hu zwou Jackette ugemooss, mä ech hunn näischt kaf.\nClaudia: Hues du d'Rechnung vum Restaurant matgeholl?\nSara: Jo, se ass a menger Täsch. Ech hunn direkt bezuelt.\nClaudia: Super. Ech hunn de Bus geholl an ech sinn elo doheem.\nSara: Ech fueren och gläich heem. Virdrun ginn ech nach an d'Apdikt, well ech mäi Rendez-vous beim Dokter muer net vergiesse wëll. Dat ass wichteg.",
+          "textFr": "Claudia : Salut Sara, es-tu encore au centre ?\nSara : Oui, je viens de sortir d'une boutique de vêtements. J'ai essayé deux vestes, mais je n'ai rien acheté.\nClaudia : As-tu emporté l'addition du restaurant ?\nSara : Oui, elle est dans mon sac. J'ai payé tout de suite.\nClaudia : Super. J'ai pris le bus et je suis maintenant à la maison.\nSara : Je rentre aussi tout de suite. Avant, je vais encore à la pharmacie, parce que je ne veux pas oublier mon rendez-vous chez le médecin demain. C'est important.",
+          "questions": [
+            {
+              "lb": "D'Sara ass nach am Zentrum.",
+              "fr": "Sara est encore au centre.",
+              "answer": true
+            },
+            {
+              "lb": "Si huet zwou Jackette kaf.",
+              "fr": "Elle a acheté deux vestes.",
+              "answer": false
+            },
+            {
+              "lb": "D'Claudia ass elo doheem.",
+              "fr": "Claudia est maintenant à la maison.",
+              "answer": true
+            },
+            {
+              "lb": "De Rendez-vous ass haut.",
+              "fr": "Le rendez-vous est aujourd'hui.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k5-wei-war-are-weekend",
+      "title": "Wéi war Äre Weekend?",
+      "titleFr": "Comment s'est passé votre week-end ?",
+      "vocab": [
+        {
+          "lb": "feieren",
+          "fr": "fêter"
+        },
+        {
+          "lb": "siche goen",
+          "fr": "aller chercher"
+        },
+        {
+          "lb": "Stress hunn",
+          "fr": "avoir du stress"
+        },
+        {
+          "lb": "an d'Ausland fueren",
+          "fr": "partir à l'étranger"
+        },
+        {
+          "lb": "Frënn besichen",
+          "fr": "rendre visite à des amis"
+        },
+        {
+          "lb": "entspanen",
+          "fr": "se détendre"
+        },
+        {
+          "lb": "flott",
+          "fr": "chouette"
+        },
+        {
+          "lb": "Ah sou!?",
+          "fr": "Ah bon !?"
+        },
+        {
+          "lb": "Oh mei!",
+          "fr": "Oh là là !"
+        },
+        {
+          "lb": "Oh wéi flott!",
+          "fr": "Oh, comme c'est chouette !"
+        },
+        {
+          "lb": "Ou!?",
+          "fr": "Quoi !?"
+        },
+        {
+          "lb": "Seriö!?",
+          "fr": "Sérieusement !?"
+        },
+        {
+          "lb": "Dat ass schued.",
+          "fr": "C'est dommage."
+        },
+        {
+          "lb": "Dat fannen ech super!",
+          "fr": "Je trouve ça super !"
+        },
+        {
+          "lb": "krank",
+          "fr": "malade"
+        },
+        {
+          "lb": "d'Gripp",
+          "fr": "la grippe"
+        },
+        {
+          "lb": "den Déierenasyl",
+          "fr": "le refuge pour animaux"
+        },
+        {
+          "lb": "spadséiere goen",
+          "fr": "aller se promener"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéi war däi Weekend?",
+          "fr": "Comment s'est passé ton week-end ?"
+        },
+        {
+          "lb": "Ech war de Weekend krank.",
+          "fr": "J'ai été malade le week-end."
+        },
+        {
+          "lb": "Ech hat d'Gripp.",
+          "fr": "J'avais la grippe."
+        },
+        {
+          "lb": "Oh mei, dat deet mer leed!",
+          "fr": "Oh là là, je suis désolé pour toi !"
+        },
+        {
+          "lb": "Samschdes si mir an de Kino gaangen.",
+          "fr": "Samedi, nous sommes allés au cinéma."
+        },
+        {
+          "lb": "E Sonndeg hu si Frënn besicht.",
+          "fr": "Dimanche, ils ont rendu visite à des amis."
+        },
+        {
+          "lb": "Hues du vill geschafft?",
+          "fr": "As-tu beaucoup travaillé ?"
+        },
+        {
+          "lb": "Dat fannen ech wierklech super!",
+          "fr": "Je trouve ça vraiment super !"
+        },
+        {
+          "lb": "Ech hat keng Zäit fir eng Paus.",
+          "fr": "Je n'avais pas le temps de faire une pause."
+        },
+        {
+          "lb": "Si ass an d'Ausland gefuer.",
+          "fr": "Elle est partie à l'étranger."
+        }
+      ],
+      "readings": [
+        {
+          "title": "E SMS-Gespréich",
+          "text": "Tom: Salut Mia, wéi war däi Weekend?\nMia: Éierlech gesot, ustrengend. Samschdes hat ech vill Stress am Café, well zwou Persoune krank waren.\nTom: Oh mei! A sonndes?\nMia: E Sonndeg sinn ech bei meng Frëndin op Tréier gefuer. Mir hunn zesumme giess an duerno e Film gekuckt.\nTom: Dat kléngt besser.\nMia: Jo, et war flott, mä ech sinn eréischt spéit heemkomm. Haut de Moien war ech midd.\nTom: Da kanns du dech haut den Owend e bëssen entspanen.\nMia: Gutt Iddi!",
+          "textFr": "Tom : Salut Mia, comment s'est passé ton week-end ?\nMia : Honnêtement, fatigant. Samedi, j'avais beaucoup de stress au café, parce que deux personnes étaient malades.\nTom : Oh là là ! Et dimanche ?\nMia : Dimanche, je suis allée chez mon amie à Trèves. Nous avons mangé ensemble puis regardé un film.\nTom : Ça a l'air mieux.\nMia : Oui, c'était chouette, mais je suis rentrée seulement tard. Ce matin, j'étais fatiguée.\nTom : Alors tu peux te détendre un peu ce soir.\nMia : Bonne idée !",
+          "questions": [
+            {
+              "lb": "D'Mia hat Samschdes vill Stress.",
+              "fr": "Mia avait beaucoup de stress samedi.",
+              "answer": true
+            },
+            {
+              "lb": "E Sonndeg war si zu Paräis.",
+              "fr": "Dimanche, elle était à Paris.",
+              "answer": false
+            },
+            {
+              "lb": "Si huet mat enger Frëndin giess.",
+              "fr": "Elle a mangé avec une amie.",
+              "answer": true
+            },
+            {
+              "lb": "D'Mia ass fréi heemkomm.",
+              "fr": "Mia est rentrée tôt.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Dem Claude säi Rapport",
+          "text": "De Claude hat dëse Weekend keng Paus. Samschdes moies huet hie seng Schwëster um Fluchhafe gesicht. Duerno ass hie mat de Kanner an d'Schwämm gaangen. Nomëttes huet hien den Auto gebotzt, well d'Famill e Sonndeg bei d'Bomi gefuer ass. Owes wollt hie relaxen, mä hien huet nach e Rapport fir de Büro geschriwwen. E Sonndeg war et méi roueg. D'Bomi huet eng grouss Zopp gekacht, an nom Iessen ass d'ganz Famill spadséiere gaangen. De Claude sot: Dat war endlech flott!",
+          "textFr": "Claude n'a pas eu de pause ce week-end. Samedi matin, il est allé chercher sa sœur à l'aéroport. Ensuite, il est allé à la piscine avec les enfants. L'après-midi, il a nettoyé la voiture, parce que la famille est allée chez mamie le dimanche. Le soir, il voulait se détendre, mais il a encore écrit un rapport pour le bureau. Le dimanche, c'était plus calme. Mamie a préparé une grande soupe, et après le repas toute la famille est allée se promener. Claude a dit : c'était enfin chouette !",
+          "questions": [
+            {
+              "lb": "De Claude war um Fluchhafen.",
+              "fr": "Claude était à l'aéroport.",
+              "answer": true
+            },
+            {
+              "lb": "Hie war eleng an der Schwämm.",
+              "fr": "Il était seul à la piscine.",
+              "answer": false
+            },
+            {
+              "lb": "D'Famill war bei der Bomi.",
+              "fr": "La famille était chez mamie.",
+              "answer": true
+            },
+            {
+              "lb": "De Rapport war scho freides fäerdeg.",
+              "fr": "Le rapport était déjà terminé vendredi.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k5-wat-maacht-dir-den-nachste-weekend",
+      "title": "Wat maacht Dir den nächste Weekend?",
+      "titleFr": "Que faites-vous le week-end prochain ?",
+      "vocab": [
+        {
+          "lb": "de Feierdag",
+          "fr": "le jour férié"
+        },
+        {
+          "lb": "d'Landschaft",
+          "fr": "le paysage"
+        },
+        {
+          "lb": "iwwernuechten",
+          "fr": "passer la nuit"
+        },
+        {
+          "lb": "d'Ausstellung",
+          "fr": "l'exposition"
+        },
+        {
+          "lb": "d'Buerg",
+          "fr": "le château fort"
+        },
+        {
+          "lb": "d'Schlass",
+          "fr": "le château"
+        },
+        {
+          "lb": "kill",
+          "fr": "frais"
+        },
+        {
+          "lb": "sonneg",
+          "fr": "ensoleillé"
+        },
+        {
+          "lb": "dréchen",
+          "fr": "sec"
+        },
+        {
+          "lb": "frëndlech",
+          "fr": "agréable"
+        },
+        {
+          "lb": "de Wand",
+          "fr": "le vent"
+        },
+        {
+          "lb": "vill um Programm hunn",
+          "fr": "avoir beaucoup au programme"
+        },
+        {
+          "lb": "den Naturpark",
+          "fr": "le parc naturel"
+        },
+        {
+          "lb": "de Camping",
+          "fr": "le camping"
+        },
+        {
+          "lb": "d'Jugendherberg",
+          "fr": "l'auberge de jeunesse"
+        },
+        {
+          "lb": "d'Meteo",
+          "fr": "la météo"
+        },
+        {
+          "lb": "de Reen",
+          "fr": "la pluie"
+        },
+        {
+          "lb": "d'Schauer",
+          "fr": "les averses"
+        },
+        {
+          "lb": "bedeeckt",
+          "fr": "couvert"
+        },
+        {
+          "lb": "d'Trëppeltour",
+          "fr": "la randonnée"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Den nächste Méindeg ass Feierdag.",
+          "fr": "Lundi prochain est férié."
+        },
+        {
+          "lb": "Mir maachen eng Trëppeltour am Mëllerdall.",
+          "fr": "Nous faisons une randonnée au Mullerthal."
+        },
+        {
+          "lb": "Iwwernuechte mir zu Veianen?",
+          "fr": "Passons-nous la nuit à Vianden ?"
+        },
+        {
+          "lb": "Et bleift dréchen a frëndlech.",
+          "fr": "Le temps reste sec et agréable."
+        },
+        {
+          "lb": "Samschdes reent et am ganze Land.",
+          "fr": "Samedi, il pleut dans tout le pays."
+        },
+        {
+          "lb": "De Wand bléist staark.",
+          "fr": "Le vent souffle fort."
+        },
+        {
+          "lb": "Kucke mir emol d'Meteo.",
+          "fr": "Regardons un peu la météo."
+        },
+        {
+          "lb": "Mir kënnen op de Stauséi fueren.",
+          "fr": "Nous pouvons aller au lac de la Haute-Sûre."
+        },
+        {
+          "lb": "Wann et reent, bleiwe mir doheem.",
+          "fr": "S'il pleut, nous restons à la maison."
+        },
+        {
+          "lb": "E Sonndeg kréie mir vill Sonn.",
+          "fr": "Dimanche, nous aurons beaucoup de soleil."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Plang fir de Weekend",
+          "text": "Moien Ben,\n\nden nächste Méindeg ass Feierdag, also hu mir e laange Weekend. Ech wëll samschdes an de Mëllerdall fueren an eng kleng Trëppeltour maachen. D'Wieder soll dréchen a frëndlech bleiwen. Owes kënne mir an der Jugendherberg zu Iechternach iwwernuechten. E Sonndeg hätte mir Zäit fir d'Buerg zu Beefort ze kucken. Wann et awer reent, fuere mir léiwer op Lëtzebuerg an eng Ausstellung. Kuck w.e.g. nach emol d'Meteo, well de Wand um Sonndeg méi staark gëtt. Dat gëtt bestëmmt flott.\n\nAnna",
+          "textFr": "Salut Ben,\n\nlundi prochain est férié, donc nous avons un long week-end. Je veux aller au Mullerthal samedi et faire une petite randonnée. Le temps devrait rester sec et agréable. Le soir, nous pouvons passer la nuit à l'auberge de jeunesse à Echternach. Dimanche, nous aurions le temps de visiter le château fort de Beaufort. Mais s'il pleut, nous préférerons aller à Luxembourg voir une exposition. Regarde encore la météo s'il te plaît, car le vent devient plus fort dimanche. Ce sera sûrement chouette.\n\nAnna",
+          "questions": [
+            {
+              "lb": "De Weekend ass dës Kéier laang.",
+              "fr": "Le week-end est long cette fois.",
+              "answer": true
+            },
+            {
+              "lb": "Si schlofen um Camping.",
+              "fr": "Ils dorment au camping.",
+              "answer": false
+            },
+            {
+              "lb": "E Sonndeg ass Beefort méiglech.",
+              "fr": "Dimanche, Beaufort est possible.",
+              "answer": true
+            },
+            {
+              "lb": "De Wand gëtt samschdes méi staark.",
+              "fr": "Le vent devient plus fort samedi.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "D'Meteo vum Radio",
+          "text": "Haut gëtt et zu Lëtzebuerg vill Sonn. Am Nomëtteg kënnen e puer Wolleke kommen, mä et bleift dréchen. D'Temperature leien tëscht 22 a 24 Grad. Muer ass d'Wieder méi onbestänneg. Moies ass et nach frëndlech, duerno kommen am Süden déi éischt Schaueren. Samschdes reent et an der Nuecht am ganze Land, an de Wand bléist staark. E Sonndeg gëtt et méi kill. Mir kréien nach Wolleken, mä de Reen hält op. Fir eng kleng Trëppeltour ass de Sonndeg am beschten.",
+          "textFr": "Aujourd'hui, il y a beaucoup de soleil au Luxembourg. L'après-midi, quelques nuages peuvent arriver, mais le temps reste sec. Les températures se situent entre 22 et 24 degrés. Demain, le temps est plus instable. Le matin, il fait encore agréable, ensuite les premières averses arrivent dans le sud. Samedi, il pleut pendant la nuit dans tout le pays, et le vent souffle fort. Dimanche, il fera plus frais. Nous aurons encore des nuages, mais la pluie s'arrête. Pour une petite randonnée, dimanche est le meilleur jour.",
+          "questions": [
+            {
+              "lb": "Haut ass et zu Lëtzebuerg sonneg.",
+              "fr": "Aujourd'hui, il y a du soleil au Luxembourg.",
+              "answer": true
+            },
+            {
+              "lb": "Muer reent et scho moies.",
+              "fr": "Demain, il pleut déjà le matin.",
+              "answer": false
+            },
+            {
+              "lb": "Samschdes an der Nuecht reent et iwwerall.",
+              "fr": "Dans la nuit de samedi, il pleut partout.",
+              "answer": true
+            },
+            {
+              "lb": "De Sonndeg ass schlecht fir eng Trëppeltour.",
+              "fr": "Le dimanche est mauvais pour une randonnée.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k5-zukunftsplang",
+      "title": "Zukunftspläng",
+      "titleFr": "Projets d'avenir",
+      "vocab": [
+        {
+          "lb": "sech freeën",
+          "fr": "se réjouir"
+        },
+        {
+          "lb": "eng Aarbecht fannen",
+          "fr": "trouver un travail"
+        },
+        {
+          "lb": "sech weiderbilden",
+          "fr": "se former"
+        },
+        {
+          "lb": "Carrière maachen",
+          "fr": "faire carrière"
+        },
+        {
+          "lb": "sech froen",
+          "fr": "se demander"
+        },
+        {
+          "lb": "Sue verdéngen",
+          "fr": "gagner de l'argent"
+        },
+        {
+          "lb": "sech bestueden",
+          "fr": "se marier"
+        },
+        {
+          "lb": "de Sproochentest maachen",
+          "fr": "passer le test de langue"
+        },
+        {
+          "lb": "Lëtzebuerger ginn",
+          "fr": "devenir Luxembourgeois"
+        },
+        {
+          "lb": "hoffen",
+          "fr": "espérer"
+        },
+        {
+          "lb": "hoffentlech",
+          "fr": "espérons que"
+        },
+        {
+          "lb": "den Diplom",
+          "fr": "le diplôme"
+        },
+        {
+          "lb": "d'Promotioun",
+          "fr": "la promotion"
+        },
+        {
+          "lb": "de Patron",
+          "fr": "le patron"
+        },
+        {
+          "lb": "d'Firma",
+          "fr": "l'entreprise"
+        },
+        {
+          "lb": "de Projet",
+          "fr": "le projet"
+        },
+        {
+          "lb": "d'Crèche",
+          "fr": "la crèche"
+        },
+        {
+          "lb": "d'Kanner",
+          "fr": "les enfants"
+        },
+        {
+          "lb": "an zéng Joer",
+          "fr": "dans dix ans"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech hoffen op eng Promotioun.",
+          "fr": "J'espère obtenir une promotion."
+        },
+        {
+          "lb": "Hoffentlech fannen ech eng Aarbecht.",
+          "fr": "Avec un peu de chance, je trouve un travail."
+        },
+        {
+          "lb": "Si wëll Carrière maachen.",
+          "fr": "Elle veut faire carrière."
+        },
+        {
+          "lb": "Mir wëllen eis bestueden.",
+          "fr": "Nous voulons nous marier."
+        },
+        {
+          "lb": "Ech maachen de Sproochentest am Summer.",
+          "fr": "Je passe le test de langue en été."
+        },
+        {
+          "lb": "An zéng Joer kafen ech en Haus.",
+          "fr": "Dans dix ans, j'achète une maison."
+        },
+        {
+          "lb": "Ech géing gär Lëtzebuerger ginn.",
+          "fr": "J'aimerais devenir Luxembourgeois."
+        },
+        {
+          "lb": "Si wëll sech weiderbilden.",
+          "fr": "Elle veut se former."
+        },
+        {
+          "lb": "Mir plangen eng grouss Rees.",
+          "fr": "Nous planifions un grand voyage."
+        },
+        {
+          "lb": "Wat sinn deng Pläng?",
+          "fr": "Quels sont tes projets ?"
+        }
+      ],
+      "readings": [
+        {
+          "title": "No der Formatioun",
+          "text": "D'Damaris huet hiren Diplom vun der Weiderbildung kritt. Si ass frou, mä elo wëll si net direkt schaffen. Fir d'éischt mécht si zwee Méint Vakanz. Duerno sicht si eng Aarbecht an enger klenger Firma. Si hofft op en interessante Job, well si vill mat Leit schwätze wëll. Den Ed muss nächste Méindeg schonn ufänken ze schaffen. Hie wëll sech awer weiderbilden an owes en Informatikcours maachen. Dat mécht him Freed. Béid wëllen an zéng Joer nach zu Lëtzebuerg wunnen.",
+          "textFr": "Damaris a reçu son diplôme de formation continue. Elle est contente, mais maintenant elle ne veut pas travailler tout de suite. D'abord, elle prend deux mois de vacances. Ensuite, elle cherche un travail dans une petite entreprise. Elle espère un poste intéressant, parce qu'elle veut beaucoup parler avec les gens. Ed doit déjà commencer à travailler lundi prochain. Cependant, il veut se former et suivre un cours d'informatique le soir. Cela lui fait plaisir. Tous les deux veulent encore habiter au Luxembourg dans dix ans.",
+          "questions": [
+            {
+              "lb": "D'Damaris krut en Diplom.",
+              "fr": "Damaris a reçu un diplôme.",
+              "answer": true
+            },
+            {
+              "lb": "Si fänkt muer direkt un.",
+              "fr": "Elle commence directement demain.",
+              "answer": false
+            },
+            {
+              "lb": "Den Ed wëll owes léieren.",
+              "fr": "Ed veut apprendre le soir.",
+              "answer": true
+            },
+            {
+              "lb": "Béid plangen an d'Ausland ze goen.",
+              "fr": "Tous les deux prévoient d'aller à l'étranger.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Op der Bänk",
+          "text": "Anna: Frees du dech heiansdo, wat mir an zéng Joer maachen?\nAndré: Jo. Ech wëll genuch Sue verdéngen an en Appartement an der Stad kafen.\nAnna: Ech denken éischter un d'Famill. Ech géing gär zwee Kanner kréien.\nAndré: Dat wëll ech och, mä fir d'éischt wëll ech Carrière maachen.\nAnna: Ech plangen de Sproochentest den nächste Summer.\nAndré: Gutt Iddi. Wann alles klappt, kënne mir Lëtzebuerger ginn.\nAnna: An duerno bestuede mir eis?\nAndré: Jo, awer net an der grousser Kierch.",
+          "textFr": "Anna : Te demandes-tu parfois ce que nous ferons dans dix ans ?\nAndré : Oui. Je veux gagner assez d'argent et acheter un appartement en ville.\nAnna : Je pense plutôt à la famille. J'aimerais avoir deux enfants.\nAndré : Je le veux aussi, mais d'abord je veux faire carrière.\nAnna : Je prévois le test de langue l'été prochain.\nAndré : Bonne idée. Si tout marche, nous pouvons devenir Luxembourgeois.\nAnna : Et ensuite nous nous marions ?\nAndré : Oui, mais pas dans la grande église.",
+          "questions": [
+            {
+              "lb": "Den André wëll en Appartement kafen.",
+              "fr": "André veut acheter un appartement.",
+              "answer": true
+            },
+            {
+              "lb": "D'Anna wëll dräi Kanner.",
+              "fr": "Anna veut trois enfants.",
+              "answer": false
+            },
+            {
+              "lb": "De Sproochentest ass fir de Summer geplangt.",
+              "fr": "Le test de langue est prévu pour l'été.",
+              "answer": true
+            },
+            {
+              "lb": "Si wëllen sech an enger grousser Kierch bestueden.",
+              "fr": "Ils veulent se marier dans une grande église.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k5-dat-ass-dliewen",
+      "title": "Dat ass d'Liewen!",
+      "titleFr": "C'est la vie !",
+      "vocab": [
+        {
+          "lb": "d'Emissioun",
+          "fr": "l'émission"
+        },
+        {
+          "lb": "d'Migratioun",
+          "fr": "la migration"
+        },
+        {
+          "lb": "de Gaascht",
+          "fr": "l'invité"
+        },
+        {
+          "lb": "d'Famill",
+          "fr": "la famille"
+        },
+        {
+          "lb": "de Krich",
+          "fr": "la guerre"
+        },
+        {
+          "lb": "nokommen",
+          "fr": "rejoindre plus tard"
+        },
+        {
+          "lb": "d'Formatioun",
+          "fr": "la formation"
+        },
+        {
+          "lb": "de Linguist",
+          "fr": "le linguiste"
+        },
+        {
+          "lb": "kennen léieren",
+          "fr": "faire connaissance"
+        },
+        {
+          "lb": "d'Carte de séjour",
+          "fr": "le titre de séjour"
+        },
+        {
+          "lb": "eng Sprooch léieren",
+          "fr": "apprendre une langue"
+        },
+        {
+          "lb": "sech integréieren",
+          "fr": "s'intégrer"
+        },
+        {
+          "lb": "de Ministère",
+          "fr": "le ministère"
+        },
+        {
+          "lb": "den Owendcours",
+          "fr": "le cours du soir"
+        },
+        {
+          "lb": "d'Autorisatioun",
+          "fr": "l'autorisation"
+        },
+        {
+          "lb": "de Foyer",
+          "fr": "le foyer"
+        },
+        {
+          "lb": "sech engagéieren",
+          "fr": "s'engager"
+        },
+        {
+          "lb": "politesch",
+          "fr": "politique"
+        },
+        {
+          "lb": "schwéier",
+          "fr": "difficile"
+        },
+        {
+          "lb": "motivéiert",
+          "fr": "motivé"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Dat ass d'Liewen!",
+          "fr": "C'est la vie !"
+        },
+        {
+          "lb": "D'Madame Costa kënnt aus Brasilien.",
+          "fr": "Madame Costa vient du Brésil."
+        },
+        {
+          "lb": "Si lieft zënter 12 Joer hei.",
+          "fr": "Elle vit ici depuis douze ans."
+        },
+        {
+          "lb": "Hien huet seng Fra kennegeléiert.",
+          "fr": "Il a fait connaissance avec sa femme."
+        },
+        {
+          "lb": "Meng Kanner léieren dräi Sproochen.",
+          "fr": "Mes enfants apprennent trois langues."
+        },
+        {
+          "lb": "Ech sinn an en Owendcours gaangen.",
+          "fr": "Je suis allé à un cours du soir."
+        },
+        {
+          "lb": "Fir mech war et schwéier.",
+          "fr": "Pour moi, c'était difficile."
+        },
+        {
+          "lb": "Mir wëllen eng Sproocheschoul opmaachen.",
+          "fr": "Nous voulons ouvrir une école de langues."
+        },
+        {
+          "lb": "Hie war am Ufank Garçon.",
+          "fr": "Il était serveur au début."
+        },
+        {
+          "lb": "Si géing sech politesch engagéieren.",
+          "fr": "Elle aimerait s'engager politiquement."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Am Radio",
+          "text": "Speakerin: Gudden Owend a wëllkomm bei Dat ass d'Liewen. Haut schwätze mir iwwer Migratioun.\nMadame Costa: Ech sinn virun zwielef Joer op Lëtzebuerg komm. Am Ufank war et schwéier, well ech keng Sprooch gutt geschwat hunn.\nSpeakerin: Wéi hutt Dir Lëtzebuergesch geléiert?\nMadame Costa: Ech sinn all Méindeg an en Owendcours gaangen. Meng Nopesch huet vill mat mir geschwat. Haut schaffen ech an enger Schoul, a meng Kanner schwätzen dräi Sproochen.\nSpeakerin: Dat ass eng flott Geschicht.\nMadame Costa: Jo, ech si frou, datt mir hei eist Liewen opgebaut hunn.",
+          "textFr": "Présentatrice : Bonsoir et bienvenue dans C'est la vie. Aujourd'hui, nous parlons de migration.\nMadame Costa : Je suis arrivée au Luxembourg il y a douze ans. Au début, c'était difficile, parce que je ne parlais bien aucune langue.\nPrésentatrice : Comment avez-vous appris le luxembourgeois ?\nMadame Costa : Je suis allée à un cours du soir tous les lundis. Ma voisine a beaucoup parlé avec moi. Aujourd'hui, je travaille dans une école, et mes enfants parlent trois langues.\nPrésentatrice : C'est une belle histoire.\nMadame Costa : Oui, je suis contente que nous ayons construit notre vie ici.",
+          "questions": [
+            {
+              "lb": "D'Madame Costa ass virun 12 Joer komm.",
+              "fr": "Madame Costa est arrivée il y a douze ans.",
+              "answer": true
+            },
+            {
+              "lb": "Si huet am Ufank vill Sprooche geschwat.",
+              "fr": "Au début, elle parlait beaucoup de langues.",
+              "answer": false
+            },
+            {
+              "lb": "Méindes hat si e Cours.",
+              "fr": "Le lundi, elle avait un cours.",
+              "answer": true
+            },
+            {
+              "lb": "Hir Kanner schwätzen nëmmen eng Sprooch.",
+              "fr": "Ses enfants ne parlent qu'une langue.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Portrait vum Rafael",
+          "text": "De Rafael kënnt aus Brasilien. Hie war 19 Joer al, wéi hien an Europa komm ass. Fir d'éischt huet hien zu Porto geschafft. Do huet hien d'Lea kennegeléiert. Si ass Lëtzebuergerin a war just an der Vakanz. No engem Joer si si zesummen op Lëtzebuerg geplënnert. De Rafael huet am Ufank Engleschcourse ginn, mä hien huet och Lëtzebuergesch geléiert, well hie mat der Famill vu senger Fra schwätze wollt. Elo wëll hien eng kleng Sproocheschoul opmaachen. Hie waart nach op d'Autorisatioun vum Ministère.",
+          "textFr": "Rafael vient du Brésil. Il avait 19 ans quand il est arrivé en Europe. D'abord, il a travaillé à Porto. C'est là qu'il a fait la connaissance de Lea. Elle est Luxembourgeoise et était simplement en vacances. Après un an, ils ont déménagé ensemble au Luxembourg. Au début, Rafael a donné des cours d'anglais, mais il a aussi appris le luxembourgeois parce qu'il voulait parler avec la famille de sa femme. Maintenant, il veut ouvrir une petite école de langues. Il attend encore l'autorisation du ministère.",
+          "questions": [
+            {
+              "lb": "De Rafael ass Brasilianer.",
+              "fr": "Rafael est Brésilien.",
+              "answer": true
+            },
+            {
+              "lb": "Hien huet d'Lea zu Lëtzebuerg kennegeléiert.",
+              "fr": "Il a fait connaissance avec Lea au Luxembourg.",
+              "answer": false
+            },
+            {
+              "lb": "Hien huet Lëtzebuergesch fir d'Famill geléiert.",
+              "fr": "Il a appris le luxembourgeois pour la famille.",
+              "answer": true
+            },
+            {
+              "lb": "D'Sproocheschoul ass schonn op.",
+              "fr": "L'école de langues est déjà ouverte.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k5-land-a-leit-vakanz-zu-letzebuerg",
+      "title": "Land a Leit: Vakanz zu Lëtzebuerg",
+      "titleFr": "Pays et gens : vacances au Luxembourg",
+      "vocab": [
+        {
+          "lb": "d'Vakanz zu Lëtzebuerg",
+          "fr": "les vacances au Luxembourg"
+        },
+        {
+          "lb": "d'Buerg",
+          "fr": "le château fort"
+        },
+        {
+          "lb": "d'Schlass",
+          "fr": "le château"
+        },
+        {
+          "lb": "d'Festungsruin",
+          "fr": "la ruine de forteresse"
+        },
+        {
+          "lb": "d'Attraktioun",
+          "fr": "l'attraction"
+        },
+        {
+          "lb": "d'Fotoausstellung",
+          "fr": "l'exposition de photos"
+        },
+        {
+          "lb": "d'Mëttelalterfest",
+          "fr": "la fête médiévale"
+        },
+        {
+          "lb": "d'Trëppeltour",
+          "fr": "la randonnée"
+        },
+        {
+          "lb": "de Vëloswee",
+          "fr": "la piste cyclable"
+        },
+        {
+          "lb": "mam Vëlo",
+          "fr": "à vélo"
+        },
+        {
+          "lb": "d'Streck",
+          "fr": "le trajet"
+        },
+        {
+          "lb": "den Tunnel",
+          "fr": "le tunnel"
+        },
+        {
+          "lb": "biergop",
+          "fr": "en montée"
+        },
+        {
+          "lb": "biergof",
+          "fr": "en descente"
+        },
+        {
+          "lb": "d'Grenz",
+          "fr": "la frontière"
+        },
+        {
+          "lb": "de Floss",
+          "fr": "la rivière"
+        },
+        {
+          "lb": "de Panneau",
+          "fr": "le panneau"
+        },
+        {
+          "lb": "de Militärmusée",
+          "fr": "le musée militaire"
+        },
+        {
+          "lb": "den Dagesausfluch",
+          "fr": "l'excursion d'une journée"
+        },
+        {
+          "lb": "d'Statioun",
+          "fr": "l'étape"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Lëtzebuerg huet vill Buergen.",
+          "fr": "Le Luxembourg a beaucoup de châteaux forts."
+        },
+        {
+          "lb": "Déi schéinste Schlässer stinn zu Veianen.",
+          "fr": "Les plus beaux châteaux se trouvent à Vianden."
+        },
+        {
+          "lb": "Mir maachen en Dagesausfluch.",
+          "fr": "Nous faisons une excursion d'une journée."
+        },
+        {
+          "lb": "De Vëloswee ass bal 60 Kilometer.",
+          "fr": "La piste cyclable fait presque 60 kilomètres."
+        },
+        {
+          "lb": "D'Streck ass net ze schwéier.",
+          "fr": "Le trajet n'est pas trop difficile."
+        },
+        {
+          "lb": "Am Tunnel ass et schéi kill.",
+          "fr": "Dans le tunnel, il fait agréablement frais."
+        },
+        {
+          "lb": "Mir fuere mam Vëlo op Ettelbréck.",
+          "fr": "Nous allons à vélo à Ettelbruck."
+        },
+        {
+          "lb": "Zu Klierf ass eng Fotoausstellung.",
+          "fr": "À Clervaux, il y a une exposition de photos."
+        },
+        {
+          "lb": "De Wee geet duerch Bëscher.",
+          "fr": "Le chemin passe par des forêts."
+        },
+        {
+          "lb": "Wat wëllt Dir kucke goen?",
+          "fr": "Que voulez-vous aller voir ?"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Programm fir Gäscht",
+          "text": "Moies fuere mir mam Zuch op Klierf. Do kucke mir d'Fotoausstellung am Schlass an drénken e Kaffi am Zentrum. Duerno geet den Tour weider op Veianen. Mir besichen d'Buerg an iessen eng kleng Zalot op der Terrass. Nomëttes fuere mir mam Bus op Iechternach. Wann d'Wieder gutt ass, spadséiere mir laanscht d'Sauer. Um sechs Auer si mir nees zu Lëtzebuerg. Dëse Programm ass liicht, well mir nëmme kuerz Weeër zu Fouss maachen. Fir Kanner ass dat och praktesch. Et gëtt keng schwéier Trëppeltouren.",
+          "textFr": "Le matin, nous allons en train à Clervaux. Là, nous visitons l'exposition de photos au château et buvons un café au centre. Ensuite, le tour continue vers Vianden. Nous visitons le château fort et mangeons une petite salade en terrasse. L'après-midi, nous allons en bus à Echternach. Si le temps est bon, nous nous promenons le long de la Sûre. À six heures, nous sommes de nouveau à Luxembourg. Ce programme est facile, parce que nous ne faisons que de courts trajets à pied. Pour les enfants, c'est aussi pratique. Il n'y a pas de randonnées difficiles.",
+          "questions": [
+            {
+              "lb": "De Grupp fiert mam Zuch op Klierf.",
+              "fr": "Le groupe va en train à Clervaux.",
+              "answer": true
+            },
+            {
+              "lb": "Mëttes iessen si zu Iechternach.",
+              "fr": "À midi, ils mangent à Echternach.",
+              "answer": false
+            },
+            {
+              "lb": "Bei guddem Wieder gi si spadséieren.",
+              "fr": "Par beau temps, ils vont se promener.",
+              "answer": true
+            },
+            {
+              "lb": "Si komme géint aacht Auer zeréck.",
+              "fr": "Ils reviennent vers huit heures.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "D'Attertlinn mam Vëlo",
+          "text": "Dëse Vëloswee ass bal 60 Kilometer laang. Hie fänkt bei Péiteng un a geet iwwer Useldeng bis op Ettelbréck. D'Streck leeft deelweis laanscht déi al Schinnen an duerch roueg Bëscher. Et geet e puer Mol biergop a biergof, mä de Wee ass net ze schwéier. Am Summer ass den Tunnel virun Äischen agreabel, well et do schéin kill ass. Ënnerwee gesäit een al Garehaisercher an informativ Panneauen. Vill Famille maachen nëmmen e klengt Stéck, zum Beispill vu Colmer-Bierg op Useldeng.",
+          "textFr": "Cette piste cyclable fait presque 60 kilomètres de long. Elle commence près de Pétange et passe par Useldange jusqu'à Ettelbruck. Le trajet longe en partie les anciennes voies ferrées et traverse des forêts calmes. Cela monte et descend plusieurs fois, mais le chemin n'est pas trop difficile. En été, le tunnel avant Eischen est agréable parce qu'il y fait bien frais. En chemin, on voit d'anciennes petites gares et des panneaux informatifs. Beaucoup de familles ne font qu'un petit morceau, par exemple de Colmar-Berg à Useldange.",
+          "questions": [
+            {
+              "lb": "D'Attertlinn ass bal 60 Kilometer.",
+              "fr": "L'Attertlinn fait presque 60 kilomètres.",
+              "answer": true
+            },
+            {
+              "lb": "De Vëloswee fänkt zu Ettelbréck un.",
+              "fr": "La piste cyclable commence à Ettelbruck.",
+              "answer": false
+            },
+            {
+              "lb": "Am Tunnel ass et am Summer kill.",
+              "fr": "Dans le tunnel, il fait frais en été.",
+              "answer": true
+            },
+            {
+              "lb": "Famille mussen déi ganz Streck fueren.",
+              "fr": "Les familles doivent faire tout le trajet.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

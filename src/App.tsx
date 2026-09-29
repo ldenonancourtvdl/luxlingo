@@ -3,19 +3,21 @@ import { ChapterView } from './components/ChapterView'
 import { HomeView } from './components/HomeView'
 import { ResultsView } from './components/ResultsView'
 import { type ExerciseResult, SessionView } from './components/SessionView'
-import { chapters, getChapter } from './data'
+import { VerbsView } from './components/VerbsView'
+import { getChapter, levels, verbs } from './data'
 import type { Theme } from './data/types'
 import { buildSession, type Exercise, reshuffle } from './lib/exercises'
 
 interface Origin {
-  chapterId: number
+  chapterKey: string
   themes: Theme[]
   title: string
 }
 
 type Screen =
   | { name: 'home' }
-  | { name: 'chapter'; chapterId: number }
+  | { name: 'verbs' }
+  | { name: 'chapter'; chapterKey: string }
   | { name: 'session'; origin: Origin; title: string; exercises: Exercise[]; run: number }
   | { name: 'results'; origin: Origin; title: string; results: ExerciseResult[] }
 
@@ -28,30 +30,34 @@ export default function App() {
     window.scrollTo(0, 0)
   }, [screen])
 
-  const openChapter = (chapterId: number) => setScreen({ name: 'chapter', chapterId })
+  const openChapter = (chapterKey: string) => setScreen({ name: 'chapter', chapterKey })
+  const home = <HomeView levels={levels} onOpen={openChapter} onOpenVerbs={() => setScreen({ name: 'verbs' })} />
 
   const startSession = (origin: Origin) => {
-    const context = getChapter(origin.chapterId)?.themes ?? origin.themes
+    const context = getChapter(origin.chapterKey)?.themes ?? origin.themes
     const exercises = buildSession(origin.themes, context)
     setScreen({ name: 'session', origin, title: origin.title, exercises, run: ++runCounter })
   }
 
   switch (screen.name) {
     case 'home':
-      return <HomeView chapters={chapters} onOpen={openChapter} />
+      return home
+
+    case 'verbs':
+      return <VerbsView verbs={verbs} onBack={() => setScreen({ name: 'home' })} />
 
     case 'chapter': {
-      const chapter = getChapter(screen.chapterId)
-      if (!chapter) return <HomeView chapters={chapters} onOpen={openChapter} />
+      const chapter = getChapter(screen.chapterKey)
+      if (!chapter) return home
       return (
         <ChapterView
           chapter={chapter}
           onBack={() => setScreen({ name: 'home' })}
           onStart={(themes) =>
             startSession({
-              chapterId: chapter.id,
+              chapterKey: chapter.key,
               themes,
-              title: themes.length === 1 ? themes[0].title : `Kapitel ${chapter.id} – ${chapter.title}`,
+              title: themes.length === 1 ? themes[0].title : `${chapter.level} · Kapitel ${chapter.id} – ${chapter.title}`,
             })
           }
         />
@@ -64,7 +70,7 @@ export default function App() {
           key={screen.run}
           title={screen.title}
           exercises={screen.exercises}
-          onQuit={() => openChapter(screen.origin.chapterId)}
+          onQuit={() => openChapter(screen.origin.chapterKey)}
           onFinish={(results) => setScreen({ name: 'results', origin: screen.origin, title: screen.title, results })}
         />
       )
@@ -84,7 +90,7 @@ export default function App() {
             })
           }
           onNewSession={() => startSession(screen.origin)}
-          onBack={() => openChapter(screen.origin.chapterId)}
+          onBack={() => openChapter(screen.origin.chapterKey)}
         />
       )
   }

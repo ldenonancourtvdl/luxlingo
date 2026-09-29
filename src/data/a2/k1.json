@@ -1,0 +1,1481 @@
+{
+  "id": 1,
+  "title": "Weeër an der Stad",
+  "titleFr": "Itinéraires en ville",
+  "descriptionFr": "Vous apprenez à demander votre chemin, parler des transports, réserver une table, commander et indiquer des horaires.",
+  "page": 8,
+  "themes": [
+    {
+      "id": "a2-k1-an-der-akafsstrooss",
+      "title": "An der Akafsstrooss",
+      "titleFr": "Dans la rue commerçante",
+      "vocab": [
+        {
+          "lb": "d'Foussgängerzon",
+          "fr": "la zone piétonne"
+        },
+        {
+          "lb": "d'Kleedergeschäft",
+          "fr": "le magasin de vêtements"
+        },
+        {
+          "lb": "d'Schonggeschäft",
+          "fr": "le magasin de chaussures"
+        },
+        {
+          "lb": "den Zeitungsbuttek",
+          "fr": "le kiosque à journaux"
+        },
+        {
+          "lb": "d'Parfumerie",
+          "fr": "la parfumerie"
+        },
+        {
+          "lb": "d'Apdikt",
+          "fr": "la pharmacie"
+        },
+        {
+          "lb": "d'Estheticienne",
+          "fr": "l'esthéticienne"
+        },
+        {
+          "lb": "d'Terrass",
+          "fr": "la terrasse"
+        },
+        {
+          "lb": "d'Bäckerei",
+          "fr": "la boulangerie"
+        },
+        {
+          "lb": "d'Post",
+          "fr": "la poste"
+        },
+        {
+          "lb": "de Bancomat",
+          "fr": "le distributeur automatique"
+        },
+        {
+          "lb": "d'Gare",
+          "fr": "la gare"
+        },
+        {
+          "lb": "vill Butteker",
+          "fr": "beaucoup de magasins"
+        },
+        {
+          "lb": "nieft der Apdikt",
+          "fr": "à côté de la pharmacie"
+        },
+        {
+          "lb": "e puer Leit",
+          "fr": "quelques personnes"
+        },
+        {
+          "lb": "Saxophon spillen",
+          "fr": "jouer du saxophone"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Mir sinn an der Foussgängerzon.",
+          "fr": "Nous sommes dans la zone piétonne."
+        },
+        {
+          "lb": "Ech gesi vill Butteker.",
+          "fr": "Je vois beaucoup de magasins."
+        },
+        {
+          "lb": "Nieft der Apdikt ass eng Estheticienne.",
+          "fr": "À côté de la pharmacie, il y a une esthéticienne."
+        },
+        {
+          "lb": "Op der Terrass drénken d'Leit Kaffi.",
+          "fr": "Les gens boivent du café sur la terrasse."
+        },
+        {
+          "lb": "De Museker spillt Saxophon.",
+          "fr": "Le musicien joue du saxophone."
+        },
+        {
+          "lb": "D'Gare ass hannert der Post.",
+          "fr": "La gare est derrière la poste."
+        },
+        {
+          "lb": "Ech kafe Brout an der Bäckerei.",
+          "fr": "J'achète du pain à la boulangerie."
+        },
+        {
+          "lb": "Et gëtt och e Bancomat.",
+          "fr": "Il y a aussi un distributeur."
+        },
+        {
+          "lb": "Wou ass d'Parfumerie?",
+          "fr": "Où est la parfumerie ?"
+        },
+        {
+          "lb": "Hanne gesi mir d'Gare.",
+          "fr": "Au fond, nous voyons la gare."
+        }
+      ],
+      "readings": [
+        {
+          "title": "E Samschdeg akafen",
+          "text": "Samschdes sinn d'Lea an de Marc an der Akafsstrooss. Et ass vill lass, mä d'Leit hu gutt Laun. Fir d'éischt gi si an d'Bäckerei, well de Marc Brout fir doheem kafe wëll. Duerno sicht d'Lea e klenge Kaddo an der Parfumerie. Op der Terrass virun engem Café drénke si e Jus. Nieft der Apdikt ass eng Estheticienne, mä d'Lea huet haut kee Rendez-vous. Beim Zeitungsbuttek keeft de Marc eng Zeitung. Hannen an der Strooss gesi si d'Gare.",
+          "textFr": "Le samedi, Lea et Marc sont dans la rue commerçante. Il y a du monde, mais les gens sont de bonne humeur. D'abord, ils vont à la boulangerie, parce que Marc veut acheter du pain pour la maison. Ensuite, Lea cherche un petit cadeau à la parfumerie. Sur la terrasse devant un café, ils boivent un jus. À côté de la pharmacie, il y a une esthéticienne, mais Lea n'a pas de rendez-vous aujourd'hui. Au kiosque à journaux, Marc achète un journal. Au fond de la rue, ils voient la gare.",
+          "questions": [
+            {
+              "lb": "D'Lea an de Marc si samschdes do.",
+              "fr": "Lea et Marc sont là le samedi.",
+              "answer": true
+            },
+            {
+              "lb": "Si kafen am Schonggeschäft Schong.",
+              "fr": "Ils achètent des chaussures au magasin de chaussures.",
+              "answer": false
+            },
+            {
+              "lb": "D'Lea huet haut e Rendez-vous.",
+              "fr": "Lea a un rendez-vous aujourd'hui.",
+              "answer": false
+            },
+            {
+              "lb": "De Marc keeft eng Zeitung.",
+              "fr": "Marc achète un journal.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "title": "Op enger Terrass",
+          "text": "Mia: Kuck, hei ass vill lass an der Foussgängerzon.\nTom: Jo, et gëtt eng Apdikt, eng Post an eng Bäckerei.\nMia: Ech brauch eng Zeitung. Ech ginn séier an den Zeitungsbuttek.\nTom: Gutt. Ech waarden op der Terrass beim Café.\nMia: Wëlls du e Kaffi?\nTom: Nee, ech huelen e Waasser. Duerno gi mir op de Bancomat, well ech Suen ophiewe muss.\nMia: An duerno?\nTom: Mir ginn net op d'Gare. Mir ginn an d'Schonggeschäft, well meng Schong al sinn.",
+          "textFr": "Mia : Regarde, il y a beaucoup d'animation ici dans la zone piétonne.\nTom : Oui, il y a une pharmacie, une poste et une boulangerie.\nMia : J'ai besoin d'un journal. Je vais vite au kiosque à journaux.\nTom : Bien. J'attends sur la terrasse du café.\nMia : Tu veux un café ?\nTom : Non, je prends une eau. Ensuite, nous allons au distributeur, parce que je dois retirer de l'argent.\nMia : Et après ?\nTom : Nous n'allons pas à la gare. Nous allons au magasin de chaussures, parce que mes chaussures sont vieilles.",
+          "questions": [
+            {
+              "lb": "D'Mia brauch eng Zeitung.",
+              "fr": "Mia a besoin d'un journal.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tom waart an der Bäckerei.",
+              "fr": "Tom attend dans la boulangerie.",
+              "answer": false
+            },
+            {
+              "lb": "Si ginn op de Bancomat.",
+              "fr": "Ils vont au distributeur.",
+              "answer": true
+            },
+            {
+              "lb": "Si fueren duerno op d'Gare.",
+              "fr": "Ils vont ensuite à la gare.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k1-op-der-gare",
+      "title": "Op der Gare",
+      "titleFr": "À la gare",
+      "vocab": [
+        {
+          "lb": "d'Gare",
+          "fr": "la gare"
+        },
+        {
+          "lb": "den Depart",
+          "fr": "le départ"
+        },
+        {
+          "lb": "de Quai",
+          "fr": "le quai"
+        },
+        {
+          "lb": "ukommen",
+          "fr": "arriver"
+        },
+        {
+          "lb": "fortfueren",
+          "fr": "partir"
+        },
+        {
+          "lb": "d'éischt Klass",
+          "fr": "la première classe"
+        },
+        {
+          "lb": "d'zweet Klass",
+          "fr": "la deuxième classe"
+        },
+        {
+          "lb": "de Billjee",
+          "fr": "le billet"
+        },
+        {
+          "lb": "den Zuch",
+          "fr": "le train"
+        },
+        {
+          "lb": "de Bus",
+          "fr": "le bus"
+        },
+        {
+          "lb": "de Busarrêt",
+          "fr": "l'arrêt de bus"
+        },
+        {
+          "lb": "de Plang",
+          "fr": "le plan"
+        },
+        {
+          "lb": "den Zentrum",
+          "fr": "le centre-ville"
+        },
+        {
+          "lb": "no lénks",
+          "fr": "à gauche"
+        },
+        {
+          "lb": "no riets",
+          "fr": "à droite"
+        },
+        {
+          "lb": "riichtaus",
+          "fr": "tout droit"
+        },
+        {
+          "lb": "d'Informatioun",
+          "fr": "l'information"
+        },
+        {
+          "lb": "d'Reeszäit",
+          "fr": "la durée du voyage"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Den Zuch fiert um Quai fënnef fort.",
+          "fr": "Le train part du quai cinq."
+        },
+        {
+          "lb": "Wéini kënnt de Bus un?",
+          "fr": "Quand le bus arrive-t-il ?"
+        },
+        {
+          "lb": "Ech hätt gär e Billjee.",
+          "fr": "Je voudrais un billet."
+        },
+        {
+          "lb": "Fuert Dir éischt Klass?",
+          "fr": "Voyagez-vous en première classe ?"
+        },
+        {
+          "lb": "D'Reeszäit ass ongeféier zwou Stonnen.",
+          "fr": "La durée du voyage est d'environ deux heures."
+        },
+        {
+          "lb": "Dir gitt eraus an dann no riets.",
+          "fr": "Vous sortez et puis vous allez à droite."
+        },
+        {
+          "lb": "Do sinn d'Busarrêten.",
+          "fr": "Les arrêts de bus sont là."
+        },
+        {
+          "lb": "Frot einfach de Buschauffeur.",
+          "fr": "Demandez simplement au chauffeur de bus."
+        },
+        {
+          "lb": "De Bus 18 fiert op Walfer.",
+          "fr": "Le bus 18 va à Walferdange."
+        },
+        {
+          "lb": "Gëtt et e Plang?",
+          "fr": "Y a-t-il un plan ?"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Um Quai fënnef",
+          "text": "Méindes moies steet de Paul op der Gare. Hie wëll op Frankfurt fueren. Säin Zuch fiert um 8:24 Auer um Quai fënnef fort an hie kënnt um 12:24 Auer un. De Paul huet e Billjee fir déi zweet Klass. Éischt Klass ass méi deier, dofir brauch hien se net. Virum Depart keeft hien e Kaffi a kuckt nach eng Kéier op de Plang. De Bus fir an den Zentrum ass virun der Gare, mä de Paul fiert haut mam Zuch.",
+          "textFr": "Le lundi matin, Paul est à la gare. Il veut aller à Francfort. Son train part à 8 h 24 du quai cinq et il arrive à 12 h 24. Paul a un billet pour la deuxième classe. La première classe est plus chère, c'est pourquoi il n'en a pas besoin. Avant le départ, il achète un café et regarde encore une fois le plan. Le bus pour le centre-ville est devant la gare, mais Paul voyage aujourd'hui en train.",
+          "questions": [
+            {
+              "lb": "De Paul wëll op Frankfurt fueren.",
+              "fr": "Paul veut aller à Francfort.",
+              "answer": true
+            },
+            {
+              "lb": "Säin Zuch fiert um Quai aacht fort.",
+              "fr": "Son train part du quai huit.",
+              "answer": false
+            },
+            {
+              "lb": "De Billjee ass fir déi zweet Klass.",
+              "fr": "Le billet est pour la deuxième classe.",
+              "answer": true
+            },
+            {
+              "lb": "De Paul fiert haut mam Bus.",
+              "fr": "Paul voyage aujourd'hui en bus.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng Fro beim Bus",
+          "text": "Tourist: Entschëllegt, wou kréien ech e Bus fir an den Zentrum?\nEmployée: Dat ass einfach. Dir gitt hei eraus an dann no riets.\nTourist: Ass de Busarrêt wäit?\nEmployée: Nee, bei der rouder Luucht gitt Dir iwwer d'Strooss. Do sinn d'Busarrêten.\nTourist: Fiert de Bus 10 op de Knuedler?\nEmployée: Nee, den 10 fiert op Stroossen. Fir de Knuedler huelt Dir de Bus 8.\nTourist: Gëtt et e Plang vun de Buslinnen?\nEmployée: Jo, hei ass en. Frot och de Buschauffeur, wann Dir net sécher sidd.",
+          "textFr": "Touriste : Excusez-moi, où puis-je prendre un bus pour le centre-ville ?\nEmployée : C'est simple. Vous sortez ici et puis vous allez à droite.\nTouriste : L'arrêt de bus est loin ?\nEmployée : Non, au feu rouge, vous traversez la rue. Les arrêts de bus sont là.\nTouriste : Le bus 10 va-t-il au Knuedler ?\nEmployée : Non, le 10 va à Strassen. Pour le Knuedler, prenez le bus 8.\nTouriste : Y a-t-il un plan des lignes de bus ?\nEmployée : Oui, le voici. Demandez aussi au chauffeur si vous n'êtes pas sûr.",
+          "questions": [
+            {
+              "lb": "Den Tourist sicht e Bus fir an den Zentrum.",
+              "fr": "Le touriste cherche un bus pour le centre-ville.",
+              "answer": true
+            },
+            {
+              "lb": "De Busarrêt ass ganz wäit.",
+              "fr": "L'arrêt de bus est très loin.",
+              "answer": false
+            },
+            {
+              "lb": "De Bus 10 fiert op de Knuedler.",
+              "fr": "Le bus 10 va au Knuedler.",
+              "answer": false
+            },
+            {
+              "lb": "D'Employée gëtt him e Plang.",
+              "fr": "L'employée lui donne un plan.",
+              "answer": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k1-an-der-stad",
+      "title": "An der Stad",
+      "titleFr": "En ville",
+      "vocab": [
+        {
+          "lb": "de Park",
+          "fr": "le parc"
+        },
+        {
+          "lb": "d'Plaz",
+          "fr": "la place"
+        },
+        {
+          "lb": "duerch de Park",
+          "fr": "à travers le parc"
+        },
+        {
+          "lb": "iwwer d'Plaz",
+          "fr": "à travers la place"
+        },
+        {
+          "lb": "laanscht d'Post",
+          "fr": "en passant devant la poste"
+        },
+        {
+          "lb": "d'Kräizung",
+          "fr": "le carrefour"
+        },
+        {
+          "lb": "den Zebrasträifen",
+          "fr": "le passage piéton"
+        },
+        {
+          "lb": "d'Strooss",
+          "fr": "la rue"
+        },
+        {
+          "lb": "op der rietser Säit",
+          "fr": "du côté droit"
+        },
+        {
+          "lb": "op der lénkser Säit",
+          "fr": "du côté gauche"
+        },
+        {
+          "lb": "erop",
+          "fr": "vers le haut"
+        },
+        {
+          "lb": "erof",
+          "fr": "vers le bas"
+        },
+        {
+          "lb": "d'Plëss",
+          "fr": "la place d'Armes"
+        },
+        {
+          "lb": "de Knuedler",
+          "fr": "la place Guillaume II"
+        },
+        {
+          "lb": "d'Alstad",
+          "fr": "la vieille ville"
+        },
+        {
+          "lb": "de Palais",
+          "fr": "le palais"
+        },
+        {
+          "lb": "d'Gëlle Fra",
+          "fr": "la Gëlle Fra"
+        },
+        {
+          "lb": "d'Rout Bréck",
+          "fr": "le pont rouge"
+        },
+        {
+          "lb": "de Mudam",
+          "fr": "le Mudam"
+        },
+        {
+          "lb": "d'Philharmonie",
+          "fr": "la Philharmonie"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Hie geet duerch de Park.",
+          "fr": "Il traverse le parc."
+        },
+        {
+          "lb": "Si geet iwwer d'Plaz.",
+          "fr": "Elle traverse la place."
+        },
+        {
+          "lb": "Du gees laanscht d'Post.",
+          "fr": "Tu passes devant la poste."
+        },
+        {
+          "lb": "Bei der Kräizung gees du no lénks.",
+          "fr": "Au carrefour, tu vas à gauche."
+        },
+        {
+          "lb": "De Palais ass op der rietser Säit.",
+          "fr": "Le palais est du côté droit."
+        },
+        {
+          "lb": "Mir ginn riichtaus op de Knuedler.",
+          "fr": "Nous allons tout droit vers le Knuedler."
+        },
+        {
+          "lb": "Wou ass de Mudam?",
+          "fr": "Où est le Mudam ?"
+        },
+        {
+          "lb": "D'Rout Bréck ass schéin.",
+          "fr": "Le pont rouge est beau."
+        },
+        {
+          "lb": "Ech erklären dir de Wee.",
+          "fr": "Je t'explique le chemin."
+        },
+        {
+          "lb": "Dir gitt de Boulevard erop.",
+          "fr": "Vous montez le boulevard."
+        }
+      ],
+      "readings": [
+        {
+          "title": "De Wee bei de Palais",
+          "text": "Tom steet virun der Post an der Stad. Hie sicht de Palais, well hie Fotoe maache wëll. Eng Fra hëlleft him. Hie soll riichtaus iwwer d'Strooss goen an da bei der zweeter Kräizung no riets. Duerno geet hien laanscht d'Bibliothéik an iwwer d'Plëss. De Palais ass net wäit; hien ass op der rietser Säit. Tom versteet de Wee gutt. Hie seet Merci a geet lues weider, well vill Leit an der Strooss sinn.",
+          "textFr": "Tom est devant la poste en ville. Il cherche le palais, parce qu'il veut prendre des photos. Une femme l'aide. Il doit aller tout droit, traverser la rue, puis tourner à droite au deuxième carrefour. Ensuite, il passe devant la bibliothèque et traverse la place d'Armes. Le palais n'est pas loin ; il est du côté droit. Tom comprend bien le chemin. Il dit merci et continue lentement, parce qu'il y a beaucoup de gens dans la rue.",
+          "questions": [
+            {
+              "lb": "Den Tom sicht de Palais.",
+              "fr": "Tom cherche le palais.",
+              "answer": true
+            },
+            {
+              "lb": "D'Fra schéckt hien direkt no lénks.",
+              "fr": "La femme l'envoie directement à gauche.",
+              "answer": false
+            },
+            {
+              "lb": "Hie geet laanscht d'Bibliothéik.",
+              "fr": "Il passe devant la bibliothèque.",
+              "answer": true
+            },
+            {
+              "lb": "De Palais ass op der lénkser Säit.",
+              "fr": "Le palais est du côté gauche.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng SMS vun der Vera",
+          "text": "Moien Sam,\n\nech kommen e bësse méi spéit. Ech war beim Mudam an ech wëll elo op de Knuedler. Ech ginn duerch de Park, duerno iwwer d'Strooss bei der Kräizung. Wann ech d'Gëlle Fra gesinn, ginn ech no lénks. Ech huelen net de Bus, well d'Wieder schéin ass. D'Philharmonie besichen ech haut net. Um Knuedler waarden ech virun dem Bierger-Center. Wann ech dech net gesinn, ruffen ech dech un.\n\nBis gläich,\nVera",
+          "textFr": "Salut Sam,\n\nj'arrive un peu plus tard. J'étais au Mudam et je veux maintenant aller au Knuedler. Je traverse le parc, puis la rue au carrefour. Quand je vois la Gëlle Fra, je vais à gauche. Je ne prends pas le bus, parce qu'il fait beau. Je ne visite pas la Philharmonie aujourd'hui. Au Knuedler, j'attends devant le Bierger-Center. Si je ne te vois pas, je t'appelle.\n\nÀ tout de suite,\nVera",
+          "questions": [
+            {
+              "lb": "D'Vera kënnt e bësse méi spéit.",
+              "fr": "Vera arrive un peu plus tard.",
+              "answer": true
+            },
+            {
+              "lb": "Si hëlt de Bus op de Knuedler.",
+              "fr": "Elle prend le bus pour aller au Knuedler.",
+              "answer": false
+            },
+            {
+              "lb": "Si waart virun dem Bierger-Center.",
+              "fr": "Elle attend devant le Bierger-Center.",
+              "answer": true
+            },
+            {
+              "lb": "Haut besicht si d'Philharmonie.",
+              "fr": "Aujourd'hui, elle visite la Philharmonie.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k1-effentlech-plazen-an-administratiounen",
+      "title": "Ëffentlech Plazen an Administratiounen",
+      "titleFr": "Lieux publics et administrations",
+      "vocab": [
+        {
+          "lb": "de Café",
+          "fr": "le café"
+        },
+        {
+          "lb": "de Blumebuttek",
+          "fr": "le fleuriste"
+        },
+        {
+          "lb": "d'Bibliothéik",
+          "fr": "la bibliothèque"
+        },
+        {
+          "lb": "d'Bank",
+          "fr": "la banque"
+        },
+        {
+          "lb": "de Bierger-Center",
+          "fr": "le centre citoyen"
+        },
+        {
+          "lb": "de Policebüro",
+          "fr": "le commissariat"
+        },
+        {
+          "lb": "d'Gemeng",
+          "fr": "la commune"
+        },
+        {
+          "lb": "de Maart",
+          "fr": "le marché"
+        },
+        {
+          "lb": "d'Tankstell",
+          "fr": "la station-service"
+        },
+        {
+          "lb": "den Touristbüro",
+          "fr": "l'office du tourisme"
+        },
+        {
+          "lb": "d'Schwämm",
+          "fr": "la piscine"
+        },
+        {
+          "lb": "d'Carte d'identité",
+          "fr": "la carte d'identité"
+        },
+        {
+          "lb": "d'Héierbuch",
+          "fr": "le livre audio"
+        },
+        {
+          "lb": "d'Zäitschrëft",
+          "fr": "le magazine"
+        },
+        {
+          "lb": "de Concert",
+          "fr": "le concert"
+        },
+        {
+          "lb": "de Kont",
+          "fr": "le compte bancaire"
+        },
+        {
+          "lb": "de Pak",
+          "fr": "le colis"
+        },
+        {
+          "lb": "de Formulaire",
+          "fr": "le formulaire"
+        },
+        {
+          "lb": "d'Memberskaart",
+          "fr": "la carte de membre"
+        },
+        {
+          "lb": "e Buch ausléinen",
+          "fr": "emprunter un livre"
+        },
+        {
+          "lb": "e Kont opmaachen",
+          "fr": "ouvrir un compte"
+        },
+        {
+          "lb": "Suen ophiewen",
+          "fr": "retirer de l'argent"
+        },
+        {
+          "lb": "e Pak schécken",
+          "fr": "envoyer un colis"
+        },
+        {
+          "lb": "zum Schluss",
+          "fr": "à la fin"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech ginn op de Bierger-Center.",
+          "fr": "Je vais au centre citoyen."
+        },
+        {
+          "lb": "Si geet op d'Bank.",
+          "fr": "Elle va à la banque."
+        },
+        {
+          "lb": "Mir ginn an d'Bibliothéik.",
+          "fr": "Nous allons à la bibliothèque."
+        },
+        {
+          "lb": "Um Maart kafe mir Uebst.",
+          "fr": "Au marché, nous achetons des fruits."
+        },
+        {
+          "lb": "Ech wëll e Kont opmaachen.",
+          "fr": "Je veux ouvrir un compte."
+        },
+        {
+          "lb": "D'Carole wëll e Pak schécken.",
+          "fr": "Carole veut envoyer un colis."
+        },
+        {
+          "lb": "An der Bibliothéik léine mir Bicher aus.",
+          "fr": "À la bibliothèque, nous empruntons des livres."
+        },
+        {
+          "lb": "Zum Schluss ginn ech bei de Coiffeur.",
+          "fr": "À la fin, je vais chez le coiffeur."
+        },
+        {
+          "lb": "Wéi wëllt Dir kontaktéiert ginn?",
+          "fr": "Comment voulez-vous être contacté ?"
+        },
+        {
+          "lb": "Wat kann een am Touristbüro kréien?",
+          "fr": "Que peut-on obtenir à l'office du tourisme ?"
+        }
+      ],
+      "readings": [
+        {
+          "title": "E Programm fir haut",
+          "text": "Haut huet d'Marie vill Saachen an der Stad ze maachen. Fir d'éischt geet si op de Bierger-Center, well si eng nei Carte d'identité brauch. Duerno geet si op d'Post a schéckt e Pak un hir Frëndin. Op der Bank wëll si Suen ophiewen. Um Maart keeft si Uebst a Geméis. Zum Schluss geet si an d'Bibliothéik. Do léint si e Buch an eng Zäitschrëft aus. Fir de Coiffeur huet si haut keng Zäit méi.",
+          "textFr": "Aujourd'hui, Marie a beaucoup de choses à faire en ville. D'abord, elle va au centre citoyen, parce qu'elle a besoin d'une nouvelle carte d'identité. Ensuite, elle va à la poste et envoie un colis à son amie. À la banque, elle veut retirer de l'argent. Au marché, elle achète des fruits et des légumes. À la fin, elle va à la bibliothèque. Là, elle emprunte un livre et un magazine. Pour le coiffeur, elle n'a plus le temps aujourd'hui.",
+          "questions": [
+            {
+              "lb": "D'Marie brauch eng nei Carte d'identité.",
+              "fr": "Marie a besoin d'une nouvelle carte d'identité.",
+              "answer": true
+            },
+            {
+              "lb": "Si schéckt e Pak un hir Frëndin.",
+              "fr": "Elle envoie un colis à son amie.",
+              "answer": true
+            },
+            {
+              "lb": "Um Maart keeft si Blummen.",
+              "fr": "Au marché, elle achète des fleurs.",
+              "answer": false
+            },
+            {
+              "lb": "Zum Schluss geet si bei de Coiffeur.",
+              "fr": "À la fin, elle va chez le coiffeur.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng Kaart fir d'Bibliothéik",
+          "text": "Ben: Moien, ech wëll dräi Bicher ausléinen.\nEmployée: Hutt Dir schonn eng Kaart?\nBen: Nee, ech sinn haut fir d'éischt hei.\nEmployée: Da braucht Dir eng Memberskaart. Dir kënnt de Formulaire hei ausfëllen.\nBen: Gär. Mäi Numm ass Ben Kirsch. Meng Adress ass 4, rue du Nord.\nEmployée: Wéi wëllt Dir kontaktéiert ginn?\nBen: Per SMS, wann ech gelift.\nEmployée: An op wéi enger Sprooch?\nBen: Op Lëtzebuergesch. Ech léinen och gär Héierbicher aus.\nEmployée: Gutt, hei ass Är Kaart.",
+          "textFr": "Ben : Bonjour, je veux emprunter trois livres.\nEmployée : Avez-vous déjà une carte ?\nBen : Non, je suis ici pour la première fois aujourd'hui.\nEmployée : Alors, vous avez besoin d'une carte de membre. Vous pouvez remplir le formulaire ici.\nBen : Volontiers. Je m'appelle Ben Kirsch. Mon adresse est 4, rue du Nord.\nEmployée : Comment voulez-vous être contacté ?\nBen : Par SMS, s'il vous plaît.\nEmployée : Et dans quelle langue ?\nBen : En luxembourgeois. J'emprunte aussi volontiers des livres audio.\nEmployée : Bien, voici votre carte.",
+          "questions": [
+            {
+              "lb": "De Ben wëll dräi Bicher ausléinen.",
+              "fr": "Ben veut emprunter trois livres.",
+              "answer": true
+            },
+            {
+              "lb": "Hien huet schonn eng Memberskaart.",
+              "fr": "Il a déjà une carte de membre.",
+              "answer": false
+            },
+            {
+              "lb": "De Ben wëll per E-Mail kontaktéiert ginn.",
+              "fr": "Ben veut être contacté par e-mail.",
+              "answer": false
+            },
+            {
+              "lb": "Hie léint och gär Héierbicher aus.",
+              "fr": "Il emprunte aussi volontiers des livres audio.",
+              "answer": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k1-eng-reservatioun",
+      "title": "Eng Reservatioun",
+      "titleFr": "Une réservation",
+      "vocab": [
+        {
+          "lb": "d'Reservatioun",
+          "fr": "la réservation"
+        },
+        {
+          "lb": "reservéieren",
+          "fr": "réserver"
+        },
+        {
+          "lb": "den Dësch",
+          "fr": "la table"
+        },
+        {
+          "lb": "d'Plaz",
+          "fr": "la place"
+        },
+        {
+          "lb": "besat",
+          "fr": "occupé"
+        },
+        {
+          "lb": "fräi",
+          "fr": "libre"
+        },
+        {
+          "lb": "d'Telefonsnummer",
+          "fr": "le numéro de téléphone"
+        },
+        {
+          "lb": "d'Handysnummer",
+          "fr": "le numéro de portable"
+        },
+        {
+          "lb": "den Numm",
+          "fr": "le nom"
+        },
+        {
+          "lb": "haut de Mëtteg",
+          "fr": "ce midi"
+        },
+        {
+          "lb": "fir zwou Persounen",
+          "fr": "pour deux personnes"
+        },
+        {
+          "lb": "et ass notéiert",
+          "fr": "c'est noté"
+        },
+        {
+          "lb": "wann ech gelift",
+          "fr": "s'il vous plaît"
+        },
+        {
+          "lb": "Et deet mir leed",
+          "fr": "je suis désolé"
+        },
+        {
+          "lb": "keng Plaz méi fräi",
+          "fr": "plus de place disponible"
+        },
+        {
+          "lb": "eppes Waarmes",
+          "fr": "quelque chose de chaud"
+        },
+        {
+          "lb": "de Menu du jour",
+          "fr": "le menu du jour"
+        },
+        {
+          "lb": "d'Kaart",
+          "fr": "la carte"
+        },
+        {
+          "lb": "de Restaurant",
+          "fr": "le restaurant"
+        },
+        {
+          "lb": "bis de Mëtteg",
+          "fr": "à ce midi"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech géing gär en Dësch reservéieren.",
+          "fr": "Je voudrais réserver une table."
+        },
+        {
+          "lb": "Fir wéini, wann ech gelift?",
+          "fr": "Pour quand, s'il vous plaît ?"
+        },
+        {
+          "lb": "Fir haut de Mëtteg um 13 Auer.",
+          "fr": "Pour ce midi à 13 heures."
+        },
+        {
+          "lb": "Fir wéi vill Leit wier et?",
+          "fr": "Ce serait pour combien de personnes ?"
+        },
+        {
+          "lb": "Et deet mir leed.",
+          "fr": "Je suis désolé."
+        },
+        {
+          "lb": "Um 12 ass alles besat.",
+          "fr": "À midi, tout est complet."
+        },
+        {
+          "lb": "Hutt Dir um 13 Auer nach Plaz?",
+          "fr": "Avez-vous encore de la place à 13 heures ?"
+        },
+        {
+          "lb": "Op wat fir een Numm?",
+          "fr": "À quel nom ?"
+        },
+        {
+          "lb": "Meng Telefonsnummer ass 621 45 67.",
+          "fr": "Mon numéro de téléphone est le 621 45 67."
+        },
+        {
+          "lb": "Merci, et ass notéiert.",
+          "fr": "Merci, c'est noté."
+        }
+      ],
+      "readings": [
+        {
+          "title": "En Dësch fir muer",
+          "text": "Serveuse: Restaurant Beim Luc, moien.\nMara: Moien, ech géing gär en Dësch fir muer reservéieren.\nServeuse: Fir wéi vill Persounen?\nMara: Fir dräi Persounen. Hutt Dir um 19 Auer nach Plaz?\nServeuse: Um 19 Auer ass alles besat. Um 20 Auer ass nach e klengen Dësch fräi.\nMara: Dat geet. Op den Numm Weber, wann ech gelift.\nServeuse: Gutt. Brauchen ech eng Telefonsnummer?\nMara: Jo, meng Handysnummer ass 661 22 33 44.\nServeuse: Merci, et ass notéiert. Bis muer Owend.",
+          "textFr": "Serveuse : Restaurant Beim Luc, bonjour.\nMara : Bonjour, je voudrais réserver une table pour demain.\nServeuse : Pour combien de personnes ?\nMara : Pour trois personnes. Avez-vous encore de la place à 19 heures ?\nServeuse : À 19 heures, tout est complet. À 20 heures, il y a encore une petite table libre.\nMara : Cela convient. Au nom de Weber, s'il vous plaît.\nServeuse : Bien. Ai-je besoin d'un numéro de téléphone ?\nMara : Oui, mon numéro de portable est le 661 22 33 44.\nServeuse : Merci, c'est noté. À demain soir.",
+          "questions": [
+            {
+              "lb": "D'Mara reservéiert fir dräi Persounen.",
+              "fr": "Mara réserve pour trois personnes.",
+              "answer": true
+            },
+            {
+              "lb": "Um 19 Auer ass nach Plaz.",
+              "fr": "À 19 heures, il reste de la place.",
+              "answer": false
+            },
+            {
+              "lb": "De fräien Dësch ass um 20 Auer.",
+              "fr": "La table libre est à 20 heures.",
+              "answer": true
+            },
+            {
+              "lb": "D'Mara gëtt keng Handysnummer.",
+              "fr": "Mara ne donne pas de numéro de portable.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Dem Sami seng Notiz",
+          "text": "De Sami schafft an engem klenge Café beim Maart. Haut de Mëtteg rifft eng Madamm un, well si eppes Waarmes iesse wëll. De Sami huet de Plang vum Restaurant virun sech. Um 12 Auer ass keen Dësch méi fräi, well eng Grupp vu sechs Leit kënnt. Fir 13:30 Auer huet hien nach zwou Plazen op der Terrass. D'Madamm Klein hëlt déi Plazen. Si seet hire Numm an hir Nummer. De Sami schreift d'Reservatioun an d'Buch. Hie seet, datt de Menu du jour eng Zalot an eng Zopp huet.",
+          "textFr": "Sami travaille dans un petit café près du marché. Ce midi, une dame appelle, parce qu'elle veut manger quelque chose de chaud. Sami a le plan du restaurant devant lui. À 12 heures, aucune table n'est libre, parce qu'un groupe de six personnes arrive. Pour 13 h 30, il a encore deux places sur la terrasse. Madame Klein prend ces places. Elle donne son nom et son numéro. Sami écrit la réservation dans le livre. Il dit que le menu du jour comprend une salade et une soupe.",
+          "questions": [
+            {
+              "lb": "De Sami schafft an engem Café.",
+              "fr": "Sami travaille dans un café.",
+              "answer": true
+            },
+            {
+              "lb": "Um 12 Auer ass vill fräi.",
+              "fr": "À midi, beaucoup de places sont libres.",
+              "answer": false
+            },
+            {
+              "lb": "D'Madamm Klein hëlt zwou Plazen.",
+              "fr": "Madame Klein prend deux places.",
+              "answer": true
+            },
+            {
+              "lb": "De Sami vergiess d'Reservatioun.",
+              "fr": "Sami oublie la réservation.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k1-beim-iessen",
+      "title": "Beim Iessen",
+      "titleFr": "Au repas",
+      "vocab": [
+        {
+          "lb": "d'Entrée",
+          "fr": "l'entrée"
+        },
+        {
+          "lb": "de Plat",
+          "fr": "le plat"
+        },
+        {
+          "lb": "de Vegetarier",
+          "fr": "le végétarien"
+        },
+        {
+          "lb": "d'Serveuse",
+          "fr": "la serveuse"
+        },
+        {
+          "lb": "de Client",
+          "fr": "le client"
+        },
+        {
+          "lb": "d'Zopp",
+          "fr": "la soupe"
+        },
+        {
+          "lb": "d'Geméiszopp",
+          "fr": "la soupe de légumes"
+        },
+        {
+          "lb": "d'Zalot vum Dag",
+          "fr": "la salade du jour"
+        },
+        {
+          "lb": "de Bagel",
+          "fr": "le bagel"
+        },
+        {
+          "lb": "de Sandwich",
+          "fr": "le sandwich"
+        },
+        {
+          "lb": "d'Ham",
+          "fr": "le jambon"
+        },
+        {
+          "lb": "de Speck",
+          "fr": "le lard"
+        },
+        {
+          "lb": "de Saumon",
+          "fr": "le saumon"
+        },
+        {
+          "lb": "de Geessekéis",
+          "fr": "le fromage de chèvre"
+        },
+        {
+          "lb": "d'Spruddelwaasser",
+          "fr": "l'eau gazeuse"
+        },
+        {
+          "lb": "e Glas Rosé",
+          "fr": "un verre de rosé"
+        },
+        {
+          "lb": "den Alkohol",
+          "fr": "l'alcool"
+        },
+        {
+          "lb": "d'Musek",
+          "fr": "la musique"
+        },
+        {
+          "lb": "d'Fënster",
+          "fr": "la fenêtre"
+        },
+        {
+          "lb": "Gudden Appetit",
+          "fr": "bon appétit"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wat huelt Dir?",
+          "fr": "Qu'est-ce que vous prenez ?"
+        },
+        {
+          "lb": "Ech huelen d'Zalot vum Dag.",
+          "fr": "Je prends la salade du jour."
+        },
+        {
+          "lb": "Ech si Vegetarier.",
+          "fr": "Je suis végétarien."
+        },
+        {
+          "lb": "Ass do Speck dran?",
+          "fr": "Y a-t-il du lard dedans ?"
+        },
+        {
+          "lb": "An der Zopp ass Speck.",
+          "fr": "Il y a du lard dans la soupe."
+        },
+        {
+          "lb": "Bréngt mir e Glas Waasser.",
+          "fr": "Apportez-moi un verre d'eau."
+        },
+        {
+          "lb": "D'Musek ass ze haart.",
+          "fr": "La musique est trop forte."
+        },
+        {
+          "lb": "Kënnt Dir d'Fënster zoumaachen?",
+          "fr": "Pouvez-vous fermer la fenêtre ?"
+        },
+        {
+          "lb": "Hei sinn Är Entréeën.",
+          "fr": "Voici vos entrées."
+        },
+        {
+          "lb": "Gudden Appetit!",
+          "fr": "Bon appétit !"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng Mëttespaus",
+          "text": "Um hallwer eng sëtzen d'Irina an de Max op der Terrass vun enger Bäckerei. De Max huet Honger a bestellt eng Geméiszopp als Entrée. Duerno hëlt hien e Bagel mat Saumon. D'Irina ass Vegetarierin. Si freet, ob Speck an der Zopp ass. D'Serveuse seet, datt d'Geméiszopp ouni Fleesch ass. D'Irina hëlt eng Zalot mat Geessekéis an e Spruddelwaasser. De Max wëll e Glas Rosé, mä et gëtt haut keen Alkohol. Dat ass him egal. D'Musek ass roueg, an d'Fënster ass op.",
+          "textFr": "À midi et demi, Irina et Max sont assis sur la terrasse d'une boulangerie. Max a faim et commande une soupe de légumes en entrée. Ensuite, il prend un bagel au saumon. Irina est végétarienne. Elle demande s'il y a du lard dans la soupe. La serveuse dit que la soupe de légumes est sans viande. Irina prend une salade au fromage de chèvre et une eau gazeuse. Max veut un verre de rosé, mais il n'y a pas d'alcool aujourd'hui. Cela lui est égal. La musique est calme, et la fenêtre est ouverte.",
+          "questions": [
+            {
+              "lb": "D'Irina an de Max sëtzen op der Terrass.",
+              "fr": "Irina et Max sont assis sur la terrasse.",
+              "answer": true
+            },
+            {
+              "lb": "De Max bestellt eng Geméiszopp.",
+              "fr": "Max commande une soupe de légumes.",
+              "answer": true
+            },
+            {
+              "lb": "D'Irina hëlt eng Zalot mat Ham.",
+              "fr": "Irina prend une salade au jambon.",
+              "answer": false
+            },
+            {
+              "lb": "D'Bäckerei verkeeft haut Alkohol.",
+              "fr": "La boulangerie vend de l'alcool aujourd'hui.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "D'Claire bestellt",
+          "text": "Serveuse: Wësst Dir schonn, wat Dir huelt?\nClaire: Jo, ech huelen eng Entrée an e Plat.\nServeuse: Mir hunn haut eng Geméiszopp oder eng kleng Zalot.\nClaire: Da huelen ech d'Zalot, ouni Ham.\nServeuse: Kee Problem. A fir de Plat?\nClaire: Den italienesche Sandwich mat Kéis, wann ech gelift.\nServeuse: Fir ze drénken?\nClaire: E Glas Spruddelwaasser. Ass d'Musek ëmmer esou haart?\nServeuse: Ech maachen se méi lues. Hei ass och d'Fënster op, ass dat gutt?\nClaire: Jo, Merci. Dat ass ganz léif.",
+          "textFr": "Serveuse : Savez-vous déjà ce que vous prenez ?\nClaire : Oui, je prends une entrée et un plat.\nServeuse : Nous avons aujourd'hui une soupe de légumes ou une petite salade.\nClaire : Alors je prends la salade, sans jambon.\nServeuse : Pas de problème. Et comme plat ?\nClaire : Le sandwich italien au fromage, s'il vous plaît.\nServeuse : À boire ?\nClaire : Un verre d'eau gazeuse. La musique est-elle toujours aussi forte ?\nServeuse : Je vais la baisser. La fenêtre est aussi ouverte ici, est-ce que cela va ?\nClaire : Oui, merci. C'est très gentil.",
+          "questions": [
+            {
+              "lb": "D'Claire hëlt d'Geméiszopp.",
+              "fr": "Claire prend la soupe de légumes.",
+              "answer": false
+            },
+            {
+              "lb": "Si bestellt e Sandwich mat Kéis.",
+              "fr": "Elle commande un sandwich au fromage.",
+              "answer": true
+            },
+            {
+              "lb": "D'Claire bestellt e Glas Rosé.",
+              "fr": "Claire commande un verre de rosé.",
+              "answer": false
+            },
+            {
+              "lb": "D'Serveuse mécht d'Musek méi lues.",
+              "fr": "La serveuse baisse la musique.",
+              "answer": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k1-weini-ass-op",
+      "title": "Wéini ass op?",
+      "titleFr": "Quand est-ce ouvert ?",
+      "vocab": [
+        {
+          "lb": "d'Ëffnungszäiten",
+          "fr": "les horaires d'ouverture"
+        },
+        {
+          "lb": "op sinn",
+          "fr": "être ouvert"
+        },
+        {
+          "lb": "zou sinn",
+          "fr": "être fermé"
+        },
+        {
+          "lb": "24 Stonnen op 24",
+          "fr": "24 heures sur 24"
+        },
+        {
+          "lb": "siwen Deeg an der Woch",
+          "fr": "sept jours sur sept"
+        },
+        {
+          "lb": "vu méindes bis freides",
+          "fr": "du lundi au vendredi"
+        },
+        {
+          "lb": "de Weekend",
+          "fr": "le week-end"
+        },
+        {
+          "lb": "d'Mëttespaus",
+          "fr": "la pause de midi"
+        },
+        {
+          "lb": "annerhallef Stonn",
+          "fr": "une heure et demie"
+        },
+        {
+          "lb": "all Dag",
+          "fr": "tous les jours"
+        },
+        {
+          "lb": "de ganzen Dag",
+          "fr": "toute la journée"
+        },
+        {
+          "lb": "opmaachen",
+          "fr": "ouvrir"
+        },
+        {
+          "lb": "zoumaachen",
+          "fr": "fermer"
+        },
+        {
+          "lb": "hallwer néng",
+          "fr": "huit heures et demie"
+        },
+        {
+          "lb": "zwielef Auer",
+          "fr": "midi"
+        },
+        {
+          "lb": "hallwer zwou",
+          "fr": "treize heures trente"
+        },
+        {
+          "lb": "Véierel op fënnef",
+          "fr": "seize heures quarante-cinq"
+        },
+        {
+          "lb": "samschdes",
+          "fr": "le samedi"
+        },
+        {
+          "lb": "sonndes",
+          "fr": "le dimanche"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéini ass d'Apdikt bei dir op?",
+          "fr": "Quand la pharmacie près de chez toi est-elle ouverte ?"
+        },
+        {
+          "lb": "D'Bank ass vu méindes bis freides op.",
+          "fr": "La banque est ouverte du lundi au vendredi."
+        },
+        {
+          "lb": "De Weekend ass zou.",
+          "fr": "Le week-end, c'est fermé."
+        },
+        {
+          "lb": "D'Tankstell ass all Dag op.",
+          "fr": "La station-service est ouverte tous les jours."
+        },
+        {
+          "lb": "Si mécht um hallwer néng op.",
+          "fr": "Elle ouvre à huit heures et demie."
+        },
+        {
+          "lb": "De Bäcker mécht um siwen Auer op.",
+          "fr": "Le boulanger ouvre à sept heures."
+        },
+        {
+          "lb": "Um zwielef Auer ass Mëttespaus.",
+          "fr": "À midi, c'est la pause de midi."
+        },
+        {
+          "lb": "D'Mëttespaus dauert annerhallef Stonn.",
+          "fr": "La pause de midi dure une heure et demie."
+        },
+        {
+          "lb": "De Supermarché mécht um aacht Auer zou.",
+          "fr": "Le supermarché ferme à huit heures."
+        },
+        {
+          "lb": "Samschdes ass de Buttek de ganzen Dag op.",
+          "fr": "Le samedi, le magasin est ouvert toute la journée."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Nei Ëffnungszäiten",
+          "text": "Boutique Mira informéiert hir Clienten iwwer nei Ëffnungszäiten. Méindes ass de Buttek vun 10 bis 18 Auer op. Vun dënschdes bis freides mécht hien um hallwer zéng op an um 18 Auer zou. Samschdes ass de Buttek vun 9:30 bis 13 Auer op. Sonndes bleift hien zou. D'Mëttespaus ass nëmmen méindes vu 12 bis hallwer zwou. An der Mëttespaus kann een eng Noriicht um Telefon hannerloossen. De Buttek verkeeft Kleeder a kleng Kaddoen. Um Weekend schaffen nëmmen zwou Persounen am Buttek.",
+          "textFr": "La boutique Mira informe ses clients de ses nouveaux horaires d'ouverture. Le lundi, le magasin est ouvert de 10 h à 18 h. Du mardi au vendredi, il ouvre à 9 h 30 et ferme à 18 h. Le samedi, le magasin est ouvert de 9 h 30 à 13 h. Le dimanche, il reste fermé. La pause de midi est seulement le lundi de 12 h à 13 h 30. Pendant la pause de midi, on peut laisser un message sur le téléphone. Le magasin vend des vêtements et de petits cadeaux. Le week-end, seules deux personnes travaillent dans le magasin.",
+          "questions": [
+            {
+              "lb": "Méindes mécht de Buttek um 10 Auer op.",
+              "fr": "Le lundi, le magasin ouvre à 10 heures.",
+              "answer": true
+            },
+            {
+              "lb": "Vun dënschdes bis freides mécht hien um 10 Auer op.",
+              "fr": "Du mardi au vendredi, il ouvre à 10 heures.",
+              "answer": false
+            },
+            {
+              "lb": "Sonndes bleift d'Boutique zou.",
+              "fr": "Le dimanche, la boutique reste fermée.",
+              "answer": true
+            },
+            {
+              "lb": "All Dag gëtt et eng laang Mëttespaus.",
+              "fr": "Tous les jours, il y a une longue pause de midi.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Wéini gees du?",
+          "text": "Luc: Wéini ass d'Apdikt bei dir op?\nNora: Vu méindes bis freides vun 8 bis 12 Auer an nomëttes vun 14 bis 18 Auer.\nLuc: An de Weekend?\nNora: Samschdes mécht si um 9 Auer op an um 13 Auer zou. Sonndes ass zou.\nLuc: Ech brauch muer Moien e Medikament.\nNora: Da kanns du moies goen. Wann et owes ze spéit ass, ass d'Tankstell niewendrun 24 Stonnen op 24 op.\nLuc: Gutt, ech ginn da samschdes fréi.",
+          "textFr": "Luc : Quand la pharmacie près de chez toi est-elle ouverte ?\nNora : Du lundi au vendredi de 8 h à 12 h et l'après-midi de 14 h à 18 h.\nLuc : Et le week-end ?\nNora : Le samedi, elle ouvre à 9 h et ferme à 13 h. Le dimanche, c'est fermé.\nLuc : J'ai besoin d'un médicament demain matin.\nNora : Alors tu peux y aller le matin. Si c'est trop tard le soir, la station-service à côté est ouverte 24 heures sur 24.\nLuc : Bien, j'y vais donc tôt samedi.",
+          "questions": [
+            {
+              "lb": "D'Apdikt ass wochendeeges op.",
+              "fr": "La pharmacie est ouverte en semaine.",
+              "answer": true
+            },
+            {
+              "lb": "Samschdes ass bis 18 Auer op.",
+              "fr": "Le samedi, c'est ouvert jusqu'à 18 heures.",
+              "answer": false
+            },
+            {
+              "lb": "De Luc brauch e Medikament.",
+              "fr": "Luc a besoin d'un médicament.",
+              "answer": true
+            },
+            {
+              "lb": "D'Tankstell mécht owes zou.",
+              "fr": "La station-service ferme le soir.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-k1-land-a-leit-tourismus-zu-letzebuerg",
+      "title": "Land a Leit: Tourismus zu Lëtzebuerg",
+      "titleFr": "Pays et habitants : tourisme au Luxembourg",
+      "vocab": [
+        {
+          "lb": "den Tour",
+          "fr": "le circuit"
+        },
+        {
+          "lb": "den Depart",
+          "fr": "le départ"
+        },
+        {
+          "lb": "d'Gëlle Fra",
+          "fr": "la Gëlle Fra"
+        },
+        {
+          "lb": "d'Kasematten",
+          "fr": "les casemates"
+        },
+        {
+          "lb": "d'Plëss",
+          "fr": "la place d'Armes"
+        },
+        {
+          "lb": "de Knuedler",
+          "fr": "la place Guillaume II"
+        },
+        {
+          "lb": "de Palais",
+          "fr": "le palais"
+        },
+        {
+          "lb": "de Wenzeltour",
+          "fr": "le circuit Wenzel"
+        },
+        {
+          "lb": "de Gronn",
+          "fr": "le Grund"
+        },
+        {
+          "lb": "d'Alstad",
+          "fr": "la vieille ville"
+        },
+        {
+          "lb": "d'Festung",
+          "fr": "la forteresse"
+        },
+        {
+          "lb": "d'Ruinen",
+          "fr": "les ruines"
+        },
+        {
+          "lb": "d'Uelzecht",
+          "fr": "l'Alzette"
+        },
+        {
+          "lb": "de Floss",
+          "fr": "la rivière"
+        },
+        {
+          "lb": "den Touristbüro",
+          "fr": "l'office du tourisme"
+        },
+        {
+          "lb": "d'Vue",
+          "fr": "la vue"
+        },
+        {
+          "lb": "d'Visitt",
+          "fr": "la visite"
+        },
+        {
+          "lb": "de Kiosk",
+          "fr": "le kiosque"
+        },
+        {
+          "lb": "de Concert",
+          "fr": "le concert"
+        },
+        {
+          "lb": "d'Geschicht",
+          "fr": "l'histoire"
+        },
+        {
+          "lb": "d'Residenz",
+          "fr": "la résidence"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Den Tour fänkt bei der Gëlle Fra un.",
+          "fr": "Le circuit commence à la Gëlle Fra."
+        },
+        {
+          "lb": "D'Kasematten sinn am Summer op.",
+          "fr": "Les casemates sont ouvertes en été."
+        },
+        {
+          "lb": "Op der Plëss ginn et vill Caféen.",
+          "fr": "Il y a beaucoup de cafés sur la place d'Armes."
+        },
+        {
+          "lb": "Um Knuedler ass e Maart.",
+          "fr": "Il y a un marché sur le Knuedler."
+        },
+        {
+          "lb": "De Palais ass eng offiziell Residenz.",
+          "fr": "Le palais est une résidence officielle."
+        },
+        {
+          "lb": "De Wenzeltour geet duerch d'Alstad.",
+          "fr": "Le circuit Wenzel traverse la vieille ville."
+        },
+        {
+          "lb": "Am Gronn sëtzen d'Leit op Terrassen.",
+          "fr": "Dans le Grund, les gens sont assis sur des terrasses."
+        },
+        {
+          "lb": "D'Uelzecht fléisst duerch de Gronn.",
+          "fr": "L'Alzette traverse le Grund."
+        },
+        {
+          "lb": "Mir maachen eng Visitt am Touristbüro.",
+          "fr": "Nous faisons une visite à l'office du tourisme."
+        },
+        {
+          "lb": "De Musée ass op der rietser Säit.",
+          "fr": "Le musée est du côté droit."
+        }
+      ],
+      "readings": [
+        {
+          "title": "E kuerzen Tour",
+          "text": "Eng franséisch Famill mécht e kuerzen Tour duerch d'Stad Lëtzebuerg. De Guide fänkt bei der Gëlle Fra un. Hien erzielt, datt d'Monument 21 Meter héich ass. Duerno geet d'Grupp an d'Kasematten; si sinn am Fréijoer an am Summer fir Visitten op. No enger Paus op der Plëss gi si op de Knuedler. Do steet eng Statu vum Wëllem II, an um Mëttwoch ass do Maart. Zum Schluss kucke si de Palais vu baussen, well et haut keng Visitt gëtt.",
+          "textFr": "Une famille française fait un court circuit dans la ville de Luxembourg. Le guide commence à la Gëlle Fra. Il raconte que le monument mesure 21 mètres de haut. Ensuite, le groupe va dans les casemates ; elles sont ouvertes aux visites au printemps et en été. Après une pause sur la place d'Armes, ils vont au Knuedler. Là se trouve une statue de Guillaume II, et le mercredi il y a un marché. À la fin, ils regardent le palais de l'extérieur, parce qu'il n'y a pas de visite aujourd'hui.",
+          "questions": [
+            {
+              "lb": "Den Tour fänkt bei der Gëlle Fra un.",
+              "fr": "Le circuit commence à la Gëlle Fra.",
+              "answer": true
+            },
+            {
+              "lb": "D'Monument ass 12 Meter héich.",
+              "fr": "Le monument mesure 12 mètres de haut.",
+              "answer": false
+            },
+            {
+              "lb": "Um Knuedler steet eng Statu.",
+              "fr": "Il y a une statue au Knuedler.",
+              "answer": true
+            },
+            {
+              "lb": "D'Famill mécht haut eng Visitt am Palais.",
+              "fr": "La famille fait aujourd'hui une visite du palais.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Programm fir Frënn",
+          "text": "Léif Claire,\n\nmuer maachen ech e Programm fir eis Frënn. Mir starten um 10 Auer beim Touristbüro um Knuedler. Duerno maache mir de Wenzeltour. De Wee geet duerch d'Alstad, laanscht al Maueren a Ruine vun der Festung. Op de Panneaue liese mir Informatiounen iwwer d'Geschicht vu Lëtzebuerg. Den Tour dauert ongeféier 100 Minutten a geet am Gronn op en Enn. Do drénke mir eppes op enger Terrass beim Waasser. D'Uelzecht fléisst duerch de Quartier. Owes gi mir net an e Musée, well d'Frënn fréi zréckfueren.\n\nBis muer,\nMarc",
+          "textFr": "Chère Claire,\n\ndemain, je prépare un programme pour nos amis. Nous commençons à 10 heures à l'office du tourisme au Knuedler. Ensuite, nous faisons le circuit Wenzel. Le chemin traverse la vieille ville, le long de vieux murs et de ruines de la forteresse. Sur les panneaux, nous lisons des informations sur l'histoire du Luxembourg. Le circuit dure environ 100 minutes et se termine dans le Grund. Là, nous buvons quelque chose sur une terrasse au bord de l'eau. L'Alzette traverse le quartier. Le soir, nous n'allons pas au musée, parce que les amis repartent tôt.\n\nÀ demain,\nMarc",
+          "questions": [
+            {
+              "lb": "De Marc start um 10 Auer.",
+              "fr": "Marc commence à 10 heures.",
+              "answer": true
+            },
+            {
+              "lb": "De Wenzeltour geet duerch d'Alstad.",
+              "fr": "Le circuit Wenzel traverse la vieille ville.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tour geet am Pafendall op en Enn.",
+              "fr": "Le circuit se termine au Pfaffenthal.",
+              "answer": false
+            },
+            {
+              "lb": "Owes gi si an e Musée.",
+              "fr": "Le soir, ils vont au musée.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

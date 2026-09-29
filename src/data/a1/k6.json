@@ -6,7 +6,7 @@
   "page": 82,
   "themes": [
     {
-      "id": "k6-famill-a-frenn",
+      "id": "a1-k6-famill-a-frenn",
       "title": "Famill a Frënn",
       "titleFr": "Famille et amis",
       "vocab": [
@@ -116,10 +116,66 @@
           "lb": "Sandy an Amélie bestuede sech.",
           "fr": "Sandy et Amélie se marient."
         }
+      ],
+      "readings": [
+        {
+          "title": "Eng Annonce fir d'Hochzäit",
+          "text": "D'Sandy an d'Amélie bestuede sech e Samschdeg. D'Hochzäit ass um véier Auer zu Diddeleng. D'Famill an d'Frënn sinn invitéiert. D'Elteren kommen och. Si bréngen Blummen an e klenge Kuch. No der Hochzäit feiere mir am Café a mir gratuléieren der Koppel. D'Kanner sinn och do.",
+          "textFr": "Sandy et Amélie se marient un samedi. Le mariage est à quatre heures à Dudelange. La famille et les amis sont invités. Les parents viennent aussi. Ils apportent des fleurs et un petit gâteau. Après le mariage, nous faisons la fête au café et nous félicitons le couple. Les enfants sont aussi là.",
+          "questions": [
+            {
+              "lb": "Sandy an Amélie feieren eng Hochzäit.",
+              "fr": "Sandy et Amélie fêtent un mariage.",
+              "answer": true
+            },
+            {
+              "lb": "D'Hochzäit ass e Méindeg.",
+              "fr": "Le mariage est un lundi.",
+              "answer": false
+            },
+            {
+              "lb": "D'Elteren si bei der Feier.",
+              "fr": "Les parents sont à la fête.",
+              "answer": true
+            },
+            {
+              "lb": "D'Kanner bleiwen doheem.",
+              "fr": "Les enfants restent à la maison.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "E Gebuertsdag an der Famill",
+          "text": "Tom: Moien Lisa, wat méchs du haut?\nLisa: Mir feieren de Gebuertsdag vun der Bomi. Si ass siwwenzeg Joer al.\nTom: Kommen deng Frënn och?\nLisa: Jo, zwou Frëndinnen kommen um dräi. Meng Elteren an d'Kanner si schonn do.\nTom: Gratuléiert der Bomi vu mir!\nLisa: Merci, dat maache mir.",
+          "textFr": "Tom : Salut Lisa, que fais-tu aujourd'hui ?\nLisa : Nous fêtons l'anniversaire de ma mamie. Elle a soixante-dix ans.\nTom : Tes amis viennent aussi ?\nLisa : Oui, deux amies viennent à trois heures. Mes parents et les enfants sont déjà là.\nTom : Félicitez la mamie de ma part !\nLisa : Merci, nous le ferons.",
+          "questions": [
+            {
+              "lb": "D'Lisa feiert e Gebuertsdag.",
+              "fr": "Lisa fête un anniversaire.",
+              "answer": true
+            },
+            {
+              "lb": "D'Bomi ass aachtzeg Joer al.",
+              "fr": "La mamie a quatre-vingts ans.",
+              "answer": false
+            },
+            {
+              "lb": "Um dräi komme zwou Frëndinnen.",
+              "fr": "À trois heures, deux amies viennent.",
+              "answer": true
+            },
+            {
+              "lb": "D'Elteren sinn nach net do.",
+              "fr": "Les parents ne sont pas encore là.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k6-eng-gebuertsdagsparty",
+      "id": "a1-k6-eng-gebuertsdagsparty",
       "title": "Eng Gebuertsdagsparty",
       "titleFr": "Une fête d'anniversaire",
       "vocab": [
@@ -229,10 +285,66 @@
           "lb": "D'Geschwëster sinn och hei.",
           "fr": "Les frères et sœurs sont aussi ici."
         }
+      ],
+      "readings": [
+        {
+          "title": "Eng SMS vun der Nora",
+          "text": "Salut Mara,\n\nhaut ass meng Gebuertsdagsparty. D'Party ass um fënnef Auer bei mir doheem. D'Mamm mécht e grousse Kuch mat zéng Käerzen. Mäi Brudder bréngt Jus, an d'Tatta bréngt Blummen, kee Kuch. Mir sangen a mir soen: Alles Guddes! Kanns du kommen?\n\nBis geschwënn,\nNora",
+          "textFr": "Salut Mara,\n\naujourd'hui, c'est ma fête d'anniversaire. La fête est à cinq heures chez moi. Maman fait un grand gâteau avec dix bougies. Mon frère apporte du jus, et la tante apporte des fleurs, pas de gâteau. Nous chantons et nous disons : joyeux anniversaire ! Peux-tu venir ?\n\nÀ bientôt,\nNora",
+          "questions": [
+            {
+              "lb": "D'Nora mécht haut eng Party.",
+              "fr": "Nora fait une fête aujourd'hui.",
+              "answer": true
+            },
+            {
+              "lb": "D'Party fänkt um véier un.",
+              "fr": "La fête commence à quatre heures.",
+              "answer": false
+            },
+            {
+              "lb": "D'Mamm mécht de Kuch.",
+              "fr": "Maman fait le gâteau.",
+              "answer": true
+            },
+            {
+              "lb": "D'Tatta bréngt de Kuch.",
+              "fr": "La tante apporte le gâteau.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Beim Gebuertsdagskand",
+          "text": "Mamm: De Kuch ass um Dësch, an d'Käerze si blo.\nPapp: Wou ass d'Gebuertsdagskand?\nLena: Hei sinn ech! Ech sinn zwielef Joer al.\nMonni: Vill Gléck fir de Gebuertsdag, Lena!\nTatta: Ech hunn e Geschenk an eng Kaart.\nGeschwëster: Vill Frënn sinn hei. Prost, Lena!",
+          "textFr": "Maman : Le gâteau est sur la table, et les bougies sont bleues.\nPapa : Où est la personne fêtée ?\nLena : Je suis ici ! J'ai douze ans.\nOncle : Joyeux anniversaire, Lena !\nTante : J'ai un cadeau et une carte.\nFrères et sœurs : Beaucoup d'amis sont ici. Santé, Lena !",
+          "questions": [
+            {
+              "lb": "Um Dësch steet de Kuch.",
+              "fr": "Le gâteau est sur la table.",
+              "answer": true
+            },
+            {
+              "lb": "D'Lena ass zwielef Joer al.",
+              "fr": "Lena a douze ans.",
+              "answer": true
+            },
+            {
+              "lb": "De Monni seet näischt.",
+              "fr": "L'oncle ne dit rien.",
+              "answer": false
+            },
+            {
+              "lb": "D'Tatta huet keng Kaart.",
+              "fr": "La tante n'a pas de carte.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k6-meng-famill",
+      "id": "a1-k6-meng-famill",
       "title": "Meng Famill",
       "titleFr": "Ma famille",
       "vocab": [
@@ -350,10 +462,66 @@
           "lb": "Wéi heescht deng Frëndin?",
           "fr": "Comment s'appelle ton amie ?"
         }
+      ],
+      "readings": [
+        {
+          "title": "Mäi klenge Stammbam",
+          "text": "Ech heesche Marc. Mäi Stammbam ass kleng. Mäi Papp heescht Pit, a meng Mamm heescht Anna. Si wunnen zu Esch. Ech hunn ee Brudder, de Jeff. De Jeff huet e Jong. Säi Jong ass zwee Joer al. Meng Groussmamm Marie wunnt och hei. Meng Famill kënnt sonndes bei mech.",
+          "textFr": "Je m'appelle Marc. Mon arbre généalogique est petit. Mon père s'appelle Pit, et ma mère s'appelle Anna. Ils habitent à Esch. J'ai un frère, Jeff. Jeff a un fils. Son fils a deux ans. Ma grand-mère Marie habite aussi ici. Ma famille vient chez moi le dimanche.",
+          "questions": [
+            {
+              "lb": "De Marc säi Papp heescht Pit.",
+              "fr": "Le père de Marc s'appelle Pit.",
+              "answer": true
+            },
+            {
+              "lb": "Seng Mamm wunnt zu Ettelbréck.",
+              "fr": "Sa mère habite à Ettelbruck.",
+              "answer": false
+            },
+            {
+              "lb": "De Jeff ass dem Marc säi Brudder.",
+              "fr": "Jeff est le frère de Marc.",
+              "answer": true
+            },
+            {
+              "lb": "Dem Jeff säi Jong ass fënnef Joer al.",
+              "fr": "Le fils de Jeff a cinq ans.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng Foto fir de Claude",
+          "text": "Moien Claude,\n\ndat ass meng Famill op der Foto. Meng Fra heescht Julie. Mäi Jong Leo ass kleng, a meng Duechter Emma geet an d'Schoul. Meng Schwëster Sara wunnt an der Stad. De Mann vun der Sara ass Iwwersetzer. De Grousspapp kënnt haut ëm sechs Auer.\n\nBis muer,\nPaul",
+          "textFr": "Salut Claude,\n\nc'est ma famille sur la photo. Ma femme s'appelle Julie. Mon fils Leo est petit, et ma fille Emma va à l'école. Ma sœur Sara habite en ville. Le mari de Sara est traducteur. Le grand-père vient aujourd'hui à six heures.\n\nÀ demain,\nPaul",
+          "questions": [
+            {
+              "lb": "Dem Paul seng Fra heescht Julie.",
+              "fr": "La femme de Paul s'appelle Julie.",
+              "answer": true
+            },
+            {
+              "lb": "Dem Paul seng Duechter heescht Nora.",
+              "fr": "La fille de Paul s'appelle Nora.",
+              "answer": false
+            },
+            {
+              "lb": "D'Emma geet an d'Schoul.",
+              "fr": "Emma va à l'école.",
+              "answer": true
+            },
+            {
+              "lb": "De Grousspapp kënnt ëm véier.",
+              "fr": "Le grand-père vient à quatre heures.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k6-international-familljen",
+      "id": "a1-k6-international-familljen",
       "title": "International Familljen",
       "titleFr": "Familles internationales",
       "vocab": [
@@ -471,10 +639,66 @@
           "lb": "Den Hond ass am Haus.",
           "fr": "Le chien est dans la maison."
         }
+      ],
+      "readings": [
+        {
+          "title": "D'Marisa zu Lëtzebuerg",
+          "text": "D'Marisa wunnt mat hirer Famill zu Lëtzebuerg. Si ass hei gebuer. De Mann vun der Marisa heescht Tom. Den Tom kënnt aus England an ass Iwwersetzer bei der Europäescher Kommissioun. D'Kanner ginn an d'Crèche. Samschdes schwamme si am Schwammclub. Doheem hu si eng Kaz, mee keen Hond. Am Summer fuere si an d'Belsch.",
+          "textFr": "Marisa habite avec sa famille au Luxembourg. Elle est née ici. Le mari de Marisa s'appelle Tom. Tom vient d'Angleterre et est traducteur à la Commission européenne. Les enfants vont à la crèche. Le samedi, ils nagent au club de natation. À la maison, ils ont un chat, mais pas de chien. En été, ils vont en Belgique.",
+          "questions": [
+            {
+              "lb": "D'Marisa ass zu Lëtzebuerg gebuer.",
+              "fr": "Marisa est née au Luxembourg.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tom kënnt aus Norwegen.",
+              "fr": "Tom vient de Norvège.",
+              "answer": false
+            },
+            {
+              "lb": "D'Kanner sinn an der Crèche.",
+              "fr": "Les enfants sont à la crèche.",
+              "answer": true
+            },
+            {
+              "lb": "Doheem ass en Hond.",
+              "fr": "À la maison, il y a un chien.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Am Blummebuttek",
+          "text": "Ana: Gudde Moien. Ech sichen Blumme fir meng Famill.\nBen: Wou wunnt Är Famill?\nAna: Zu Esch. Mäi Papp kënnt vum Cap Vert, a meng Mamm kënnt aus Lettland.\nBen: Schéin! Hutt Dir Hausdéieren?\nAna: Jo, eng kleng Kaz. Meng Schwëster wëll och en Hond adoptéieren.\nBen: Hei sinn déi rout Blummen.",
+          "textFr": "Ana : Bonjour. Je cherche des fleurs pour ma famille.\nBen : Où habite votre famille ?\nAna : À Esch. Mon père vient du Cap-Vert, et ma mère vient de Lettonie.\nBen : Très bien ! Avez-vous des animaux domestiques ?\nAna : Oui, un petit chat. Ma sœur veut aussi adopter un chien.\nBen : Voici les fleurs rouges.",
+          "questions": [
+            {
+              "lb": "D'Ana sicht Blumme.",
+              "fr": "Ana cherche des fleurs.",
+              "answer": true
+            },
+            {
+              "lb": "Hir Famill wunnt zu Diddeleng.",
+              "fr": "Sa famille habite à Dudelange.",
+              "answer": false
+            },
+            {
+              "lb": "De Papp kënnt vum Cap Vert.",
+              "fr": "Le père vient du Cap-Vert.",
+              "answer": true
+            },
+            {
+              "lb": "D'Schwëster wëll eng Kaz adoptéieren.",
+              "fr": "La sœur veut adopter un chat.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k6-wei-gesi-si-aus",
+      "id": "a1-k6-wei-gesi-si-aus",
       "title": "Wéi gesi si aus?",
       "titleFr": "À quoi ressemblent-ils ?",
       "vocab": [
@@ -624,10 +848,66 @@
           "lb": "D'Kaz ass kleng a béis.",
           "fr": "Le chat est petit et méchant."
         }
+      ],
+      "readings": [
+        {
+          "title": "Op der Foto",
+          "text": "Op der Foto sinn de Felix an d'Manuela. De Felix ass grouss a sportlech. Hien huet kuerz blond Hoer an e klenge Schnauz. D'Manuela ass jonk a sympathesch. Si huet laang Hoer a gréng Aen. Si huet kee Brëll. Ech fannen déi zwee flott.",
+          "textFr": "Sur la photo, il y a Felix et Manuela. Felix est grand et sportif. Il a les cheveux blonds courts et une petite moustache. Manuela est jeune et sympathique. Elle a les cheveux longs et les yeux verts. Elle n'a pas de lunettes. Je trouve les deux chouettes.",
+          "questions": [
+            {
+              "lb": "De Felix gesäit sportlech aus.",
+              "fr": "Felix a l'air sportif.",
+              "answer": true
+            },
+            {
+              "lb": "De Felix huet laang Hoer.",
+              "fr": "Felix a les cheveux longs.",
+              "answer": false
+            },
+            {
+              "lb": "D'Ae vun der Manuela si gréng.",
+              "fr": "Les yeux de Manuela sont verts.",
+              "answer": true
+            },
+            {
+              "lb": "D'Manuela huet e Brëll.",
+              "fr": "Manuela a des lunettes.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Dem Lea säi Brudder",
+          "text": "Tom: Wéi gesäit däi Brudder aus?\nLea: Hien ass kleng an dënn. Hien huet brong Aen a kuerz Hoer.\nTom: Ass hien léif?\nLea: Jo, ganz léif, awer net seriö.\nTom: An deng Schwëster?\nLea: Si ass grouss. Si huet laang Hoer a si ass e bësse jalous.",
+          "textFr": "Tom : À quoi ressemble ton frère ?\nLea : Il est petit et mince. Il a les yeux bruns et les cheveux courts.\nTom : Est-il gentil ?\nLea : Oui, très gentil, mais pas sérieux.\nTom : Et ta sœur ?\nLea : Elle est grande. Elle a les cheveux longs et elle est un peu jalouse.",
+          "questions": [
+            {
+              "lb": "De Brudder ass kleng.",
+              "fr": "Le frère est petit.",
+              "answer": true
+            },
+            {
+              "lb": "Hien huet laang Hoer.",
+              "fr": "Il a les cheveux longs.",
+              "answer": false
+            },
+            {
+              "lb": "De Brudder ass léif.",
+              "fr": "Le frère est gentil.",
+              "answer": true
+            },
+            {
+              "lb": "D'Schwëster ass kleng.",
+              "fr": "La sœur est petite.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k6-beim-dokter",
+      "id": "a1-k6-beim-dokter",
       "title": "Beim Dokter",
       "titleFr": "Chez le médecin",
       "vocab": [
@@ -773,10 +1053,66 @@
           "lb": "Ech ginn an d'Urgence.",
           "fr": "Je vais aux urgences."
         }
+      ],
+      "readings": [
+        {
+          "title": "En Uruff an d'Praxis",
+          "text": "Tom: Gudde Moien, ech si krank. Ech hunn de Kapp wéi an ech hu Féiwer.\nPraxis: Hues du och den Houscht?\nTom: Jo, an den Hals deet wéi.\nPraxis: Den Dokter ass haut um zéng Auer fräi.\nTom: Merci. Ech kann um zéng kommen. Meng Fra fiert mech an d'Praxis.",
+          "textFr": "Tom : Bonjour, je suis malade. J'ai mal à la tête et j'ai de la fièvre.\nCabinet médical : As-tu aussi la toux ?\nTom : Oui, et la gorge me fait mal.\nCabinet médical : Le médecin est libre aujourd'hui à dix heures.\nTom : Merci. Je peux venir à dix heures. Ma femme m'emmène au cabinet médical.",
+          "questions": [
+            {
+              "lb": "Den Tom huet Kappwéi.",
+              "fr": "Tom a mal à la tête.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tom huet kee Féiwer.",
+              "fr": "Tom n'a pas de fièvre.",
+              "answer": false
+            },
+            {
+              "lb": "Säin Hals deet wéi.",
+              "fr": "Sa gorge lui fait mal.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tom geet an d'Urgence.",
+              "fr": "Tom va aux urgences.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng Noriicht vum Mia",
+          "text": "Moien Sam,\n\nech kann haut net op d'Aarbecht kommen. Ech hunn de Schnapp an den Houscht. Mäi Réck deet och wéi. Ech ginn net an d'Urgence; ech ginn bei den Dokter an d'Praxis. Den Dokter huet um zwou Auer Zäit. Et deet mir leed.\n\nGutt Besserung och fir dech,\nMia",
+          "textFr": "Salut Sam,\n\nje ne peux pas venir au travail aujourd'hui. J'ai un rhume et de la toux. Mon dos me fait aussi mal. Je ne vais pas aux urgences ; je vais chez le médecin au cabinet médical. Le médecin a du temps à deux heures. Je suis désolée.\n\nBon rétablissement aussi à toi,\nMia",
+          "questions": [
+            {
+              "lb": "D'Mia kënnt net op d'Aarbecht.",
+              "fr": "Mia ne vient pas au travail.",
+              "answer": true
+            },
+            {
+              "lb": "Si huet de Schnapp.",
+              "fr": "Elle a un rhume.",
+              "answer": true
+            },
+            {
+              "lb": "Si geet an d'Urgence.",
+              "fr": "Elle va aux urgences.",
+              "answer": false
+            },
+            {
+              "lb": "Den Dokter huet um véier Zäit.",
+              "fr": "Le médecin a du temps à quatre heures.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k6-land-a-leit-bekannt-letzebuerger",
+      "id": "a1-k6-land-a-leit-bekannt-letzebuerger",
       "title": "Land a Leit: Bekannt Lëtzebuerger",
       "titleFr": "Pays et population : Luxembourgeois connus",
       "vocab": [
@@ -925,6 +1261,62 @@
         {
           "lb": "Serge Tonnar ass 1970 gebuer.",
           "fr": "Serge Tonnar est né en 1970."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Informatioun iwwer de Serge",
+          "text": "Informatioun iwwer eng bekannt Persoun:\n\nNumm: Serge Tonnar\nNationalitéit: Lëtzebuerger\nGebuertsdatum: 1970\nBeruff: Sänger, Komponist an Auteur\nHobbyen: Vëlo fueren an an der Stad spadséieren\n\nDe Serge wunnt zu Lëtzebuerg an hie schafft vill mat Musek. Op der Foto huet hien kuerz Hoer. Hien ass sympathesch. Vill Leit kennen säi Lidd.",
+          "textFr": "Information sur une personne connue :\n\nNom : Serge Tonnar\nNationalité : Luxembourgeois\nDate de naissance : 1970\nMétier : chanteur, compositeur et auteur\nLoisirs : faire du vélo et se promener en ville\n\nSerge habite au Luxembourg et travaille beaucoup avec la musique. Sur la photo, il a les cheveux courts. Il est sympathique. Beaucoup de gens connaissent sa chanson.",
+          "questions": [
+            {
+              "lb": "De Serge Tonnar ass bekannt.",
+              "fr": "Serge Tonnar est connu.",
+              "answer": true
+            },
+            {
+              "lb": "De Serge ass 1980 gebuer.",
+              "fr": "Serge est né en 1980.",
+              "answer": false
+            },
+            {
+              "lb": "De Serge ass Komponist.",
+              "fr": "Serge est compositeur.",
+              "answer": true
+            },
+            {
+              "lb": "Hien huet laang Hoer.",
+              "fr": "Il a les cheveux longs.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "E klenge Quiz",
+          "text": "Lea: Kuck d'Foto. Wien ass dat?\nMax: Dat ass Désirée Nosbusch. Si ass eng Lëtzebuergerin a Schauspillerin.\nLea: Wou schafft si?\nMax: Si schafft och am Ausland. Hei ass nach eng Foto: Jean-Claude Juncker.\nLea: Hien ass Politiker, richteg?\nMax: Jo. A Superjhemp ass keng Persoun; hien ass eng Comic-Figur.",
+          "textFr": "Lea : Regarde la photo. Qui est-ce ?\nMax : C'est Désirée Nosbusch. Elle est luxembourgeoise et actrice.\nLea : Où travaille-t-elle ?\nMax : Elle travaille aussi à l'étranger. Voici encore une photo : Jean-Claude Juncker.\nLea : Il est politicien, n'est-ce pas ?\nMax : Oui. Et Superjhemp n'est pas une personne ; c'est un personnage de bande dessinée.",
+          "questions": [
+            {
+              "lb": "D'Désirée Nosbusch ass Schauspillerin.",
+              "fr": "Désirée Nosbusch est actrice.",
+              "answer": true
+            },
+            {
+              "lb": "Si ass eng Norwegerin.",
+              "fr": "Elle est norvégienne.",
+              "answer": false
+            },
+            {
+              "lb": "De Jean-Claude Juncker ass Politiker.",
+              "fr": "Jean-Claude Juncker est politicien.",
+              "answer": true
+            },
+            {
+              "lb": "Superjhemp ass eng richteg Persoun.",
+              "fr": "Superjhemp est une vraie personne.",
+              "answer": false
+            }
+          ]
         }
       ]
     }

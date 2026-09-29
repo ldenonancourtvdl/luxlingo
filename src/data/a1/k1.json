@@ -6,7 +6,7 @@
   "page": 8,
   "themes": [
     {
-      "id": "k1-moien-an-aeddi",
+      "id": "a1-k1-moien-an-aeddi",
       "title": "Moien! … an Äddi!",
       "titleFr": "Bonjour ! … et au revoir !",
       "vocab": [
@@ -128,10 +128,66 @@
           "lb": "Schéine Mëtteg, Madame Wagner!",
           "fr": "Bon après-midi, Madame Wagner !"
         }
+      ],
+      "readings": [
+        {
+          "title": "Moien am Haus",
+          "text": "Madame Ries: Gudde Moien, Här Weber!\nHär Weber: Moien, Madame Ries! E schéinen Dag!\nMadame Ries: Villmools Merci fir d'Invitatioun.\nHär Weber: Gär geschitt. Schéine Mëtteg!\nMadame Ries: Merci gläichfalls. Äddi, bis muer!\nHär Weber: Äddi!",
+          "textFr": "Madame Ries : Bonjour, Monsieur Weber !\nMonsieur Weber : Bonjour, Madame Ries ! Bonne journée !\nMadame Ries : Merci beaucoup pour l'invitation.\nMonsieur Weber : De rien. Bon après-midi !\nMadame Ries : Merci, pareillement. Au revoir, à demain !\nMonsieur Weber : Au revoir !",
+          "questions": [
+            {
+              "lb": "D'Madame Ries seet Gudde Moien.",
+              "fr": "Madame Ries dit bonjour le matin.",
+              "answer": true
+            },
+            {
+              "lb": "Den Här Weber seet Gudden Owend.",
+              "fr": "Monsieur Weber dit bonsoir.",
+              "answer": false
+            },
+            {
+              "lb": "D'Madame seet Merci fir d'Invitatioun.",
+              "fr": "La dame dit merci pour l'invitation.",
+              "answer": true
+            },
+            {
+              "lb": "Den Här Weber seet Gutt Nuecht.",
+              "fr": "Monsieur Weber dit bonne nuit.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng Notiz vum Tom",
+          "text": "Moien Madame Wagner,\n\nGudde Moien! Villmools Merci fir d'Invitatioun. Gudde Mëtteg a schéine Mëtteg fir Iech. Merci gläichfalls, Madame Wagner. Den Owend: Gudden Owend a schéinen Owend. D'Nuecht: Gutt Nuecht, Madame Wagner. Äddi, bis muer!\n\nTom",
+          "textFr": "Bonjour Madame Wagner,\n\nBonjour ! Merci beaucoup pour l'invitation. Bonjour à midi et bon après-midi à vous. Merci, pareillement, Madame Wagner. Le soir : bonsoir et bonne soirée. La nuit : bonne nuit, Madame Wagner. Au revoir, à demain !\n\nTom",
+          "questions": [
+            {
+              "lb": "D'Notiz ass fir d'Madame Wagner.",
+              "fr": "La note est pour Madame Wagner.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tom seet Merci fir den Dag.",
+              "fr": "Tom dit merci pour la journée.",
+              "answer": false
+            },
+            {
+              "lb": "Den Owend seet den Tom Gudden Owend.",
+              "fr": "Le soir, Tom dit bonsoir.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tom seet Äddi, bis de Mëtteg.",
+              "fr": "Tom dit au revoir, à ce midi.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k1-wei-geet-et",
+      "id": "a1-k1-wei-geet-et",
       "title": "Wéi geet et?",
       "titleFr": "Comment ça va ?",
       "vocab": [
@@ -257,10 +313,66 @@
           "lb": "Mir geet et tipptopp.",
           "fr": "Je vais parfaitement bien."
         }
+      ],
+      "readings": [
+        {
+          "title": "Eng E-Mail vum Ben",
+          "text": "Moien Lea,\n\nwéi geet et dir? Mir geet et net gutt. Ech si krank an ech si ganz midd. De Mëtteg geet et alt esou. Den Owend geet et mir schlecht. A wéi geet et dir? Bass du tipptopp?\n\nÄddi,\nBen",
+          "textFr": "Salut Léa,\n\ncomment vas-tu ? Je ne vais pas bien. Je suis malade et je suis très fatigué. À midi, ça va comme ci comme ça. Le soir, je vais mal. Et toi, comment vas-tu ? Vas-tu parfaitement bien ?\n\nAu revoir,\nBen",
+          "questions": [
+            {
+              "lb": "Dem Ben geet et net gutt.",
+              "fr": "Ben ne va pas bien.",
+              "answer": true
+            },
+            {
+              "lb": "De Ben ass krank a midd.",
+              "fr": "Ben est malade et fatigué.",
+              "answer": true
+            },
+            {
+              "lb": "De Mëtteg ass de Ben tipptopp.",
+              "fr": "À midi, Ben va parfaitement bien.",
+              "answer": false
+            },
+            {
+              "lb": "Den Owend geet et him gutt.",
+              "fr": "Le soir, il va bien.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Moies am Cours",
+          "text": "Mara: Gudde Moien, Tom. Wéi geet et Iech?\nTom: Mir geet et gutt, Merci. An Iech?\nMara: Net immens. Ech si midd. Ech si net krank.\nTom: Alt esou?\nMara: Jo, et geet. Schéine Mëtteg!\nTom: Merci gläichfalls, Äddi!",
+          "textFr": "Mara : Bonjour, Tom. Comment allez-vous ?\nTom : Je vais bien, merci. Et vous ?\nMara : Pas terrible. Je suis fatiguée. Je ne suis pas malade.\nTom : Comme ci comme ça ?\nMara : Oui, ça va. Bon après-midi !\nTom : Merci, pareillement, au revoir !",
+          "questions": [
+            {
+              "lb": "D'Mara freet den Tom, wéi et geet.",
+              "fr": "Mara demande à Tom comment il va.",
+              "answer": true
+            },
+            {
+              "lb": "Dem Tom geet et schlecht.",
+              "fr": "Tom va mal.",
+              "answer": false
+            },
+            {
+              "lb": "D'Mara ass midd an net krank.",
+              "fr": "Mara est fatiguée et n'est pas malade.",
+              "answer": true
+            },
+            {
+              "lb": "D'Mara ass krank.",
+              "fr": "Mara est malade.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k1-wei-heescht-dir",
+      "id": "a1-k1-wei-heescht-dir",
       "title": "Wéi heescht Dir?",
       "titleFr": "Comment vous appelez-vous ?",
       "vocab": [
@@ -402,10 +514,71 @@
           "lb": "Du heeschs Dylan.",
           "fr": "Tu t'appelles Dylan."
         }
+      ],
+      "readings": [
+        {
+          "title": "Eng Notiz am Cours",
+          "text": "Am Lëtzebuergeschcours ass eng Notiz. De Virnumm ass Nora. De Familljennumm ass Klein. Den Numm ass notéiert. Et ass formell: Mir dierzen eis. Madame Reuter schreift: «Kënnt Dir dat buschtawéieren?» Nora buschtawéiert: K-L-E-I-N. Et freet mech, seet Madame Reuter.",
+          "textFr": "Au cours de luxembourgeois, il y a une note. Le prénom est Nora. Le nom de famille est Klein. Le nom est noté. C'est formel : nous nous vouvoyons. Madame Reuter écrit : « Pouvez-vous l'épeler ? » Nora épelle : K-L-E-I-N. Enchantée, dit Madame Reuter.",
+          "questions": [
+            {
+              "lb": "D'Notiz ass am Lëtzebuergeschcours.",
+              "fr": "La note est au cours de luxembourgeois.",
+              "answer": true
+            },
+            {
+              "lb": "De Familljennumm ass Meyer.",
+              "fr": "Le nom de famille est Meyer.",
+              "answer": false
+            },
+            {
+              "lb": "Si dierzen sech am Cours.",
+              "fr": "Ils se vouvoient au cours.",
+              "answer": true
+            },
+            {
+              "lb": "D'Notiz ass net formell.",
+              "fr": "La note n'est pas formelle.",
+              "answer": false
+            },
+            {
+              "lb": "D'Nora buschtawéiert de Numm K-L-E-I-N.",
+              "fr": "Nora épelle le nom K-L-E-I-N.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "title": "De Numm Rossi",
+          "text": "Luca: Gudde Mëtteg. Wéi heescht Dir?\nSarah: Ech heeschen Sarah. Mäi Familljennumm ass Rossi.\nLuca: Kënnt Dir dat buschtawéieren, wann ech gelift?\nSarah: R-O-S-S-I. A wéi heeschs du?\nLuca: Ech heeschen Luca. Mir duzen eis, oder?\nSarah: Jo, et freet mech.",
+          "textFr": "Luca : Bonjour. Comment vous appelez-vous ?\nSarah : Je m'appelle Sarah. Mon nom de famille est Rossi.\nLuca : Pouvez-vous l'épeler, s'il vous plaît ?\nSarah : R-O-S-S-I. Et toi, comment t'appelles-tu ?\nLuca : Je m'appelle Luca. Nous nous tutoyons, n'est-ce pas ?\nSarah : Oui, enchantée.",
+          "questions": [
+            {
+              "lb": "D'Fra heescht Sarah.",
+              "fr": "La femme s'appelle Sarah.",
+              "answer": true
+            },
+            {
+              "lb": "De Familljennumm ass Klein.",
+              "fr": "Le nom de famille est Klein.",
+              "answer": false
+            },
+            {
+              "lb": "De Luca freet no de Buschtawen.",
+              "fr": "Luca demande les lettres.",
+              "answer": true
+            },
+            {
+              "lb": "Si dierzen sech zum Schluss.",
+              "fr": "Ils se vouvoient à la fin.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k1-wien-ass-dat",
+      "id": "a1-k1-wien-ass-dat",
       "title": "Wien ass dat?",
       "titleFr": "Qui est-ce ?",
       "vocab": [
@@ -527,10 +700,66 @@
           "lb": "Dat ass den Här Losch.",
           "fr": "C'est Monsieur Losch."
         }
+      ],
+      "readings": [
+        {
+          "title": "An der Klass",
+          "text": "Am Lëtzebuergeschcours ass eng Klass. D'Leit sinn do. De Pol freet: «Wien ass dat?» Dat ass d'Paula. Dat ass de Marc. Den Här Losch ass den Noper. D'Madame Weber ass och do. De Mann heescht Marc, an d'Fra heescht Paula.",
+          "textFr": "Au cours de luxembourgeois, il y a une classe. Les gens sont là. Pol demande : « Qui est-ce ? » C'est Paula. C'est Marc. Monsieur Losch est le voisin. Madame Weber est aussi là. L'homme s'appelle Marc, et la femme s'appelle Paula.",
+          "questions": [
+            {
+              "lb": "D'Leit sinn am Lëtzebuergeschcours.",
+              "fr": "Les gens sont au cours de luxembourgeois.",
+              "answer": true
+            },
+            {
+              "lb": "De Pol freet net.",
+              "fr": "Pol ne demande rien.",
+              "answer": false
+            },
+            {
+              "lb": "Den Noper heescht Här Losch.",
+              "fr": "Le voisin s'appelle Monsieur Losch.",
+              "answer": true
+            },
+            {
+              "lb": "D'Madame Weber ass net do.",
+              "fr": "Madame Weber n'est pas là.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "De Ronny an d'Amélie",
+          "text": "Tom: Gudden Owend. Bass du de Ronny?\nRonny: Jo, ech sinn de Ronny.\nTom: Wien ass dat, Ronny?\nRonny: Dat ass d'Amélie. Si ass eng Fra aus der Klass.\nTom: An dat? Ass dat den Här Klein?\nRonny: Nee, dat ass den Här Losch. Et freet mech.",
+          "textFr": "Tom : Bonsoir. Es-tu Ronny ?\nRonny : Oui, je suis Ronny.\nTom : Qui est-ce, Ronny ?\nRonny : C'est Amélie. C'est une femme de la classe.\nTom : Et cela ? Est-ce Monsieur Klein ?\nRonny : Non, c'est Monsieur Losch. Enchanté.",
+          "questions": [
+            {
+              "lb": "Den Tom seet Gudden Owend.",
+              "fr": "Tom dit bonsoir.",
+              "answer": true
+            },
+            {
+              "lb": "De Ronny heescht Marc.",
+              "fr": "Ronny s'appelle Marc.",
+              "answer": false
+            },
+            {
+              "lb": "D'Amélie ass an der Klass.",
+              "fr": "Amélie est dans la classe.",
+              "answer": true
+            },
+            {
+              "lb": "Den Här Losch ass den Här Klein.",
+              "fr": "Monsieur Losch est Monsieur Klein.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k1-vu-wou-kommt-dir",
+      "id": "a1-k1-vu-wou-kommt-dir",
       "title": "Vu wou kommt Dir?",
       "titleFr": "D'où venez-vous ?",
       "vocab": [
@@ -680,10 +909,66 @@
           "lb": "Ech kommen aus der Stad.",
           "fr": "Je viens de la ville."
         }
+      ],
+      "readings": [
+        {
+          "title": "Eng Kaart un d'Nora",
+          "text": "Moien Nora,\n\nech kommen aus Frankräich. Ech komme vu Metz. D'Ana kënnt aus der Belsch, vu Bréissel. De Fändel vu Frankräich ass rout, wäiss a blo. De Fändel vun der Belsch ass schwaarz, giel a rout. Ech sinn elo an der Stad.\n\nÄddi,\nPaul",
+          "textFr": "Salut Nora,\n\nje viens de France. Je viens de Metz. Ana vient de Belgique, de Bruxelles. Le drapeau de la France est rouge, blanc et bleu. Le drapeau de la Belgique est noir, jaune et rouge. Je suis maintenant en ville.\n\nAu revoir,\nPaul",
+          "questions": [
+            {
+              "lb": "De Paul kënnt vu Metz.",
+              "fr": "Paul vient de Metz.",
+              "answer": true
+            },
+            {
+              "lb": "D'Ana kënnt aus Däitschland.",
+              "fr": "Ana vient d'Allemagne.",
+              "answer": false
+            },
+            {
+              "lb": "D'Faarwe vu Frankräich si rout, wäiss a blo.",
+              "fr": "Les couleurs de la France sont le rouge, le blanc et le bleu.",
+              "answer": true
+            },
+            {
+              "lb": "De belsche Fändel ass donkelblo.",
+              "fr": "Le drapeau belge est bleu foncé.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Vu wou am Cours",
+          "text": "Am Cours freet Madame Weber: «Vu wou kommt Dir?» De Sam kënnt aus Amerika. Hie kënnt aus der Stad. D'Li kënnt aus China. D'Li seet: «De Fändel ass rout a giel.» De Sam seet: «Meng Faarf ass donkelblo.» Äddi, bis muer!",
+          "textFr": "Au cours, Madame Weber demande : « D'où venez-vous ? » Sam vient des États-Unis. Il vient de la ville. Li vient de Chine. Li dit : « Le drapeau est rouge et jaune. » Sam dit : « Ma couleur est bleu foncé. » Au revoir, à demain !",
+          "questions": [
+            {
+              "lb": "D'Madame Weber freet no dem Land.",
+              "fr": "Madame Weber demande le pays.",
+              "answer": true
+            },
+            {
+              "lb": "De Sam kënnt aus Russland.",
+              "fr": "Sam vient de Russie.",
+              "answer": false
+            },
+            {
+              "lb": "D'Li ass aus China.",
+              "fr": "Li est de Chine.",
+              "answer": true
+            },
+            {
+              "lb": "D'Li seet: De Fändel ass schwaarz.",
+              "fr": "Li dit : le drapeau est noir.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k1-lanner-leit-a-sproochen",
+      "id": "a1-k1-lanner-leit-a-sproochen",
       "title": "Länner, Leit a Sproochen",
       "titleFr": "Pays, personnes et langues",
       "vocab": [
@@ -837,10 +1122,71 @@
           "lb": "Ech schwätze kee Franséisch.",
           "fr": "Je ne parle pas français."
         }
+      ],
+      "readings": [
+        {
+          "title": "Sproochen am Cours",
+          "text": "Am Lëtzebuergeschcours schwätzen d'Leit. De Paulo ass Portugis. Hie schwätzt Portugisesch a Franséisch. Hie léiert Lëtzebuergesch. D'Nina kënnt aus Frankräich. Si ass Franséisin. Si schwätzt Franséisch an e bësse Däitsch. Doheem schwätzt si kee Spuenesch.",
+          "textFr": "Au cours de luxembourgeois, les gens parlent. Paulo est Portugais. Il parle portugais et français. Il apprend le luxembourgeois. Nina vient de France. Elle est Française. Elle parle français et un peu allemand. À la maison, elle ne parle pas espagnol.",
+          "questions": [
+            {
+              "lb": "De Paulo ass e Portugis.",
+              "fr": "Paulo est Portugais.",
+              "answer": true
+            },
+            {
+              "lb": "De Paulo léiert Lëtzebuergesch.",
+              "fr": "Paulo apprend le luxembourgeois.",
+              "answer": true
+            },
+            {
+              "lb": "D'Nina kënnt aus der Belsch.",
+              "fr": "Nina vient de Belgique.",
+              "answer": false
+            },
+            {
+              "lb": "D'Nina schwätzt e bësse Däitsch.",
+              "fr": "Nina parle un peu allemand.",
+              "answer": true
+            },
+            {
+              "lb": "Doheem schwätzt d'Nina Spuenesch.",
+              "fr": "À la maison, Nina parle espagnol.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Eng E-Mail iwwer Sproochen",
+          "text": "Léif Tom,\n\nech léiere Lëtzebuergesch. Doheem schwätze mir Franséisch. Meng Fra ass Polin. Si schwätzt Polnesch an e bësse Däitsch. Ech schwätze Englesch. Ech schwätze kee Russesch. Am Cours schwätzen d'Leit Italienesch. D'Sproochen si schéin.\n\nÄddi,\nMarc",
+          "textFr": "Cher Tom,\n\nj'apprends le luxembourgeois. À la maison, nous parlons français. Ma femme est Polonaise. Elle parle polonais et un peu allemand. Je parle anglais. Je ne parle pas russe. Au cours, les gens parlent italien. Les langues sont belles.\n\nAu revoir,\nMarc",
+          "questions": [
+            {
+              "lb": "De Marc léiert Lëtzebuergesch.",
+              "fr": "Marc apprend le luxembourgeois.",
+              "answer": true
+            },
+            {
+              "lb": "Doheem schwätze si Däitsch.",
+              "fr": "À la maison, ils parlent allemand.",
+              "answer": false
+            },
+            {
+              "lb": "Dem Marc seng Fra ass Polin.",
+              "fr": "La femme de Marc est Polonaise.",
+              "answer": true
+            },
+            {
+              "lb": "De Marc schwätzt Russesch.",
+              "fr": "Marc parle russe.",
+              "answer": false
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "k1-land-a-leit-dland-letzebuerg",
+      "id": "a1-k1-land-a-leit-dland-letzebuerg",
       "title": "Land a Leit: D'Land Lëtzebuerg",
       "titleFr": "Pays et habitants : le Luxembourg",
       "vocab": [
@@ -997,6 +1343,62 @@
         {
           "lb": "Esch-Uelzecht ass am Süden.",
           "fr": "Esch-sur-Alzette est au sud."
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng Kaart vu Lëtzebuerg",
+          "text": "Lëtzebuerg huet dräi Noperen. Am Westen ass d'Belsch. Am Süden ass Frankräich. Am Osten ass Däitschland. D'Stad Lëtzebuerg ass d'Haaptstad. Am Norden ass d'Éislek. Am Süden ass de Minett. D'Musel ass am Osten. Clierf ass am Norden. Esch-Uelzecht ass am Süden.",
+          "textFr": "Le Luxembourg a trois voisins. À l'ouest se trouve la Belgique. Au sud se trouve la France. À l'est se trouve l'Allemagne. La ville de Luxembourg est la capitale. Au nord se trouve l'Oesling. Au sud se trouve le Minett. La Moselle est à l'est. Clervaux est au nord. Esch-sur-Alzette est au sud.",
+          "questions": [
+            {
+              "lb": "Et ginn dräi Noperen ëm Lëtzebuerg.",
+              "fr": "Il y a trois voisins autour du Luxembourg.",
+              "answer": true
+            },
+            {
+              "lb": "D'Belsch ass am Osten.",
+              "fr": "La Belgique est à l'est.",
+              "answer": false
+            },
+            {
+              "lb": "D'Haaptstad ass d'Stad Lëtzebuerg.",
+              "fr": "La capitale est la ville de Luxembourg.",
+              "answer": true
+            },
+            {
+              "lb": "De Minett ass am Norden.",
+              "fr": "Le Minett est au nord.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Sproochen a Regiounen",
+          "text": "Am Cours schwätzt Madame Ries iwwer d'Land Lëtzebuerg. Si seet: «Lëtzebuerg huet dräi offiziell Sproochen: Lëtzebuergesch, Däitsch a Franséisch.» Tom freet: «Wou ass Clierf?» Madame Ries seet: «Clierf ass am Norden. Esch-Uelzecht ass am Süden. De Mëllerdall ass am Osten.»",
+          "textFr": "Au cours, Madame Ries parle du Luxembourg. Elle dit : « Le Luxembourg a trois langues officielles : le luxembourgeois, l'allemand et le français. » Tom demande : « Où est Clervaux ? » Madame Ries dit : « Clervaux est au nord. Esch-sur-Alzette est au sud. Le Müllerthal est à l'est. »",
+          "questions": [
+            {
+              "lb": "D'Land huet dräi offiziell Sproochen.",
+              "fr": "Le pays a trois langues officielles.",
+              "answer": true
+            },
+            {
+              "lb": "Englesch ass eng offiziell Sprooch.",
+              "fr": "L'anglais est une langue officielle.",
+              "answer": false
+            },
+            {
+              "lb": "D'Uertschaft Clierf ass am Norden.",
+              "fr": "La localité de Clervaux est au nord.",
+              "answer": true
+            },
+            {
+              "lb": "Esch-Uelzecht ass am Westen.",
+              "fr": "Esch-sur-Alzette est à l'ouest.",
+              "answer": false
+            }
+          ]
         }
       ]
     }

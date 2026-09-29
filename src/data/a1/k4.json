@@ -1,0 +1,1387 @@
+{
+  "id": 4,
+  "title": "Aarbecht a Fräizäit",
+  "titleFr": "Travail et loisirs",
+  "descriptionFr": "Décrire sa journée, parler de ses loisirs, fixer un rendez-vous et parler du temps.",
+  "page": 50,
+  "themes": [
+    {
+      "id": "a1-k4-aarbecht-a-fraizait",
+      "title": "Aarbecht a Fräizäit",
+      "titleFr": "Travail et loisirs",
+      "vocab": [
+        {
+          "lb": "d'Aarbecht",
+          "fr": "le travail"
+        },
+        {
+          "lb": "de Job",
+          "fr": "l'emploi"
+        },
+        {
+          "lb": "d'Bank",
+          "fr": "la banque"
+        },
+        {
+          "lb": "d'Crèche",
+          "fr": "la crèche"
+        },
+        {
+          "lb": "d'Clienten",
+          "fr": "les clients"
+        },
+        {
+          "lb": "d'Investitiounen",
+          "fr": "les investissements"
+        },
+        {
+          "lb": "d'Famill",
+          "fr": "la famille"
+        },
+        {
+          "lb": "d'Meedchen",
+          "fr": "la fille"
+        },
+        {
+          "lb": "de Mann",
+          "fr": "le mari"
+        },
+        {
+          "lb": "d'Spillplaz",
+          "fr": "l'aire de jeux"
+        },
+        {
+          "lb": "d'Schwämm",
+          "fr": "la piscine"
+        },
+        {
+          "lb": "de Fitness",
+          "fr": "la salle de sport"
+        },
+        {
+          "lb": "de Kino",
+          "fr": "le cinéma"
+        },
+        {
+          "lb": "hallef Deeg",
+          "fr": "à mi-temps"
+        },
+        {
+          "lb": "oppassen",
+          "fr": "garder"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "D'Manuela schafft op enger Bank.",
+          "fr": "Manuela travaille dans une banque."
+        },
+        {
+          "lb": "Si schafft hallef Deeg.",
+          "fr": "Elle travaille à mi-temps."
+        },
+        {
+          "lb": "De Job ass stresseg.",
+          "fr": "Le travail est stressant."
+        },
+        {
+          "lb": "Nomëttes huet si Zäit.",
+          "fr": "L'après-midi, elle a du temps.",
+          "alt": [
+            "Si huet nomëttes Zäit."
+          ]
+        },
+        {
+          "lb": "Si geet op d'Spillplaz.",
+          "fr": "Elle va à l'aire de jeux."
+        },
+        {
+          "lb": "Owes ass d'Famill zesummen.",
+          "fr": "Le soir, la famille est ensemble.",
+          "alt": [
+            "D'Famill ass owes zesummen."
+          ]
+        },
+        {
+          "lb": "Meng Mamm passt op d'Laura op.",
+          "fr": "Ma mère garde Laura."
+        },
+        {
+          "lb": "Heiansdo geet si an de Kino.",
+          "fr": "Parfois, elle va au cinéma.",
+          "alt": [
+            "Si geet heiansdo an de Kino."
+          ]
+        },
+        {
+          "lb": "Dënschdes geet si an de Fitness.",
+          "fr": "Le mardi, elle va à la salle de sport.",
+          "alt": [
+            "Si geet dënschdes an de Fitness."
+          ]
+        },
+        {
+          "lb": "Hir Duechter geet an d'Crèche.",
+          "fr": "Sa fille va à la crèche."
+        }
+      ],
+      "readings": [
+        {
+          "title": "D'Claire an hir Famill",
+          "text": "D'Claire schafft moies op enger Bank. Si schafft hallef Deeg, an de Job ass heiansdo stresseg. Nomëttes huet si Zäit fir hir Famill. Hir Duechter Emma geet an d'Crèche. Um véier Auer geet d'Claire mat Emma op d'Spillplaz. Owes ass d'Famill zesummen. Heiansdo geet d'Claire an de Kino.",
+          "textFr": "Claire travaille le matin dans une banque. Elle travaille à mi-temps, et le travail est parfois stressant. L'après-midi, elle a du temps pour sa famille. Sa fille Emma va à la crèche. À quatre heures, Claire va avec Emma à l'aire de jeux. Le soir, la famille est ensemble. Parfois, Claire va au cinéma.",
+          "questions": [
+            {
+              "lb": "D'Claire schafft hallef Deeg.",
+              "fr": "Claire travaille à mi-temps.",
+              "answer": true
+            },
+            {
+              "lb": "Hir Duechter geet an d'Schoul.",
+              "fr": "Sa fille va à l'école.",
+              "answer": false
+            },
+            {
+              "lb": "Um véier Auer geet d'Claire an de Fitness.",
+              "fr": "À quatre heures, Claire va à la salle de sport.",
+              "answer": false
+            },
+            {
+              "lb": "D'Famill ass owes zesummen.",
+              "fr": "La famille est ensemble le soir.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "title": "Am Chat mam Ben",
+          "text": "Nora: Moien Ben, wéi ass däi Job?\nBen: Ech schaffen an enger Crèche. De Job ass flott, mee heiansdo stresseg.\nNora: Wat méchs du nomëttes?\nBen: Ech passen op d'Meedchen Mia op. Duerno ginn ech an d'Schwämm. Owes ass meng Famill zesummen.\nNora: Gees du och an de Fitness?\nBen: Jo, dënschdes ginn ech an de Fitness.",
+          "textFr": "Nora : Salut Ben, comment est ton travail ?\nBen : Je travaille dans une crèche. Le travail est chouette, mais parfois stressant.\nNora : Que fais-tu l'après-midi ?\nBen : Je garde la petite fille Mia. Ensuite, je vais à la piscine. Le soir, ma famille est ensemble.\nNora : Tu vas aussi à la salle de sport ?\nBen : Oui, le mardi je vais à la salle de sport.",
+          "questions": [
+            {
+              "lb": "De Ben schafft an enger Crèche.",
+              "fr": "Ben travaille dans une crèche.",
+              "answer": true
+            },
+            {
+              "lb": "De Job ass ëmmer roueg.",
+              "fr": "Le travail est toujours calme.",
+              "answer": false
+            },
+            {
+              "lb": "Nomëttes geet de Ben an d'Schwämm.",
+              "fr": "L'après-midi, Ben va à la piscine.",
+              "answer": true
+            },
+            {
+              "lb": "Owes ass de Ben eleng.",
+              "fr": "Le soir, Ben est seul.",
+              "answer": false
+            },
+            {
+              "lb": "Dënschdes geet de Ben an de Fitness.",
+              "fr": "Le mardi, Ben va à la salle de sport.",
+              "answer": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1-k4-vu-moies-bis-owes",
+      "title": "Vu moies bis owes",
+      "titleFr": "Du matin au soir",
+      "vocab": [
+        {
+          "lb": "moies",
+          "fr": "le matin"
+        },
+        {
+          "lb": "mëttes",
+          "fr": "à midi"
+        },
+        {
+          "lb": "nomëttes",
+          "fr": "l'après-midi"
+        },
+        {
+          "lb": "owes",
+          "fr": "le soir"
+        },
+        {
+          "lb": "d'Dusch",
+          "fr": "la douche"
+        },
+        {
+          "lb": "d'Mëttesstonn",
+          "fr": "la pause de midi"
+        },
+        {
+          "lb": "de Stot",
+          "fr": "le ménage"
+        },
+        {
+          "lb": "erwächen",
+          "fr": "se réveiller"
+        },
+        {
+          "lb": "duschen",
+          "fr": "prendre une douche"
+        },
+        {
+          "lb": "Kaffi drénken",
+          "fr": "boire du café"
+        },
+        {
+          "lb": "um Büro sinn",
+          "fr": "être au bureau"
+        },
+        {
+          "lb": "op d'Aarbecht fueren",
+          "fr": "aller au travail"
+        },
+        {
+          "lb": "heemfueren",
+          "fr": "rentrer chez soi"
+        },
+        {
+          "lb": "akafen",
+          "fr": "faire les courses"
+        },
+        {
+          "lb": "iessen",
+          "fr": "manger"
+        },
+        {
+          "lb": "schlofen",
+          "fr": "dormir"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "De Pol erwächt fréi.",
+          "fr": "Pol se réveille tôt.",
+          "alt": [
+            "Fréi erwächt de Pol."
+          ]
+        },
+        {
+          "lb": "Hien duscht um siwen Auer.",
+          "fr": "Il prend une douche à sept heures.",
+          "alt": [
+            "Um siwen Auer duscht hien."
+          ]
+        },
+        {
+          "lb": "Moies drénkt hie Kaffi.",
+          "fr": "Le matin, il boit du café."
+        },
+        {
+          "lb": "Hien ass um Büro.",
+          "fr": "Il est au bureau."
+        },
+        {
+          "lb": "Mëttes ësst hien an der Kantin.",
+          "fr": "À midi, il mange à la cantine.",
+          "alt": [
+            "Hien ësst mëttes an der Kantin."
+          ]
+        },
+        {
+          "lb": "Nomëttes mécht hien de Stot.",
+          "fr": "L'après-midi, il fait le ménage."
+        },
+        {
+          "lb": "Owes fiert hien heem.",
+          "fr": "Le soir, il rentre chez lui."
+        },
+        {
+          "lb": "Hie geet spéit schlofen.",
+          "fr": "Il va dormir tard.",
+          "alt": [
+            "Spéit geet hie schlofen."
+          ]
+        },
+        {
+          "lb": "Um siwen Auer geet si an d'Dusch.",
+          "fr": "À sept heures, elle va prendre sa douche.",
+          "alt": [
+            "Si geet um siwen Auer an d'Dusch."
+          ]
+        },
+        {
+          "lb": "Um zwou Auer fiert si heem.",
+          "fr": "À deux heures, elle rentre chez elle.",
+          "alt": [
+            "Si fiert um zwou Auer heem."
+          ]
+        }
+      ],
+      "readings": [
+        {
+          "title": "Meng Moiesroutine",
+          "text": "Ech sinn de Marc. Ech erwächen um sechs Auer. Um hallwer siwen ginn ech an d'Dusch. Duerno drénken ech Kaffi an iessen e Brout. Um aacht Auer fueren ech op d'Aarbecht. Mëttes sinn ech am Büro an ech iessen an der Kantin. Um zwou Auer fueren ech heem. Nomëttes kafen ech an a maachen de Stot. Owes ginn ech fréi schlofen.",
+          "textFr": "Je suis Marc. Je me réveille à six heures. À six heures et demie, je vais prendre ma douche. Ensuite, je bois du café et je mange un pain. À huit heures, je vais au travail. À midi, je suis au bureau et je mange à la cantine. À deux heures, je rentre chez moi. L'après-midi, je fais les courses et je fais le ménage. Le soir, je vais dormir tôt.",
+          "questions": [
+            {
+              "lb": "De Marc erwächt um sechs Auer.",
+              "fr": "Marc se réveille à six heures.",
+              "answer": true
+            },
+            {
+              "lb": "Hien duscht um aacht Auer.",
+              "fr": "Il prend sa douche à huit heures.",
+              "answer": false
+            },
+            {
+              "lb": "Mëttes ësst de Marc an der Kantin.",
+              "fr": "À midi, Marc mange à la cantine.",
+              "answer": true
+            },
+            {
+              "lb": "Um zwou Auer fiert hien op d'Aarbecht.",
+              "fr": "À deux heures, il va au travail.",
+              "answer": false
+            },
+            {
+              "lb": "Nomëttes mécht de Marc de Stot.",
+              "fr": "L'après-midi, Marc fait le ménage.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "title": "Dem Pol säin Dag",
+          "text": "Dem Pol säin Dag:\n06:30 De Pol erwächt fréi.\n07:00 Hien duscht an drénkt Kaffi.\n08:00 Hien ass um Büro.\n12:00 An der Mëttesstonn ësst hie mat der Kollegin an der Kantin.\n14:00 Hien fiert heem.\n16:00 Hien mécht de Stot.\n22:30 Hie geet spéit schlofen.",
+          "textFr": "La journée de Pol :\n06:30 Pol se réveille tôt.\n07:00 Il prend une douche et boit du café.\n08:00 Il est au bureau.\n12:00 Pendant la pause de midi, il mange avec sa collègue à la cantine.\n14:00 Il rentre chez lui.\n16:00 Il fait le ménage.\n22:30 Il va dormir tard.",
+          "questions": [
+            {
+              "lb": "De Pol erwächt um hallwer siwen.",
+              "fr": "Pol se réveille à six heures et demie.",
+              "answer": true
+            },
+            {
+              "lb": "Um siwen Auer drénkt hie Kaffi.",
+              "fr": "À sept heures, il boit du café.",
+              "answer": true
+            },
+            {
+              "lb": "Mëttes ësst hie doheem.",
+              "fr": "À midi, il mange à la maison.",
+              "answer": false
+            },
+            {
+              "lb": "Um zwou Auer fiert de Pol heem.",
+              "fr": "À deux heures, Pol rentre chez lui.",
+              "answer": true
+            },
+            {
+              "lb": "Hie geet fréi schlofen.",
+              "fr": "Il va dormir tôt.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1-k4-wat-maacht-dir-an-arer-fraizait",
+      "title": "Wat maacht Dir an Ärer Fräizäit?",
+      "titleFr": "Que faites-vous pendant votre temps libre ?",
+      "vocab": [
+        {
+          "lb": "Musek lauschteren",
+          "fr": "écouter de la musique"
+        },
+        {
+          "lb": "d'Tëlee kucken",
+          "fr": "regarder la télévision"
+        },
+        {
+          "lb": "liesen",
+          "fr": "lire"
+        },
+        {
+          "lb": "Playstation spillen",
+          "fr": "jouer à la PlayStation"
+        },
+        {
+          "lb": "op e Concert goen",
+          "fr": "aller à un concert"
+        },
+        {
+          "lb": "kachen",
+          "fr": "cuisiner"
+        },
+        {
+          "lb": "spadséiere goen",
+          "fr": "aller se promener"
+        },
+        {
+          "lb": "an de Kino goen",
+          "fr": "aller au cinéma"
+        },
+        {
+          "lb": "lafe goen",
+          "fr": "aller courir"
+        },
+        {
+          "lb": "eppes drénke goen",
+          "fr": "aller boire quelque chose"
+        },
+        {
+          "lb": "schwammen",
+          "fr": "nager"
+        },
+        {
+          "lb": "danzen",
+          "fr": "danser"
+        },
+        {
+          "lb": "molen",
+          "fr": "peindre"
+        },
+        {
+          "lb": "Fotoe maachen",
+          "fr": "prendre des photos"
+        },
+        {
+          "lb": "Schach spillen",
+          "fr": "jouer aux échecs"
+        },
+        {
+          "lb": "Piano spillen",
+          "fr": "jouer du piano"
+        },
+        {
+          "lb": "Sport maachen",
+          "fr": "faire du sport"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Ech lauschtere gär Musek.",
+          "fr": "J'aime écouter de la musique."
+        },
+        {
+          "lb": "Ech liesen net gär.",
+          "fr": "Je n'aime pas lire."
+        },
+        {
+          "lb": "Gitt Dir gär an de Kino?",
+          "fr": "Aimez-vous aller au cinéma ?"
+        },
+        {
+          "lb": "Nee, ech ginn net gär an de Kino.",
+          "fr": "Non, je n'aime pas aller au cinéma."
+        },
+        {
+          "lb": "Ech kucke gär d'Tëlee.",
+          "fr": "J'aime regarder la télévision."
+        },
+        {
+          "lb": "Meng Hobbye sinn Tennis a Schach.",
+          "fr": "Mes loisirs sont le tennis et les échecs."
+        },
+        {
+          "lb": "Mäi Hobby ass Kachen.",
+          "fr": "Mon loisir est la cuisine."
+        },
+        {
+          "lb": "Hie mécht ganz gär Sport.",
+          "fr": "Il aime beaucoup faire du sport."
+        },
+        {
+          "lb": "Si spillt gär Fussball.",
+          "fr": "Elle aime jouer au football."
+        },
+        {
+          "lb": "Mir ginn net gär schwammen.",
+          "fr": "Nous n'aimons pas aller nager."
+        },
+        {
+          "lb": "Wat méchs du gär?",
+          "fr": "Qu'aimes-tu faire ?"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng Noriicht vun der Mila",
+          "text": "Salut Lea,\n\nech hunn haut fräi. Moies lauschteren ech gär Musek an ech maachen Fotoen am Park. Nomëttes ginn ech mam Karim spadséieren. Owes kache mir zesummen. Ech ginn net gär an de Kino, mee de Karim kuckt gär d'Tëlee. Meng Hobbye sinn Schach a Kachen.\n\nBis geschwënn,\nMila",
+          "textFr": "Salut Lea,\n\naujourd'hui, j'ai congé. Le matin, j'aime écouter de la musique et je prends des photos au parc. L'après-midi, je vais me promener avec Karim. Le soir, nous cuisinons ensemble. Je n'aime pas aller au cinéma, mais Karim aime regarder la télévision. Mes loisirs sont les échecs et la cuisine.\n\nÀ bientôt,\nMila",
+          "questions": [
+            {
+              "lb": "D'Mila lauschtert gär Musek.",
+              "fr": "Mila aime écouter de la musique.",
+              "answer": true
+            },
+            {
+              "lb": "Si mécht Fotoen am Kino.",
+              "fr": "Elle prend des photos au cinéma.",
+              "answer": false
+            },
+            {
+              "lb": "Si geet mam Karim spadséieren.",
+              "fr": "Elle va se promener avec Karim.",
+              "answer": true
+            },
+            {
+              "lb": "D'Mila geet gär an de Kino.",
+              "fr": "Mila aime aller au cinéma.",
+              "answer": false
+            },
+            {
+              "lb": "De Karim kuckt gär d'Tëlee.",
+              "fr": "Karim aime regarder la télévision.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "title": "Hobbyen am Café",
+          "text": "Tom: Wat méchs du gär, Sara?\nSara: Ech maachen gär Sport an ech spillen all Samschdeg Tennis.\nTom: Lies du gär?\nSara: Nee, ech liesen net gär. Ech ginn och net gär schwammen.\nTom: Ech spillen Piano a molen heiansdo.\nSara: Flott. Ech lauschtere gär Musek, mee ech danzen net gär.",
+          "textFr": "Tom : Qu'aimes-tu faire, Sara ?\nSara : J'aime faire du sport et je joue au tennis tous les samedis.\nTom : Aimes-tu lire ?\nSara : Non, je n'aime pas lire. Je n'aime pas non plus aller nager.\nTom : Je joue du piano et je peins parfois.\nSara : Chouette. J'aime écouter de la musique, mais je n'aime pas danser.",
+          "questions": [
+            {
+              "lb": "D'Sara spillt all Samschdeg Tennis.",
+              "fr": "Sara joue au tennis tous les samedis.",
+              "answer": true
+            },
+            {
+              "lb": "D'Sara liest ganz gär.",
+              "fr": "Sara aime beaucoup lire.",
+              "answer": false
+            },
+            {
+              "lb": "De Tom spillt Piano.",
+              "fr": "Tom joue du piano.",
+              "answer": true
+            },
+            {
+              "lb": "D'Sara geet gär schwammen.",
+              "fr": "Sara aime aller nager.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1-k4-weini-a-wei-oft-maacht-dir-dat",
+      "title": "Wéini a wéi oft maacht Dir dat?",
+      "titleFr": "Quand et à quelle fréquence faites-vous cela ?",
+      "vocab": [
+        {
+          "lb": "wéini",
+          "fr": "quand"
+        },
+        {
+          "lb": "wéi oft",
+          "fr": "à quelle fréquence"
+        },
+        {
+          "lb": "all Dag",
+          "fr": "tous les jours"
+        },
+        {
+          "lb": "ee Mol d'Woch",
+          "fr": "une fois par semaine"
+        },
+        {
+          "lb": "zwee Mol de Mount",
+          "fr": "deux fois par mois"
+        },
+        {
+          "lb": "dräi Mol d'Woch",
+          "fr": "trois fois par semaine"
+        },
+        {
+          "lb": "fënnef Deeg d'Woch",
+          "fr": "cinq jours par semaine"
+        },
+        {
+          "lb": "ni",
+          "fr": "jamais"
+        },
+        {
+          "lb": "heiansdo",
+          "fr": "parfois"
+        },
+        {
+          "lb": "oft / dacks",
+          "fr": "souvent"
+        },
+        {
+          "lb": "normalerweis",
+          "fr": "normalement"
+        },
+        {
+          "lb": "ongeféier",
+          "fr": "environ"
+        },
+        {
+          "lb": "méindes",
+          "fr": "le lundi"
+        },
+        {
+          "lb": "mëttwochs",
+          "fr": "le mercredi"
+        },
+        {
+          "lb": "freides",
+          "fr": "le vendredi"
+        },
+        {
+          "lb": "samschdes",
+          "fr": "le samedi"
+        },
+        {
+          "lb": "sonndes",
+          "fr": "le dimanche"
+        },
+        {
+          "lb": "freides owes",
+          "fr": "le vendredi soir"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Wéini méchs du dat?",
+          "fr": "Quand fais-tu cela ?"
+        },
+        {
+          "lb": "Wéi oft gees du lafen?",
+          "fr": "À quelle fréquence vas-tu courir ?"
+        },
+        {
+          "lb": "Ech ginn ni lafen.",
+          "fr": "Je ne vais jamais courir.",
+          "alt": [
+            "Ni ginn ech lafen."
+          ]
+        },
+        {
+          "lb": "Hie schafft fënnef Deeg d'Woch.",
+          "fr": "Il travaille cinq jours par semaine."
+        },
+        {
+          "lb": "Si spillt all Samschdeg Tennis.",
+          "fr": "Elle joue au tennis tous les samedis.",
+          "alt": [
+            "All Samschdeg spillt si Tennis."
+          ]
+        },
+        {
+          "lb": "Freides owes ginn ech schwammen.",
+          "fr": "Le vendredi soir, je vais nager."
+        },
+        {
+          "lb": "E Freideg den Owend ginn ech an de Kino.",
+          "fr": "Un vendredi soir, je vais au cinéma.",
+          "alt": [
+            "Ech ginn e Freideg den Owend an de Kino."
+          ]
+        },
+        {
+          "lb": "Normalerweis ass hien um aacht Auer op der Aarbecht.",
+          "fr": "Normalement, il est au travail à huit heures.",
+          "alt": [
+            "Hien ass normalerweis um aacht Auer op der Aarbecht."
+          ]
+        },
+        {
+          "lb": "Heiansdo geet si an de Restaurant.",
+          "fr": "Parfois, elle va au restaurant.",
+          "alt": [
+            "Si geet heiansdo an de Restaurant."
+          ]
+        },
+        {
+          "lb": "All Dag mécht si Sport.",
+          "fr": "Tous les jours, elle fait du sport.",
+          "alt": [
+            "Si mécht all Dag Sport."
+          ]
+        }
+      ],
+      "readings": [
+        {
+          "title": "D'Sophie mécht Sport",
+          "text": "D'Sophie mécht all Dag Sport. Méindes a mëttwochs geet si lafen. Freides owes geet si schwammen. Si spillt eemol d'Woch Tennis mat hirem Brudder. Samschdes huet si normalerweis Zäit fir de Kino. Sonndes geet si heiansdo an de Restaurant. Si schafft fënnef Deeg d'Woch.",
+          "textFr": "Sophie fait du sport tous les jours. Le lundi et le mercredi, elle va courir. Le vendredi soir, elle va nager. Elle joue au tennis une fois par semaine avec son frère. Le samedi, elle a normalement du temps pour le cinéma. Le dimanche, elle va parfois au restaurant. Elle travaille cinq jours par semaine.",
+          "questions": [
+            {
+              "lb": "All Dag mécht d'Sophie Sport.",
+              "fr": "Sophie fait du sport tous les jours.",
+              "answer": true
+            },
+            {
+              "lb": "Si geet freides owes lafen.",
+              "fr": "Elle va courir le vendredi soir.",
+              "answer": false
+            },
+            {
+              "lb": "Tennis spillt d'Sophie eemol d'Woch.",
+              "fr": "Sophie joue au tennis une fois par semaine.",
+              "answer": true
+            },
+            {
+              "lb": "Samschdes huet si keng Zäit.",
+              "fr": "Le samedi, elle n'a pas le temps.",
+              "answer": false
+            },
+            {
+              "lb": "D'Sophie schafft fënnef Deeg.",
+              "fr": "Sophie travaille cinq jours.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "title": "Eng Noriicht vum Marc",
+          "text": "Moien Pit,\n\ndës Woch hunn ech vill ze dinn. Normalerweis sinn ech um aacht Auer op der Aarbecht. Ech schaffen fënnef Deeg d'Woch. Mëttwochs spillen ech Schach mat Nina. Zweemol de Mount ginn ech eppes drénken. Samschdes ginn ech ongeféier um zéng Auer lafen. Sonndes ginn ech ni schwammen.\n\nBis geschwënn,\nMarc",
+          "textFr": "Salut Pit,\n\ncette semaine, j'ai beaucoup à faire. Normalement, je suis au travail à huit heures. Je travaille cinq jours par semaine. Le mercredi, je joue aux échecs avec Nina. Deux fois par mois, je vais boire quelque chose. Le samedi, je vais courir vers dix heures. Le dimanche, je ne vais jamais nager.\n\nÀ bientôt,\nMarc",
+          "questions": [
+            {
+              "lb": "De Marc ass um aacht Auer op der Aarbecht.",
+              "fr": "Marc est au travail à huit heures.",
+              "answer": true
+            },
+            {
+              "lb": "Hie schafft dräi Deeg d'Woch.",
+              "fr": "Il travaille trois jours par semaine.",
+              "answer": false
+            },
+            {
+              "lb": "Mëttwochs spillt de Marc Schach.",
+              "fr": "Le mercredi, Marc joue aux échecs.",
+              "answer": true
+            },
+            {
+              "lb": "Samschdes geet de Marc lafen.",
+              "fr": "Le samedi, Marc va courir.",
+              "answer": true
+            },
+            {
+              "lb": "Sonndes geet de Marc schwammen.",
+              "fr": "Le dimanche, Marc va nager.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1-k4-wat-maacht-dir-de-weekend",
+      "title": "Wat maacht Dir de Weekend?",
+      "titleFr": "Que faites-vous le week-end ?",
+      "vocab": [
+        {
+          "lb": "de Manifestatiounskalenner",
+          "fr": "le calendrier des manifestations"
+        },
+        {
+          "lb": "de Weekend",
+          "fr": "le week-end"
+        },
+        {
+          "lb": "e Freideg den Owend",
+          "fr": "un vendredi soir"
+        },
+        {
+          "lb": "e Samschdeg de Mëtteg",
+          "fr": "un samedi midi"
+        },
+        {
+          "lb": "e Sonndeg",
+          "fr": "un dimanche"
+        },
+        {
+          "lb": "de Floumaart",
+          "fr": "le marché aux puces"
+        },
+        {
+          "lb": "den Tour duerch d'Alstad",
+          "fr": "la visite de la vieille ville"
+        },
+        {
+          "lb": "an den Theater goen",
+          "fr": "aller au théâtre"
+        },
+        {
+          "lb": "an d'Philharmonie goen",
+          "fr": "aller à la Philharmonie"
+        },
+        {
+          "lb": "e Rendez-vous ausmaachen",
+          "fr": "fixer un rendez-vous"
+        },
+        {
+          "lb": "Zäit hunn",
+          "fr": "avoir le temps"
+        },
+        {
+          "lb": "keng Zäit hunn",
+          "fr": "ne pas avoir le temps"
+        },
+        {
+          "lb": "keng Loscht hunn",
+          "fr": "ne pas avoir envie"
+        },
+        {
+          "lb": "matgoen",
+          "fr": "venir avec"
+        },
+        {
+          "lb": "zesumme fueren",
+          "fr": "partir ensemble"
+        },
+        {
+          "lb": "sichen",
+          "fr": "venir chercher"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Gees du de Weekend mat?",
+          "fr": "Tu viens avec nous ce week-end ?"
+        },
+        {
+          "lb": "Jo, ech hunn Zäit.",
+          "fr": "Oui, j'ai le temps."
+        },
+        {
+          "lb": "Nee, ech hu leider keng Zäit.",
+          "fr": "Non, je n'ai malheureusement pas le temps."
+        },
+        {
+          "lb": "Gitt Dir mat an d'Philharmonie?",
+          "fr": "Vous venez avec nous à la Philharmonie ?"
+        },
+        {
+          "lb": "E Freideg ginn ech an de Kino.",
+          "fr": "Vendredi, je vais au cinéma.",
+          "alt": [
+            "Ech ginn e Freideg an de Kino."
+          ]
+        },
+        {
+          "lb": "Wou leeft de Film?",
+          "fr": "Où passe le film ?"
+        },
+        {
+          "lb": "Um hallwer aacht fänkt de Concert un.",
+          "fr": "Le concert commence à sept heures et demie.",
+          "alt": [
+            "De Concert fänkt um hallwer aacht un."
+          ]
+        },
+        {
+          "lb": "Mir fueren zesummen an d'Stad.",
+          "fr": "Nous allons ensemble en ville."
+        },
+        {
+          "lb": "Ech kommen dech um siwen sichen.",
+          "fr": "Je viens te chercher à sept heures.",
+          "alt": [
+            "Um siwen kommen ech dech sichen."
+          ]
+        },
+        {
+          "lb": "Hues du e Sonndeg Zäit?",
+          "fr": "As-tu du temps dimanche ?",
+          "alt": [
+            "E Sonndeg hues du Zäit?"
+          ]
+        },
+        {
+          "lb": "Bis e Samschdeg!",
+          "fr": "À samedi !"
+        }
+      ],
+      "readings": [
+        {
+          "title": "Rendez-vous de Weekend",
+          "text": "Anna: Moien Max, hues du e Samschdeg de Mëtteg Zäit?\nMax: Jo, ech hunn Zäit. Wat maache mir?\nAnna: Mir ginn op de Floumaart an duerno an d'Alstad.\nMax: Kënnt d'Lea mat?\nAnna: Nee, si huet leider keng Zäit. Ech kommen dech um zwou Auer sichen.\nMax: Super, mir fueren zesummen an d'Stad.",
+          "textFr": "Anna : Salut Max, as-tu le temps samedi midi ?\nMax : Oui, j'ai le temps. Qu'est-ce qu'on fait ?\nAnna : Nous allons au marché aux puces et ensuite dans la vieille ville.\nMax : Lea vient avec nous ?\nAnna : Non, elle n'a malheureusement pas le temps. Je viens te chercher à deux heures.\nMax : Super, nous allons ensemble en ville.",
+          "questions": [
+            {
+              "lb": "De Max huet e Samschdeg Zäit.",
+              "fr": "Max a du temps samedi.",
+              "answer": true
+            },
+            {
+              "lb": "Si ginn net op de Floumaart.",
+              "fr": "Ils ne vont pas au marché aux puces.",
+              "answer": false
+            },
+            {
+              "lb": "D'Lea kënnt mat op de Floumaart.",
+              "fr": "Lea vient avec eux au marché aux puces.",
+              "answer": false
+            },
+            {
+              "lb": "D'Anna kënnt de Max um zwou Auer sichen.",
+              "fr": "Anna vient chercher Max à deux heures.",
+              "answer": true
+            },
+            {
+              "lb": "Si fueren zesummen an d'Stad.",
+              "fr": "Ils vont ensemble en ville.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "title": "Programm vum Weekend",
+          "text": "Manifestatiounskalenner:\nE Freideg den Owend leeft e Film am Kino um siwen Auer. E Samschdeg de Mëtteg ass en Tour duerch d'Alstad. De Guide ass virun der Gare. E Sonndeg geet d'Grupp an d'Philharmonie. De Concert fänkt um hallwer aacht un. Fir den Theater gëtt et dëse Weekend kee Rendez-vous.",
+          "textFr": "Calendrier des manifestations :\nLe vendredi soir, un film passe au cinéma à sept heures. Le samedi midi, il y a une visite de la vieille ville. Le guide est devant la gare. Le dimanche, le groupe va à la Philharmonie. Le concert commence à sept heures et demie. Pour le théâtre, il n'y a pas de rendez-vous ce week-end.",
+          "questions": [
+            {
+              "lb": "De Film leeft e Freideg den Owend.",
+              "fr": "Le film passe le vendredi soir.",
+              "answer": true
+            },
+            {
+              "lb": "Den Tour ass e Sonndeg de Mëtteg.",
+              "fr": "La visite est le dimanche midi.",
+              "answer": false
+            },
+            {
+              "lb": "D'Grupp geet e Sonndeg an d'Philharmonie.",
+              "fr": "Le groupe va à la Philharmonie le dimanche.",
+              "answer": true
+            },
+            {
+              "lb": "Um hallwer aacht fänkt de Concert un.",
+              "fr": "Le concert commence à sept heures et demie.",
+              "answer": true
+            },
+            {
+              "lb": "Fir den Theater gëtt et e Rendez-vous.",
+              "fr": "Pour le théâtre, il y a un rendez-vous.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1-k4-wat-maacht-dir-an-der-vakanz",
+      "title": "Wat maacht Dir an der Vakanz?",
+      "titleFr": "Que faites-vous pendant les vacances ?",
+      "vocab": [
+        {
+          "lb": "d'Vakanz",
+          "fr": "les vacances"
+        },
+        {
+          "lb": "d'Postkaart",
+          "fr": "la carte postale"
+        },
+        {
+          "lb": "d'Wieder",
+          "fr": "la météo"
+        },
+        {
+          "lb": "den Himmel",
+          "fr": "le ciel"
+        },
+        {
+          "lb": "d'Loft",
+          "fr": "le vent"
+        },
+        {
+          "lb": "d'Sonn",
+          "fr": "le soleil"
+        },
+        {
+          "lb": "d'Wollek",
+          "fr": "le nuage"
+        },
+        {
+          "lb": "waarm",
+          "fr": "chaud"
+        },
+        {
+          "lb": "kal",
+          "fr": "froid"
+        },
+        {
+          "lb": "schéin",
+          "fr": "beau"
+        },
+        {
+          "lb": "bedeckt",
+          "fr": "couvert"
+        },
+        {
+          "lb": "reenen",
+          "fr": "pleuvoir"
+        },
+        {
+          "lb": "schneien",
+          "fr": "neiger"
+        },
+        {
+          "lb": "Et sinn ... Grad.",
+          "fr": "Il fait ... degrés."
+        },
+        {
+          "lb": "eng Tour maachen",
+          "fr": "faire un tour"
+        },
+        {
+          "lb": "shoppen",
+          "fr": "faire du shopping"
+        },
+        {
+          "lb": "de Musée",
+          "fr": "le musée"
+        },
+        {
+          "lb": "en Ausfluch maachen",
+          "fr": "faire une excursion"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "D'Wieder ass schéin.",
+          "fr": "Il fait beau."
+        },
+        {
+          "lb": "D'Sonn schéngt haut.",
+          "fr": "Le soleil brille aujourd'hui.",
+          "alt": [
+            "Haut schéngt d'Sonn."
+          ]
+        },
+        {
+          "lb": "Et sinn zwanzeg Grad.",
+          "fr": "Il fait vingt degrés."
+        },
+        {
+          "lb": "Haut reent et vill.",
+          "fr": "Aujourd'hui, il pleut beaucoup.",
+          "alt": [
+            "Et reent haut vill."
+          ]
+        },
+        {
+          "lb": "Et si Wolleken um Himmel.",
+          "fr": "Il y a des nuages dans le ciel."
+        },
+        {
+          "lb": "Et ass vill Loft.",
+          "fr": "Il y a beaucoup de vent."
+        },
+        {
+          "lb": "Am Summer ass et waarm.",
+          "fr": "En été, il fait chaud.",
+          "alt": [
+            "Et ass am Summer waarm."
+          ]
+        },
+        {
+          "lb": "Mir maachen haut eng Tour.",
+          "fr": "Nous faisons un tour aujourd'hui."
+        },
+        {
+          "lb": "Mir ginn an e Musée.",
+          "fr": "Nous allons dans un musée."
+        },
+        {
+          "lb": "Muer maache mir en Ausfluch.",
+          "fr": "Demain, nous faisons une excursion.",
+          "alt": [
+            "Mir maache muer en Ausfluch."
+          ]
+        },
+        {
+          "lb": "Ech schécken eng Postkaart.",
+          "fr": "J'envoie une carte postale."
+        },
+        {
+          "lb": "Am Wanter schneit et dacks.",
+          "fr": "En hiver, il neige souvent.",
+          "alt": [
+            "Et schneit am Wanter dacks."
+          ]
+        }
+      ],
+      "readings": [
+        {
+          "title": "Eng Postkaart vun der Lena",
+          "text": "Léif Tania,\n\nmir sinn an der Vakanz zu Dikrech. D'Wieder ass schéin: d'Sonn schéngt an et sinn zwanzeg Grad. Moies maache mir eng Tour. Nomëttes gi mir an e Musée. Muer maache mir en Ausfluch op d'Musel. Et reent net. Ech schécken dir dës Postkaart aus dem Hotel.\n\nBis geschwënn,\nLena",
+          "textFr": "Chère Tania,\n\nnous sommes en vacances à Diekirch. Il fait beau : le soleil brille et il fait vingt degrés. Le matin, nous faisons un tour. L'après-midi, nous allons dans un musée. Demain, nous faisons une excursion à la Moselle. Il ne pleut pas. Je t'envoie cette carte postale depuis l'hôtel.\n\nÀ bientôt,\nLena",
+          "questions": [
+            {
+              "lb": "D'Lena ass zu Dikrech an der Vakanz.",
+              "fr": "Lena est en vacances à Diekirch.",
+              "answer": true
+            },
+            {
+              "lb": "Zu Dikrech sinn et zwanzeg Grad.",
+              "fr": "À Diekirch, il fait vingt degrés.",
+              "answer": true
+            },
+            {
+              "lb": "Nomëttes geet d'Lena an e Kino.",
+              "fr": "L'après-midi, Lena va au cinéma.",
+              "answer": false
+            },
+            {
+              "lb": "Muer mécht si en Ausfluch op d'Musel.",
+              "fr": "Demain, elle fait une excursion à la Moselle.",
+              "answer": true
+            },
+            {
+              "lb": "Zu Dikrech reent et vill.",
+              "fr": "À Diekirch, il pleut beaucoup.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "title": "Wieder um Radio",
+          "text": "Wieder um Radio:\nHaut ass den Himmel bedeckt. Et si vill Wolleken an et ass vill Loft. Moies ass et kal, néng Grad. Nomëttes reent et vill. D'Sonn schéngt net. Owes ass et nach bedeckt. Am Wanter schneit et dacks, mee haut schneit et net. Mir sinn doheem an drénke Kaffi.",
+          "textFr": "Météo à la radio :\nAujourd'hui, le ciel est couvert. Il y a beaucoup de nuages et beaucoup de vent. Le matin, il fait froid, neuf degrés. L'après-midi, il pleut beaucoup. Le soleil ne brille pas. Le soir, c'est encore couvert. En hiver, il neige souvent, mais aujourd'hui il ne neige pas. Nous sommes à la maison et nous buvons du café.",
+          "questions": [
+            {
+              "lb": "Den Himmel ass haut bedeckt.",
+              "fr": "Le ciel est couvert aujourd'hui.",
+              "answer": true
+            },
+            {
+              "lb": "Moies ass et waarm.",
+              "fr": "Le matin, il fait chaud.",
+              "answer": false
+            },
+            {
+              "lb": "Et reent nomëttes vill.",
+              "fr": "Il pleut beaucoup l'après-midi.",
+              "answer": true
+            },
+            {
+              "lb": "D'Sonn schéngt de ganzen Dag.",
+              "fr": "Le soleil brille toute la journée.",
+              "answer": false
+            },
+            {
+              "lb": "Haut schneit et net.",
+              "fr": "Aujourd'hui, il ne neige pas.",
+              "answer": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1-k4-land-a-leit-fraizaitaktiviteiten-zu-letzebuerg",
+      "title": "Land a Leit: Fräizäitaktivitéiten zu Lëtzebuerg",
+      "titleFr": "Pays et gens : activités de loisirs au Luxembourg",
+      "vocab": [
+        {
+          "lb": "de Mëllerdall",
+          "fr": "le Mullerthal"
+        },
+        {
+          "lb": "d'Musel",
+          "fr": "la Moselle"
+        },
+        {
+          "lb": "spadséiere goen",
+          "fr": "aller se promener"
+        },
+        {
+          "lb": "Wäin schmaachen",
+          "fr": "déguster du vin"
+        },
+        {
+          "lb": "mam Schëff fueren",
+          "fr": "prendre le bateau"
+        },
+        {
+          "lb": "d'Philharmonie",
+          "fr": "la Philharmonie"
+        },
+        {
+          "lb": "e Concert lauschteren",
+          "fr": "écouter un concert"
+        },
+        {
+          "lb": "grillen",
+          "fr": "faire des grillades"
+        },
+        {
+          "lb": "campéieren",
+          "fr": "camper"
+        },
+        {
+          "lb": "Theater spillen",
+          "fr": "faire du théâtre"
+        },
+        {
+          "lb": "en Ausfluch maachen",
+          "fr": "faire une excursion"
+        },
+        {
+          "lb": "erausgoen",
+          "fr": "sortir"
+        },
+        {
+          "lb": "klamme goen",
+          "fr": "aller grimper"
+        },
+        {
+          "lb": "de Mäerchepark",
+          "fr": "le Parc Merveilleux"
+        },
+        {
+          "lb": "d'Déieren",
+          "fr": "les animaux"
+        },
+        {
+          "lb": "d'Déieren fidderen",
+          "fr": "nourrir les animaux"
+        },
+        {
+          "lb": "d'Schwämm",
+          "fr": "la piscine"
+        },
+        {
+          "lb": "Fotoe maachen",
+          "fr": "prendre des photos"
+        },
+        {
+          "lb": "Tennis spillen",
+          "fr": "jouer au tennis"
+        }
+      ],
+      "sentences": [
+        {
+          "lb": "Am Mëllerdall gi mir spadséieren.",
+          "fr": "Dans le Mullerthal, nous allons nous promener."
+        },
+        {
+          "lb": "Op der Musel schmaache mir Wäin.",
+          "fr": "Sur la Moselle, nous dégustons du vin."
+        },
+        {
+          "lb": "Mir fuere mam Schëff op der Musel.",
+          "fr": "Nous prenons le bateau sur la Moselle."
+        },
+        {
+          "lb": "D'Philharmonie huet vill Concerten.",
+          "fr": "La Philharmonie a beaucoup de concerts."
+        },
+        {
+          "lb": "D'Kanner fidderen d'Déieren.",
+          "fr": "Les enfants nourrissent les animaux."
+        },
+        {
+          "lb": "Sonndes gi mir an d'Schwämm.",
+          "fr": "Le dimanche, nous allons à la piscine."
+        },
+        {
+          "lb": "E Freideg ginn d'Scouten an de Kino.",
+          "fr": "Un vendredi, les scouts vont au cinéma.",
+          "alt": [
+            "D'Scouten ginn e Freideg an de Kino."
+          ]
+        },
+        {
+          "lb": "Mëttwochs spille si Theater.",
+          "fr": "Le mercredi, ils font du théâtre.",
+          "alt": [
+            "Si spille mëttwochs Theater."
+          ]
+        },
+        {
+          "lb": "Heiansdo ginn d'Kollegen eraus.",
+          "fr": "Parfois, les collègues sortent.",
+          "alt": [
+            "D'Kollegen ginn heiansdo eraus."
+          ]
+        },
+        {
+          "lb": "D'Leit grillen um Brillfest.",
+          "fr": "Les gens font des grillades à la fête du Brill.",
+          "alt": [
+            "Um Brillfest grillen d'Leit."
+          ]
+        },
+        {
+          "lb": "Lëtzebuerg mécht Sport.",
+          "fr": "Le Luxembourg fait du sport."
+        }
+      ],
+      "readings": [
+        {
+          "title": "E Sonndeg am Land",
+          "text": "Programm fir e Sonndeg:\nMoies fuere mir an de Mëllerdall. Do gi mir spadséieren a maachen Fotoen. Mëttes grille mir mat Kollegen. Nomëttes fuere mir op d'Musel a fuere mam Schëff. D'Kanner fidderen d'Déieren net; si ginn an d'Schwämm. Owes lauschtere mir e Concert an der Philharmonie.",
+          "textFr": "Programme pour un dimanche :\nLe matin, nous allons au Mullerthal. Là-bas, nous allons nous promener et nous prenons des photos. À midi, nous faisons des grillades avec des collègues. L'après-midi, nous allons à la Moselle et nous prenons le bateau. Les enfants ne nourrissent pas les animaux ; ils vont à la piscine. Le soir, nous écoutons un concert à la Philharmonie.",
+          "questions": [
+            {
+              "lb": "Moies geet d'Grupp an de Mëllerdall.",
+              "fr": "Le matin, le groupe va au Mullerthal.",
+              "answer": true
+            },
+            {
+              "lb": "Am Mëllerdall maache si Fotoen.",
+              "fr": "Au Mullerthal, ils prennent des photos.",
+              "answer": true
+            },
+            {
+              "lb": "Mëttes fuere si mam Schëff.",
+              "fr": "À midi, ils prennent le bateau.",
+              "answer": false
+            },
+            {
+              "lb": "D'Kanner ginn net an d'Schwämm.",
+              "fr": "Les enfants ne vont pas à la piscine.",
+              "answer": false
+            },
+            {
+              "lb": "Owes gëtt et e Concert.",
+              "fr": "Le soir, il y a un concert.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "title": "Eng Mail vun de Scouten",
+          "text": "Salut Sam,\n\nE Samschdeg maachen d'Scouten en Ausfluch. Si ginn an de Mäerchepark. D'Kanner fidderen d'Déieren a maachen Fotoen. Mëttwochs spille si Theater, awer dëse Samschdeg net. E Freideg ginn d'Scouten an de Kino. Heiansdo ginn d'Kollegen eraus an op der Musel schmaache si Wäin.\n\nBis dann,\nJo",
+          "textFr": "Salut Sam,\n\nLe samedi, les scouts font une excursion. Ils vont au Parc Merveilleux. Les enfants nourrissent les animaux et prennent des photos. Le mercredi, ils font du théâtre, mais pas ce samedi. Le vendredi, les scouts vont au cinéma. Parfois, les collègues sortent et dégustent du vin sur la Moselle.\n\nÀ bientôt,\nJo",
+          "questions": [
+            {
+              "lb": "D'Scouten maachen e Samschdeg en Ausfluch.",
+              "fr": "Les scouts font une excursion le samedi.",
+              "answer": true
+            },
+            {
+              "lb": "Si sinn e Samschdeg am Mäerchepark.",
+              "fr": "Ils sont au Parc Merveilleux le samedi.",
+              "answer": true
+            },
+            {
+              "lb": "Theater spille si mëttwochs.",
+              "fr": "Ils font du théâtre le mercredi.",
+              "answer": true
+            },
+            {
+              "lb": "E Freideg ginn d'Scouten an d'Schwämm.",
+              "fr": "Le vendredi, les scouts vont à la piscine.",
+              "answer": false
+            },
+            {
+              "lb": "Op der Musel schmaache si Kaffi.",
+              "fr": "Sur la Moselle, ils goûtent du café.",
+              "answer": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
