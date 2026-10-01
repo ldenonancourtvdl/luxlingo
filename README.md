@@ -19,6 +19,10 @@ A Duolingo-style web app for learning Luxembourgish (for French speakers). The c
   - Accent-insensitive search on the infinitive, the French translation or any conjugated form (e.g. `keeft` → *kafen*).
   - Filters: A1 / A2 / Tous.
   - Sticky header and first column; on mobile the table scrolls sideways and the translation moves under the verb.
+- **Verb practice** (two buttons next to the table): endless drills on the same verb lists, with an A1 / A2 / Tous filter, a live score and a streak counter.
+  - **Multiple choice** (🎯): the French translation is shown and you pick the Luxembourgish infinitive among 4 options (keys `1`–`4`). The three distractors are drawn at random from the twelve verbs that look most like the answer, so the choices stay close without ever being ambiguous.
+  - **Writing** (⌨️): type the Luxembourgish infinitive. `sech` is optional, and a missing accent or a small typo still counts as correct while showing the right spelling. The tolerance is one typo for verbs up to 8 letters and two beyond, with no tolerance up to 4 letters; an answer that happens to be another verb (`kafen` vs `akafen`) is always counted wrong.
+  - Every verb comes up once before any repeats. Press **Terminer** whenever you like to get a recap with your score, the percentage and the list of your mistakes.
 - Keyboard: `Enter` checks the answer and moves to the next exercise.
 - Runs fully in the browser (no backend) and works on mobile (touch drag and drop).
 

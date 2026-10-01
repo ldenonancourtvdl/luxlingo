@@ -1,14 +1,16 @@
 import type { CSSProperties } from 'react'
 import type { LevelInfo } from '../data'
 import { chapterColor } from '../lib/colors'
+import type { DrillMode } from '../lib/verbDrill'
 
 interface Props {
   levels: LevelInfo[]
   onOpen: (chapterKey: string) => void
   onOpenVerbs: () => void
+  onStartDrill: (mode: DrillMode) => void
 }
 
-export function HomeView({ levels, onOpen, onOpenVerbs }: Props) {
+export function HomeView({ levels, onOpen, onOpenVerbs, onStartDrill }: Props) {
   return (
     <div className="page">
       <header className="hero">
@@ -62,10 +64,22 @@ export function HomeView({ levels, onOpen, onOpenVerbs }: Props) {
       ))}
 
       <footer className="home-footer">
-        <button type="button" className="btn btn--ghost home-footer__btn" onClick={onOpenVerbs}>
-          <span aria-hidden>📖</span> Tableau des verbes
-        </button>
-        <p className="home-footer__hint">Toutes les conjugaisons des listes de verbes A1 et A2, avec recherche.</p>
+        <h2 className="home-footer__title">Les verbes</h2>
+        <div className="home-footer__row">
+          <button type="button" className="btn btn--ghost home-footer__btn" onClick={onOpenVerbs}>
+            <span aria-hidden>📖</span> Tableau des verbes
+          </button>
+          <button type="button" className="btn btn--ghost home-footer__btn" onClick={() => onStartDrill('qcm')}>
+            <span aria-hidden>🎯</span> Entraînement QCM
+          </button>
+          <button type="button" className="btn btn--ghost home-footer__btn" onClick={() => onStartDrill('write')}>
+            <span aria-hidden>⌨️</span> Entraînement écrit
+          </button>
+        </div>
+        <p className="home-footer__hint">
+          Toutes les conjugaisons des listes de verbes A1 et A2, avec recherche. Les deux entraînements sont sans fin :
+          arrête quand tu veux pour voir ton score.
+        </p>
       </footer>
     </div>
   )

@@ -1119,6 +1119,19 @@ button {
   text-align: center;
 }
 
+.home-footer__title {
+  font-size: 20px;
+  font-weight: 900;
+  margin-bottom: 16px;
+}
+
+.home-footer__row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+}
+
 .home-footer__hint {
   margin-top: 10px;
   color: var(--muted);
@@ -1368,6 +1381,56 @@ button {
   }
 }
 
+
+/* ---------- Verb drill ---------- */
+
+.drill__header {
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.drill__filters {
+  display: flex;
+  gap: 6px;
+}
+
+.chip--sm {
+  height: 34px;
+  padding: 0 12px;
+  font-size: 14px;
+  border-bottom-width: 3px;
+}
+
+.drill__score {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-weight: 900;
+  font-size: 18px;
+}
+
+.drill__stat--good {
+  color: var(--green-dark);
+}
+
+.drill__stat--bad {
+  color: var(--red-dark);
+}
+
+.drill__stat--streak {
+  color: var(--lux-red);
+}
+
+.footer__buttons {
+  display: flex;
+  gap: 12px;
+  flex: none;
+}
+
+.footer__buttons .btn--light {
+  min-width: 120px;
+}
+
 /* ---------- Small screens ---------- */
 
 @media (max-width: 560px) {
@@ -1392,6 +1455,30 @@ button {
   .footer__inner {
     flex-direction: column;
     align-items: stretch;
+  }
+
+  .footer__buttons {
+    flex-direction: column-reverse;
+  }
+
+  .footer__buttons .btn,
+  .footer__buttons .btn--light {
+    min-width: 0;
+  }
+
+  .drill__header {
+    gap: 10px;
+    padding-bottom: 4px;
+  }
+
+  .drill__filters {
+    order: 3;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .home-footer__row {
+    flex-direction: column;
   }
 
   .statement {
